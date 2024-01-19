@@ -138,3 +138,15 @@ Es un pez apacible que tolera muy bien la compañía de otros peces, excepto en 
 Si logra aclimatarse al acuario puede ser mantenido por mucho tiempo. Para ello, uno de los requisitos imprescindibles es mantener la calidad del agua en óptimas condiciones, pues el pez no tolera concentraciones altas de desechos nitrogenados, ni variaciones bruscas de temperatura.
 
 Por otra parte, es muy resistente a las enfermedades de la piel que normalmente afectan a otros peces. Esto se debe a que su piel, como ya fue señalado, carece de escamas y en su lugar posee una película grasa que lo protege.
+
+
+
+tags
+pez mandarin,
+pez mandarin acuario marino,
+cuidados pez mandarin,
+pez gobio mandarin,
+el pez mandarín,
+pez japones,
+tipos de peces japoneses,
+peces orientales
