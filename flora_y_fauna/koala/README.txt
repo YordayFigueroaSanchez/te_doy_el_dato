@@ -121,3 +121,24 @@ Los koalas, al igual que los humanos, poseen un intestino ciego, pero en su caso
 Cada koala come aproximadamente 200 a 500 gramos de hojas por día. Sus dientes están adaptados a esta dieta especial. Los agudos incisivos frontales pellizcan las hojas del árbol, y los molares tienen una forma que les permite cortar las hojas, y no sólo aplastarlas. Un espacio entre los incisivos y los molares, llamado “diastema”, permite que la lengua mueva la masa de hojas dentro de la boca con mayor eficiencia. Aunado a esto, el marsupial tiene una baja tasa metabólica, ya que duermen alrededor de 18 horas diarias y su cerebro es pequeño. Todo esto hace que ahorre energía, conservándola.
 Los koalas son animales arbóreos y tienen hábitos nocturnos. Descienden de los árboles casi exclusivamente para movilizarse a otro árbol. También, una vez en el suelo, lo lamen para tomar partículas y consumirlas. Estas contribuirán con el proceso de trituración de la dura y fibrosa hoja de eucalipto. Son solitarios, excepto en la temporada reproductiva, donde el macho puede formar un pequeño harén. Evitan cualquier comportamiento agresivo, porque con ellos pierden energía.
 En ocasiones, entre machos pueden perseguirse, morderse y luchar unos con otros. Incluso, alguno de ellos puede intentar desplazar al rival del árbol. Para esto, puede tomarlo por los hombros y morderlo varias veces. Cuando el animal es expulsado, el ganador gime y marca el árbol con su olor. Con respecto a la regulación de la temperatura corporal, estos marsupiales realizan cambios en sus posturas. Por ejemplo, en los días calurosos, extienden sus extremidades, que cuelgan a los lados de la rama. Contrariamente, cuando el clima está frío, húmedo o con viento, los koalas cruzan sus brazos contra el pecho y estiran las patas contra su vientre.
+
+
+
+
+
+**********************************************************
+**														**
+**					fuentes 							**
+**														**
+**********************************************************
+Foto de Jonathan lajoie: https://www.pexels.com/es-es/foto/caminando-mamifero-fotografia-de-animales-habitat-7442086/
+Foto de Mehmet Turgut  Kirkgoz : https://www.pexels.com/es-es/foto/naturaleza-animal-arbol-fauna-11854212/
+Foto de Karen Laårk Boshoff: https://www.pexels.com/es-es/foto/madera-arboles-animal-mono-7243591/
+Imagen de <a href="https://pixabay.com/es/users/pexels-2286921/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1852824">Pexels</a> en <a href="https://pixabay.com/es//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1852824">Pixabay</a>
+Imagen de <a href="https://pixabay.com/es/users/larstho-9214129/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3466348">Lars Thomsen</a> en <a href="https://pixabay.com/es//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3466348">Pixabay</a>
+Vídeo de The4KTravelChannel Travel: https://www.pexels.com/es-es/video/naturaleza-mono-fauna-adorable-14915376/
+Vídeo de Connor kane: https://www.pexels.com/es-es/video/naturaleza-animal-jugando-hoja-9865138/
+Vídeo de Valeriia Miller: https://www.pexels.com/es-es/video/naturaleza-australia-comiendo-animal-6040389/
+Imagen de <a href="https://pixabay.com/es/users/hbieser-343207/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=699228">Herbert Bieser</a> en <a href="https://pixabay.com/es//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=699228">Pixabay</a>
+Foto de Anthony's images: https://www.pexels.com/es-es/foto/dormido-fauna-fotografia-de-animales-animal-salvaje-14991220/
+Foto de Klub Boks: https://www.pexels.com/es-es/foto/animal-arbol-mamifero-fotografia-de-animales-15028204/
