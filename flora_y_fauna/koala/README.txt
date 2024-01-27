@@ -142,3 +142,35 @@ Vídeo de Valeriia Miller: https://www.pexels.com/es-es/video/naturaleza-austral
 Imagen de <a href="https://pixabay.com/es/users/hbieser-343207/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=699228">Herbert Bieser</a> en <a href="https://pixabay.com/es//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=699228">Pixabay</a>
 Foto de Anthony's images: https://www.pexels.com/es-es/foto/dormido-fauna-fotografia-de-animales-animal-salvaje-14991220/
 Foto de Klub Boks: https://www.pexels.com/es-es/foto/animal-arbol-mamifero-fotografia-de-animales-15028204/
+
+
+
+
+**********************************************************
+**														**
+**					fuentes 							**
+**														**
+**********************************************************
+koala mojado,
+koala brothers,
+koalas bebes,
+koala animal,
+koala attack,
+koala australia,
+a koala walking,
+australia koala,
+animal koala,
+koala bebe,
+koala baby,
+koala bebe y mama,
+bebe koala,
+baby koala,
+koala challenge,
+koala caricatura,
+koala comiendo,
+koala comiendo eucalipto,
+koala con su bebe,
+koala durmiendo,
+koala documental,
+koala enojado,
+koala eucalipto
