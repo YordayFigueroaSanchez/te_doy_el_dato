@@ -84,3 +84,33 @@ Si bien es un animal terrestre, es capaz de trepar los árboles de manera habili
 Al igual que otros felinos, las especies que conforman el género Lynx utilizan las glándulas de olor y la orina para demarcar los límites de su territorio y para comunicarse con otros de su especie.
 También, puede vocalizar diversas llamadas. Así, las crías suelen emitir sonidos guturales cuando necesitan ayuda. El joven también puede aullar, silbar o maullar. Cuando la madre amamanta o asea a los cachorros, suele ronronear.
 Todas las especies de lince cuentan con una excelente visión, aún en las condiciones de poca luz en las cuales suelen cazar. Esta capacidad se debe a una estructura especial debajo de la retina, llamada tapetum lucidum. Su función es similar a la del espejo, intensificando los rayos luminosos que inciden en esta.
+
+
+tags
+    lince,
+lince iberico,
+lince cazando,
+lince sonido,
+lince animal,
+lince americano,
+lince animal salvaje,
+lince atacando,
+lince azteca,
+lince arriesgados,
+lince apareamiento,
+animal lince,
+lince bebe,
+lince bebe maullando,
+bebe lince,
+lince canadiense,
+lince cazando ciervos,
+lince cazando ardilla,
+lince cachorro,
+lince cazando conejo,
+lince documental,
+lince de las nieves,
+de lince,
+documental lince iberico,
+lince estado de emergencia,
+lince enojado,
+lince euroasiático
