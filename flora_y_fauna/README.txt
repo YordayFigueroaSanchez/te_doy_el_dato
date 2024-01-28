@@ -13,6 +13,7 @@ jirafa
 koala
 leon
 leopardo
+lince
 ñu
 oso blanco
 oso panda
