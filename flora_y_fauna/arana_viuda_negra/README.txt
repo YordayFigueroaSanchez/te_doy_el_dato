@@ -15,12 +15,9 @@ La denominación de viuda negra se debe a que se ha observado que en ocasiones, 
 A pesar de que es una araña de comportamiento pacífico y hábitos solitarios, cuando se siente amenazada tiende a morder, inoculando a su víctima o presa su potente veneno. En animales pequeños el veneno es mortal, y en los seres humanos la gravedad depende de la cantidad de veneno inyectado.
 
 Características de la Latrodectus mactans
-Latrodectus mactans es una araña negra, que presenta una marca distintiva característica en su abdomen. Esa marca es de color rojo y tiene la forma de un reloj de arena.
-Al igual que el resto de los arácnidos, su cuerpo se divide en dos segmentos: cefalotórax y abdomen.
-Son de pequeño tamaño, existiendo una marcada diferencia entre la hembra y el macho. La hembra mide aproximadamente unos 15 milímetros. Con las patas extendidas, puede alcanzar hasta 50 milímetros. Asimismo, puede llegar a pesar hasta 400 miligramos. El macho, en cambio, mide entre 3 y 6 milímetros y pesa hasta 18 miligramos.
-El abdomen de las hembras tiene un aspecto globuloso y el del macho puede variar de forma.
-Ejemplar masculino de Latrodectus mactans. Fuente: Tanthalas39, CC BY 3.0, Wikimedia Commons 
-Las glándulas que sintetizan el veneno se encuentran a nivel del cefalotórax y se comunican mediante conductos con los quelíceros. Esta es la estructura mediante la cual inoculan el veneno a sus presas.
+Latrodectus mactans es una araña negra, que presenta una marca distintiva característica en su abdomen. Esa marca es de color rojo y tiene la forma de un reloj de arena. Al igual que el resto de los arácnidos, su cuerpo se divide en dos segmentos: cefalotórax y abdomen. Son de pequeño tamaño, existiendo una marcada diferencia entre la hembra y el macho. La hembra mide aproximadamente unos 15 milímetros. Con las patas extendidas, puede alcanzar hasta 50 milímetros. Asimismo, puede llegar a pesar hasta 400 miligramos. El macho, en cambio, mide entre 3 y 6 milímetros y pesa hasta 18 miligramos.
+
+El abdomen de las hembras tiene un aspecto globuloso y el del macho puede variar de forma. Las glándulas que sintetizan el veneno se encuentran a nivel del cefalotórax y se comunican mediante conductos con los quelíceros. Esta es la estructura mediante la cual inoculan el veneno a sus presas.
 
 Hábitat y distribución de la Latrodectus mactans
 Se encuentra principalmente en el hemisferio occidental del planeta, muy especialmente en la zona este de América del Norte, aunque puede hallarse en otras regiones de los continentes asiático y africano. Prefiere ambientes en los que hay poca disponibilidad de luz y en los que abunda la humedad. No es común conseguirlas en el interior de las viviendas. Sin embargo, cuando están dentro, prefieren lugares en los que hay cúmulos de trastos, como sótanos o garajes. De igual forma, en ambientes terrestres naturales, prefiere hacer sus nidos sobre ciertas plantas, debajo de piedras y entre troncos de madera. Se han encontrado ejemplares en áreas de cultivos de cereales como el trigo.
