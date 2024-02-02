@@ -27,7 +27,6 @@ Patas
 Las patas y sus dedos son café oliva en los machos y naranja oscuro en las hembras. Los dedos de sus patas son heterodactílicos, el primer y segundo dedo están detrás y el tercero y cuarto delante.
 
 Tamaño
-Espécimen macho adulto de quetzal (Pharomachrus mocinno). Fuente: Peter Förster / Public domain
 El quetzal mide entre 36 y 40 cm, siendo el mayor representante del orden Trogoniformes. Las alas del macho tienen una longitud entre 189 y 206 mm, mientras que en las hembras están alrededor de los 193 y 208 mm. La cola, en promedio, mide en el macho 187.4 mm y en la hembra 196.8 mm. Su peso oscila entre 180 y 210 gramos.
 
 Piel
