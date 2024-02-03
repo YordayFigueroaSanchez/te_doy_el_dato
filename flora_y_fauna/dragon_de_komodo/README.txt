@@ -258,3 +258,30 @@ recursos
     Vídeo de Mikhail Nilov: https://www.pexels.com/es-es/video/naturaleza-animal-lagartija-reptil-7722762/
     Vídeo de ROMAN ODINTSOV: https://www.pexels.com/es-es/video/arena-lagartija-reptil-acostado-12715035/
     
+Mapa
+    con google earth
+
+Formidable: El dragón de Komodo es un depredador formidable con su tamaño imponente y su reputación como el lagarto más grande del mundo.
+Sigiloso: A pesar de su tamaño, el dragón de Komodo es capaz de moverse sigilosamente, aprovechando su agilidad para acechar a presas y acercarse sin ser detectado.
+Carnívoro: Este reptil es estrictamente carnívoro, lo que significa que se alimenta principalmente de carne, siendo capaz de cazar presas grandes, como ciervos y búfalos, con su potente mandíbula y saliva venenosa.
+formidable, sigiloso y carnívoro
+
+tags
+    dragon de komodo,
+dragon de komodo cazando,
+dragon de komodo corriendo,
+dragon de komodo comiendo,
+dragon de komodo atacando,
+dragon de komodo apareandose,
+ataque de dragon de komodo,
+animal dragon de komodo,
+dragon de komodo bebe,
+dragon de komodo bacterias,
+en busca del dragon de komodo,
+dragon de komodo derrotado,
+dragon de komodo digestion,
+digestion dragon de komodo,
+dragon de komodo es venenoso,
+dragon de komodo en accion,
+el dragón de komodo,
+el dragon de komodo cazando
