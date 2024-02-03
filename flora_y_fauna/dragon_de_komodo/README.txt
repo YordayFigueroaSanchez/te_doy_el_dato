@@ -249,4 +249,12 @@ Comportamiento
 El Varanus komodoensis tiene hábitos diurnos, aunque con frecuencia exhibe actividades nocturnas. Es un animal solitario, que forma pareja solo cuando se reproduce. También, puede agruparse alrededor de un animal muerto, donde, de manera jerárquica, asumen turnos para comer la carroña. Así, los machos más grandes son los primeros que comen, seguidos de las hembras y los machos más pequeños. Finalmente lo hacen los jóvenes, que descienden de los árboles cuando los adultos se alejan. Los dragones de Komodo deambulan todo el día por sus rangos de origen, que pueden abarcar hasta 1,9 km². No es un reptil territorial, por lo que las áreas pueden superponerse. Si el animal se siente acorralado, suele reaccionar de manera agresiva. Así, abre la boca, silba, arquea la espalda y da latigazos con la cola. A pesar de su gran tamaño, puede correr carreras de corta distancia y bucear, hasta 4,5 metros. Los jóvenes utilizan sus garras para escalar los árboles, pero cuando son adultos su peso impide que pueda trepar. Cuando necesita atrapar una presa, puede pararse sobre sus dos patas posteriores, utilizando su larga cola como soporte.
 
 
-
+recursos
+    Foto de Labskiii: https://www.pexels.com/es-es/foto/naturaleza-bosque-animal-hierba-6392699/
+    Foto de Labskiii: https://www.pexels.com/es-es/foto/naturaleza-bosque-animal-hierba-6392698/
+    Foto de Jeffry Surianto: https://www.pexels.com/es-es/foto/playa-animales-fauna-fotografia-de-animales-8856172/
+    Foto de Dana Englich: https://www.pexels.com/es-es/foto/naturaleza-animal-lagartija-reptil-6776702/
+    Vídeo de Mikhail Nilov: https://www.pexels.com/es-es/video/arena-animal-parque-grande-7723881/
+    Vídeo de Mikhail Nilov: https://www.pexels.com/es-es/video/naturaleza-animal-lagartija-reptil-7722762/
+    Vídeo de ROMAN ODINTSOV: https://www.pexels.com/es-es/video/arena-lagartija-reptil-acostado-12715035/
+    

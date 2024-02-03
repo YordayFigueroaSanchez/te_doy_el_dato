@@ -3,6 +3,7 @@ avestruz
 ballena
 bisonte americano
 colibri
+dragon de komodo
 elefante
 gacela
 gorilas de montaña
