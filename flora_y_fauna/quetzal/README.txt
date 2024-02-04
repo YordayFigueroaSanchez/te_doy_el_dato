@@ -55,3 +55,8 @@ Las crías nacen con los ojos cerrados y sin plumas. Los pichones se desarrollan
 
 Alimentación
 Cuando son adultos, los quetzales son considerados como comedores de frutas especializados. Sin embargo, las crías suelen comer mayormente insectos. Estos animales incluyen con frecuencia en su alimentación a hormigas y sus larvas, avispas, ranas y pequeños lagartos. La gran mayoría de las frutas que forman la dieta de esta ave pertenecen a la familia Lauraceae. Dentro de estas, la preferida por el quetzal es el aguacate silvestre, que arranca de los árboles y traga casi entero. Suelen alimentarse con mayor frecuencia en las horas del mediodía. Esto ocurre principalmente mientras vuela, lo cual está sustentado por los grandes músculos destinados al vuelo. El sistema digestivo del Pharomachrus mocinno está adaptado para comer frutas con una gran semilla. La flexibilidad de la mandíbula y de la clavícula hace posible que pueda tragar frutos mucho más anchos de la abertura de su pico. Su esófago está formado por una elástica y delgada pared y por anillos con músculos circulares. Estas características contribuyen en la regurgitación de las semillas grandes. La morfología de los sacos del intestino y del ciego indican que probablemente tengan una digestión de tipo bacteriana.
+
+
+recursos
+Foto de Jean Paul  Montanaro: https://www.pexels.com/es-es/foto/pajaro-colorido-fotografia-macro-aviar-14406490/
+Foto de Jean Paul  Montanaro: https://www.pexels.com/es-es/foto/pajaro-sentado-arbol-salvaje-17840031/
