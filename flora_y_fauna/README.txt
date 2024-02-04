@@ -1,4 +1,5 @@
 aguila real
+araña viuda negra
 avestruz
 ballena
 bisonte americano
