@@ -43,3 +43,12 @@ Como se puede observar, hay síntomas que son más fuertes que otros. Sin embarg
 
 Tratamiento
 Las pautas de tratamiento a seguir, estarán determinadas por la gravedad del cuadro clínico presentado. Hay personas a quienes no se les aplica ningún tratamiento y en un lapso de una semana los síntomas remiten. En otros casos, se recomienda la aplicación de antisépticos incoloros en la zona afectada y la adecuada ventilación de esta. Asimismo, es frecuente el uso de algunos medicamentos como analgésicos, relajantes musculares y, en algunos casos, antihipertensivos. Dependiendo de las condiciones de la mordida, se puede administrar la protección antitetánica. Sin embargo, siempre será el médico quien decidirá cuáles son las pautas más recomendables a seguir ante una situación de mordida por Latrodectus mactans.
+
+
+
+adjetivos
+1. Venenosa: La araña viuda negra es conocida por ser venenosa y poseer una neurotoxina potente en su veneno.
+2. Sigilosa: Estas arañas son expertas en moverse de manera sigilosa y camuflarse en su entorno.
+3. Peligrosa: Dada su venenosa mordedura, la araña viuda negra es considerada peligrosa para los humanos y otros animales.
+
+venenosa, sigilosa y peligrosa
