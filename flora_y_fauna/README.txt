@@ -22,6 +22,7 @@ oso panda
 oso pardo
 pez mandarin
 puma
+quetzal
 rinoceronte
 tiburon blanco
 tigre
