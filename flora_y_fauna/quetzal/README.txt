@@ -60,3 +60,34 @@ Cuando son adultos, los quetzales son considerados como comedores de frutas espe
 recursos
 Foto de Jean Paul  Montanaro: https://www.pexels.com/es-es/foto/pajaro-colorido-fotografia-macro-aviar-14406490/
 Foto de Jean Paul  Montanaro: https://www.pexels.com/es-es/foto/pajaro-sentado-arbol-salvaje-17840031/
+
+
+
+
+Colorido: El quetzal es conocido por sus brillantes y vibrantes colores, con plumajes verdes, rojos y azules que crean una apariencia impresionante.
+
+Elegante: Este ave exhibe una elegancia en su vuelo y movimiento, con su cola larga y plumaje llamativo que le confiere una presencia majestuosa.
+
+Exótico: El quetzal es considerado una especie exótica debido a su belleza única y su conexión cultural con las civilizaciones mesoamericanas, como los antiguos mayas, quienes lo consideraban sagrado.
+
+colorido, elegante y exótico
+
+
+tags
+quetzal,
+quetzal volando,
+quetzal de guatemala,
+quetzal ave,
+quetzal animal,
+ave quetzal,
+quetzal bird,
+quetzal creativo,
+quetzal costa rica,
+canto del quetzal,
+quetzal documental,
+quetzal extinto,
+quetzal en guatemala,
+quetzal en relieve,
+quetzal en peligro de extincion,
+quetzal en mexico,
+quetzal en vuelo
