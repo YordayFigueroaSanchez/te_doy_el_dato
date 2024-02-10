@@ -46,3 +46,11 @@ Adjetivos
 3. Sigiloso: Son depredadores sigilosos y astutos, capaces de moverse silenciosamente a través del paisaje nevado en busca de presas, aprovechando su habilidad para cazar en equipo y su aguda inteligencia.
 
 majestuoso, adaptado y sigiloso
+
+tags
+lobo blanco cachorro,
+el lobo blanco,
+ANIMALES SALVAJES, ANIMALES, CIENCIA Y CULTURA DOCUMENTALES, fauna y flora DE CANADA, fauna salvaje, CANADA SALVAJE, LOBOS DE CANADA, naturaleza de CANADA, LOBOS BLANCOS DOCUMENTAL CIENCIA Y CULTURA, DOCUMENTAL DE ANIMALES, CIENCIA Y CULTURA, DE FAUNA SALVAJE DE CANADA, LOBOS, LOBOS BLANCOS, DOCUMENTAL DE LOBOS BLANCOS, MANADA DE LOBOS BLANCOS, LOBOS DEL ARTICO, LOBOS DE LAS NIEVES, ANIMALES QUE VIVEN EN CLIMAS HELADOS, ANIMALES QUE VIVEN EN LA NIEVE, ANIMALES DE CANADA, CANADA
+
+titulo
+El lobo blanco, majestuoso, adaptado y sigiloso
