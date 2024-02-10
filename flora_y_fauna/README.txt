@@ -15,6 +15,7 @@ jirafa
 koala
 leon
 leopardo
+lobo blanco
 lince
 ñu
 oso blanco
