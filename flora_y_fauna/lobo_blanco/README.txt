@@ -40,3 +40,9 @@ El periodo de gestación dura alrededor de 63 días. En el momento del alumbrami
 Comportamiento
 Los lobos blancos se encuentran agrupados en manadas, que pueden estar formadas hasta por 20 lobos. De manera general, el tamaño de este grupo va a depender de la disponibilidad de los alimentos. Con relación a la pareja reproductora está formada por el macho y la hembra más fuertes. Muchas veces puede observarse un lobo ártico en solitario. Esto puede estar asociado a la búsqueda de comida o que está intentado formar su propia manada. El Canis lupus arctos utiliza el lenguaje corporal para transmitir a los miembros del grupo las reglas. Como norma principal, deja claro que el macho alfa es el líder, seguido de la hembra alfa. Para demostrar el dominio, el macho mantiene la cola en alto y el cuerpo erguido.El lobo ártico es muy territorial, marcando su espacio con orina y heces. No obstante, el rango de hogar suele ser muy amplio, por lo que generalmente permite que otras manadas superpongan su territorio al suyo.
 
+Adjetivos
+1. Majestuoso: Los lobos árticos son criaturas imponentes y magníficas, con una presencia que inspira respeto y admiración en su hábitat gélido.
+2. Adaptado: Estos lobos están perfectamente adaptados a su entorno extremo, con pelaje grueso y denso que les permite sobrevivir en condiciones de frío intenso.
+3. Sigiloso: Son depredadores sigilosos y astutos, capaces de moverse silenciosamente a través del paisaje nevado en busca de presas, aprovechando su habilidad para cazar en equipo y su aguda inteligencia.
+
+majestuoso, adaptado y sigiloso
