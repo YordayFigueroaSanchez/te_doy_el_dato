@@ -13,7 +13,7 @@ Pelaje
 Su piel está cubierta de pelos cortos, en tonalidades entre marrón y amarillo claro o castaño rojizo. Sobre este destacan unas rosetas de color oscuro, de forma redonda, con un centro amarillo o marrón intenso. Estas manchas pueden variar en el mismo animal o entre los miembros de la misma especie. Las manchas de la cabeza y del cuello son de color más sólido, al igual que en la cola, donde pueden unirse y formar una sola banda. La región ventral, las zonas internas de sus patas y los flancos inferiores son blancas. Al nacer, algunos jaguares podrían tener un pelo oscuro o negro. También, aunque es muy poco común, podrían nacer blancos.
 
 Cabeza
-Es redondeada, robusta y de gran tamaño. Sus ojos son redondos y grandes, con el iris en un tono rojizo o rojo amarillento. Como estos se encuentran al frente de la cara, su visión es binocular. Pueden ver en la oscuridad gracias a una membrana de tipo reflectante que contribuye a concentrar los rayos luminosos dentro del campo focal de la retina. Esto le resulta sumamente útil para visualizar a su presa o a cualquier amenaza que se encuentre a una distancia considerable. El sentido del olfato está altamente desarrollado, pudiendo captar el olor de sus adversarios o de sus presas aunque se encuentren bastante alejados. Tiene poderosas mandíbulas que contribuyen a que su mordida sea una de las más fuertes de todos los grandes felinos.
+La cabeza es redondeada, robusta y de gran tamaño. Sus ojos son redondos y grandes, con el iris en un tono rojizo o rojo amarillento. Como estos se encuentran al frente de la cara, su visión es binocular. Pueden ver en la oscuridad gracias a una membrana de tipo reflectante que contribuye a concentrar los rayos luminosos dentro del campo focal de la retina. Esto le resulta sumamente útil para visualizar a su presa o a cualquier amenaza que se encuentre a una distancia considerable. El sentido del olfato está altamente desarrollado, pudiendo captar el olor de sus adversarios o de sus presas aunque se encuentren bastante alejados. Tiene poderosas mandíbulas que contribuyen a que su mordida sea una de las más fuertes de todos los grandes felinos.
 
 Torso
 El cuerpo de este animal está adaptado para utilizar el poder y la fuerza, en lugar de la velocidad. Por ello, su constitución corporal es corta, musculosa y compacta, lo que le permite nadar y escalar sustratos con gran facilidad.
@@ -25,7 +25,7 @@ Dientes
 En la boca del Panthera onca sobresalen los caninos, que son afilados y largos. Los utiliza para perforar los huesos de sus presas y romper superficies muy duras. Los afilados premolares funcionan como una tijera, permitiéndoles cortar la carne en trozos. Además pueden aplastar el hueso para poder comer la médula que está en su interior. Los incisivos son planos y pequeños. Estas características le facilitan raspar los pequeños pedazos de carne que pudieran haber quedados adheridos al hueso de la presa.
 
 Conflictos con los seres humanos
-Panthera onca ha tenido que adaptarse a nuevos ambientes, debido a la escasez de presas para alimentarse. Esto trae como consecuencia que intenten matar a los cerdos y a las vacas que están en las poblaciones cercanas a donde se encuentran. Para defender al ganado, los pobladores que crían a estos animales suelen cazar y matar al jaguar.
+Panthera onca nombre cientifico del jaguar ha tenido que adaptarse a nuevos ambientes, debido a la escasez de presas para alimentarse. Esto trae como consecuencia que intenten matar a los cerdos y a las vacas que están en las poblaciones cercanas a donde se encuentran. Para defender al ganado, los pobladores que crían a estos animales suelen cazar y matar al jaguar.
 
 Caza furtiva
 Paradójicamente, el que esta especie se encuentre amenazada de extinción pareciera que la vuelve más atractiva a los cazadores. Esto se debe que su piel se cotiza en el mercado negro en cifras incalculables. Además de la piel, son comercializados sus colmillos, utilizados en el continente asiático como componentes de medicamentos en la medicina natural.
@@ -51,3 +51,13 @@ Los jaguares delimitan su territorio con un marcaje químico, que efectúan orin
 Comunicación
 Este grupo de felinos se comunica con sus semejantes por medio de diversas vocalizaciones, dentro de las cuales está el rugido. Otro sonido son los gruñidos, que pueden variar en tono, frecuencia y potencia. Inclusive, tienen modulaciones específicas si son emitidas por un macho o una hembra. Las vocalizaciones de los machos son guturales y roncas, mientras que las de las hembras son suaves. La excepción de esto es cuando la hembra emite 7 sonidos fuertes para avisarle al macho que desea aparearse.
 
+
+
+Recursos
+Foto de Oleksandr P: https://www.pexels.com/es-es/foto/caminando-animal-selva-fauna-12861709/
+
+
+
+
+adjetivos
+El jaguar, majestuoso, furtivo y poderoso
