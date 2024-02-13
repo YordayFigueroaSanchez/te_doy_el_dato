@@ -78,3 +78,22 @@ titulo
 🌿 Manatíes: Guardianes del Agua Dulce y Salada 💧
 
 🐚 Secretos del Gigante Gentil: El Fascinante Mundo de los Manatíes 🌱
+
+
+tags
+manati,
+manatíes,
+manaties asustados,
+manati caribeño,
+manati nadando,
+manati animal marino,
+manati amazonico,
+manatí animal,
+manati alimentandose,
+manati apareamiento,
+manati bebe,
+manati comiendo,
+manati documental,
+manati del caribe,
+manati de mar,
+manati del amazonas
