@@ -62,3 +62,19 @@ recursos
 Foto de Jakub Pabis: https://www.pexels.com/es-es/foto/agua-animal-zoo-nadando-13277593/
 Foto de Koji Kamei: https://www.pexels.com/es-es/foto/mar-animal-submarino-manati-4766707/
 Foto de Jakub Pabis: https://www.pexels.com/es-es/foto/comiendo-nadando-pez-submarino-13277595/
+
+
+titulo
+
+🌊 Explorando el Mundo de los Manatíes: Misterios Subacuáticos Revelados 🌿
+🐚 Secretos del Gigante Gentil: El Fascinante Mundo de los Manatíes 🌱
+🌎 Manatíes: Guardianes de los Ecosistemas Acuáticos 🌊
+🔍 Descubriendo la Vida de los Manatíes: Biología, Comportamiento y Hábitats 🌿
+🐋 Maravillas Acuáticas: El Asombroso Mundo de los Manatíes 🌊
+💎 Manatíes: Joyas del Mundo Submarino 🌿
+🚨 Manatíes en Peligro: Conservación de una Especie Emblemática 🌊
+👣 Siguiendo los Pasos del Manatí: Explorando su Vida y Entorno 🌿
+🌍 El Viaje de los Manatíes: Migraciones, Alimentación y Reproducción 🌊
+🌿 Manatíes: Guardianes del Agua Dulce y Salada 💧
+
+🐚 Secretos del Gigante Gentil: El Fascinante Mundo de los Manatíes 🌱
