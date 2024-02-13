@@ -55,7 +55,8 @@ Tres adjetivos que describen al manatí podrían ser:
 1. Pacífico: Los manatíes son criaturas tranquilas y apacibles que generalmente se mueven con calma en su entorno acuático.
 2. Herbívoro: Son animales que se alimentan exclusivamente de plantas acuáticas, como algas y hierbas marinas.
 3. Vulnerable: Debido a la pérdida de hábitat, la caza ilegal y las colisiones con embarcaciones, los manatíes se encuentran en peligro de extinción y son vulnerables a diversas amenazas humanas.
-Pacífico, Herbívoro, Vulnerable 
+
+El manati, pacífico, herbívoro y vulnerable 
 
 
 recursos
