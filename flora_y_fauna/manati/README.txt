@@ -50,6 +50,13 @@ El manatí es un herbívoro con un apetito voraz, que pasa casi un cuarto de su 
 Comportamiento del manatí
 El manatí suele nadar en pareja o solo. Cuando forma agrupaciones, generalmente se trata de una manada de apareamiento o simplemente un grupo que comparte un área cálida, con abundancia de alimentos. Los especialistas han estudiado las conductas de estos mamíferos y afirman que utilizan diversos patrones de vocalización para comunicarse. Estos pueden variar con el sexo y la edad, indicando una individualidad vocal entre los manatíes. Así, cuando entre una pareja reproductora se reconocen, las vocalizaciones aumentan. A pesar de que las llamadas ocurren frecuentemente entre la madre y su cría, también forma parte de las interacciones sociales. En el caso de que el entorno se torne ruidoso, el manatí aumenta el esfuerzo vocal para emitir los sonidos. Según las pruebas anatómicas y acústicas, los pliegues vocales pudieran ser los responsables del mecanismo de producción de los sonidos. Para desplazarse, puede nadar de 5 a 8 kilómetros por hora, aunque pudiera realizar movimiento cortos y rápidos, alcanzando hasta 30 kilómetros por hora. Sus aletas son utilizadas para recorrer el fondo marino y cavar en él, cuando consigue plantas o raíces que pueda consumir.
 
+adjetivos
+Tres adjetivos que describen al manatí podrían ser:
+1. Pacífico: Los manatíes son criaturas tranquilas y apacibles que generalmente se mueven con calma en su entorno acuático.
+2. Herbívoro: Son animales que se alimentan exclusivamente de plantas acuáticas, como algas y hierbas marinas.
+3. Vulnerable: Debido a la pérdida de hábitat, la caza ilegal y las colisiones con embarcaciones, los manatíes se encuentran en peligro de extinción y son vulnerables a diversas amenazas humanas.
+Pacífico, Herbívoro, Vulnerable 
+
 
 recursos
 Foto de Jakub Pabis: https://www.pexels.com/es-es/foto/agua-animal-zoo-nadando-13277593/
