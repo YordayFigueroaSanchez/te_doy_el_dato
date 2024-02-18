@@ -92,3 +92,18 @@ El baile de los estorninos es otro comportamiento fascinante que nos permite apr
 El baile de los estorninos es un espectáculo impresionante que ha sido objeto de estudio por científicos y artistas. Los patrones fluidos y cambiantes que forman en el cielo son una fuente de inspiración para la creatividad humana. El baile de los estorninos nos invita a apreciar la belleza y la armonía de la naturaleza y a reconocer la importancia de la cooperación en nuestras vidas.
 Los estorninos son aves fascinantes que nos sorprenden con su llamativo aspecto y su intrigante comportamiento. Sus características físicas notables, como su plumaje iridiscente y su vuelo en enjambre, los convierten en una especie única y especial. Además, los estorninos desempeñan un papel importante en los ecosistemas, contribuyendo a la dispersión de semillas y al control de plagas.
 Sin embargo, los estorninos también enfrentan amenazas que pueden afectar sus poblaciones. La conservación de estas aves es fundamental para garantizar su supervivencia a largo plazo y preservar la diversidad de los ecosistemas en los que habitan
+
+adjetivos
+Versátil
+Inteligente
+Sociable
+
+recusrsos
+Foto de Mr  Wildclicks: https://www.pexels.com/es-es/foto/naturaleza-pajaro-hojas-arbol-19766721/
+Foto de Furdi De Rivera: https://www.pexels.com/es-es/foto/aves-plumas-plumaje-aviar-13245205/
+Vídeo de Egor Kunovsky: https://www.pexels.com/es-es/video/cielo-volador-panorama-urbano-aves-3851642/
+Vídeo de Super Lunar: https://www.pexels.com/es-es/video/naturaleza-pajaro-verano-animal-4836432/
+Vídeo de Gabriela Broju: https://www.pexels.com/es-es/video/naturaleza-pajaro-chica-conifero-15424287/
+Vídeo de Jesus Cambronero: https://www.pexels.com/es-es/video/madera-amanecer-pajaro-verano-15616223/
+Vídeo de Jesus Cambronero: https://www.pexels.com/es-es/video/mar-vuelo-naturaleza-pajaro-15382287/
+Foto de Lucas Pezeta: https://www.pexels.com/es-es/foto/pajaro-naranja-posado-en-la-rama-de-un-arbol-3772382/
