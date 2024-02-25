@@ -7,6 +7,7 @@ colibri
 dragon de komodo
 elefante
 estornino
+foca leopardo
 gacela
 gato
 gorilas de montaña
