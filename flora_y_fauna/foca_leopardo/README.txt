@@ -82,3 +82,15 @@ Durante el verano austral, la foca leopardo es muy ruidosa, ya que los machos em
 Los patrones de llamadas de esta especie presentan diferencias asociadas con la edad. Así, los machos jóvenes tienen una gran variedad de llamadas variables, mientras que los adultos cuentan con pocos sonidos altamente estilizados.
 
 El comportamiento acústico del macho pudiera estar relacionado con su conducta reproductiva, ya que las vocalizaciones coinciden con la temporada de apareamiento. Contrariamente, la hembra vocaliza generalmente para llamar la atención de su cría, luego de regresar de alimentarse.
+
+
+
+
+adjetivos
+1. Elegante: La foca leopardo tiene un pelaje moteado que le confiere una apariencia elegante y distintiva.
+2. Ágil: Son animales muy ágiles en el agua, capaces de moverse con rapidez y destreza para cazar presas.
+3. Adaptable: Las focas leopardo son capaces de habitar en diversos entornos, desde aguas frías hasta más templadas, lo que refleja su capacidad para adaptarse a diferentes condiciones ambientales.
+
+Elegante
+Ágil
+Adaptable
