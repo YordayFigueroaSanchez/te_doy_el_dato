@@ -8,6 +8,7 @@ dragon de komodo
 elefante
 estornino
 gacela
+gato
 gorilas de montaña
 guacamayo
 guepardo
