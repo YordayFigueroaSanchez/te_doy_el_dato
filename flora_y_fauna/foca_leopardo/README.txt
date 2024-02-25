@@ -94,3 +94,39 @@ adjetivos
 Elegante
 Ágil
 Adaptable
+
+
+tags
+foca leopardo,
+foca leopardo documental,
+foca leopardo cazando,
+foca leopardo comiendo pinguino,
+foca leopardo ataca,
+ataque de foca leopardo,
+foca leopardo bebe,
+bajo cero foca leopardo,
+foca leopardo comiendo,
+foca leopardo caçando pinguim,
+nadando con foca leopardo,
+documental foca leopardo,
+foca leopardo pinguino,
+foca leopardo vs pinguino,
+foca leopardo vs pinguim,
+documental de focas leopardo
+
+title
+¡Claro! Aquí tienes algunas opciones con emojis:
+
+1. "🌊❄️ Secretos del Hielo: En Busca de la Foca Leopardo 🦭"
+2. "🔍👁️‍🗨️ Entre Hielos y Miradas: La Fascinante Vida de la Foca Leopardo 🦭"
+3. "❄️🛷 Guardianes del Hielo: Aventura con la Foca Leopardo 🦭"
+4. "🗺️🔍 Explorando el Reino Helado: Encuentro con la Foca Leopardo 🦭"
+5. "❄️👣 Siguiendo las Huellas de la Foca Leopardo: Misterios del Ártico Revelados 🦭"
+6. "❄️🦭 Criaturas del Hielo: El Asombroso Mundo de la Foca Leopardo 🦭"
+7. "❄️👣🔍 Tras los Pasos del Depredador Ártico: Documentando a la Foca Leopardo 🦭"
+8. "❄️🌊 Bajo el Hielo: La Impactante Vida de la Foca Leopardo Revelada 🦭"
+9. "❄️🏔️ En el Reino del Hielo: Explorando la Foca Leopardo y su Hábitat 🦭"
+10. "🦭🗺️ La Foca Leopardo: Misterios y Maravillas del Ártico 🌬️"
+
+🗺️🔍 Explorando el Reino Helado🌬️ Encuentro con la Foca Leopardo
+Explorando el Reino Helado - Encuentro con la Foca Leopardo
