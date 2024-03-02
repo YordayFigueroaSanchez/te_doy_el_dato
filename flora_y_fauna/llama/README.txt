@@ -320,3 +320,10 @@ adjetivos
 1. Majestuosa
 2. Versátil
 3. Respetuosa
+
+title
+1. "🏔️ Maravilla Andina: El Fascinante Mundo de las Llamas 🦙"
+2. "🔍 Secretos de las Alturas: Descubriendo el Mundo de las Llamas en los Andes 🏞️"
+3. "🌿 Criaturas Emblemáticas: Explorando el Papel Crucial de las Llamas en los Ecosistemas Andinos 🦙"
+4. "🏞️ Llamas: Tesoros de los Altos Andes y Guardianes del Equilibrio Ecológico 🌱"
+5. "🚶‍♂️ Travesía por los Altos Andes: Revelando los Misterios de las Majestuosas Llamas 🦙"
