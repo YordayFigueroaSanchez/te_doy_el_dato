@@ -313,3 +313,10 @@ El periodo de gestación es de entre 11 – 12 meses y el nacimiento de la cría
 El parto suele durar 30 minutos y se realiza completamente de pie, y solamente nace una sola cría por parto. La mayoría de los nacimiento suelen coincidir durante la mañana, entre las 8 de la mañana y el mediodía, que son las horas más cálidas del día. Esto puede aumentar la supervivencia de la cria al reducir las fatalidades debidas a la hipotermia durante las frías noches andinas.
 Las crías tratan de ponerse de pie, caminar e intentan amamantar en la primera hora después de nacer. Las crías se nutren parcialmente con leche de llama, más baja en grasa y sal y más alta en fósforo y calcio que la leche de vaca o de cabra. Una hembra sólo puede producir unos 60 ml de leche, por lo que la cría debe amamantar con frecuencia para recibir los nutrientes que necesita.
 No lamen a sus crías, debido a que poseen una lengua adherida que sólo sale fuera de la boca unos 1,3 cm. En su lugar, acariciarán y tararearán a sus recién nacidos.
+
+
+
+adjetivos
+1. Majestuosa
+2. Versátil
+3. Respetuosa
