@@ -19,6 +19,7 @@ jirafa
 koala
 leon
 leopardo
+llama
 lobo blanco
 lince
 manati
