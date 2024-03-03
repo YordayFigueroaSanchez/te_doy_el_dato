@@ -329,3 +329,6 @@ title
 5. "🚶‍♂️ Travesía por los Altos Andes: Revelando los Misterios de las Majestuosas Llamas 🦙"
 
 🦙 Llamas: Tesoros de los Altos Andes 🏔️ y Guardianes del Equilibrio Ecológico 🏞️
+
+tags
+llama, la llama, rumiante, camello, camelidae, lama glama, llama escupiendo, llama divertida,llamas, auquenidos, camellos, camelidos, lana, alpaca, vicuña, guanaco, peru, andes, zoologia, biologia, documental
