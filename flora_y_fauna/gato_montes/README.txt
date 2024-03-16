@@ -31,3 +31,17 @@ adjetivos
 1. Furtivo: El gato montés es conocido por su naturaleza sigilosa y su habilidad para moverse con discreción en su entorno natural.
 2. Ágil: Este felino es extremadamente ágil y puede realizar saltos y movimientos rápidos con gran destreza.
 3. Solitario: Por lo general, el gato montés prefiere vivir en soledad y tiende a evitar la interacción con otros animales, excepto durante la temporada de apareamiento.
+
+titles
+1. "🐾 Secretos del Gato Montés: Misterios de la Naturaleza 🌿"
+2. "🌑 Entre las Sombras del Gato Montés: La Belleza Silvestre Revelada 🌲"
+3. "🔍 Siguiendo las Garras del Gato Montés: Expedición Salvaje 🏞️"
+4. "🌌 Encuentro con el Gato Montés: Explorando su Mundo Oculto 🌄"
+5. "🏞️ En las Tierras del Gato Montés: Aventura en la Naturaleza Salvaje 🐾"
+6. "🌿 Cazadores Solitarios: La Vida del Gato Montés al Descubierto 🐱"
+7. "🌳 Entre Riscos y Bosques: Tras las Huellas del Gato Montés 🏔️"
+8. "🌲 Guardianes del Bosque: La Historia del Gato Montés 🐾"
+9. "🔎 El Misterio del Gato Montés: Revelando su Lado Salvaje 🌳"
+10. "🐾 El Rugido Silencioso: Descubriendo al Esquivo Gato Montés 🌌"
+
+🌳 Entre Riscos y Bosques🌄: Tras las Huellas🐾 del Gato Montés🐱
