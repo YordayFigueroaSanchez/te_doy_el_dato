@@ -25,3 +25,9 @@ El gato montés es un animal solitario y únicamente en la época de apareamient
 
 Comunicación
 Para comunicarse, suele utilizar señales visuales, entre las que se encuentran mover la cola, levantar el pelo de su espalda y hacer algunas expresiones con su cara. Además, puede vocalizar diferentes llamadas, como silbidos, ronroneos, aullidos y un chillido especial que usa para calmar a las crías. El gato montés utiliza sus bigotes como órgano táctil: son altamente sensoriales y le permiten determinar si puede pasar su cuerpo por pequeñas aberturas, como tubos y grietas. Además, el Felis silvestris posee un excelente sentido de oído y olfato. Puede rotar rápidamente sus orejas, para detectar la fuente del sonido. Asimismo, tiene la capacidad de escuchar sonidos producidos por los pequeños roedores, capturándolos sin necesidad de verlos.
+
+
+adjetivos
+1. Furtivo: El gato montés es conocido por su naturaleza sigilosa y su habilidad para moverse con discreción en su entorno natural.
+2. Ágil: Este felino es extremadamente ágil y puede realizar saltos y movimientos rápidos con gran destreza.
+3. Solitario: Por lo general, el gato montés prefiere vivir en soledad y tiende a evitar la interacción con otros animales, excepto durante la temporada de apareamiento.
