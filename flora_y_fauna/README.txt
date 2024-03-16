@@ -10,6 +10,7 @@ estornino
 foca leopardo
 gacela
 gato
+gato montés
 gorilas de montaña
 guacamayo
 guepardo
