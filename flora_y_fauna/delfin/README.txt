@@ -36,3 +36,11 @@ Los delfines, con su cerebro altamente desarrollado, han evolucionado de manera 
 resource
 Foto de India Owens: https://www.pexels.com/es-es/foto/mar-agua-oceano-animal-4610401/
 Foto de Tim Hartelt: https://www.pexels.com/es-es/foto/mar-saltando-delfines-trucos-4808424/
+
+
+adjetivos
+1. Inteligente: Los delfines son conocidos por su inteligencia notable, mostrando habilidades de aprendizaje, comunicación y resolución de problemas.
+
+2. Ágil: Son animales muy ágiles en el agua, capaces de nadar con gran rapidez y destreza, lo que les permite cazar presas y evadir depredadores con facilidad.
+
+3. Sociable: Los delfines son animales extremadamente sociales que suelen vivir en grupos llamados manadas. Interactúan entre sí de diversas formas, desde jugar hasta cooperar en la caza, mostrando un comportamiento social complejo.
