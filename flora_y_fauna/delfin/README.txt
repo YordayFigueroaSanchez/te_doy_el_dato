@@ -78,3 +78,22 @@ title
 Espero que estos títulos con emojis añadan un toque extra de atracción a tu video.
 
 🐬 El Encanto Oculto de los Delfines: 🌊Secretos del Mar
+
+tags
+delfines en el mar,
+delfines ayudando a humanos,
+apareamiento de delfines,
+alimentando delfines,
+delfines bailando,
+delfines bebes,
+delfines bonitos,
+delfines bebes jugando,
+ballenas y delfines,
+delfines comiendo,
+delfines con humanos,
+como se aparean los delfines,
+como duermen los delfines,
+delfines documental,
+delfines entrenados,
+delfines en el mar saltando,
+delfines en el agua
