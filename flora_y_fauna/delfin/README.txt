@@ -31,3 +31,69 @@ Gracias a su capacidad y sistema de geolocalizacion que le permite liarse y move
 Otra técnica también muy eficaz y que realizan entre varios delfines es la de agrupar bancos de peces dando vueltas alrededor de ellos. De esta manera al agrupar una cuantiosa cantidad de pececillos mientras varios delfines nadan alrededor de estas bandadas, uno x uno y se adentran en ese cúmulo de peces atravesando la bandada y así alimentándose de todos los que puedan llegar a llevarse a la boca mientras nosotros siguen dando vueltas alrededor de ellos para que no se dispersen. Cuando uno se alimente a continuación ir al siguiente.
 Los delfines son criaturas asombrosas que han desarrollado tácticas inteligentes para sobrevivir y alimentarse. Una de estas técnicas es el aquaplaning, mediante la cual llevan a sus presas hacia aguas poco profundas, como las orillas de las playas. Allí, las presas quedan atrapadas y los delfines pueden capturarlas sin mucha resistencia. Además, utilizan el lodo para crear pequeñas barreras o muros, formando trampas que facilitan la ingesta de comida. Su inteligencia y adaptabilidad los convierten en verdaderos maestros del mar.
 Los delfines, con su cerebro altamente desarrollado, han evolucionado de manera impresionante a lo largo de los años. Comunicándose entre sí, expresan sentimientos como el afecto, el peligro o la necesidad de ayuda. Al igual que los seres humanos, tienen su propio vocabulario, formando frases mediante sílabas y consonantes. Estos inteligentes mamíferos emiten una variedad de sonidos y silbidos gracias a unas bolsas de aire cerca de su sistema respiratorio. Al estar debajo del agua, los sonidos que emiten se dispersan y se escuchan muchísimo mejor, gracias a su exquisito y desarrollado sistema de ecolocalización.
+
+
+resource
+Foto de India Owens: https://www.pexels.com/es-es/foto/mar-agua-oceano-animal-4610401/
+Foto de Tim Hartelt: https://www.pexels.com/es-es/foto/mar-saltando-delfines-trucos-4808424/
+Vídeo de Jess Loiterton: https://www.pexels.com/es-es/video/mar-playa-azul-delfines-4328539/
+Vídeo de Zlatin Georgiev: https://www.pexels.com/es-es/video/mar-naturaleza-agua-azul-5607986/
+Vídeo de Adrien JACTA: https://www.pexels.com/es-es/video/agua-animal-submarino-delfin-5358746/
+Vídeo de Zlatin Georgiev: https://www.pexels.com/es-es/video/mar-naturaleza-oceano-comiendo-5607991/
+Vídeo de Zlatin Georgiev: https://www.pexels.com/es-es/video/mar-oceano-camara-lenta-nadando-5607988/
+Vídeo de Jess Loiterton: https://www.pexels.com/es-es/video/mar-playa-agua-azul-4328537/
+Vídeo de Zlatin Georgiev: https://www.pexels.com/es-es/video/mar-agua-oceano-oscuro-5607961/
+Vídeo de Daniel Torobekov: https://www.pexels.com/es-es/video/mar-persona-azul-oceano-5743317/
+Vídeo de Daniel Torobekov: https://www.pexels.com/es-es/video/mar-persona-azul-oceano-5743314/
+Vídeo de Zlatin Georgiev: https://www.pexels.com/es-es/video/mar-naturaleza-soleado-agua-5607990/
+Vídeo de Zlatin Georgiev: https://www.pexels.com/es-es/video/mar-naturaleza-oceano-comiendo-5607992/
+Vídeo de ArtHouse Studio: https://www.pexels.com/es-es/video/mar-oceano-animales-profundo-4592360/
+Vídeo de Ahmet Kurt: https://www.pexels.com/es-es/video/mar-naturaleza-agua-azul-12659675/
+Vídeo de Peter Steele: https://www.pexels.com/es-es/video/mar-pajaro-playa-agua-19231694/
+
+
+
+adjetivos
+1. Inteligente: Los delfines son conocidos por su inteligencia notable, mostrando habilidades de aprendizaje, comunicación y resolución de problemas.
+
+2. Ágil: Son animales muy ágiles en el agua, capaces de nadar con gran rapidez y destreza, lo que les permite cazar presas y evadir depredadores con facilidad.
+
+3. Sociable: Los delfines son animales extremadamente sociales que suelen vivir en grupos llamados manadas. Interactúan entre sí de diversas formas, desde jugar hasta cooperar en la caza, mostrando un comportamiento social complejo.
+
+
+title
+¡Claro! Aquí tienes las opciones de títulos con emojis:
+
+1. "🐬 El Encanto Oculto de los Delfines: Secretos del Mar"
+2. "🌊 Navegando con Delfines: La Belleza Submarina"
+3. "🐳 Delfines: Guardianes del Océano"
+4. "🚣‍♂️ Aventura Acuática: Descubriendo la Vida de los Delfines"
+5. "🐋 Majestuosos Delfines: Criaturas del Mar"
+6. "🔍 Bajo la Superficie: El Fascinante Mundo de los Delfines"
+7. "🐠 Amigos del Mar: Los Delfines en su Elemento"
+8. "🌊 Maravillas Marinas: Un Viaje con Delfines"
+9. "🐬 Delfines en Acción: Belleza en Movimiento"
+10. "🌊 Conociendo a Nuestros Vecinos del Mar: La Historia de los Delfines"
+
+Espero que estos títulos con emojis añadan un toque extra de atracción a tu video.
+
+🐬 El Encanto Oculto de los Delfines: 🌊Secretos del Mar
+
+tags
+delfines en el mar,
+delfines ayudando a humanos,
+apareamiento de delfines,
+alimentando delfines,
+delfines bailando,
+delfines bebes,
+delfines bonitos,
+delfines bebes jugando,
+ballenas y delfines,
+delfines comiendo,
+delfines con humanos,
+como se aparean los delfines,
+como duermen los delfines,
+delfines documental,
+delfines entrenados,
+delfines en el mar saltando,
+delfines en el agua
