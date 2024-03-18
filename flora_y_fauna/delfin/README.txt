@@ -59,3 +59,22 @@ adjetivos
 2. Ágil: Son animales muy ágiles en el agua, capaces de nadar con gran rapidez y destreza, lo que les permite cazar presas y evadir depredadores con facilidad.
 
 3. Sociable: Los delfines son animales extremadamente sociales que suelen vivir en grupos llamados manadas. Interactúan entre sí de diversas formas, desde jugar hasta cooperar en la caza, mostrando un comportamiento social complejo.
+
+
+title
+¡Claro! Aquí tienes las opciones de títulos con emojis:
+
+1. "🐬 El Encanto Oculto de los Delfines: Secretos del Mar"
+2. "🌊 Navegando con Delfines: La Belleza Submarina"
+3. "🐳 Delfines: Guardianes del Océano"
+4. "🚣‍♂️ Aventura Acuática: Descubriendo la Vida de los Delfines"
+5. "🐋 Majestuosos Delfines: Criaturas del Mar"
+6. "🔍 Bajo la Superficie: El Fascinante Mundo de los Delfines"
+7. "🐠 Amigos del Mar: Los Delfines en su Elemento"
+8. "🌊 Maravillas Marinas: Un Viaje con Delfines"
+9. "🐬 Delfines en Acción: Belleza en Movimiento"
+10. "🌊 Conociendo a Nuestros Vecinos del Mar: La Historia de los Delfines"
+
+Espero que estos títulos con emojis añadan un toque extra de atracción a tu video.
+
+🐬 El Encanto Oculto de los Delfines: 🌊Secretos del Mar
