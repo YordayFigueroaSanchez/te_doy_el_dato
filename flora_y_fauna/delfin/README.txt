@@ -36,6 +36,21 @@ Los delfines, con su cerebro altamente desarrollado, han evolucionado de manera 
 resource
 Foto de India Owens: https://www.pexels.com/es-es/foto/mar-agua-oceano-animal-4610401/
 Foto de Tim Hartelt: https://www.pexels.com/es-es/foto/mar-saltando-delfines-trucos-4808424/
+Vídeo de Jess Loiterton: https://www.pexels.com/es-es/video/mar-playa-azul-delfines-4328539/
+Vídeo de Zlatin Georgiev: https://www.pexels.com/es-es/video/mar-naturaleza-agua-azul-5607986/
+Vídeo de Adrien JACTA: https://www.pexels.com/es-es/video/agua-animal-submarino-delfin-5358746/
+Vídeo de Zlatin Georgiev: https://www.pexels.com/es-es/video/mar-naturaleza-oceano-comiendo-5607991/
+Vídeo de Zlatin Georgiev: https://www.pexels.com/es-es/video/mar-oceano-camara-lenta-nadando-5607988/
+Vídeo de Jess Loiterton: https://www.pexels.com/es-es/video/mar-playa-agua-azul-4328537/
+Vídeo de Zlatin Georgiev: https://www.pexels.com/es-es/video/mar-agua-oceano-oscuro-5607961/
+Vídeo de Daniel Torobekov: https://www.pexels.com/es-es/video/mar-persona-azul-oceano-5743317/
+Vídeo de Daniel Torobekov: https://www.pexels.com/es-es/video/mar-persona-azul-oceano-5743314/
+Vídeo de Zlatin Georgiev: https://www.pexels.com/es-es/video/mar-naturaleza-soleado-agua-5607990/
+Vídeo de Zlatin Georgiev: https://www.pexels.com/es-es/video/mar-naturaleza-oceano-comiendo-5607992/
+Vídeo de ArtHouse Studio: https://www.pexels.com/es-es/video/mar-oceano-animales-profundo-4592360/
+Vídeo de Ahmet Kurt: https://www.pexels.com/es-es/video/mar-naturaleza-agua-azul-12659675/
+Vídeo de Peter Steele: https://www.pexels.com/es-es/video/mar-pajaro-playa-agua-19231694/
+
 
 
 adjetivos
