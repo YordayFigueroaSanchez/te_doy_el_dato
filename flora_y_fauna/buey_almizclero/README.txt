@@ -29,3 +29,15 @@ Estado de conservación
 Aunque las manadas de O. moschatus nativas de Alaska y partes de Europa se extinguieron debido a las presiones de la caza y las fluctuaciones climáticas a fines del siglo XIX, la especie ha sido reintroducida con éxito a partir de poblaciones supervivientes en Canadá y Groenlandia y le está yendo bien, actualmente cuenta con más de 60.000 en todo el mundo. Ovibos moschatus actualmente no figura como especie amenazada.
 Otros comentarios
 En realidad, los bueyes almizcleros no tienen olor a almizcle. Durante la temporada de reproducción, la orina que los machos rocían sobre sí mismos y sobre el suelo es bastante picante, pero O. moschatus carece de una verdadera glándula almizclera. Además, no fue hasta estudios genéticos recientes que se descubrió que los parientes más cercanos de los bueyes almizcleros son miembros de la subfamilia Caprinae.
+
+
+adjetivos
+Los cinco adjetivos más representativos para describir al buey almizclero podrían ser:
+1. Majestuoso: Este adjetivo refleja la impresionante presencia y el porte noble del buey almizclero en su hábitat natural.
+2. Intrigante: Dado su comportamiento reservado y su adaptación a entornos extremos, el buey almizclero puede despertar gran interés y curiosidad en quienes lo observan.
+3. Robusto: Este adjetivo resalta la resistencia física y la capacidad de adaptación a condiciones adversas que caracterizan al buey almizclero, que habita en áreas montañosas y frías.
+4. Solitario: Aunque puede formar grupos pequeños en ciertas épocas del año, el buey almizclero generalmente prefiere la soledad y se encuentra en su elemento cuando está solo, lo que lo distingue de otras especies.
+5. Salvaje: Este adjetivo evoca la naturaleza indómita y la libertad del buey almizclero, que vive en entornos silvestres y se adapta a condiciones naturales desafiantes sin depender del contacto humano.
+
+Lanudo, Robusto y Salvaje
+
