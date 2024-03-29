@@ -3,6 +3,7 @@ araña viuda negra
 avestruz
 ballena
 bisonte americano
+buey almizclero
 colibri
 delfin
 dragon de komodo
@@ -35,3 +36,6 @@ quetzal
 rinoceronte
 tiburon blanco
 tigre
+
+subcribe
+https://mega.nz/folder/geUEFKCQ#egxKLgsSlu02BO1G4wdoVQ
