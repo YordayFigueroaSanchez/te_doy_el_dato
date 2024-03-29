@@ -76,3 +76,7 @@ Intentar en nuestro día a día tener una huella de carbono lo más baja posible
 Plantar plantas en parques y jardines (tanto privados como públicos) con una floración adecuada para ellas. Algunas plantas que atraen a las abejas son la lavanda, el tomillo, el romero, el brezo, varias especies de jaras, margaritas, girasoles y un largo etcétera. Consulta aquí más Plantas y flores que atraen abejas.
 Otra buena idea es dar apoyo a organizaciones y asociaciones con proyectos destinados a proteger a las abejas.
 Fabricar colmenas en las azoteas y jardines de las ciudades también puede ayudarles.
+
+
+
+https://www.ecologiaverde.com/el-ciclo-de-vida-de-las-abejas-3650.html
