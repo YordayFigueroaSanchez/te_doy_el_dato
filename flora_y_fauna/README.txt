@@ -1,11 +1,11 @@
-abeja
-aguila real
-araña viuda negra
-avestruz
-ballena
-bisonte americano
+abeja                           (S,008)
+aguila real                     (S,009)
+araña viuda negra               (S,010)
+avestruz                        (S,011)
+ballena                         (S,012)
+bisonte americano               (S,013)
 buey almizclero                 (S,003)
-colibri
+colibri                         (S,014)
 delfin                          (S,002)
 dragon de komodo
 elefante
