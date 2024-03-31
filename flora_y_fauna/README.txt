@@ -4,26 +4,26 @@ araña viuda negra
 avestruz
 ballena
 bisonte americano
-buey almizclero
+buey almizclero                 (S,003)
 colibri
-delfin
+delfin                          (S,002)
 dragon de komodo
 elefante
-estornino
+estornino                       (S,006)
 foca leopardo
 gacela
 gato
-gato montés
+gato montés                     (S,001)
 gorilas de montaña
 guacamayo
 guepardo
 hipopotamo
-jaguar
+jaguar                          (S,007)
 jirafa
 koala
 leon
 leopardo
-llama
+llama                           (S,005)
 lobo blanco
 lince
 manati
@@ -35,6 +35,7 @@ pez mandarin
 puma
 quetzal
 rinoceronte
+tiburon ballena                 (S,004)
 tiburon blanco
 tigre
 
