@@ -53,6 +53,4 @@ Foto de Denys Razumovskyi: https://www.pexels.com/es-es/foto/nadando-pez-pescado
 adjetivos
 1. Majestuoso
 2. Colorido
-3. 
-
-
+3. Invasivo
