@@ -31,7 +31,7 @@ manati
 oso blanco
 oso panda
 oso pardo
-pez leon
+pez leon                        (S,015)
 pez mandarin
 puma
 quetzal
