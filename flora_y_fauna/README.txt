@@ -7,16 +7,16 @@ bisonte americano               (S,013)
 buey almizclero                 (S,003)
 colibri                         (S,014)
 delfin                          (S,002)
-dragon de komodo
+dragon de komodo                (S,016)
 elefante
 estornino                       (S,006)
 foca leopardo
-gacela
+gacela                          (S,017)
 gato
 gato montés                     (S,001)
-gorilas de montaña
-guacamayo
-guepardo
+gorilas de montaña              (S,018)
+guacamayo                       (S,019)
+guepardo                        (S,020)
 hipopotamo
 jaguar                          (S,007)
 jirafa
@@ -27,7 +27,7 @@ llama                           (S,005)
 lobo blanco
 lince
 manati
-ñu
+ñu                              (S,021)  
 oso blanco
 oso panda
 oso pardo
