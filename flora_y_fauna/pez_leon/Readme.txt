@@ -43,3 +43,16 @@ El pez león es una especie particularmente prolífica. Las hembras alcanzan la 
 
 Cuando se alimenta, su estómago puede aumentar hasta 30 veces su tamaño
 El estómago del pez león puede expandirse hasta alcanzar unas 30 veces su tamaño, lo que le permite alimentarse de especies mucho más grandes. No solo peces y crustáceos de pequeños, sino también ejemplares juveniles de especies más grandes. Incluso, e incluso ejemplares adultos.
+
+
+media
+Foto de Skitterphoto: https://www.pexels.com/es-es/foto/animal-bajo-el-agua-pecera-peces-9339/
+Foto de Denys Razumovskyi: https://www.pexels.com/es-es/foto/nadando-pez-pescado-peces-6143803/
+
+
+adjetivos
+1. Majestuoso
+2. Colorido
+3. 
+
+
