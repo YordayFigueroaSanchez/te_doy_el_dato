@@ -32,6 +32,7 @@ oso blanco
 oso panda
 oso pardo
 pez mandarin
+pez leon
 puma
 quetzal
 rinoceronte
