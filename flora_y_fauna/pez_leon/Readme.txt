@@ -71,3 +71,27 @@ title
 
 
 Intruso Exótico: 🐠🦁 La Amenaza del Pez León 🔥
+
+tags
+pez leon plaga en mexico
+pez leon picadura
+pez leon en el caribe
+pez leon comiendo
+pez leon acuario marino
+pez leon veneno
+ataque pez leon
+pez leon atacando
+arpon para pez leon
+pez leon cazando
+cazando pez leon
+pez leon documental
+pez leon depredador
+pez leon reyes del dolor
+depredador del pez leon
+el pez leon
+pez leon frito
+pez leon invasor
+pez leon mascota
+pez leon nadando
+pez leon plaga
+que pasa con el pez leon
