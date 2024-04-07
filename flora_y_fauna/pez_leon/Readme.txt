@@ -56,3 +56,18 @@ adjetivos
 1. Majestuoso
 2. Colorido
 3. Invasivo
+
+title
+1. "👑 El Rey del Arrecife: Explorando el Mundo del Pez León 🐠🦁"
+2. "Intruso Exótico: 🐠🦁 La Amenaza del Pez León 🔥"
+3. "💫 Belleza Peligrosa: Descubriendo el Pez León 🌊🔍"
+4. "🔥🐟 Pez León: Depredador Invasor de los Mares 🛡️"
+5. "🌊🔍 Enigma Acuático: Misterios del Pez León Revelados 💫"
+6. "🛡️ Guardianes del Arrecife: Combatir la Invasión del Pez León 🔴"
+7. "🎨 Pez León: Elegancia Mortal en los Océanos 🌈"
+8. "🔴 Invasores del Caribe: El Impacto del Pez León en los Ecosistemas ⚠️"
+9. "🌈 Pez León: El Depredador Colorido de los Arrecifes 🐟"
+10. "⚠️ Alerta Roja en los Océanos: La Proliferación del Pez León 🔥"
+
+
+Intruso Exótico: 🐠🦁 La Amenaza del Pez León 🔥
