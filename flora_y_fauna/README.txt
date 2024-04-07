@@ -31,8 +31,8 @@ manati
 oso blanco
 oso panda
 oso pardo
-pez mandarin
 pez leon
+pez mandarin
 puma
 quetzal
 rinoceronte
