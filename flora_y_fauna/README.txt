@@ -39,7 +39,7 @@ rinoceronte
 tiburon ballena                 (S,004)
 tiburon blanco
 tigre
-zarigüeya
+zarigüeya                       (S,021)
 
 subcribe
 https://mega.nz/folder/geUEFKCQ#egxKLgsSlu02BO1G4wdoVQ
