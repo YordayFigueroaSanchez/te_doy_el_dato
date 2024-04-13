@@ -27,3 +27,10 @@ Es un animal con una agilidad bastante torpe y lenta y por ello es tan fácil da
 
 ¿Cuáles son los depredadores naturales?
 Cómo ocurre con la gran mayoría de animales, el principal enemigo de la zarigüeya es el ser humano por culpa de la deforestación de sus hábitats construyendo infinidad de cultivos, urbanizaciones y autopistas. De todas formas a esto se tiene que sumar que las Zarigüellas a pesar de ser animales altamente salvajes en muchos lugares se las trata captura para que sean mascotas. No es adecuado tenerlas como tal pero a día de hoy muchas personas harían lo que fuera por tener un animal exótico o raro en sus casas. En cuanto a enemigos naturales se refiere la zarigüeya puede convertirse en la presa y alimento de animales depredadores carnívoros como los búhos, zorros incluso felinos ya sean salvajes o domésticos.
+
+
+la describe
+La zarigüeya puede ser descrita como astuta, escurridiza y adaptable. Estas criaturas tienen una reputación de ser inteligentes, capaces de evadir peligros y adaptarse a una variedad de entornos.
+astuta 
+escurridiza 
+adaptable    
