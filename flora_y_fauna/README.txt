@@ -17,7 +17,7 @@ gato montés                     (S,001)
 gorilas de montaña              (S,018)
 guacamayo                       (S,019)
 guepardo                        (S,020)
-hipopotamo
+hipopotamo                      (S,025)
 jaguar                          (S,007)
 jirafa
 koala
