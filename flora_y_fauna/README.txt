@@ -19,7 +19,7 @@ guacamayo                       (S,019)
 guepardo                        (S,020)
 hipopotamo                      (S,025)
 jaguar                          (S,007)
-jirafa
+jirafa                          (S,026)
 koala
 leon
 leopardo
