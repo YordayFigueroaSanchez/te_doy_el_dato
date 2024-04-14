@@ -1,4 +1,11 @@
-short_001
+short_001(S,024)
+resources
+    https://www.facebook.com/watch/?ref=search&v=335552450262511&external_log_id=f2436844-fbe3-473f-92fd-01d40223fe06&q=gato%20saltando
+        gato_20240414_1511.mp4
+    https://www.facebook.com/watch/?ref=search&v=724362466021164&external_log_id=f2436844-fbe3-473f-92fd-01d40223fe06&q=gato%20saltando
+        gato_20240414_1512.mp4
+return
+    gato_short_001.mp4
 Los gatos son una de las mascotas más populares del mundo. También se encuentran entre los animales más interesantes para estudiar. Las características de los gatos son muchas y únicas, puesto que, algunas de ellas no se encuentran en otros animales domésticos.
 
 short_002

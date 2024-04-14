@@ -12,7 +12,7 @@ elefante                        (S,022)
 estornino                       (S,006)
 foca leopardo                   (S,023)
 gacela                          (S,017)
-gato
+gato                            (S,024)
 gato montés                     (S,001)
 gorilas de montaña              (S,018)
 guacamayo                       (S,019)
