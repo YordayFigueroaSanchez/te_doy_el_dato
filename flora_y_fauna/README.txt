@@ -10,7 +10,7 @@ delfin                          (S,002)
 dragon de komodo                (S,016)
 elefante                        (S,022)
 estornino                       (S,006)
-foca leopardo
+foca leopardo                   (S,023)
 gacela                          (S,017)
 gato
 gato montés                     (S,001)
