@@ -8,7 +8,7 @@ buey almizclero                 (S,003)
 colibri                         (S,014)
 delfin                          (S,002)
 dragon de komodo                (S,016)
-elefante
+elefante                        (S,022)
 estornino                       (S,006)
 foca leopardo
 gacela                          (S,017)
