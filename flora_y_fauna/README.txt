@@ -20,7 +20,7 @@ guepardo                        (S,020)
 hipopotamo                      (S,025)
 jaguar                          (S,007)
 jirafa                          (S,026)
-koala
+koala                           (S,027)
 leon
 leopardo
 llama                           (S,005)
