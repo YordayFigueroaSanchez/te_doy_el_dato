@@ -174,3 +174,20 @@ koala durmiendo,
 koala documental,
 koala enojado,
 koala eucalipto
+
+
+title
+¡Claro! Aquí tienes los títulos con aún más emojis:
+
+1. "Vida Koala 🐨🌿"
+2. "Koalas en Peligro 🚨😥"
+3. "Koalas: Maravillas en Riesgo ✨🌱"
+4. "Misterio Koala 🕵️‍♂️🌿"
+5. "Salvemos a los Koalas 🌿🆘"
+6. "Encanto Koala 😍🌿"
+7. "Koalas: Tesoros Vulnerables 💔🐨"
+8. "Koalas: Supervivencia 🌱🚨"
+9. "Koalas: Secretos Revelados 🤫🌿"
+10. "Koalas en Peligro 🚨🐨" 
+
+Koala🐨: Maravilla en Riesgo ✨🚨
