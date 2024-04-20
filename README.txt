@@ -29,7 +29,7 @@ leon                            (S,029)
 leopardo                        (S,030)
 llama                           (S,005)
 lobo blanco                     (S,031)
-lince
+lince                           (S,032)
 manati
 ñu                              (S,021)  
 oso blanco
