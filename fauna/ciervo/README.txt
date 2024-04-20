@@ -69,3 +69,18 @@ resources
 
 adjetivos
     Majestuoso, ágil y cauteloso.
+
+title
+    ¡Claro! Aquí tienes una versión aún más llena de emojis:
+    1. "🌲🦌 En el Reino del Venado: Majestuosidad y Misterio 🌲🦌"
+    2. "💃🌿 El Baile de los Ciervos: Elegancia en la Naturaleza 💃🌿"
+    3. "🌳🍃 Guardianes del Bosque: La Vida Secreta de los Ciervos 🍃🌳"
+    4. "🌿🦌 Entre Cuernos y Bosques: La Belleza Salvaje de los Ciervos 🦌🌿"
+    5. "🍁🦌 El Encanto del Ciervo: Testigos de la Naturaleza 🍁🦌"
+    6. "🌌🦌 Bajo la Mirada del Venado: Explorando su Mundo 🌌🦌"
+    7. "🌲💃 La Danza de los Ciervos: Un Ballet en la Selva 💃🌲"
+    8. "🌿🌟 El Latido del Bosque: El Reino de los Ciervos Revelado 🌟🌿"
+    9. "🌲🦌 Majestuosos Ciervos: Guardianes de la Selva 🦌🌲"
+    10. "🌿🌟 Entre Ramas y Susurros: El Éxtasis del Venado en la Naturaleza 🌟🌿"
+    
+    🌿🦌 Entre Cuernos y Bosques: La Belleza Salvaje de los Ciervos 🦌🌿
