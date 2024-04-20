@@ -45,3 +45,27 @@ resources
     Foto de Annika Thierfeld: https://www.pexels.com/es-es/foto/foto-de-reno-en-la-nieve-735988/
     Foto de Pixabay: https://www.pexels.com/es-es/foto/buck-marron-sobre-la-hierba-verde-durante-el-dia-86593/
     Foto de SevenStorm JUHASZIMRUS: https://www.pexels.com/es-es/foto/reno-marron-y-blanco-833418/
+    Vídeo de Pressmaster: https://www.pexels.com/es-es/video/un-ciervo-en-busca-de-comida-en-el-suelo-cubierto-de-nieve-3195531/
+    Vídeo de Anthony 🙂: https://www.pexels.com/es-es/video/un-grupo-de-ciervos-en-invierno-1508533/
+    Vídeo de Pressmaster: https://www.pexels.com/es-es/video/una-manada-de-ciervos-comiendo-heno-en-una-granja-3195217/
+    Vídeo de Zlatin Georgiev: https://www.pexels.com/es-es/video/animal-prado-pradera-ciervo-5608093/
+    Vídeo de Mikhail Nilov: https://www.pexels.com/es-es/video/comida-naturaleza-comiendo-animal-7710438/
+    Vídeo de RDNE Stock project: https://www.pexels.com/es-es/video/naturaleza-bosque-comiendo-arboles-8553227/
+    Vídeo de Kelly    : https://www.pexels.com/es-es/video/montana-grupo-ciervo-medio-ambiente-9331384/
+    Vídeo de Nicky Pe: https://www.pexels.com/es-es/video/naturaleza-bosque-animal-ciervo-14009472/
+    Vídeo de Nicky Pe: https://www.pexels.com/es-es/video/arboles-animal-hierba-pelo-8229292/
+    Vídeo de Alin Buda: https://www.pexels.com/es-es/video/naturaleza-hierba-prado-animales-12562405/
+    Vídeo de Vitaliy Todo: https://www.pexels.com/es-es/video/naturaleza-arboles-granja-animales-12208394/
+    Vídeo de Aaron J Hill: https://www.pexels.com/es-es/video/bosque-arboles-animal-ciervo-10193975/
+    Vídeo de Gabriele Brancati: https://www.pexels.com/es-es/video/madera-paisaje-pajaro-agua-15953313/
+    https://www.facebook.com/watch/?ref=search&v=1086657481782356&external_log_id=0b3818da-9ccd-482d-8370-b602da95c084&q=ciervo%20de%20agua
+    https://www.facebook.com/watch/?ref=search&v=577034834500584&external_log_id=463cb76b-d697-42d5-8ee2-d679227c0f6d&q=ciervo%20corriendo
+    https://www.facebook.com/watch/?ref=search&v=1169518663094991&external_log_id=0b3818da-9ccd-482d-8370-b602da95c084&q=ciervo%20de%20agua
+    https://www.facebook.com/ctaricani/videos/1443172036241609/
+    https://www.facebook.com/watch/?ref=search&v=694623492756416&external_log_id=c32f7d3f-73a9-44b2-83f7-552b60b6a0dc&q=ciervo%20vampiro
+    https://www.facebook.com/watch/?ref=search&v=1226923151351937&external_log_id=c4fbf842-1bcc-421b-845a-fa337aa4eaf9&q=alce%20americano
+    https://www.facebook.com/watch/?ref=search&v=927286440748064&external_log_id=d77bb428-db7e-43e2-9577-049c376d70a8&q=ciervo%20atento
+    https://www.facebook.com/watch/?v=3070629719707468
+
+adjetivos
+    Majestuoso, ágil y cauteloso.
