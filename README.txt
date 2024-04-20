@@ -26,7 +26,7 @@ jaguar                          (S,007)
 jirafa                          (S,026)
 koala                           (S,027)
 leon                            (S,029)
-leopardo
+leopardo                        (S,030)
 llama                           (S,005)
 lobo blanco
 lince
