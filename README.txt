@@ -28,7 +28,7 @@ koala                           (S,027)
 leon                            (S,029)
 leopardo                        (S,030)
 llama                           (S,005)
-lobo blanco
+lobo blanco                     (S,031)
 lince
 manati
 ñu                              (S,021)  

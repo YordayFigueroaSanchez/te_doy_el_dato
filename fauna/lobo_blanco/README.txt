@@ -54,3 +54,8 @@ ANIMALES SALVAJES, ANIMALES, CIENCIA Y CULTURA DOCUMENTALES, fauna y flora DE CA
 
 titulo
 El lobo blanco, majestuoso, adaptado y sigiloso
+
+
+resource
+    https://www.facebook.com/watch/?ref=search&v=4781959225153325&external_log_id=cf7a0ad4-7877-4095-b60b-915db530849d&q=lobo%20artico
+    https://www.facebook.com/watch/?ref=search&v=343057156736307&external_log_id=a0b3a670-1bba-448b-a758-8c7de23e07f4&q=lobo%20blanco%20en%20la%20nieve
