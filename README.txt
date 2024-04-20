@@ -8,7 +8,7 @@ avestruz                        (S,011)
 ballena                         (S,012)
 bisonte americano               (S,013)
 buey almizclero                 (S,003)
-ciervos
+ciervos                         (S,028)
 colibri                         (S,014)
 delfin                          (S,002)
 dragon de komodo                (S,016)
