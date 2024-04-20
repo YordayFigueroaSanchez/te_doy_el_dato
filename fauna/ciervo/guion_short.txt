@@ -1,0 +1,44 @@
+short_001
+Adéntrate en un mundo de misterio y belleza, donde la naturaleza revela sus secretos más cautivadores. Exploraremos la vida silvestre en su hábitat natural, descubriendo la elegancia y la armonía que define a uno de sus habitantes más fascinantes. Prepárate para sumergirte en la magia de los bosques y desvelar los misterios de la vida salvaje.
+
+short_002
+Los ciervos son una familia de mamíferos que incluye a los venados, alces y renos, comprendiendo en total alrededor de 20 géneros y unas 48 especies. Se estima que sus orígenes se remontan aproximadamente 20 millones de años atrás.
+
+short_003
+Estos mamíferos rumiantes se caracterizan por sus patas delgadas y largas, que terminan en una pezuña dividida en dos. Los machos suelen ser aproximadamente un 25% más grandes que las hembras. Dependiendo de la especie, el peso puede variar entre 30 y 250 kg. Por ejemplo, el alce es el cérvido más grande, con un peso que oscila entre 200 y 700 kg, mientras que el Pudú, por el contrario, apenas alcanza los 12 kg de peso.
+
+short_004
+Los ciervos son únicos entre los mamíferos debido a que desarrollan astas o cuernas compuestas por hueso muerto que se renuevan anualmente. Por lo general, solo los machos desarrollan estas protuberancias después del primer año de vida, y estas van aumentando de tamaño a medida que el animal se desarrolla. Sin embargo, hay excepciones, como en el caso del reno o caribú, donde tanto machos como hembras las poseen y las renuevan cada año.
+
+short_005
+Las astas de los ciervos están cubiertas por una textura similar al terciopelo, conocida como 'borra', la cual contiene numerosos vasos sanguíneos que nutren al hueso. Cuando esta borra cae, los animales carnívoros suelen consumirla debido a su alto valor nutricional. De hecho, en las poblaciones esquimales, esta borra es considerada un manjar, especialmente la que crece en los extremos de las astas.
+
+short_006
+Durante las épocas de apareamiento, los machos utilizan sus astas para enfrentarse entre sí, mientras que las hembras que también las poseen las utilizan para proteger a sus crías. Por otro lado, el ciervo de agua es una excepción, ya que carece de cornamentas; sin embargo, los machos tienen dientes caninos superiores muy largos. Se cree que esta característica es una adaptación a su hábitat, ya que los cuernos podrían resultar más una molestia que un beneficio en ese entorno específico.
+
+short_007
+Los ciervos son una especie versátil que habita una amplia variedad de hábitats, desde la tundra hasta las selvas tropicales, ocupando casi todos los continentes del mundo. Las únicas áreas donde no se encuentran ciervos nativos son Australia, algunas islas de Oceanía, la mayor parte de África, ciertas regiones de Asia, partes del Medio Oriente y la fría Antártida.
+
+short_008
+Los ciervos son herbívoros y al igual que otros rumiantes, poseen tres cámaras adicionales o falsos estómagos, donde se lleva a cabo la fermentación de bacterias para ayudar en la digestión de su dieta. Prefieren alimentarse principalmente de pequeños arbustos y hojas.
+
+short_009
+Los ciervos no pueden percibir tantos detalles como los humanos, pero son expertos en detectar movimientos y tienen una visión nocturna superior. Esta habilidad es crucial para las especies presa, ya que les permite mantener una vigilancia constante ante posibles ataques de depredadores.
+
+short_010
+La mayoría de los ciervos son polígamos, aunque existen excepciones como el Corzo Europeo, que prefiere la monogamia. La temporada de reproducción comienza a finales de otoño y principios de invierno en las zonas más templadas, mientras que en latitudes más bajas inicia a finales de la primavera y principios del verano.
+
+short_011
+Gracias a la disposición lateral de sus ojos, los ciervos poseen un campo de visión de hasta 300 grados. Esta amplia visión periférica les permite monitorear el horizonte en busca de depredadores, incluyendo a los cazadores.
+
+short_012
+El período de gestación de los ciervos varía de 180 a 240 días, dependiendo de la especie. Normalmente, nacen uno o dos cervatillos, que son cuidados principalmente por la madre y permanecen con ella durante aproximadamente un año. A pesar de tener una expectativa de vida de 11 a 12 años, muchos ciervos mueren antes de alcanzar los cinco años, principalmente debido a la caza o la depredación.
+
+short_013
+La visión del color se basa en fotopigmentos presentes en los conos y bastones de la retina. Mientras que los seres humanos cuentan con tres fotopigmentos sensibles al rojo, azul y verde, los ciervos solo son sensibles al azul y al verde, al igual que muchos otros animales. Por lo tanto, tienen dificultades para distinguir el rojo y el naranja.
+
+short_014
+Entre los principales depredadores del ciervo se encuentran el lince, coyote, lobo gris, oso pardo, puma de montaña, jaguar, tigre, ocelote y algunos reptiles. Sin embargo, el mayor impacto en la disminución de su población lo representa el ser humano, principalmente a través de la caza furtiva, lo que ha llevado a una reducción significativa en el número de ejemplares en el mundo.
+
+short_015
+La principal ventaja de los ciervos son sus orejas en forma de embudo, diseñadas para identificar sonidos y localizar posibles amenazas. Si notas que las orejas de un ciervo están dirigidas hacia ti, es probable que hayas sido detectado y se recomienda evitar acercarse más, ya que el animal está alerta ante tu presencia.
