@@ -25,7 +25,7 @@ hipopotamo                      (S,025)
 jaguar                          (S,007)
 jirafa                          (S,026)
 koala                           (S,027)
-leon
+leon                            (S,029)
 leopardo
 llama                           (S,005)
 lobo blanco
