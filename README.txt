@@ -30,7 +30,7 @@ leopardo                        (S,030)
 llama                           (S,005)
 lobo blanco                     (S,031)
 lince                           (S,032)
-manati
+manati                          (S,033)
 ñu                              (S,021)  
 oso blanco
 oso panda

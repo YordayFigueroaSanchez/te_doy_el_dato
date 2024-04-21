@@ -98,3 +98,8 @@ manati documental,
 manati del caribe,
 manati de mar,
 manati del amazonas
+
+resource    
+    https://www.facebook.com/watch/?ref=search&v=6598553833559917&external_log_id=459a2073-fc56-4d37-b722-95d6fb15c9ed&q=manati
+    https://www.facebook.com/watch/?ref=search&v=808185683055601&external_log_id=459a2073-fc56-4d37-b722-95d6fb15c9ed&q=manati
+    
