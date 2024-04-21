@@ -32,7 +32,7 @@ lobo blanco                     (S,031)
 lince                           (S,032)
 manati                          (S,033)
 ñu                              (S,021)  
-oso blanco
+oso blanco                      (S,034)
 oso panda
 oso pardo
 pez leon                        (S,015)
