@@ -31,6 +31,7 @@ llama                           (S,005)
 lobo blanco                     (S,031)
 lince                           (S,032)
 manati                          (S,033)
+ocelote                         (S,035)
 ñu                              (S,021)  
 oso blanco                      (S,034)
 oso panda
