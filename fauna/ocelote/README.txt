@@ -47,3 +47,49 @@ También se piensa que fue adorado como por antiguas culturas peruanas (de forma
 https://www.lobomexicano.org.mx/ocelote/datoscuriosos.htm
 Poseen un órgano en los ojos que les permite ver en la noche, este órgano tiene la capacidad de atrapar y reflejar cualquier tipo de luz como la de la luna y las estrellas lo cual les proporciona una excelente visión nocturna.
 Su pelaje le sirve como camuflaje para poder asechar a sus presas sin ser visto, ya que sus rosetas se confunden con la maleza y los arbustos.
+
+
+resources
+    https://www.facebook.com/watch/?ref=search&v=2062939133863254&external_log_id=c9d56516-c1b2-4c8c-aeb2-a0d8226d5402&q=Leopardus%20pardalis
+    https://www.facebook.com/watch/?ref=search&v=399716965626711&external_log_id=c9d56516-c1b2-4c8c-aeb2-a0d8226d5402&q=Leopardus%20pardalis
+    https://www.facebook.com/watch/?ref=search&v=275710878161603&external_log_id=c9d56516-c1b2-4c8c-aeb2-a0d8226d5402&q=Leopardus%20pardalis
+    https://www.facebook.com/watch/?ref=search&v=3729193260439599&external_log_id=c9d56516-c1b2-4c8c-aeb2-a0d8226d5402&q=Leopardus%20pardalis
+    https://www.facebook.com/watch/?ref=search&v=877161483735354&external_log_id=c9d56516-c1b2-4c8c-aeb2-a0d8226d5402&q=Leopardus%20pardalis
+    https://www.facebook.com/watch/?ref=search&v=740610387303941&external_log_id=c9d56516-c1b2-4c8c-aeb2-a0d8226d5402&q=Leopardus%20pardalis
+        vertical
+    https://www.facebook.com/watch/?ref=search&v=1313990166224898&external_log_id=c9d56516-c1b2-4c8c-aeb2-a0d8226d5402&q=Leopardus%20pardalis
+    https://www.facebook.com/watch/?ref=search&v=690178501569951&external_log_id=c9d56516-c1b2-4c8c-aeb2-a0d8226d5402&q=Leopardus%20pardalis
+    https://www.facebook.com/watch/?ref=search&v=6206927072692195&external_log_id=c9d56516-c1b2-4c8c-aeb2-a0d8226d5402&q=Leopardus%20pardalis
+    https://www.facebook.com/watch/?ref=search&v=571508020137150&external_log_id=c9d56516-c1b2-4c8c-aeb2-a0d8226d5402&q=Leopardus%20pardalis
+    https://www.facebook.com/watch/?ref=search&v=209710308617131&external_log_id=ec6894c4-9c5f-4113-96b7-8a0894f7a082&q=ocelote%20cachoros
+    https://www.facebook.com/somospomposos/videos/248112924617080/
+    https://www.facebook.com/watch/?ref=search&v=555253155299796&external_log_id=ec6894c4-9c5f-4113-96b7-8a0894f7a082&q=ocelote%20cachoros
+    https://www.facebook.com/watch/?ref=search&v=953833676215376&external_log_id=25a64265-a128-433b-9144-22eda089456e&q=ocelote%20%2B%20agua
+    https://www.facebook.com/watch/?ref=search&v=1023620205630796&external_log_id=25a64265-a128-433b-9144-22eda089456e&q=ocelote%20%2B%20agua
+    
+
+adjetivos
+    Elegante
+    Solitario
+    Salvaje
+
+title
+    🐾 Siguiendo las Huellas del Ocelote: Una Aventura en la Selva 🌿
+
+tags
+    ocelote cazando,
+    ocelote mascota,
+    ocelote animal,
+    ocelote adulto,
+    ocelote atacando,
+    animal ocelote,
+    ocelote bebe,
+    ocelote costa rica,
+    ocelote como mascota,
+    ocelote cachorro,
+    ocelote de mascota,
+    ocelote domestico,
+    documental ocelote,
+    ocelote en mexico,
+    ocelote en la vida real,
+    el ocelote mexicano
