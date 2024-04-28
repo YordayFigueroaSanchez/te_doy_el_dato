@@ -34,7 +34,7 @@ manati                          (S,033)
 ocelote                         (S,035)
 ñu                              (S,021)  
 oso blanco                      (S,034)
-oso panda
+oso panda                       (S,036)
 oso pardo
 pez leon                        (S,015)
 pez mandarin
