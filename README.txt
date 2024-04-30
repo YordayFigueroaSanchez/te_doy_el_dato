@@ -37,7 +37,7 @@ oso blanco                      (S,034)
 oso panda                       (S,036)
 oso pardo                       (S,037)
 pez leon                        (S,015)
-pez mandarin
+pez mandarin                    (S,038)
 puma
 quetzal
 rinoceronte
