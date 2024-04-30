@@ -35,7 +35,7 @@ ocelote                         (S,035)
 ñu                              (S,021)  
 oso blanco                      (S,034)
 oso panda                       (S,036)
-oso pardo
+oso pardo                       (S,037)
 pez leon                        (S,015)
 pez mandarin
 puma
