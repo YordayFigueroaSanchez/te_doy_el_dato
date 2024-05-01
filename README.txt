@@ -43,7 +43,7 @@ quetzal                         (S,040)
 rinoceronte                     (S,041)
 tiburon ballena                 (S,004)
 tiburon blanco                  (S,042)
-tigre
+tigre                           (S,043)
 zarigüeya                       (S,021)
 
 subcribe
