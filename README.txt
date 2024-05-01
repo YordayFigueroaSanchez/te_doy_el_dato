@@ -39,7 +39,7 @@ oso pardo                       (S,037)
 pez leon                        (S,015)
 pez mandarin                    (S,038)
 puma                            (S,039)
-quetzal
+quetzal                         (S,040)
 rinoceronte
 tiburon ballena                 (S,004)
 tiburon blanco
