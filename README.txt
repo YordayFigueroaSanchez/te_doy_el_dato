@@ -38,7 +38,7 @@ oso panda                       (S,036)
 oso pardo                       (S,037)
 pez leon                        (S,015)
 pez mandarin                    (S,038)
-puma
+puma                            (S,039)
 quetzal
 rinoceronte
 tiburon ballena                 (S,004)
