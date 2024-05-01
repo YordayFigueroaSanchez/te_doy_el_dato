@@ -40,7 +40,7 @@ pez leon                        (S,015)
 pez mandarin                    (S,038)
 puma                            (S,039)
 quetzal                         (S,040)
-rinoceronte
+rinoceronte                     (S,041)
 tiburon ballena                 (S,004)
 tiburon blanco
 tigre
