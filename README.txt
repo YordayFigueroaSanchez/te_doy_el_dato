@@ -42,7 +42,7 @@ puma                            (S,039)
 quetzal                         (S,040)
 rinoceronte                     (S,041)
 tiburon ballena                 (S,004)
-tiburon blanco
+tiburon blanco                  (S,042)
 tigre
 zarigüeya                       (S,021)
 
