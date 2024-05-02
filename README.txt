@@ -33,7 +33,7 @@ lince                           (S,032)
 manati                          (S,033)
 ñu                              (S,021)  
 ocelote                         (S,035)
-ornitorrinco
+ornitorrinco                    (S,044)
 oso blanco                      (S,034)
 oso panda                       (S,036)
 oso pardo                       (S,037)
