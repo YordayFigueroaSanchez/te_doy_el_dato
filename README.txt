@@ -5,7 +5,7 @@ parque-nacional-namib-naukluft
 ***************************************
 *******************     FAUNA   *******
 ***************************************
-abeja                           (S,008)
+abeja                           (S,008) (S,045)
 aguila real                     (S,009)
 araña viuda negra               (S,010)
 avestruz                        (S,011)
