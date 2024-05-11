@@ -1,8 +1,11 @@
 short_001 - (S,028)
-Adéntrate en un mundo de misterio y belleza, donde la naturaleza revela sus secretos más cautivadores. Exploraremos la vida silvestre en su hábitat natural, descubriendo la elegancia y la armonía que define a uno de sus habitantes más fascinantes. Prepárate para sumergirte en la magia de los bosques y desvelar los misterios de la vida salvaje.
+    Adéntrate en un mundo de misterio y belleza, donde la naturaleza revela sus secretos más cautivadores. Exploraremos la vida silvestre en su hábitat natural, descubriendo la elegancia y la armonía que define a uno de sus habitantes más fascinantes. Prepárate para sumergirte en la magia de los bosques y desvelar los misterios de la vida salvaje.
 
-short_002
-Los ciervos son una familia de mamíferos que incluye a los venados, alces y renos, comprendiendo en total alrededor de 20 géneros y unas 48 especies. Se estima que sus orígenes se remontan aproximadamente 20 millones de años atrás.
+ciervo_short_002
+    (S,052)
+    Los ciervos son una familia de mamíferos que incluye a los venados, alces y renos, comprendiendo en total alrededor de 20 géneros y unas 48 especies. Se estima que sus orígenes se remontan aproximadamente 20 millones de años atrás.
+    🦌El Baile de los Ciervos: Elegancia en la Naturaleza💃
+    https://youtube.com/shorts/uRLPl-k3ORk?feature=share
 
 short_003
 Estos mamíferos rumiantes se caracterizan por sus patas delgadas y largas, que terminan en una pezuña dividida en dos. Los machos suelen ser aproximadamente un 25% más grandes que las hembras. Dependiendo de la especie, el peso puede variar entre 30 y 250 kg. Por ejemplo, el alce es el cérvido más grande, con un peso que oscila entre 200 y 700 kg, mientras que el Pudú, por el contrario, apenas alcanza los 12 kg de peso.
@@ -42,3 +45,15 @@ Entre los principales depredadores del ciervo se encuentran el lince, coyote, lo
 
 short_015
 La principal ventaja de los ciervos son sus orejas en forma de embudo, diseñadas para identificar sonidos y localizar posibles amenazas. Si notas que las orejas de un ciervo están dirigidas hacia ti, es probable que hayas sido detectado y se recomienda evitar acercarse más, ya que el animal está alerta ante tu presencia.
+
+titles
+    🦌Majestuosos Habitantes del Bosque: La Vida de los Ciervos🌳
+    🌿Entre Ramas y Susurros: Los Secretos de los Ciervos🍃
+    🦌El Baile de los Ciervos: Elegancia en la Naturaleza💃
+    🌲Guardianes del Bosque: El Rol de los Ciervos en su Ecosistema🌳
+    🦌La Belleza Salvaje: Un Encuentro con los Ciervos🌟
+    🍁Otoño en el Bosque: La Mística de los Ciervos🍂
+    🦌La Vida en Manada: El Comportamiento Social de los Ciervos🤝
+    🌾Sigiloso y Veloz: El Arte de la Caza del Ciervo🏹
+    🦌Leyendas del Bosque: Mitos y Creencias sobre los Ciervos📜
+    🌳Hijos de la Naturaleza: La Resilencia de los Ciervos🌿
