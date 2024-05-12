@@ -26,6 +26,7 @@ gorilas de montaña              (S,018)
 guacamayo                       (S,019)
 guepardo                        (S,020)
 hipopotamo                      (S,025)
+increibles_mamas_del_reino_animal
 jaguar                          (S,007)
 jirafa                          (S,026)
 koala                           (S,027)
