@@ -62,3 +62,26 @@ https://asuaire.com/blog/costa-rica/todo-sobre-el-rio-celeste-en-costa-rica
     Los árboles más característicos son el zapote, el pilón, el jícaro dando y el aguatillo.
 
     También, si se cuenta con la suficiente suerte, se pueden llegar a ver saínos, monos, tolomucos, guatusas, serpientes matabuey, terciopelos y bocaraca.
+resource
+    https://www.facebook.com/watch/?ref=search&v=288402121996103&external_log_id=08c2bb17-4a72-4e3f-ace0-1d05a5b4d749&q=rio%20celeste
+    https://www.facebook.com/watch/?ref=search&v=326239206869329&external_log_id=08c2bb17-4a72-4e3f-ace0-1d05a5b4d749&q=rio%20celeste
+    https://www.facebook.com/watch/?ref=search&v=1830066587011747&external_log_id=08c2bb17-4a72-4e3f-ace0-1d05a5b4d749&q=rio%20celeste
+    https://www.facebook.com/Wilcrc/videos/550767623711195/
+titles
+    🔵 El Azul Increíble del Río Celeste: ¿Magia o Ciencia? 🧪
+tags
+    rio celeste,
+    rio celeste costa rica,
+    rio celeste waterfall,
+    rio celeste hideaway hotel,
+    rio celeste guatuso,
+    rio celeste drone,
+    rio celeste costa rica drone,
+    rio celeste hideaway costa rica,
+    rio celeste de costa rica,
+    donde queda rio celeste,
+    rio celeste hideaway,
+    rio celeste waterfall hike,
+    hideaway rio celeste,
+    rio celeste tour
+
