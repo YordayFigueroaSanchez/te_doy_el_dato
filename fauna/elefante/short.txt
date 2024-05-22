@@ -5,9 +5,10 @@ return          elefante_short_001.mp4
 ¡Hola a todos y bienvenidos a nuestro canal! Prepárense para sumergirse en un emocionante viaje para descubrir los secretos y maravillas de uno de los animales más fascinantes: ¡los elefantes!
 ¡Así es! Hoy nos adentraremos en el mundo de estos majestuosos gigantes para explorar su increíble vida y comportamiento. ¡Estoy emocionado por compartir esta aventura con todos ustedes!
 
-short 002
-¿Sabías que los elefantes son los animales terrestres más grandes y pesados del mundo? Son verdaderos colosos que dominan su entorno con imponencia y gracia.
-Definitivamente, su tamaño imponente refleja su estatus como los verdaderos reyes de la sabana y los bosques. ¡Imagina encontrarte cara a cara con uno de ellos!
+short 002(S,056)
+    🦏 Elefantes: Gigantes del Safari 🌅
+    ¿Sabías que los elefantes son los animales terrestres más grandes y pesados del mundo? Son verdaderos colosos que dominan su entorno con imponencia y gracia.
+    Definitivamente, su tamaño imponente refleja su estatus como los verdaderos reyes de la sabana y los bosques. ¡Imagina encontrarte cara a cara con uno de ellos!
 
 short 003
 Y no solo son gigantes en tamaño, ¡sino también en vida! Pueden vivir hasta 70 años en su hábitat natural. ¡Imagina todas las experiencias y sabiduría que acumulan a lo largo de su vida en la naturaleza!
@@ -40,3 +41,20 @@ Sí, es crucial crear conciencia sobre la importancia de la conservación y la p
 short 010
 Los elefantes desempeñan un papel vital en la salud de los ecosistemas, desde la dispersión de semillas hasta la creación de espacios abiertos en los bosques.
 Su impacto positivo en la naturaleza destaca la importancia de preservar a estos majestuosos animales para mantener el equilibrio ecológico.
+
+titles
+    🐘 Elefantes Asombrosos 🌟
+    🌍 El Mundo de los Elefantes 🐾
+    🌿 Gigantes Gentiles: Elefantes 🌼
+    📚 Historias de Elefantes 🐘
+    🏞️ Vida de Elefante 🐾
+    🔍 Secretos de los Elefantes 🌿
+    🎥 Elefantes en Acción 🏃‍♂️
+    ✨ Maravillas del Reino Elefante 🌍
+    🗺️ Explorando Elefantes 🚶‍♂️
+    ❓ Curiosidades de Elefantes 🤔
+    🌳 Elefantes en su Hábitat 🐘
+    🦏 Elefantes: Gigantes del Safari 🌅
+    🚶‍♂️ Travesías con Elefantes 🌄
+    👑 Elefantes: Majestuosidad en la Tierra 🌟
+    🛡️ Elefantes: Protectores del Serengeti 🏞️
