@@ -9,7 +9,7 @@ return
                 foca_leopardo_short_001.mp4
 ¡Saludos, amantes de la vida marina y guardianes de los ecosistemas costeros! En este emocionante buceo a través de los océanos, nos sumergiremos en el fascinante mundo de las focas leopardo. Con su elegante nado y su adaptación perfecta a los entornos helados, estas asombrosas criaturas nos invitan a explorar los secretos que encierran sus hábitos y su papel crucial en el equilibrio marino. Prepárense para descubrir los misterios que hacen de la foca leopardo una verdadera maravilla de la naturaleza. ¡Zarpemos juntos en este apasionante viaje por las profundidades del conocimiento!
 
-short_002
+short_002(S,058)
 La foca leopardo exhibe un patrón distintivo de coloración en su pelaje. Su parte dorsal muestra tonos que oscilan entre el plata y el gris oscuro, contrastando con la tonalidad más clara o blanca de su región ventral. Además, su cuerpo está adornado con manchas dispersas de tonos oscuros y claros, que se distribuyen de manera asimétrica y sin seguir un patrón definido.
 
 short_003
