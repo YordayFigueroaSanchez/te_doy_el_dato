@@ -1,7 +1,7 @@
 ***************************************
 *******************     LUGARES *******
 ***************************************
-parque-nacional-namib-naukluft
+parque-nacional-namib-naukluft          (S,066)
 rio_celeste_costa_rica 
 ***************************************
 *******************     FAUNA   *******
