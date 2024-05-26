@@ -8,8 +8,9 @@ return
     gato_short_001.mp4
 Los gatos son una de las mascotas más populares del mundo. También se encuentran entre los animales más interesantes para estudiar. Las características de los gatos son muchas y únicas, puesto que, algunas de ellas no se encuentran en otros animales domésticos.
 
-short_002
-Los gatos son curiosos por naturaleza y les encanta explorar. Son animales muy independientes y no les gusta depender de sus dueños. Son animales domésticos que necesitan hacer mucho ejercicio al día, es por ello, que son cazadores por naturaleza y pueden llegar a jugar durante muchas horas.
+(S,060)
+    short_002
+    Los gatos son curiosos por naturaleza y les encanta explorar. Son animales muy independientes y no les gusta depender de sus dueños. Son animales domésticos que necesitan hacer mucho ejercicio al día, es por ello, que son cazadores por naturaleza y pueden llegar a jugar durante muchas horas.
 
 short_003
 Como todos sabemos, los gatos son conocidos por su inteligencia, alegría y agilidad. Algunas personas han argumentado que los gatos se han vuelto tan comunes porque tienen una personalidad humana: autosuficientes, distantes con los extraños y territoriales, pero afectuosos con los miembros de la familia.
@@ -38,3 +39,15 @@ Estas son algunas de las características del gato, pero hay muchas otras curios
 
 short_010
 En definitiva, el gato y sus características lo hacen ser una de las mascotas más famosas de todas. Miles de personas prefieren antes a un gato que a un perro, porque tienen un carácter especial que los caracteriza.
+
+titles
+    🐱Curiosidades Felinas: Descubre los Secretos de los Gatos🐾
+    😻La Vida de un Gato: Aventuras y Travesuras Felinas🐱
+    🐾El Comportamiento de los Gatos: Entendiendo a tu Felino🧠
+    🐱Razas de Gatos: De los Más Comunes a los Más Exóticos🌟
+    🐱Cuidados Básicos para Gatos: Consejos y Recomendaciones🏡
+    😺Comunicación Felina: ¿Qué Nos Dicen los Gatos?🐾
+    🐱Gatos y Humanos: Una Relación Especial🥰
+    🐱Juguetes y Juegos para Gatos: Mantén a tu Felino Activo🧶
+    🐾Gatos Famosos: Celebridades Felinas en Internet🌐
+    🐱Gatos y su Historia: De la Domesticación a Hoy📜
