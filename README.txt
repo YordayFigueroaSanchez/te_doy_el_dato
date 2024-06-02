@@ -14,7 +14,7 @@ avestruz                        (S,011) (S,048)
 ballena                         (S,012) (S,049)
 bisonte americano               (S,013) (S,050)
 buey almizclero                 (S,003) (S,051)
-buitre leonado
+buitre leonado                          (S,075)
 ciervos                         (S,028) (S,052)
 colibri                         (S,014) (S,053)
 delfin                          (S,002) (S,054)
