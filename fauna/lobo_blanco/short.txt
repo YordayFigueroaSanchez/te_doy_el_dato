@@ -1,11 +1,12 @@
 short_001 - (S,031)
 ¡Saludos, amantes de la naturaleza y devotos guardianes de la vida silvestre! En esta emocionante expedición hacia los vastos territorios del norte, nos aventuraremos en el intrigante mundo del lobo blanco. Con su elegante pelaje y su enigmática presencia, estos magníficos depredadores nos invitan a adentrarnos en los misterios que envuelven a esta emblemática especie. Prepárense para desvelar los secretos que convierten al lobo blanco en una verdadera joya de la naturaleza.
-
-short_002
-El lobo blanco o ártico es un mamífero perteneciente a la familia Canidae. Se trata de una subespecie del lobo gris, caracterizada por ser más pequeña, tener un pelaje blanco y poseer un hocico y patas más cortas en comparación con el lobo gris.
-
+(S,073)
+    short_002
+    El lobo blanco o ártico es un mamífero perteneciente a la familia Canidae. Se trata de una subespecie del lobo gris, caracterizada por ser más pequeña, tener un pelaje blanco y poseer un hocico y patas más cortas en comparación con el lobo gris.
+    Habita principalmente en el Ártico, ocupando territorios en Norteamérica y Groenlandia. Su hábitat predilecto son las extensas regiones de tundra, las cuales se caracterizan por tener suelos congelados la mayor parte del año, entre otras particularidades.
+    https://www.facebook.com/watch/?ref=search&v=510107369725113&external_log_id=3da0bb18-c21f-42fe-9b2f-80d9a7cbffbd&q=white%20wolf
+    🐺Lobo Ártico❄️El Majestuoso Habitante de la Tundra🌨️
 short_003
-Habita principalmente en el Ártico, ocupando territorios en Norteamérica y Groenlandia. Su hábitat predilecto son las extensas regiones de tundra, las cuales se caracterizan por tener suelos congelados la mayor parte del año, entre otras particularidades.
 
 short_004
 En esta región, las temperaturas pueden descender hasta los -60 °C. Por esta razón, el lobo polar, como también se le conoce, ha desarrollado adaptaciones que le permiten sobrevivir en estas regiones extremadamente inhóspitas. Entre estas adaptaciones se encuentra su denso pelaje, el cual es impermeable y actúa como un eficaz aislante térmico.
