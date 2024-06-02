@@ -1,14 +1,18 @@
-short_001(S,027)
-source
-    https://www.facebook.com/watch/?ref=search&v=1672005703209698&external_log_id=ae7ab4b4-abbd-4e5c-86b3-8774699ac011&q=koalas
-        koala_20240414_1707.mp4
-return
-    koala_short_001.mp4
-¡Saludos, admiradores de la fauna australiana y amantes de la vida silvestre! En esta emocionante travesía a través del reino de los eucaliptos, nos adentraremos en el fascinante mundo del koala. Con su pelaje suave y su encanto inigualable, estos entrañables habitantes de los bosques australianos nos invitan a explorar los misterios que rodean a esta icónica especie. ¡Prepárense para sumergirse en los bosques llenos de vida y descubrir los secretos que hacen del koala una joya de la naturaleza única!
-
-short_002
-El koala es un mamífero placentario perteneciente a la familia Phascolarctidae. Se encuentra distribuido en la región este de Australia, habitando principalmente en bosques donde abundan las plantas de eucalipto, que constituyen su principal fuente de alimento. Las hojas de este tipo de vegetación contienen sustancias tóxicas y ofrecen un aporte energético relativamente bajo. Como resultado, a lo largo de la evolución, el koala ha desarrollado adaptaciones que le permiten digerir eficientemente este alimento mientras conserva energía.
-
+(S,027)
+    ¡Saludos, admiradores de la fauna australiana y amantes de la vida silvestre! En esta emocionante travesía a través del reino de los eucaliptos, nos adentraremos en el fascinante mundo del koala. Con su pelaje suave y su encanto inigualable, estos entrañables habitantes de los bosques australianos nos invitan a explorar los misterios que rodean a esta icónica especie. ¡Prepárense para sumergirse en los bosques llenos de vida y descubrir los secretos que hacen del koala una joya de la naturaleza única!
+    short_001
+        source
+            https://www.facebook.com/watch/?ref=search&v=1672005703209698&external_log_id=ae7ab4b4-abbd-4e5c-86b3-8774699ac011&q=koalas
+                koala_20240414_1707.mp4
+        return
+            koala_short_001.mp4
+(S,069)
+    El koala es un mamífero placentario perteneciente a la familia Phascolarctidae. Se encuentra distribuido en la región este de Australia, habitando principalmente en bosques donde abundan las plantas de eucalipto, que constituyen su principal fuente de alimento. Las hojas de este tipo de vegetación contienen sustancias tóxicas y ofrecen un aporte energético relativamente bajo. Como resultado, a lo largo de la evolución, el koala ha desarrollado adaptaciones que le permiten digerir eficientemente este alimento mientras conserva energía.
+    short_002
+    https://www.facebook.com/watch/?ref=search&v=981979611881545&external_log_id=f5ce00ce-56f5-4186-a51b-23a057a506ca&q=koala%20en%20arbol
+    https://www.facebook.com/watch/?ref=search&v=1381352361933999&external_log_id=f5ce00ce-56f5-4186-a51b-23a057a506ca&q=koala%20en%20arbol
+    🐨¿Sabías que los koalas sobreviven comiendo hojas tóxicas? 🌿
+    https://youtube.com/shorts/mLp8zdELAbw?feature=share
 short_003
 El Phascolarctos cinereus conocido como koala, para comunicarse, emplea diversos sonidos que difieren en tono, intensidad y frecuencia. En el caso de los machos adultos, emiten potentes bramidos, caracterizados por una secuencia de inhalaciones, similares a ronquidos, y exhalaciones que se asemejan a gruñidos.
 
