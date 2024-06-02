@@ -1,9 +1,11 @@
 short_001 - (S,029)
 El león es un imponente felino carnívoro de gran tamaño, originario del África Subsahariana y de algunas regiones de la India, donde ocupa el puesto principal en la cadena trófica. Este majestuoso animal es uno de los más reconocidos y temidos por su fiereza, pero también es objeto de admiración y se encuentra representado en símbolos, relatos y esculturas.
-
-short_002
-Al igual que todos los felinos, los leones son mamíferos cuadrúpedos con pelaje corto y amarillento, y los machos se distinguen por su distintiva melena rubia u oscura alrededor del cuello. Son cazadores feroces, capaces de sujetar a su presa con garras poderosas y desgarrar grandes porciones de carne con sus afilados colmillos, gracias a su dieta exclusivamente carnívora.
-
+(S,070)
+    short_002
+    Al igual que todos los felinos, los leones son mamíferos cuadrúpedos con pelaje corto y amarillento, y los machos se distinguen por su distintiva melena rubia u oscura alrededor del cuello. Son cazadores feroces, capaces de sujetar a su presa con garras poderosas y desgarrar grandes porciones de carne con sus afilados colmillos, gracias a su dieta exclusivamente carnívora.
+    https://www.facebook.com/watch/?ref=search&v=622747111802618&external_log_id=7c4d8963-4970-483a-99b5-106beb7bea58&q=lions
+    🦁Feroces leones⚔️Cazadores natos🥩
+    https://youtube.com/shorts/Hrv6Sb0DL_w?feature=share
 short_003
 A pesar de su reputación de ferocidad, los leones pasan la mayor parte del día descansando, dedicando aproximadamente 20 horas diarias al reposo y la inactividad. Sus momentos de actividad social suelen ser al atardecer, mientras que la caza, por lo general, la realizan durante la noche. En promedio, dedican unas dos horas diarias a caminar y unos 50 minutos a alimentarse.
 
