@@ -5,10 +5,12 @@ source
 return
     jirafa_short_001.mp4
 Las características de la jirafa hacen que sea un animal muy singular, pues su cuello es asombrosamente largo, una condición que les permite acceder a las hojas más altas y tiernas en las copas de los árboles.
-
-short_002
-Las patas delanteras de las jirafas son más largas también que sus extremidades traseras, posee dos cuernos pequeños en su cabeza, un pelaje típico de color amarillo con manchas irregulares de color pardo, su lengua es negra, y además, posee un sistema sanguíneo preciso que le permite llevar la sangre por todo su cuello hasta la cabeza.
-
+(S,068)
+    short_002
+    Las patas delanteras de las jirafas son más largas también que sus extremidades traseras, posee dos cuernos pequeños en su cabeza, un pelaje típico de color amarillo con manchas irregulares de color pardo, su lengua es negra, y además, posee un sistema sanguíneo preciso que le permite llevar la sangre por todo su cuello hasta la cabeza.
+    https://www.facebook.com/watch/?ref=search&v=365779942030294&external_log_id=7afa47df-8078-474c-925d-018297b8427c&q=jirafa%20run
+    Jirafas 🦒✨ Anatomía y Adaptaciones Únicas
+    https://youtube.com/shorts/vtObLR1GdPY?feature=share
 short_003
 Las jirafas habitan en la zona central y meridional del continente africano. Debido a la actividad humana, la zona de distribución de las jirafas es cada vez más reducida, y prácticamente son inexistentes en la región oriental del continente. Generalmente, estos animales se agrupan en conjuntos de 20 o 30 ejemplares.
 
