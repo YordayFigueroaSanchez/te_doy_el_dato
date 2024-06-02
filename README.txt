@@ -29,7 +29,7 @@ guacamayo                       (S,019) (S,063)
 guepardo                        (S,020) (S,064)
 hipopotamo                      (S,025) (S,065)
 increibles_mamas_del_reino_animal
-jaguar                          (S,007)
+jaguar                          (S,007) (S,067)
 jirafa                          (S,026)
 koala                           (S,027)
 leon                            (S,029)
