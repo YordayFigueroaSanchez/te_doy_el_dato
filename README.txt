@@ -50,7 +50,7 @@ pez mandarin                    (S,038)
 puma                            (S,039)
 quetzal                         (S,040)
 rinoceronte                     (S,041)
-suricata
+suricata                                (S,076)
 tejon melero
 tiburon ballena                 (S,004)
 tiburon blanco                  (S,042)
