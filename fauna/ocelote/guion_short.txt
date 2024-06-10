@@ -1,9 +1,11 @@
 short_001 - (S,035)
 Sumérgete en la selva, donde cada criatura es un misterio por descubrir. Exploraremos la vida silvestre en su esplendor, desvelando la belleza oculta en cada rincón. ¡Prepárate para una aventura donde la naturaleza revela sus secretos más cautivadores! El ocelote conocido cientificamente como Leopardus pardalis, es un felino de tamaño mediano originario de las selvas de Sudamérica. También conocido como el "Leopardo pintado", este nombre se debe a las marcas distintivas en su piel, que exhiben rosetas oscuras, manchas y rayas. 
-
-short_002
-En el pasado, durante el siglo XX, estuvo al borde de la extinción debido a la caza por su piel. Sin embargo, gracias a los esfuerzos de conservación y protección legal, la especie ha experimentado una leve recuperación. Se distingue por su agilidad para correr y trepar. Además, a diferencia de muchos de sus parientes, no teme al agua y es un excelente nadador.
-El ocelote es un felino de tamaño mediano, con una longitud de cabeza y cuerpo que oscila entre los 55 y los 100 cm, y una cola que mide entre 25,5 y 41 cm. Las hembras suelen pesar entre 6 y 11 kg, mientras que los machos pueden alcanzar entre 7 y 15 kg. Sus huellas tienen aproximadamente 2 cm × 2 cm de tamaño.
+(S,079)
+    short_002
+    En el pasado, durante el siglo XX, estuvo al borde de la extinción debido a la caza por su piel. Sin embargo, gracias a los esfuerzos de conservación y protección legal, la especie ha experimentado una leve recuperación. Se distingue por su agilidad para correr y trepar. Además, a diferencia de muchos de sus parientes, no teme al agua y es un excelente nadador.
+    El ocelote es un felino de tamaño mediano, con una longitud de cabeza y cuerpo que oscila entre los 55 y los 100 cm, y una cola que mide entre 25,5 y 41 cm. Las hembras suelen pesar entre 6 y 11 kg, mientras que los machos pueden alcanzar entre 7 y 15 kg. Sus huellas tienen aproximadamente 2 cm × 2 cm de tamaño.
+    🐾El Misterioso Gato Salvaje🐾
+    https://youtube.com/shorts/WDMqRxsxsCE?feature=share
 Su pelaje es corto, grueso y aterciopelado, variando en tonalidades que van desde el amarillo leonado hasta el gris rojizo. Está adornado con rosetas negras en forma de cadena en el dorso y los costados. Las manchas oscuras en las piernas y las rayas en la cabeza y la cara permiten distinguir a cada individuo. La cola es larga y presenta anillos oscuros, mientras que las patas son relativamente grandes en comparación con el tamaño corporal.
 Los machos son generalmente más grandes que las hembras, alcanzando una longitud de hasta 1 metro, con una cola que puede medir la mitad de su longitud corporal. Sus dientes frontales son puntiagudos y se utilizan para morder a las presas, mientras que en cada mejilla poseen dientes en forma de cuchilla diseñados para desgarrar los alimentos. Al igual que todos los felinos, a excepción de los guepardos, el ocelote puede retraer sus garras para evitar que se desgasten mientras camina.
 El ocelote es un animal solitario que marca y defiende territorios que pueden abarcar hasta 30 km². La extensión de su territorio puede variar dependiendo del tipo de entorno en el que se encuentre. Los machos tienden a tener territorios el doble de grandes que los de las hembras y, en ocasiones, se superponen con los territorios de varias hembras, donde el macho tiene el derecho de apareamiento.
@@ -21,3 +23,14 @@ Después de un periodo de gestación de aproximadamente 85 días, la hembra de o
 Las crías permanecerán junto a su madre durante aproximadamente un año, mientras aprenden las habilidades necesarias para sobrevivir en la naturaleza. Una vez que alcanzan la madurez y se vuelven completamente independientes, pueden optar por abandonar el territorio materno y establecer su propio territorio. Sin embargo, es común que algunas crías permanezcan en el territorio de su madre durante varios años más antes de aventurarse por completo por su cuenta. Este período de aprendizaje y transición asegura que las crías estén preparadas para enfrentar los desafíos de la vida salvaje.
 Durante un tiempo, los ocelotes fueron cazados con el propósito de ser vendidos como mascotas exóticas. Sin embargo, esta práctica cesó cuando se tomaron medidas para proteger a los ocelotes al ser clasificados como animales en peligro de extinción. Para recuperar sus poblaciones, se implementaron protocolos de protección y conservación. Gracias a estos esfuerzos, la población de ocelotes ha aumentado y ya no se considera en peligro inminente de extinción.
 A pesar de este progreso, algunas poblaciones de ocelotes aún enfrentan amenazas, especialmente debido a la deforestación y al crecimiento de asentamientos humanos. Estos factores pueden reducir su hábitat y fragmentar sus poblaciones, lo que representa un desafío continuo para la conservación de esta especie. Por lo tanto, es importante continuar con los esfuerzos de protección y manejo sostenible de los hábitats naturales del ocelote para garantizar su supervivencia a largo plazo.
+titles
+    🌎El Felino de América🌎
+    🔍El Depredador Nocturno🔍
+    🐾El Misterioso Gato Salvaje🐾
+    🌿La Vida Secreta del Ocelote🌿
+    📚Curiosidades de un Felino Único📚
+    ❓¿Sabías Esto Sobre el Ocelote?❓
+    🧐Conociendo al Ocelote🧐
+    ⚠️El Ocelote en Peligro⚠️
+    🌳El Felino Escondido en las Selvas Americanas🌳
+    🌍El Ocelote y su Importancia en el Ecosistema🌍
