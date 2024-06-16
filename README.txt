@@ -39,7 +39,7 @@ llama                           (S,005) (S,072)
 lobo blanco                     (S,031) (S,073)
 lince                           (S,032) (S,074)
 manati                          (S,033) (S,077)
-medusa
+medusa                                  (S,080)
 ñu                              (S,021) (S,078)
 ocelote                         (S,035) (S,079)
 ornitorrinco                    (S,044)
