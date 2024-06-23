@@ -53,7 +53,7 @@ puma                            (S,039) (S,086)
 quetzal                         (S,040)
 rinoceronte                     (S,041)
 suricata                                (S,076)
-tejon melero
+tejon melero                                    (S,088)
 tiburon ballena                 (S,004)
 tiburon blanco                  (S,042)
 tigre                           (S,043)
