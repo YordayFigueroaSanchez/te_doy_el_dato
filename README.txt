@@ -55,7 +55,7 @@ rinoceronte                     (S,041)
 suricata                                (S,076)
 tejon melero                                    (S,088)
 tiburon ballena                 (S,004)         (S,089)
-tiburon blanco                  (S,042)
+tiburon blanco                  (S,042)         (S,090)
 tigre                           (S,043)
 zarigüeya                       (S,021)
 
