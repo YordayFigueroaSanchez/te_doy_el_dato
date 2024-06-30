@@ -43,6 +43,7 @@ manati                          (S,033) (S,077)
 medusa                                  (S,080)
 ñu                              (S,021) (S,078)
 ocelote                         (S,035) (S,079)
+orca
 ornitorrinco                    (S,044)
 oso blanco                      (S,034) (S,081)
 oso panda                       (S,036) 
