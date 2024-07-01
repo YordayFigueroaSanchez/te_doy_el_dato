@@ -6,12 +6,15 @@
         🦌 Criatura majestuosa  #animales #animals  #curiosidades #animalesmaravillosos #especies #fauna
     url
         https://youtube.com/shorts/6O6Tn5qLGaY?feature=share
+(S,097)
+    text
+        Estos animales prefieren la taiga y los bosques templados, que incluyen bosques boreales, latifoliados y mixtos (coníferos-caducifolios). Los alces son particularmente abundantes en etapas tempranas de sucesión forestal, donde el forraje es más accesible debido a perturbaciones naturales o humanas, como incendios, tala, inundaciones y acción glacial. Además, frecuentan áreas cercanas al agua, como estanques, lagos, ríos y pantanos, que son ricos en su alimento favorito.
+        Los alces son los miembros más grandes de la familia de los ciervos. Los machos pueden pesar entre 360 y 600 kg y medir de 2,4 a 3,1 metros de longitud, mientras que las hembras pesan entre 270 y 400 kg y miden de 2,3 a 3,0 metros. La subespecie más grande, Alces alces gigas, se encuentra en Alaska, donde los machos pueden llegar a pesar hasta 771 kg.
+    titles
+        🔍Descubriendo la Vida del Alce #animales #animals  #curiosidades #animalesmaravillosos #especies #fauna
+    url
+        https://youtube.com/shorts/Xx5o6t--97k?feature=share
 
-Estos animales prefieren la taiga y los bosques templados, que incluyen bosques boreales, latifoliados y mixtos (coníferos-caducifolios). Los alces son particularmente abundantes en etapas tempranas de sucesión forestal, donde el forraje es más accesible debido a perturbaciones naturales o humanas, como incendios, tala, inundaciones y acción glacial. Además, frecuentan áreas cercanas al agua, como estanques, lagos, ríos y pantanos, que son ricos en su alimento favorito.
-
-#### Características Físicas
-
-Los alces son los miembros más grandes de la familia de los ciervos. Los machos pueden pesar entre 360 y 600 kg y medir de 2,4 a 3,1 metros de longitud, mientras que las hembras pesan entre 270 y 400 kg y miden de 2,3 a 3,0 metros. La subespecie más grande, Alces alces gigas, se encuentra en Alaska, donde los machos pueden llegar a pesar hasta 771 kg.
 
 ### Descripción Morfológica
 
@@ -50,7 +53,7 @@ La mayoría de sus vocalizaciones ocurren durante el celo. Las hembras emiten un
 El alce es mucho más que un impresionante habitante de los bosques boreales; es un componente esencial de estos ecosistemas. Su gran tamaño y hábitos solitarios, junto con su papel en la dinámica ecológica, lo convierten en una especie fascinante y crucial para la salud de los bosques boreales y templados. A medida que continuamos estudiando y protegiendo estos magníficos animales, ganamos una mayor comprensión y apreciación de la complejidad y belleza de nuestros ecosistemas naturales. La conservación de los alces no solo beneficia a esta especie, sino que también es fundamental para mantener la integridad ecológica de los vastos paisajes que habitan.
 titles
     🦌 Criatura majestuosa  #animales #animals  #curiosidades #animalesmaravillosos #especies #fauna
-    🔍 Descubriendo la Vida del Alce
+    🔍 Descubriendo la Vida del Alce #animales #animals  #curiosidades #animalesmaravillosos #especies #fauna
     🌲🐾Gigante de los Bosques
     📚 Curiosidades Fascinantes sobre los Alces
     🍂 La Rutina Diaria de un Alce en su Hábitat Natural
