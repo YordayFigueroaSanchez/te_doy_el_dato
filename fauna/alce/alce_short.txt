@@ -17,11 +17,17 @@
 (S,098)
     text
         Una de las características más distintivas de los alces son sus astas, presentes únicamente en los machos. Estas pueden llegar a pesar hasta 35 kg y presentan una configuración palmeada única, con la extensión más amplia registrada alcanzando los 2048 mm. El pelaje de los alces es generalmente oscuro, variando de negro a marrón grisáceo, con una parte inferior más clara en las patas. Este pelaje les proporciona un excelente aislamiento contra el frío, esencial para sobrevivir en los climas severos de su hábitat. Además, los alces tienen un hocico largo y caído, con un labio superior que sobresale del inferior y un parche triangular de piel desnuda entre sus fosas nasales.
-        Los alces son animales solitarios y son la especie menos social entre los cérvidos, reuniéndose solo durante la temporada de apareamiento en septiembre y octubre. Durante esta época, los machos emiten gruñidos para cortejar a las hembras y desafiar a otros machos, mientras que las hembras en celo emiten un gemido largo y tembloroso que puede escucharse a varios kilómetros de distancia. La gestación dura unos 231 días, y las hembras generalmente dan a luz a una cría, aunque los gemelos no son infrecuentes. Las crías, nacidas con un peso promedio de 16,2 kg, permanecen con sus madres durante aproximadamente un año.
     titles
         🦌Pelaje oscuro y con astas #animales #animals  #curiosidades #animalesmaravillosos #especies #fauna
     url
         https://youtube.com/shorts/nQwuW2_8heY?feature=share
+(S,099)
+    text
+        Los alces son animales solitarios y son la especie menos social entre los cérvidos, reuniéndose solo durante la temporada de apareamiento en septiembre y octubre. Durante esta época, los machos emiten gruñidos para cortejar a las hembras y desafiar a otros machos, mientras que las hembras en celo emiten un gemido largo y tembloroso que puede escucharse a varios kilómetros de distancia. La gestación dura unos 231 días, y las hembras generalmente dan a luz a una cría, aunque los gemelos no son infrecuentes. Las crías, nacidas con un peso promedio de 16,2 kg, permanecen con sus madres durante aproximadamente un año.
+    titles
+        🦌Solitario y menos sociables #animales #animals  #curiosidades #animalesmaravillosos #especies #fauna
+    url
+        https://youtube.com/shorts/qOeZ0Yducu8?feature=share
 
 Las hembras cuidan solas de sus crías, llevándolas a sitios apartados para dar a luz y mantenerlas aisladas hasta que son destetadas a los 5 meses. Los terneros pueden explorar y seguir a su madre a las tres semanas de edad. Los machos y las hembras alcanzan la madurez sexual a los dos años, pero no alcanzan su máximo potencial de crecimiento hasta los 4 o 5 años. Las hembras alcanzan su pico reproductivo entre los 4 y 12 años, mientras que los machos lo hacen entre los 4 y 8 años.
 
