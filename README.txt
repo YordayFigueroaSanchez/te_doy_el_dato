@@ -8,7 +8,7 @@ rio_celeste_costa_rica
 ***************************************
 abeja                           (S,008) (S,045) (S,095)
 aguila real                     (S,009) (S,046)
-alce                                            (S,096) (S,097) (S,098) (S,099)
+alce                                            (S,096) (S,097) (S,098) (S,099) (S,100)
 araña viuda negra               (S,010) (S,047)
 avestruz                        (S,011) (S,048)
 ballena                         (S,012) (S,049)
