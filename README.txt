@@ -34,7 +34,7 @@ increibles_mamas_del_reino_animal
 jaguar                          (S,007) (S,067)
 jirafa                          (S,026) (S,068)
 koala                           (S,027) (S,069)
-lemur_catta
+lemur_catta                                     (S,104) (S,105) (S,106) (S,107) (S,108) (S,109) (S,110) (S,111) (S,112) (S,113) (S,114) (S,115) (S,116) (S,117)
 leon                            (S,029) (S,070) (S,083)
 leopardo                        (S,030) (S,071)
 llama                           (S,005) (S,072)

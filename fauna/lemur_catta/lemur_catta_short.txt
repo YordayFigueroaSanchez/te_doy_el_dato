@@ -1,0 +1,96 @@
+(S,104)
+    text
+        ¡Saludos a todos! Hoy nos adentraremos en el fascinante reino de una criatura impresionante que habita los bosques con agilidad y elegancia. Con su presencia distintiva y su armonioso movimiento entre los árboles, este ser nos enseña la importancia de la comunidad, la resiliencia y la adaptabilidad para sobrevivir y prosperar en su entorno natural.
+        El lémur catta, lémur de Madagascar  o maki de cola anillada, es una especie de primate que únicamente vive en la isla de Madagascar. Sus características físicas hacen que sea fácilmente distinguible del resto de lémures, y es que poseen una larga cola con anillos blancos y negros.  Es un animal omnívoro, es decir, que se alimenta tanto de animales como de plantas y aprovecha cualquier oportunidad de comida. Su actividad se desarrolla durante el día, cuando aparece un mínimo rayo de sol y por la noche descansan.
+    url
+    titles
+        🆘Especie de primate🐒 #animales #animals #faunasalvaje #animalesmaravillosos #lemur #fauna 
+(S,105)
+    text
+        Los lémures catta son primates de tamaño mediano, con una longitud corporal de entre 39 y 45 centímetros, y una cola que mide aproximadamente de 56 a 63 centímetros. Estos animales son fáciles de distinguir gracias a su pelaje gris, que les permite camuflarse en los bosques donde habitan. Su rostro es blanco, con grandes ojos amarillos rodeados de manchas negras.
+        Lo que más destaca de su físico es su cola anillada. Esta larga cola, formada por anillos negros y blancos, les da un aspecto distintivo entre los demás animales. Además, les sirve para balancearse entre las ramas y agarrar objetos, ¡como si tuvieran un brazo extra! Los lémures catta también son conocidos por su forma única de moverse en el suelo, adoptando una postura erguida y desplazándose mediante saltos sobre sus patas traseras.
+    url
+    titles
+        🆘Cola anillada🐒 #animales #animals #faunasalvaje #animalesmaravillosos #lemur #fauna 
+(S,106)
+    text  
+        Estos mamíferos son exclusivos de un solo lugar en el mundo: la isla de Madagascar, su hogar original. Prefieren vivir en las zonas del sur y sudoeste de la isla, especialmente en bosques y áreas húmedas. Los lémures catta eligen Madagascar debido a factores relacionados con su evolución y el ambiente único de la isla. Madagascar se separó de otros continentes hace millones de años, lo que permitió a los lémures evolucionar de manera aislada, adaptándose específicamente a los ecosistemas locales sin la competencia de primates más grandes y otros mamíferos presentes en África o Asia. Además, la isla ofrece una increíble diversidad de hábitats, desde selvas tropicales húmedas hasta bosques secos y espinosos. Este entorno es rico en recursos alimenticios para los lémures, proporcionando una gran variedad de alimentos tanto vegetales como animales.
+    url
+    titles
+        🆘Exclusivos de un solo lugar🐒 #animales #animals #faunasalvaje #animalesmaravillosos #lemur #fauna 
+(S,107)
+    text  
+        La dieta de los lémures catta es principalmente vegetariana, incluyendo una variedad de plantas, hojas, frutas y flores, así como savia y corteza de árboles. Aunque su alimentación es más diversa de lo que se podría pensar, ocasionalmente también consumen insectos y otros pequeños invertebrados como arañas, orugas, cigarras y saltamontes, aprovechando las oportunidades nutricionales de su entorno. Se ha observado que también ingieren madera en descomposición y tierra, posiblemente para obtener minerales y nutrientes adicionales. Incluso, en raras ocasiones, pueden alimentarse de pequeños vertebrados como aves y camaleones, demostrando su capacidad de adaptarse a diversas fuentes de alimento según la disponibilidad en su hábitat en Madagascar.
+    url
+    titles 
+        🆘Principalmente vegetariana🐒 #animales #animals #faunasalvaje #animalesmaravillosos #lemur #fauna 
+(S,108)
+    text  
+        Para saciar su sed, los lémures catta recurren a lamer y absorber el rocío y la lluvia acumulada en las hojas y otras superficies. Además, complementan su hidratación consumiendo frutas jugosas, que les proporcionan tanto nutrientes como líquidos esenciales. Estos primates son especialmente sociales; pasan gran parte de su tiempo aseándose mutuamente y se agrupan para darse calor y tomar el sol. Utilizan numerosas vocalizaciones, expresiones faciales y corporales para comunicarse entre sí.
+        Los lémures catta suelen vivir en grupos que varían de 12 a 25 individuos, aunque en ocasiones estos grupos pueden llegar a tener hasta 50 miembros. Habitan en extensos territorios que marcan con un olor distintivo proveniente de unas glándulas especiales que poseen. Los machos a menudo emiten llamadas vocales coordinadas para comunicar a otros grupos que el territorio está ocupado.
+    url
+    titles 
+        🆘Numerosas vocalizaciones🐒 #animales #animals #faunasalvaje #animalesmaravillosos #lemur #fauna  
+(S,109)
+    text  
+        Aunque son protectores de su espacio, los lémures catta son conocidos por su tolerancia hacia los vecinos e incluso pueden formar grupos mixtos con otras especies de lémures. Entre los machos, establecen una jerarquía clara. Es frecuente observarlos disfrutando de baños de sol, estirando sus brazos hacia el cielo. Cuando llega el momento de descansar, prefieren subir a las partes más altas de los árboles para dormir.
+        En los grupos de lémures catta, son las hembras las que dominan. Tienen una forma bastante particular de ejercer el liderazgo y a veces pueden mostrarse incluso agresivas para mantener el control. Esto implica que pueden perseguir, abofetear, agarrar fuertemente e incluso morder a otros lémures para afirmar su autoridad.
+    url
+    titles  
+        🆘Grupos mixtos🐒 #animales #animals #faunasalvaje #animalesmaravillosos #lemur #fauna 
+(S,110)
+    text  
+        ¡Y no nos olvidemos de los bebés lémur! Las mamás lémur catta se entregan completamente y dedican toda su atención y cuidado a sus crías hasta que éstas desarrollan cierta autonomía. Durante las primeras tres semanas, las hembras transportan a sus crías sujetas al pecho. Después de este periodo, las llevan en su espalda hasta que los bebés comienzan a alimentarse de alimentos sólidos. De esta manera, pueden brindar toda la atención que los recién nacidos necesitan sin descuidar su integración en el grupo social.
+    url
+        https://youtube.com/shorts/O12ianqGNNY
+    titles  
+        🆘Transportan a sus crías🐒 #animales #animals #faunasalvaje #animalesmaravillosos #lemur #fauna 
+(S,111)
+    text  
+        Todas las especies de lémures poseen un sentido del olfato altamente desarrollado que desempeña un papel crucial en su vida cotidiana. Este sentido es vital para marcar territorio a través de glándulas odoríferas. En particular, los machos muestran un comportamiento peculiar conocido como "marcado de espolón", participando en lo que podría describirse como "luchas de olores". Este proceso implica frotar sus colas con las glándulas de olor ubicadas en sus muñecas y luego agitarlas hacia otros machos como un gesto de desafío.
+    url
+        https://youtube.com/shorts/nSjbCtn7fwI
+    titles 
+        🆘Sentido del olfato🐒 #animales #animals #faunasalvaje #animalesmaravillosos #lemur #fauna  
+(S,112)
+    text  
+        Actualmente, el lémur catta se encuentra en peligro de extinción debido a múltiples amenazas que afectan su supervivencia. Una de las principales razones es la pérdida de hábitat, causada por la deforestación y la conversión de áreas boscosas en tierras agrícolas, así como la tala de árboles para la obtención de madera. Esta reducción del espacio disponible impacta negativamente en las oportunidades de alimentación, reproducción y movilidad de los lémures catta. Además, el cambio climático también puede tener efectos adversos sobre la disponibilidad de alimentos y la ecología general del área que habitan.
+    url
+        https://youtube.com/shorts/fRj7ueGa9cE
+    titles  
+        🆘Peligro de extinción🐒 #animales #animals #faunasalvaje #animalesmaravillosos #lemur #fauna 
+(S,113)
+    text  
+        Estos mamíferos tienen una estrategia fascinante para sobrellevar las noches frías de Madagascar. Cuando las temperaturas descienden, los astutos lémures catta reducen su metabolismo y entran en un estado de letargo, como un "modo de ahorro de energía". Esta táctica les permite conservar calorías y adaptarse a los cambios de temperatura en su entorno. ¡Es una estrategia inteligente para mantenerse en sintonía con las cambiantes condiciones de Madagascar!  
+    url
+        https://youtube.com/shorts/_rLEpz9npyw
+    titles  
+        🆘Noches frías de Madagascar🐒 #animales #animals #faunasalvaje #animalesmaravillosos #lemur #fauna 
+(S,114)
+    text  
+        Las hembras de lémur catta experimentan un período de gestación sorprendentemente breve, de aproximadamente 4 meses, lo que las diferencia de muchos otros primates, cuya gestación puede ser mucho más larga. Pero lo más impresionante es la rapidez con la que las crías alcanzan la madurez sexual. En tan solo 2 o 3 años, estas crías se vuelven completamente maduras. Este rápido desarrollo es una adaptación estratégica para enfrentar los desafíos de su entorno, donde la competencia por recursos y el riesgo de depredación son comunes.
+    url
+        https://youtube.com/shorts/fFZlQsRi13U
+    titles  
+        🆘Período de gestación🐒 #animales #animals #faunasalvaje #animalesmaravillosos #lemur #fauna 
+(S,115)
+    text  
+        Utilizan sus garras y dientes de manera ingeniosa, convirtiéndolos en herramientas naturales para mantener una higiene impecable. Estos primates tienen una rutina de higiene personal diseñada para eliminar parásitos y mantener sus pelajes en óptimas condiciones. Lo más curioso es que no se ocupan de su higiene personal individualmente, sino que se dedican a arreglarse mutuamente, asegurando que todos los lémures del grupo estén impecables. Este comportamiento fortalece los lazos sociales dentro del grupo, cohesionando a todos sus miembros de esta manera.
+    url
+        https://youtube.com/shorts/aCJqsn4Je_4
+    titles  
+        🆘Rutina de higiene personal🐒 #animales #animals #faunasalvaje #animalesmaravillosos #lemur #fauna 
+(S,116)
+    text  
+        Los lémures catta tienen un modo peculiar de comunicarse que implica movimientos de cola bastante expresivos. Cuando se desplazan por el suelo, levantan su cola en el aire como si fuera una antena. Este gesto sirve como una forma de comunicación visual para mantener contacto con otros miembros del grupo en su entorno. Es como decir: "¡Estoy aquí y todo está bien!" Esta forma de comunicación visual contribuye significativamente a fortalecer los lazos sociales dentro del grupo.
+    url
+        https://youtube.com/shorts/FPza4WQXE3k
+    titles 
+        🆘Forma de comunicación visual🐒 #animales #animals #faunasalvaje #animalesmaravillosos #lemur #fauna  
+(S,117)
+    text  
+        Dentro de un grupo de lémures catta, los machos pueden cambiar de grupo según sus necesidades. Por ejemplo, durante el intervalo de seis meses entre diciembre y mayo, algunos machos se trasladan entre grupos. Los machos adultos suelen cambiar de grupo cada 3 años y medio, mientras que los más jóvenes pueden hacerlo con mayor frecuencia, aproximadamente cada año y medio. Esta redistribución de grupos ocurre cuando las comunidades se vuelven demasiado grandes y los recursos disponibles comienzan a escasear, lo que conduce a una reorganización para asegurar la supervivencia del grupo.
+    url
+        https://youtube.com/shorts/9a-LX9LVubM
+    titles 
+        🆘Pueden cambiar de grupo🐒 #animales #animals #faunasalvaje #animalesmaravillosos #lemur #fauna  
