@@ -15,7 +15,7 @@ ballena                         (S,012) (S,049)
 bisonte americano               (S,013) (S,050)
 buey almizclero                 (S,003) (S,051)
 buitre leonado                          (S,075)
-castor
+castor                           9shorts                           
 cebra                                           (S,087)
 ciervos                         (S,028) (S,052)
 colibri                         (S,014) (S,053)
