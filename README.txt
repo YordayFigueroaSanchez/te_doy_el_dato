@@ -18,7 +18,7 @@ buitre leonado                          (S,075)
 castor                           9shorts                           
 cebra                                           (S,087)
 ciervos                         (S,028) (S,052)
-colibri                         (S,014) (S,053)
+colibri  [<<<MEJORA>>>]         (S,014) (S,053) 7shorts
 delfin                          (S,002) (S,054)
 dragon de komodo                (S,016) (S,055)
 elefante                        (S,022) (S,056)
