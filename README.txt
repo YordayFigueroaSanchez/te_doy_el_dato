@@ -15,6 +15,7 @@ ballena                         (S,012) (S,049)
 bisonte americano               (S,013) (S,050)
 buey almizclero                 (S,003) (S,051)
 buitre leonado                          (S,075)
+caballo
 castor                           9shorts                           
 cebra                                           (S,087)
 ciervos                         (S,028) (S,052)
@@ -62,5 +63,5 @@ tiburon blanco                  (S,042)         (S,090)
 tigre                           (S,043)         (S,091)
 zarigüeya                       (S,021)         (S,092)
 
-subcribe
-https://mega.nz/folder/geUEFKCQ#egxKLgsSlu02BO1G4wdoVQ
+recursos para subcribe
+    https://mega.nz/folder/geUEFKCQ#egxKLgsSlu02BO1G4wdoVQ
