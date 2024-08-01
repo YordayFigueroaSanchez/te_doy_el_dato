@@ -1,0 +1,20 @@
+A
+Argentina
+Canada
+Chile
+Peru
+B
+Venezuela
+Ecuador
+Mexico
+Jamaica
+C
+Uruguay
+Panama
+United States
+Bolivia
+D
+Colombia
+Brasil
+Costa Rica
+Paraguay
