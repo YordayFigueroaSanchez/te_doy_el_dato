@@ -1,3 +1,28 @@
+20240803
+    ¿Que tema prefieres para el siguiente dato?
+    que adjetivos propones para los siguientes animales marmota, cocodrilo y fosa
+        Aquí tienes algunos adjetivos que podrían describir a cada uno de estos animales:
+        ### Marmota
+        - **Juguetona**
+        - **Curiosa**
+        - **Sociable**
+        - **Tranquila**
+        - **Gordita**
+        ### Cocodrilo
+        - **Poderoso**
+        - **Temible**
+        - **Sigiloso**
+        - **Aguerrido**
+        - **Resistente**
+        ### Fosa
+        - **Ágil**
+        - **Astuta**
+        - **Silenciosa**
+        - **Depredadora**
+        - **Elusiva**
+    Marmota juguetona y curiosa
+    Cocodrilo poderoso y temible
+    Fosa ágil y astuta
 20240727
     ¿Qué eliges para un próximo video?
         Zorro
