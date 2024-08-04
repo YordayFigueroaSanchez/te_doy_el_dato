@@ -1,0 +1,22 @@
+recursos
+    https://pangeanimales.com/mamiferos/capibara/
+    https://zooguadalajara.com.mx/animales/detalle/83#:~:text=El%20capibara%20tambi%C3%A9n%20llamado%20carpincho,que%20la%20piel%20es%20visible.
+    https://www.ecologiaverde.com/capibara-que-es-donde-vive-y-que-come-4037.html
+    https://animapedia.org/animales-terrestres/capibara/
+promt para generar guion
+    hola, asume que eres un escrito con experiencia y basado en la informacion del archivo que proporciono, genera un articulo de unos 6 minutos de lectura que sea de facil de entender para la comunidad de youtube
+promt para primer parafo
+    escribe un texto como el siguiente "¡Saludos a todos! Hoy exploraremos el mundo de una majestuosa criatura que ha acompañado al ser humano a lo largo de la historia, jugando un papel crucial en el desarrollo de las civilizaciones. Este ser, con su fuerza, elegancia y espíritu indomable, ha sido un símbolo de libertad y nobleza. Su capacidad para trabajar en armonía con los humanos y su impresionante resistencia nos enseñan valiosas lecciones sobre la colaboración, la fortaleza y la conexión con la naturaleza." pero para el capibara sin mencionar capiraba en el texto
+titles
+    Gigante Amable de Sudamérica
+resources
+    Foto de MESSALA CIULLA: https://www.pexels.com/es-es/foto/agua-animales-grupo-roedores-8310416/
+    Foto de Noe De Angelis : https://www.pexels.com/es-es/foto/animales-plantas-roedores-peludo-13353988/
+    Foto de cassius cardoso: https://www.pexels.com/es-es/foto/capivara-20107849/
+    Foto de Rutpratheep Nilpechr: https://www.pexels.com/es-es/foto/animal-roedor-mamifero-fotografia-de-animales-6596764/
+    Foto de Joel  Alencar : https://www.pexels.com/es-es/foto/naturaleza-pajaro-hierba-cesped-24032085/
+adjetivos
+    Tres adjetivos que describen al capibara son:
+    1. **Sociable**: Los capibaras son conocidos por su comportamiento amigable y su tendencia a vivir en grupos grandes.
+    2. **Pacífico**: Son animales tranquilos y no agresivos, que prefieren la convivencia armoniosa con otros animales.
+    3. **Adaptable**: Pueden vivir en una variedad de hábitats, desde sabanas hasta bosques húmedos, y se adaptan bien a la presencia humana.
