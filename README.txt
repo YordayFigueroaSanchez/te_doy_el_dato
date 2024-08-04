@@ -62,6 +62,7 @@ tiburon ballena                 (S,004)         (S,089)
 tiburon blanco                  (S,042)         (S,090)
 tigre                           (S,043)         (S,091)
 zarigüeya                       (S,021)         (S,092)
-
+recursos
+    https://animapedia.org/nombres-de-animales/
 recursos para subcribe
     https://mega.nz/folder/geUEFKCQ#egxKLgsSlu02BO1G4wdoVQ
