@@ -6,6 +6,7 @@ caracteristicas y curiosidades de los cocodrilos
     https://udare.es/cocodrilos-sus-lagrimas-y-otras-curiosidades/
     https://www.masscoti.com/es/blog/20-curiosidades-sobre-los-cocodrilos-%C2%BFconoce-m%C3%A1s
     https://www.nanolab.com.mx/post/maravillas-ocultas-datos-curiosos-sobre-los-cocodrilos
+    https://www.expertoanimal.com/como-se-reproducen-los-cocodrilos-24928.html
 promt para generar guion
     hola, asume que eres un escrito con experiencia y basado en la informacion del archivo que proporciono, genera un articulo de unos 6 minutos de lectura que sea de facil de entender para la comunidad de youtube
 resources
@@ -28,3 +29,42 @@ caracteristicas
     alimentacion
     donde viven
     ***********
+linea de tiempo
+    0:32 imagenes impactantes
+    2:00 cola alargada
+    2:05 zona ventral blanca (OK)
+    2:32 agil en el agua (OK)
+titles
+    1. **"El Rey del Río: Misterios del Cocodrilo ????"**
+    2. **"Cocodrilos: Depredadores del Pasado y del Presente ?????"**
+    3. **"Los Secretos del Cocodrilo: El Superviviente Prehistórico ????"**
+    4. **"Cocodrilos: La Perfecta Máquina de Caza ????"**
+    5. **"Cocodrilos: Leyendas y Realidades del Rey del Pantano ?????"**
+    6. **"Conoce al Cocodrilo: El Depredador que Nunca Cambió ????"**
+    7. **"Cocodrilos: El Poder Imparable de la Naturaleza ??????"**
+    8. **"Explorando la Vida de los Cocodrilos: Supervivientes del Tiempo ???"**
+    9. **"Cocodrilos: Gigantes del Agua con Historia Ancestral ????"**
+    10. **"El Enigma del Cocodrilo: Un Depredador Milenario ???"**
+    ??El Depredador que Nunca Cambió ??#especies #nature #animals #cocodrilo #fauna #interesante #salvaje 
+tags
+    cocodrilos,
+    cocodrilos africanos,
+    alimentando cocodrilos,
+    apareamiento de cocodrilos,
+    cocodrilos bebes,
+    cocodrilos bebes naciendo,
+    cocodrilos banda,
+    bebes cocodrilos,
+    cocodrilos comiendo cebras,
+    cazador de cocodrilos,
+    como se aparean los cocodrilos,
+    criadero de cocodrilos,
+    cocodrilos de mar,
+    dónde viven los cocodrilos,
+    cocodrilos en el agua,
+    encuentros con cocodrilos,
+    enjambre de cocodrilos
+links
+    https://youtu.be/eyTdJxysv4k
+    https://odysee.com/@yfsanchez:d/cocodrilo-%E2%80%90-Hecho-con-Clipchamp:7
+    https://peakd.com/fauna/@yfsanchez/el-depredador-que-nunca-cambio
