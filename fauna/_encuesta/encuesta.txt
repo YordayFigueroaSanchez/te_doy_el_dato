@@ -1,3 +1,17 @@
+20240825
+    ¿Que tema prefieres para el siguiente dato?
+        Iguana: escamosa, ágil y territorial
+        Mofeta: olorosa, precavida y nocturna
+        Perezoso: lento, somnoliento y solitario
+        Tucán: colorido, exótico y ruidoso  
+    resource
+        Foto de SevenStorm JUHASZIMRUS: https://www.pexels.com/es-es/foto/fotografia-en-primer-plano-de-la-iguana-verde-409802/
+20240824
+    ¿Que tema prefieres para el siguiente dato?
+        Flamenco: elegante, colorido, grácil.
+        Gorrión: pequeño, ágil, discreto.
+        Hormiga: trabajadora, organizada, resistente.
+        Kiwi: curioso, vulnerable, nocturno.
 20240814
     ¿Que tema prefieres para el siguiente dato?
         Hiena manchada  astuta y tenaz
