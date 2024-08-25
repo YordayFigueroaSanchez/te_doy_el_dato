@@ -1,0 +1,7 @@
+resources
+    https://reinoanimalia.fandom.com/es/wiki/Hiena_Manchada
+    https://animalia.bio/es/spotted-hyena
+    https://grupormultimedio.com/las-hienas-caracteristicas-y-curiosidades-id130591/
+    https://www.botanical-online.com/animales/hiena-manchada-caracteristicas
+promnt para generar articulo
+    hola, asume que eres un escrito con experiencia y basado en la informacion del archivo que proporciono, genera un articulo de unos 6 minutos de lectura que sea de facil de entender para la comunidad de youtube y trata de cubrir los siguientes temas caracteristicas fisicas, apareamiento, depredadores, reproduccion, alimentacion y habita.
