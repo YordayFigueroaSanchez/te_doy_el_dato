@@ -33,6 +33,7 @@ gato montés                     (S,001) (S,061)
 gorilas de montaña              (S,018) (S,062)
 guacamayo                       (S,019) (S,063)
 guepardo                        (S,020) (S,064)
+hiena_manchada
 hipopotamo                      (S,025) (S,065)
 increibles_mamas_del_reino_animal
 jaguar                          (S,007) (S,067)
