@@ -1,29 +1,29 @@
 asumiendo 15 minutos de entretiempo
 jornada_01
-JUE 15.08.2024  14:00   27      O. Sancet       (Athletic Club)         Athletic Club       1-0     Getafe CF                   Alejandro Muñiz Ruiz
-JUE 15.08.2024  14:00   64      Uche            (Getafe CF)             Athletic Club       1-1     Getafe CF                   Alejandro Muñiz Ruiz
-JUE 15.08.2024  16:30    6      Bartra          (Real Betis)            Real Betis          1-0     Girona FC                   Miguel Ángel Ortiz Arias
-JUE 15.08.2024  16:30   72      Misehouy        (Girona FC)             Real Betis          1-1     Girona FC                   Miguel Ángel Ortiz Arias
-VIE 16.08.2024  14:00   17      Kike G.         (Deportivo Alavés)      RC Celta            0-1     Deportivo Alavés            Alejandro Quintero González
-VIE 16.08.2024  14:00   66      Williot         (RC Celta)              RC Celta            1-1     Deportivo Alavés            Alejandro Quintero González
-VIE 16.08.2024  14:00   84      Iago Aspas      (RC Celta)              RC Celta            2-1     Deportivo Alavés            Alejandro Quintero González
-VIE 16.08.2024  16:30   25      Álex Suárez     (UD Las Palmas)(OG)     UD Las Palmas       0-1     Sevilla FC                  Francisco José Hernández Maeso
-VIE 16.08.2024  16:30   42      Nianzou         (Sevilla FC)(OG)        UD Las Palmas       1-1     Sevilla FC                  Francisco José Hernández Maeso
-VIE 16.08.2024  16:30   61      Juanlu          (Sevilla FC)            UD Las Palmas       2-1     Sevilla FC                  Francisco José Hernández Maeso
-VIE 16.08.2024  16:30   71      Sandro          (UD Las Palmas)         UD Las Palmas       2-2     Sevilla FC                  Francisco José Hernández Maeso
-SAB 17.08.2024  14:00   22      Cruz            (CD Leganés)            CA Osasuna          0-1     CD Leganés                  Juan Luis Pulido Santana
-SAB 17.08.2024  14:00   79      Juan Soriano    (CD Leganés)(OG)        CA Osasuna          1-1     CD Leganés                  Juan Luis Pulido Santana
-SAB 17.08.2024  16:30   44      Hugo Duro       (Valencia CF)           Valencia CF         1-0     FC Barcelona                José María Sánchez Martínez
-SAB 17.08.2024  16:30   45+5    Lewandowski     (FC Barcelona)          Valencia CF         1-1     FC Barcelona                José María Sánchez Martínez
-SAB 17.08.2024  16:30   49      Lewandowski     (FC Barcelona)          Valencia CF         1-2     FC Barcelona                José María Sánchez Martínez
-DOM 18.08.2024  14:00   67      De Frutos       (Rayo Vallecano)        Real Sociedad       0-1     Rayo Vallecano              Alejandro José Hernández Hernández
-DOM 18.08.2024  14:00   84      Camello         (Rayo Vallecano)        Real Sociedad       0-2     Rayo Vallecano              Alejandro José Hernández Hernández
-DOM 18.08.2024  14:00   90+8    Zubimendi       (Real Sociedad)         Real Sociedad       1-2     Rayo Vallecano              Alejandro José Hernández Hernández
-DOM 18.08.2024  16:30   13      Rodrygo         (Real Madrid)           RCD Mallorca        0-1     Real Madrid                 César Soto Grado
-DOM 18.08.2024  16:30   53      Muriqi          (RCD Mallorca)          RCD Mallorca        1-1     Real Madrid                 César Soto Grado
-LUN 19.08.2024  14:00   23      Moro            (Real Valladolid CF)    Real Valladolid CF  1-0     RCD Espanyol de Barcelona   Pablo González Fuertes
-LUN 19.08.2024  16:30   18      Danjuma         (Villarreal CF)         Villarreal CF       1-0     Atlético de Madrid          Guillermo Cuadra Fernández
-LUN 19.08.2024  16:30   20      M. Llorente     (Atlético de Madrid)    Villarreal CF       1-1     Atlético de Madrid          Guillermo Cuadra Fernández
-LUN 19.08.2024  16:30   37      Koke(OG)        (Atlético de Madrid)    Villarreal CF       2-1     Atlético de Madrid          Guillermo Cuadra Fernández
-LUN 19.08.2024  16:30   45+5    Sørloth         (Atlético de Madrid)    Villarreal CF       2-2     Atlético de Madrid          Guillermo Cuadra Fernández
+001 JUE 15.08.2024  14:00   27      O. Sancet                   (Athletic Club)         Athletic Club       1-0     Getafe CF                   Alejandro Muñiz Ruiz
+002 JUE 15.08.2024  14:00   64      Uche                        (Getafe CF)             Athletic Club       1-1     Getafe CF                   Alejandro Muñiz Ruiz
+003 JUE 15.08.2024  16:30    6      Bartra                      (Real Betis)            Real Betis          1-0     Girona FC                   Miguel Ángel Ortiz Arias
+004 JUE 15.08.2024  16:30   72      Misehouy                    (Girona FC)             Real Betis          1-1     Girona FC                   Miguel Ángel Ortiz Arias
+005 VIE 16.08.2024  14:00   17      Kike G.                     (Deportivo Alavés)      RC Celta            0-1     Deportivo Alavés            Alejandro Quintero González
+006 VIE 16.08.2024  14:00   66      Williot                     (RC Celta)              RC Celta            1-1     Deportivo Alavés            Alejandro Quintero González
+007 VIE 16.08.2024  14:00   84      Iago Aspas                  (RC Celta)              RC Celta            2-1     Deportivo Alavés            Alejandro Quintero González
+008 VIE 16.08.2024  16:30   25      Álex Suárez     (OG)        (UD Las Palmas)         UD Las Palmas       0-1     Sevilla FC                  Francisco José Hernández Maeso
+009 VIE 16.08.2024  16:30   42      Nianzou         (OG)        (Sevilla FC)            UD Las Palmas       1-1     Sevilla FC                  Francisco José Hernández Maeso
+010 VIE 16.08.2024  16:30   61      Juanlu                      (Sevilla FC)            UD Las Palmas       2-1     Sevilla FC                  Francisco José Hernández Maeso
+011 VIE 16.08.2024  16:30   71      Sandro                      (UD Las Palmas)         UD Las Palmas       2-2     Sevilla FC                  Francisco José Hernández Maeso
+012 SAB 17.08.2024  14:00   22      Cruz                        (CD Leganés)            CA Osasuna          0-1     CD Leganés                  Juan Luis Pulido Santana
+013 SAB 17.08.2024  14:00   79      Juan Soriano    (OG)        (CD Leganés)            CA Osasuna          1-1     CD Leganés                  Juan Luis Pulido Santana
+014 SAB 17.08.2024  16:30   44      Hugo Duro                   (Valencia CF)           Valencia CF         1-0     FC Barcelona                José María Sánchez Martínez
+015 SAB 17.08.2024  16:30   45+5    Lewandowski                 (FC Barcelona)          Valencia CF         1-1     FC Barcelona                José María Sánchez Martínez
+016 SAB 17.08.2024  16:30   49      Lewandowski                 (FC Barcelona)          Valencia CF         1-2     FC Barcelona                José María Sánchez Martínez
+017 DOM 18.08.2024  14:00   67      De Frutos                   (Rayo Vallecano)        Real Sociedad       0-1     Rayo Vallecano              Alejandro José Hernández Hernández
+018 DOM 18.08.2024  14:00   84      Camello                     (Rayo Vallecano)        Real Sociedad       0-2     Rayo Vallecano              Alejandro José Hernández Hernández
+019 DOM 18.08.2024  14:00   90+8    Zubimendi                   (Real Sociedad)         Real Sociedad       1-2     Rayo Vallecano              Alejandro José Hernández Hernández
+020 DOM 18.08.2024  16:30   13      Rodrygo                     (Real Madrid)           RCD Mallorca        0-1     Real Madrid                 César Soto Grado
+021 DOM 18.08.2024  16:30   53      Muriqi                      (RCD Mallorca)          RCD Mallorca        1-1     Real Madrid                 César Soto Grado
+022 LUN 19.08.2024  14:00   23      Moro                        (Real Valladolid CF)    Real Valladolid CF  1-0     RCD Espanyol de Barcelona   Pablo González Fuertes
+023 LUN 19.08.2024  16:30   18      Danjuma                     (Villarreal CF)         Villarreal CF       1-0     Atlético de Madrid          Guillermo Cuadra Fernández
+024 LUN 19.08.2024  16:30   20      M. Llorente                 (Atlético de Madrid)    Villarreal CF       1-1     Atlético de Madrid          Guillermo Cuadra Fernández
+025 LUN 19.08.2024  16:30   37      Koke            (OG)        (Atlético de Madrid)    Villarreal CF       2-1     Atlético de Madrid          Guillermo Cuadra Fernández
+026 LUN 19.08.2024  16:30   45+5    Sørloth                     (Atlético de Madrid)    Villarreal CF       2-2     Atlético de Madrid          Guillermo Cuadra Fernández
 jornada_02

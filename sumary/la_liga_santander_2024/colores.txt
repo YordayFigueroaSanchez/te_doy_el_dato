@@ -1,0 +1,35 @@
+Argentina: #74abde
+Ecuador: #fedc00
+Venezuela: #ce142a
+USA: #3c3a6d
+Mexico: #006846
+Colombia: #fbd116
+Paraguay: #0038a8
+Uruguay: #8da6d8
+Panama: #da121a
+Canada: #fe0000
+Jamaica: #fdd100
+Brasil: #009a3a
+Bolivia: #007934
+Costa Rica: #cd1126
+
+Athletic: #c11922
+Getafe: #2468aa
+Real Betis: #4c863e
+Girona: 
+Celta: 
+Deportivo Alavés: #0c369c
+Las Palmas: 
+Sevilla: 
+Osasuna: 
+Leganés: 
+Valencia: 
+Barcelona: 
+Real Sociedad: 
+Rayo Vallecano: 
+Mallorca: 
+Real Madrid: 
+Real Valladolid: 
+Espanyol: 
+Villarreal: 
+Atlético de Madrid: 
