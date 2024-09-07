@@ -86,7 +86,7 @@ Estrella de mar             |
 Facóquero común             |
 Faetón                      |
 Faisán                      |
-Flamenco                    |
+Flamenco                    |x
 Fosa                        |
 Frailecillo común           |
 Fregata                     |
@@ -98,13 +98,13 @@ Garza                       |
 Gavial                      |
 Gecko                       |
 Glotón                      |
-Gorrión                     |
-Grulla                      |
+Gorrión                     |x
+Grulla                      |x
 Guppy                       |
 Halcón                      |
 Hámster                     |
 Hiena                       |
-Hormiga                     |
+Hormiga                     |x
 Hurón                       |
 Ibis                        |
 Iguana                      |x
@@ -112,7 +112,7 @@ Impala                      |
 Indri                       |
 Jabalí                      |
 Kakapo                      |
-Kiwi                        |
+Kiwi                        |x
 Labridae                    |
 Lagarto                     |
 Lagarto caimán del norte    |
@@ -148,10 +148,10 @@ Numbat                      |
 Nutria                      |
 Orangután                   |
 Oropéndola                  |
-Oruga                       |
+Oruga                       |x
 Oryx                        |                       
 Ostra                       |
-Oveja                       |
+Oveja                       |x
 Pájaro carpintero           |
 Pantera negra               |
 Pato                        |
@@ -171,7 +171,7 @@ Pez león                    |
 Pez mariposa                |
 Pez Payaso                  |
 Pingüino                    |
-Piraña                      |
+Piraña                      |x
 Polilla                     |
 Pollo                       |
 Proteo                      |
