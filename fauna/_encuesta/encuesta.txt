@@ -1,3 +1,11 @@
+20240906
+    tres adjetivos para cada uno de los siguientes animales Piraña,Oveja,Oruga y Grulla
+    Piraña: voraz, afilada, ágil. Oveja: mansa, lanuda, tranquila. Oruga: metamórfica, segmentada, voraz. Grulla: elegante, grácil, altiva.
+    ¿Que tema prefieres para el siguiente dato?
+        Piraña: voraz, afilada, ágil.
+        Oveja: mansa, lanuda, tranquila.
+        Oruga: metamórfica, segmentada, voraz.
+        Grulla: elegante, grácil, altiva.  
 20240825
     ¿Que tema prefieres para el siguiente dato?
         Iguana: escamosa, ágil y territorial
