@@ -1,2 +1,34 @@
-https://www.mundomar.es/blog/nutrias-datos-y-curiosidades/
-http://www.nutriapedia.com/anatomia-nutrias/
+url
+    https://www.mundomar.es/blog/nutrias-datos-y-curiosidades/
+    http://www.nutriapedia.com/anatomia-nutrias/
+promnt para generar articulo
+    hola, asume que eres un escrito con experiencia y basado en la informacion del archivo que proporciono, genera un articulo de unos 6 minutos de lectura que sea de facil de entender para la comunidad de youtube y trata de cubrir los siguientes temas caracteristicas fisicas, apareamiento, depredadores, reproduccion, alimentacion y habita.
+    hola, asume que eres un escritor con experiencia y basado en la informacion del archivo que proporciono, genera un articulo de unos 10 parafos que sea de facil de entender para la comunidad de youtube.
+titulos
+    Nutrias: Expertas del Agua ?? y la Tierra ??
+    La Fascinante Vida de las Nutrias: Adaptabilidad y Supervivencia ??
+    Nutrias: Depredadoras Ingeniosas del Mundo Acuático ????
+    Pelaje, Bigotes y Destreza: El Mundo Secreto de las Nutrias ????
+    Nutrias: Guardianes de Ríos y Mares ?????
+    Las Nutrias: Adaptaciones Sorprendentes en Tierra y Agua ????
+    Nutrias: Cazadoras Inteligentes con un Toque de Ingenio ????
+    El Universo de las Nutrias: Supervivencia, Caza y Familia ??????????
+    Vida Acuática: Nutrias, los Maestros del Ecosistema ????
+    De Cazadoras a Ingenieras: La Nutria y su Fascinante Mundo ????
+titulo
+    ??Expertas del Agua??
+adjetivos
+    Ingeniosa, ágil, sociable.
+tags    
+nutrias,
+nutria gigante,
+nutrias bebes,
+nutria bañandose,
+nutria comiendo almejas,
+nutria cazando,
+nutria de agua,
+otters,
+otters playing,
+otter baby,
+otter eating,
+otter eating fish
