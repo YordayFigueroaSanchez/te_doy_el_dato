@@ -99,7 +99,7 @@ Gavial                      |
 Gecko                       |
 Glotón                      |
 Gorrión                     |x
-Grulla                      |x
+Grulla                      |x-VIDEO
 Guppy                       |
 Halcón                      |
 Hámster                     |
@@ -131,7 +131,7 @@ Mantarraya                  |
 Mapache                     |
 Mariposa                    |
 Mariquita                   |
-Marmota                     |
+Marmota                     |x
 Martín pescador             |
 Milpiés                     |
 Mirlo común                 |
@@ -170,7 +170,7 @@ Pez globo                   |
 Pez león                    |
 Pez mariposa                |
 Pez Payaso                  |
-Pingüino                    |
+Pingüino                    |x
 Piraña                      |x
 Polilla                     |
 Pollo                       |
@@ -195,7 +195,7 @@ Reno                        |
 Rorcual                     |
 Ruiseñor                    |
 Salamandra                  |
-Saltamontes                 |
+Saltamontes                 |x
 Sapo africano               |
 Sapo común                  |
 Sapo de caña                |
@@ -207,7 +207,7 @@ Serpiente                   |
 Sula patiazul               |
 Termita                     |
 Tiburón mielga              |
-Topo                        |
+Topo                        |x
 Tortuga                     |
 Tucán                       |x
 Tucán pico iris             |

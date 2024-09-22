@@ -1,3 +1,11 @@
+20240922
+    tres adjetivos para cada uno de los siguientes animales Marmota Pingüino,Saltamontes y Topo. Quiero la respuesta con el animal : y los tres adjetivos separados por coma.
+    Claro, aquí tienes:
+    ¿Que tema prefieres para el siguiente dato?
+        Marmota:curiosa, ágil, peluda
+        Pingüino:elegante, sociable, torpe
+        Saltamontes:saltarín, verde, sigiloso
+        Topo:escurridizo, ciego, subterráneo
 20240906
     tres adjetivos para cada uno de los siguientes animales Piraña,Oveja,Oruga y Grulla
     Piraña: voraz, afilada, ágil. Oveja: mansa, lanuda, tranquila. Oruga: metamórfica, segmentada, voraz. Grulla: elegante, grácil, altiva.
