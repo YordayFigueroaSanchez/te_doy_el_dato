@@ -31,6 +31,7 @@ gacela                          (S,017) (S,059)
 gato                            (S,024) (S,060)
 gato montés                     (S,001) (S,061)
 gorilas de montaña              (S,018) (S,062)
+grulla
 guacamayo                       (S,019) (S,063)
 guepardo                        (S,020) (S,064)
 hiena_manchada
