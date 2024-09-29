@@ -36,6 +36,7 @@ guacamayo                       (S,019) (S,063)
 guepardo                        (S,020) (S,064)
 hiena_manchada
 hipopotamo                      (S,025) (S,065)
+iguana                          9shorts
 increibles_mamas_del_reino_animal
 jaguar                          (S,007) (S,067)
 jirafa                          (S,026) (S,068)
@@ -66,6 +67,7 @@ tejon melero                                    (S,088)
 tiburon ballena                 (S,004)         (S,089)
 tiburon blanco                  (S,042)         (S,090)
 tigre                           (S,043)         (S,091)
+tucan                           (PENDIENTE) 
 zarigüeya                       (S,021)         (S,092)
 recursos
     https://animapedia.org/nombres-de-animales/

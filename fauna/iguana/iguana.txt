@@ -1,1 +1,42 @@
-iguana 
+adjetivos
+    Tres adjetivos que describen a la iguana serían: **resiliente**, **ágil** y **camaleónica**.
+    resiliente
+    ágil
+    camaleónica
+tags
+    iguana,
+iguanas verdes,
+iguanas grandes,
+iguana iguana,
+iguana atacando,
+iguana adulta,
+iguana corriendo,
+iguana corriendo en dos patas,
+iguana comiendo,
+iguana de mascota,
+danza de la iguana,
+iguana escapa de serpientes
+titles
+    El Fascinante Mundo de las Iguanas: Adaptación y Supervivencia en los Ecosistemas Tropicales
+    Iguanas: Maestras del Camuflaje y la Supervivencia
+    Iguanas: Habitantes Exóticos de los Trópicos y su Importancia Ecológica
+    La Iguana: Un Reptil Tropical con Habilidades Sorprendentes
+    Conociendo a la Iguana: Un Vistazo a su Vida en los Trópicos
+    Iguanas: Resiliencia, Adaptación y el Rol en su Ecosistema
+    Iguanas en la Naturaleza: Características, Hábitat y Conservación
+    Todo Sobre las Iguanas: De los Árboles al Agua y Más Allá
+titulo
+    ??Maestras del Camuflaje y la Supervivencia??#animals #faunasalvaje #especies #naturaleza #iguana 
+url
+    https://youtu.be/vRizI7dbWQs
+shorts
+    s_0127_iguana.mp4
+    s_0128_iguana.mp4
+    s_0129_iguana.mp4
+    s_0130_iguana.mp4
+    s_0131_iguana.mp4
+    s_0132_iguana.mp4
+    s_0133_iguana.mp4
+    s_0134_iguana.mp4
+    s_0135_iguana.mp4
+    
