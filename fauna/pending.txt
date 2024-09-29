@@ -1,7 +1,7 @@
 Abejaruco Esmeralda         |
 Abejorro                    |
 Acara azul eléctrico        |
-Ajolote                     |                       
+Ajolote                     |x                       
 Albatros                    |
 Almeja gigante              |
 Anguila eléctrica           |
@@ -9,14 +9,14 @@ Anguila morena              |
 Antílope                    |
 Ardilla                     |
 Armadillo                   |
-Armiño                      |
+Armiño                      |x
 Ascidias                    |
 Ave del paraíso             |
 Avispa                      |
 Avispón asiático gigante    |
 Avoceta                     |
 Babosa de mar               |
-Babuino                     |
+Babuino                     |x
 Barbo                       |
 Barracuda                   |
 Búfalo                      |

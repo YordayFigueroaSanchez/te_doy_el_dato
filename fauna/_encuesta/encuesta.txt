@@ -1,3 +1,9 @@
+20240929
+    tres adjetivos para cada uno de los siguientes animales Ajolote, Armiño y Babuino. Quiero la respuesta con el animal : y los tres adjetivos separados por coma.
+    ¿Que tema prefieres para el siguiente dato?
+    Ajolote: curioso, regenerativo, acuático
+    Armiño: ágil, elegante, esquivo
+    Babuino: robusto, social, territorial
 20240922
     tres adjetivos para cada uno de los siguientes animales Marmota Pingüino,Saltamontes y Topo. Quiero la respuesta con el animal : y los tres adjetivos separados por coma.
     Claro, aquí tienes:
