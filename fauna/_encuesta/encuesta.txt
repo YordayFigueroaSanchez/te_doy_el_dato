@@ -1,3 +1,9 @@
+20241006
+    tres adjetivos para cada uno de los siguientes animales Casuario, Dugongo y Halcón peregrino. Quiero la respuesta con el animal : y los tres adjetivos separados por coma.
+    ¿Que tema prefieres para el siguiente dato?
+    Casuario: imponente, colorido, agresivo.
+    Dugongo: pacífico, robusto, acuático.
+    Halcón peregrino: veloz, preciso, poderoso.
 20240929
     tres adjetivos para cada uno de los siguientes animales Ajolote, Armiño y Babuino. Quiero la respuesta con el animal : y los tres adjetivos separados por coma.
     ¿Que tema prefieres para el siguiente dato?

@@ -38,7 +38,7 @@ Canguro                     |
 Cárabo común                |
 Caracal                     |
 Caracol                     |
-Casuario                    |
+Casuario                    |x
 Cebú                        |
 Cerdo                       |
 Cerdo hormiguero            |
@@ -68,12 +68,12 @@ Cucaracha                   |
 Demonio de Tasmania         |
 Dientes de sable            |
 Dingo                       |
-Dodo                        |
+Dodo                        |extinta
 Dólar de plata              |
 Dragón de agua asiático     |
 Dragón de agua australiano  |
 Dragón de mar foliáceo      |
-Dugongo                     |
+Dugongo                     |x
 Emperador púrpura           |
 Emú común                   |
 Erizo                       |
@@ -102,6 +102,7 @@ Gorrión                     |x
 Grulla                      |x-VIDEO
 Guppy                       |
 Halcón                      |
+Halcón peregrino            |x
 Hámster                     |
 Hiena                       |
 Hormiga                     |x
