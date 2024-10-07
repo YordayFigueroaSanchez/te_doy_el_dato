@@ -211,7 +211,7 @@ Termita                     |
 Tiburón mielga              |
 Topo                        |x
 Tortuga                     |
-Tucán                       |x
+Tucán                       |x-VIDEO
 Tucán pico iris             |
 Urraca común                |
 Vaca                        |
