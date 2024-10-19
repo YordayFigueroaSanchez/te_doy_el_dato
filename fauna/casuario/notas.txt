@@ -1,0 +1,4 @@
+promnt para generar articulo
+    hola, asume que eres un escritor con experiencia y basado en la informacion proporcionada anteriormente, genera un articulo de unos 12 parafos que sea de facil de entender para la comunidad de youtube. Trando los temas de Reproducción, que comen, Caracteristicas de la especie, si tienen depredadores.
+titles
+    # El Casuario: El Ave Más Peligrosa del Mundo
