@@ -17,7 +17,8 @@ buey almizclero                 (S,003) (S,051)
 buitre leonado                          (S,075)
 caballo
 Capibara                        6shorts
-castor                           9shorts                           
+castor                           9shorts  
+casuario                         
 cebra                                           (S,087)
 ciervos                         (S,028) (S,052)
 cocodrilo                       8shorts
