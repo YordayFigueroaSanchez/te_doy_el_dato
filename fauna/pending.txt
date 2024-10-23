@@ -49,7 +49,7 @@ Chinchilla                  |
 Cíclido                     |
 Ciempiés                    |
 Cigüeña                     |
-Cisne                       |X
+Cisne                       |X-Seleccionado
 Civeta africana             |
 Civeta de las palmeras común|
 Civeta malaya               |
