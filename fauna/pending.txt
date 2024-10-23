@@ -84,7 +84,7 @@ Espátula rosada             |
 Esponjas de mar             |
 Estrella de mar             |
 Facóquero común             |
-Faetón                      |
+Faetón                      |y
 Faisán                      |
 Flamenco                    |x
 Fosa                        |
@@ -126,7 +126,7 @@ Liebre                      |
 Loro                        |
 Luchador de Siam            |
 Luciérnaga                  |
-Lucio                       |
+Lucio                       |y
 Mandril                     |
 Mangosta                    |
 Mantarraya                  |
@@ -158,7 +158,7 @@ Pájaro carpintero           |
 Pantera negra               |
 Pato                        |
 Pavo                        |
-Pelícano                    |
+Pelícano                    |y
 Peramélido                  |
 Percebe                     |
 Perezoso                    |x
