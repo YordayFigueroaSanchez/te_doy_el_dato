@@ -1,7 +1,7 @@
 promnt para generar articulo
     hola, asume que eres un escritor con experiencia y basado en la informacion del archivo que proporciono, genera un articulo de unos 12 parafos que sea de facil de entender para la comunidad de youtube. Trando los temas de Reproducción, que comen, Caracteristicas de la especie, si tienen depredadores.
 titles
-    ### El Axolote Mexicano: Un Anfibio Fascinante en Peligro
+    ??????Axolote : Fascinante y en peligro #naturaleza #especies #animales #animals #axolote #fauna
 adjetivos
     promnt
         tres adjetivos que identifiquen al ajolote
@@ -11,3 +11,21 @@ adjetivos
         2. **Acuático**: Vive en ambientes acuáticos, especialmente en lagos y canales.
         3. **Simpatético**: Su apariencia y comportamiento suelen resultar entrañables y curiosos. 
         Regenerativo, Acuático, Simpatético
+tags
+axolote,
+axolotes mexicanos,
+ajolote,
+ajolote mexicano,
+ajolote azul,
+ajolote adulto,
+acuario ajolote,
+ajolote bebe,
+ajolote cuidados,
+ajolote comiendo,
+ajolote con patas,
+ajolote dorado,
+aquario de axolote,
+ajolote en pecera,
+ajolote en peligro de extinción
+url
+    https://youtu.be/7YtiIV7lYsA
