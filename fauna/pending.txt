@@ -158,7 +158,7 @@ Pájaro carpintero           |
 Pantera negra               |
 Pato                        |
 Pavo                        |
-Pelícano                    |y
+Pelícano                    |y-Seleccionado
 Peramélido                  |
 Percebe                     |
 Perezoso                    |x
