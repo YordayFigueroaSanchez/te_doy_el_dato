@@ -1,16 +1,16 @@
 promnt para generar articulo
-    hola, asume que eres un escritor con experiencia y basado en la informacion proporcionada anteriormente, genera un articulo de unos 12 parafos que sea de facil de entender para la comunidad de youtube. Trando los temas de Reproducci�n, que comen, Caracteristicas de la especie, si tienen depredadores.
+    hola, asume que eres un escritor con experiencia y basado en la informacion proporcionada anteriormente, genera un articulo de unos 12 parafos que sea de facil de entender para la comunidad de youtube. Trando los temas de Reproduccion, que comen, Caracteristicas de la especie, si tienen depredadores.
 titles
-    # El Casuario: El Ave M�s Peligrosa del Mundo
+    # El Casuario: El Ave Mas Peligrosa del Mundo
 adjetivos
     promnt
         tres adjetivos que identifiquen al casuario
     result
-        Tres adjetivos que podr�an identificar al casuario son:
+        Tres adjetivos que podrian identificar al casuario son:
         1. Imponente
-        2. �gil
+        2. Agil
         3. Reservado
-        Imponente, �gil, Reservado
+        Imponente, agil, Reservado
 tags
 casuario,
 casuario es peligroso,
@@ -20,12 +20,12 @@ que es un casuario,
 casuario attack,
 el casuario es peligroso,
 casuario ave atacando,
-casuario ave m�s peligrosa,
+casuario ave mas peligrosa,
 casuario ave peligrosa,
 ave casuario,
 animal casuario,
 ataque de casuario,
-ave casuario tama�o,
+ave casuario tamano,
 bebe casuario,
 casuario cria,
 casuario eggs,
