@@ -22,6 +22,7 @@ castor                           9shorts
 casuario                         
 cebra                                           (S,087)
 ciervos                         (S,028) (S,052)
+cisne
 cocodrilo                       8shorts
 colibri  [<<<MEJORA>>>]         (S,014) (S,053) 7shorts
 delfin                          (S,002) (S,054)
