@@ -158,7 +158,8 @@ Pájaro carpintero           |
 Pantera negra               |
 Pato                        |
 Pavo                        |
-Pelícano                    |y-Seleccionado
+Pelícano(genero)            |y-Seleccionado
+Pelícano comun              |
 Peramélido                  |
 Percebe                     |
 Perezoso                    |x
@@ -213,6 +214,7 @@ Topo                        |x
 Tortuga                     |
 Tucán                       |x-VIDEO
 Tucán pico iris             |
+Turaco                      |                       (ave)(https://www.faunia.es/planea-tu-visita/animales/turaco)
 Urraca común                |
 Vaca                        |
 Vaca marina de Steller      |
