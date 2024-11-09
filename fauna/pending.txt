@@ -131,7 +131,9 @@ Mandril                     |
 Mangosta                    |
 Mantarraya                  |
 Mapache                     |
-Mariposa                    |
+Mariposa arlequin           |
+Mariposa monarca            |
+Mariposa genero             |x               https://concepto.de/mariposas/
 Mariquita                   |
 Marmota                     |x
 Martín pescador             |
@@ -155,9 +157,10 @@ Oryx                        |
 Ostra                       |
 Oveja                       |x
 Pájaro carpintero           |
-Pantera negra               |
+Pantera negra               |no seria una especie (https://www.publico.es/yo-animal/sabias-que-las-panteras-negras-no-existen/)
 Pato                        |
-Pavo                        |
+pavo doméstico              |x          (Meleagris gallopavo domesticus)
+pavo real                   |
 Pelícano(genero)            |y-Seleccionado
 Pelícano comun              |
 Peramélido                  |
