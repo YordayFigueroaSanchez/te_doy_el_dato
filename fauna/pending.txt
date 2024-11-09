@@ -89,7 +89,7 @@ Faisán                      |
 Flamenco                    |x
 Fosa                        |
 Frailecillo común           |
-Fregata                     |
+Fregata                     |x-Seleccionado
 Gallina de Guinea           |
 Gallineta común             |
 Gamba                       |
@@ -112,7 +112,7 @@ Iguana                      |x-VIDEO
 Iguana marina               |
 Impala                      |
 Indri                       |
-Jabalí                      |
+Jabalí                      |x
 Kakapo                      |
 Kiwi                        |x
 Labridae                    |
@@ -149,7 +149,7 @@ Musaraña                    |
 Numbat                      |
 Nutria                      |VIDEO
 Orangután                   |
-Oropéndola                  |
+Oropéndola                  |x
 Oruga                       |x
 Oryx                        |                       
 Ostra                       |
