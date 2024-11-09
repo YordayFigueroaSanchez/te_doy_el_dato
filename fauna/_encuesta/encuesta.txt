@@ -1,3 +1,14 @@
+20241109
+    Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales Pez globo, Mariposa y pavo domestico. Quiero la respuesta con el animal : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
+    ¿Que tema prefieres para el siguiente dato?
+    Cisne: elegante, majestuoso, grácil  
+    Coyote: astuto, adaptable, travieso  
+    Ibis: colorido, sociable, curioso
+    Result
+        ¿Qué tema prefieres para el siguiente dato?  
+        Pez globo: curioso, defensivo, fascinante  
+        Mariposa: colorida, frágil, efímera  
+        Pavo doméstico: sociable, vistoso, territorial   
 20241030
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales fregata, oropendola y jabali. Quiero la respuesta con el animal : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
     ¿Que tema prefieres para el siguiente dato?
