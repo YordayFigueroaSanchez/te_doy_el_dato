@@ -1,1 +1,30 @@
 https://mexico.inaturalist.org/taxa/4324-Pelecanus
+
+promnt para generar articulo
+    hola, asume que eres un escritor con experiencia y basado en la informacion proporcionada anteriormente, genera un articulo de unos 12 parafos que sea de facil de entender para la comunidad de youtube. Trando los temas de Reproduccion, que comen, Caracteristicas de la especie, si tienen depredadores.
+primer parrafo
+    puedes escribir un parrafo como el siguiente pero sobre el pelicano y sin mencionar al pelicano . "¡Hola a todos! Hoy exploraremos a una fascinante ave que habita en las selvas tropicales de Oceanía, conocida por su tamaño imponente y su distintivo casco en la cabeza. Este majestuoso ser se mueve con una gracia sorprendente a pesar de su robustez, y es capaz de recorrer grandes distancias en su hábitat. Sus plumajes brillantes y su comportamiento territorial lo convierten en una de las aves más intrigantes de su ecosistema. Además, su dieta variada le permite desempeñar un papel esencial en la dispersión de semillas, contribuyendo así a la salud del bosque. Sin duda, es un emblema de la biodiversidad que merece ser conocido y protegido."
+adjetivos
+    promnt
+        tres adjetivos que identifiquen al genero pelicano
+    result
+        Tres adjetivos que identifican al género de estas aves son: **imponentes**, **sociables** y **adaptables **.
+    Imponentes, Sociables, Adaptables 
+tags
+pelicano,
+pelícanos,
+pelicanos comiendo animales,
+pelicano comiendo,
+pelicano atrapando peces,
+pelicano ave,
+pelicano ataca,
+pelicano alimentandose,
+banda del pelicano,
+bebe pelicano,
+pelicano comiendo pescado,
+pelicano cazando,
+pelicano cazando peces,
+pelicano en el mar,
+el pelicano
+title
+    ?? ?? ?? ??Maestros de los Mares y Cielos?? #especies #animales #animals #fauna #pelicano @tedoyeldato
