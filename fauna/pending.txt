@@ -133,7 +133,7 @@ Mantarraya                  |
 Mapache                     |
 Mariposa arlequin           |
 Mariposa monarca            |
-Mariposa genero             |x               https://concepto.de/mariposas/
+Mariposa genero             |x-Seleccionado               https://concepto.de/mariposas/
 Mariquita                   |
 Marmota                     |x
 Martín pescador             |
