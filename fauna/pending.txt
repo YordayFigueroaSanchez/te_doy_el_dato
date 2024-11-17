@@ -122,7 +122,7 @@ Langosta                    |
 Lechuza común               |
 León marino                 |
 Libélula                    |
-Liebre                      |
+Liebre                      |x
 Loro                        |
 Luchador de Siam            |
 Luciérnaga                  |
@@ -148,7 +148,7 @@ Mula                        |
 Murciélago                  |
 Murciélago vampiro          |
 Musaraña                    |
-Numbat                      |
+Numbat                      |x
 Nutria                      |VIDEO
 Orangután                   |
 Oropéndola                  |x
@@ -197,7 +197,7 @@ Ranita monte Iberia         |
 Rata                        |
 Ratón común                 |
 Raya                        |
-Reno                        |
+Reno                        |x
 Rorcual                     |
 Ruiseñor                    |
 Salamandra                  |
