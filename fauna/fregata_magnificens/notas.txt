@@ -1,0 +1,37 @@
+promnt para generar articulo
+    hola, asume que eres un escritor con experiencia y basado en la informacion proporcionada anteriormente, genera un articulo de unos 12 parafos que sea de facil de entender para la comunidad de youtube. Trando los temas de Reproduccion, que comen, Caracteristicas de la especie, si tienen depredadores.
+promnt para generar el parrafo de presentacion
+    promnt
+        tomoando el siguiente tecto "Estas aves rara vez aterrizan en el agua, a pesar de tener patas palmeadas, porque sus plumas no son impermeables. Se les llama "pájaros carabela" por su habilidad para robar comida a otras aves marinas. El tiempo de crianza de un polluelo es uno de los más largos entre las aves marinas, alcanzando casi un año de dependencia con la madre." crea un parrafo como el siguiente "¡Hola a todos! Hoy exploraremos a una fascinante ave que habita en las selvas tropicales de Oceanía, conocida por su tamaño imponente y su distintivo casco en la cabeza. Este majestuoso ser se mueve con una gracia sorprendente a pesar de su robustez, y es capaz de recorrer grandes distancias en su hábitat. Sus plumajes brillantes y su comportamiento territorial lo convierten en una de las aves más intrigantes de su ecosistema. Además, su dieta variada le permite desempeñar un papel esencial en la dispersión de semillas, contribuyendo así a la salud del bosque. Sin duda, es un emblema de la biodiversidad que merece ser conocido y protegido." pero para el animal Fragata sin mencionanr el nombre en el parrafo
+    result
+        ¡Hola a todos! Hoy nos sumergiremos en el mundo de una ave marina verdaderamente sorprendente, conocida por su elegante vuelo y su asombrosa destreza en el aire. A pesar de contar con patas palmeadas, rara vez se posa en el agua debido a una curiosa característica de su plumaje. Su habilidad para obtener alimento es tan impresionante que incluso puede recurrir al ingenio para aprovecharse de otras aves. Además, el cuidado que brinda a sus crías es excepcional, con un periodo de crianza que destaca por ser uno de los más largos entre las aves de su tipo. Sin duda, es un símbolo de adaptabilidad y resistencia en el ecosistema marino.
+adjetivos
+    promnt
+        tres adjetivos que identifiquen a la fragata
+    result
+        1. **Elegante** (por su vuelo ágil y estilizado).  
+        2. **Impresionante** (por su capacidad para hinchar su bolsa gular roja en los machos).  
+        3. **Astuta** (por su habilidad para robar alimento a otras aves en pleno vuelo).  
+    Elegante,Impresionante,Astuta
+titles
+    Aquí tienes algunas sugerencias de títulos cortos basados en la información del archivo:
+    1. **Fragata magnífica: reina del aire marino**  
+    2. **El vuelo majestuoso de la fragata**  
+    3. **El ave con la bolsa gular roja**  
+    4. **Fragata: maestra del cleptoparasitismo**  
+    5. **Cuidado parental en la fragata magnífica**  
+    6. **Desafíos de conservación de la fragata**  
+    7. **Fragata: adaptación y resistencia**  
+    8. **La fragata magnífica y su ecosistema**  
+    9. **El cortejo único de la fragata**  
+    10. **Fragata magnífica: símbolo del océano tropical**
+    ??El ave con la bolsa gular roja??
+tags
+    fregata magnificens,
+fragata,
+ave fragata,
+aves fragatas,
+fragata ave,
+grupo fragata,
+fragata pajaro,
+pajaro fragata
