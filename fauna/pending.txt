@@ -89,7 +89,7 @@ Faisán                      |
 Flamenco                    |x
 Fosa                        |
 Frailecillo común           |
-Fregata                     |x-Seleccionado
+Fregata                     |x-Seleccionado-VIDEO
 Gallina de Guinea           |
 Gallineta común             |
 Gamba                       |
@@ -161,7 +161,7 @@ Pantera negra               |no seria una especie (https://www.publico.es/yo-ani
 Pato                        |
 pavo doméstico              |x          (Meleagris gallopavo domesticus)
 pavo real                   |
-Pelícano(genero)            |y-Seleccionado
+Pelícano(genero)            |y-Seleccionado-VIDEO
 Pelícano comun              |
 Peramélido                  |
 Percebe                     |
@@ -197,7 +197,7 @@ Ranita monte Iberia         |
 Rata                        |
 Ratón común                 |
 Raya                        |
-Reno                        |x
+Reno                        |x-Seleccionado
 Rorcual                     |
 Ruiseñor                    |
 Salamandra                  |
