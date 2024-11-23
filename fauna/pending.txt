@@ -43,7 +43,7 @@ Cebú                        |
 Cerdo                       |
 Cerdo hormiguero            |
 Cetia japonés               |
-Chacal                      |
+Chacal                      |X
 Chimpancé                   |
 Chinchilla                  |
 Cíclido                     |
@@ -60,7 +60,7 @@ Cocodrillo                  |
 Cocodrilo                   |
 Codorniz común              |
 Colimbo grande              |
-Comadreja                   |
+Comadreja                   |x
 Conejo                      |
 Coral                       |
 Coyote                      |X
@@ -94,7 +94,7 @@ Gallina de Guinea           |
 Gallineta común             |
 Gamba                       |
 Ganso                       |
-Garza                       |
+Garza                       |X
 Gavial                      |
 Gecko                       |
 Glotón                      |

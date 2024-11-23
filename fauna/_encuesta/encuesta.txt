@@ -1,3 +1,15 @@
+20241123
+    Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales Garza, Comadreja y Chacal. Quiero la respuesta con el animal : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
+    ¿Que tema prefieres para el siguiente dato?
+    Cisne: elegante, majestuoso, grácil  
+    Coyote: astuto, adaptable, travieso  
+    Ibis: colorido, sociable, curioso
+    Result
+        ¿Que tema prefieres para el siguiente dato?  
+        Garza: elegante, ágil, serena  
+        Comadreja: astuta, inquieta, ágil  
+        Chacal: oportunista, leal, resistente  
+
 20241117
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales Liebre, Numbat y Reno. Quiero la respuesta con el animal : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
     ¿Que tema prefieres para el siguiente dato?
