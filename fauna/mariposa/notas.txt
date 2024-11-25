@@ -1,0 +1,29 @@
+promnt para generar articulo
+    hola, asume que eres un escritor con experiencia y basado en la informacion proporcionada anteriormente, genera un articulo de unos 12 parafos que sea de facil de entender para la comunidad de youtube. Trando los temas de Reproduccion, que comen, Caracteristicas de la especie, si tienen depredadores, ciclo de vida.
+adjetivos
+    promnt
+        tres adjetivos que identifiquen a las mariposas
+    result
+        Aquí tienes tres adjetivos que identifican a las mariposas:  
+            1. **Coloridas**  
+            2. **Delicadas**  
+            3. **Transformadoras**  
+            Estos resaltan sus características visuales, físicas y su ciclo de vida fascinante. ¿Te gustaría usarlos en algún proyecto?
+        Coloridas,Delicadas,Transformadoras
+titles
+    Aquí tienes algunas propuestas de títulos para el guion sobre las mariposas:  
+    1. **"Mariposas: Belleza Alada y Clave de los Ecosistemas"**  
+    2. **"El Fascinante Ciclo de Vida de las Mariposas"**  
+    3. **"Mariposas: Guardianas de la Naturaleza y Su Lucha por Sobrevivir"**  
+    4. **"De Oruga a Mariposa: La Metamorfosis Más Asombrosa"**  
+    5. **"Mariposas en Peligro: Cómo Ayudar a Conservar Su Magia"**  
+    6. **"La Importancia de las Mariposas en Nuestros Ecosistemas"**  
+    7. **"El Arte de la Supervivencia: Estrategias de las Mariposas"**  
+    8. **"Mariposas: Colores, Polinización y Vida Efímera"**  
+    9. **"De Alas y Esperanza: La Historia de las Mariposas"**  
+    10. **"El Viaje Increíble de las Mariposas y Su Papel en el Planeta"**  
+    ¿Hay algún enfoque particular que prefieras resaltar para ajustar el título?
+    ????Belleza Alada y Clave de los Ecosistemas????
+tags
+    Claro, aquí tienes las palabras clave en una sola línea:  
+    mariposas,coloridas,metamorfosis,natural,ciclo,vida,ecosistemas,salud,alas,escamas,polinización,floral,estrategias,supervivencia,mariposas,tropicales,orugas,alimentación,hábitats,amenazados,mariposas,monarcas,depredadores,adaptaciones,conservación,especies,biodiversidad,climática,reproducción,feromonas
