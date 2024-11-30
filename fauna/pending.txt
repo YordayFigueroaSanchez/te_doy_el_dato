@@ -30,7 +30,7 @@ Caballo                     |                   http://www.caballopedia.com/
 Cabra                       |
 Cachalote común             |
 Caimán                      |                   
-Calamar                     |                   http://www.calamarpedia.com/
+Calamar                     |X                   http://www.calamarpedia.com/
 Camaleón                    |                       
 Camarón                     |
 Camello                     |
@@ -109,7 +109,7 @@ Halcón                      |
 Halcón peregrino            |x
 Hámster                     |
 Hiena                       |
-Hormiga                     |x                  http://www.hormigapedia.com/
+Hormiga                     |xx                  http://www.hormigapedia.com/
 Hurón                       |
 Ibis                        |X
 Iguana                      |x-VIDEO
@@ -205,7 +205,7 @@ Raya                        |
 Reno                        |x-Seleccionado
 Rorcual                     |
 Ruiseñor                    |
-Salamandra                  |                   http://www.salamandrapedia.com    
+Salamandra                  |x                   http://www.salamandrapedia.com    
 Saltamontes                 |x
 Sapo africano               |
 Sapo común                  |
