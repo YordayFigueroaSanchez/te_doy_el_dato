@@ -1,0 +1,19 @@
+promnt para generar articulo
+    hola, asume que eres un escritor con experiencia y basado en la informacion proporcionada anteriormente, genera un articulo de unos 12 parafos que sea de facil de entender para la comunidad de youtube. Trando los temas de Reproduccion, que comen, Caracteristicas de la especie, si tienen depredadores, ciclo de vida.
+promnt para parafo inicial
+    Puedes escribir un parafo de introduccion donde no se mencione al animal que se trata en el video
+titles
+    ??Un Explorador Ártico????????????
+adjetivos
+    promnt
+        tres adjetivos que identifiquen a los renos
+    result
+        Aquí tienes tres adjetivos que pueden identificar a los renos:  
+        1. **Resistentes** (por su capacidad de sobrevivir en climas extremos).  
+        2. **Nómadas** (por sus migraciones estacionales).  
+        3. **Icónicos** (por su asociación con paisajes árticos y tradiciones navideñas).  
+        ¿Te gustaría que desarrollemos algún contenido sobre ellos? ??
+    Resistentes,Nómadas,Icónicos
+tags
+me propones tag para youtube basados en el fichero que agrego.
+Reno, Caribú, Animales del Ártico, Fauna polar, Animales resistentes, Migraciones de animales, Supervivencia animal, Adaptaciones al frío, Tundra y Taiga, Características del reno, Cornamenta del reno, Alimentación del caribú, Migraciones masivas, Depredadores del reno, Hábitat del reno, Cambio climático y fauna, Conservación de los renos, Renos y Navidad, Renos en la cultura popular, Datos curiosos sobre renos, Papá Noel y los renos, Resiliencia animal, Renos en peligro, Fauna y flora ártica
