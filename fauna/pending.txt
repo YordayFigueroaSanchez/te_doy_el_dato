@@ -1,235 +1,244 @@
-Abejaruco Esmeralda         |
-Abejorro                    |
-Acara azul eléctrico        |
-Ajolote                     |x-VIDEO                       
-Albatros                    |
-Almeja gigante              |
-Anguila eléctrica           |
-Anguila morena              |
-Antílope                    |
-Ardilla                     |
-Armadillo                   |
-Armiño                      |x
-Ascidias                    |
-Ave del paraíso             |
-Avispa                      |                   http://www.avispapedia.com/
-Avispón asiático gigante    |
-Avoceta                     |
-Babosa de mar               |
-Babuino                     |x
-Barbo                       |
-Barracuda                   |
-Búfalo                      |
-Búhos                       |                   http://www.buhopedia.com/
-Búho chico                  |
-Búho nival                  |
-Burro                       |
-Busardo ratonero            |
-Caballito de mar            |                   http://www.caballitodemarpedia.com/
-Caballo                     |                   http://www.caballopedia.com/
-Cabra                       |
-Cachalote común             |
-Caimán                      |                   
-Calamar                     |X                   http://www.calamarpedia.com/
-Camaleón                    |                       
-Camarón                     |
-Camello                     |
-Cangrejo                    |
-Cangrejo herradura          |
-Canguro                     |                   http://www.canguropedia.com/
-Cárabo común                |
-Caracal                     |
-Caracol                     |                   http://www.caracolpedia.com/
-Casuario                    |x-VIDEO
-Cebú                        |
-Cerdo                       |
-Cerdo hormiguero            |
-Cetia japonés               |
-Chacal                      |X
-Chimpancé                   |                   http://www.chimpancepedia.com/
-Chinchilla                  |
-Cíclido                     |
-Ciempiés                    |
-Cigüeña                     |
-Cisne                       |X-Seleccionado-VIDEO
-Civeta africana             |
-Civeta de las palmeras común|
-Civeta malaya               |
-Coatí de cola anillada      |
-Cobaya                      |
-Cochinilla de la humedad    |
-Cocodrilo                   |                   http://www.cocodrilopedia.com/
-Codorniz común              |
-Colimbo grande              |
-Comadreja                   |x
-Conejo                      |
-Coral                       |
-Coyote                      |X
-Cucaracha                   |
-Demonio de Tasmania         |
-Delfin                      |                   http://www.delfinpedia.com/
-Dientes de sable            |
-Dingo                       |
-Dodo                        |extinta
-Dólar de plata              |
-Dragón de agua asiático     |
-Dragón de agua australiano  |
-Dragón de mar foliáceo      |
-Dugongo                     |x
-Elefante                    |                   http://www.elefantepedia.com/
-Emperador púrpura           |
-Emú común                   |
-Erizo                       |
-Erizo de mar                |
-Escarabajo                  |
-Escorpión                   |                   http://www.escorpionpedia.com/
-Espátula rosada             |
-Esponjas de mar             |
-Estrella de mar             |
-Facóquero común             |
-Faetón                      |y
-Faisán                      |
-Flamenco                    |x                  http://www.flamencopedia.com/
-Foca                        |                   http://www.focapedia.com/
-Fosa                        |
-Frailecillo común           |
-Fregata                     |x-Seleccionado-VIDEO
-Gallina de Guinea           |
-Gallineta común             |
-Gamba                       |
-Ganso                       |
-Garza                       |X
-Gavial                      |
-Gecko                       |
-Glotón                      |
-Gorrión                     |x
-Grulla                      |x-VIDEO
-Guppy                       |
-Halcón                      |
-Halcón peregrino            |x
-Hámster                     |
-Hiena                       |
-Hormiga                     |xx                  http://www.hormigapedia.com/
-Hurón                       |
-Ibis                        |X
-Iguana                      |x-VIDEO
-Iguana marina               |
-Impala                      |
-Indri                       |
-Jabalí                      |x
-Kakapo                      |
-Kiwi                        |x
-Labridae                    |
-Lagarto                     |
-Lagarto caimán del norte    |
-Langosta                    |
-Lechuza común               |
-León marino                 |
-Libélula                    |
-Liebre                      |x
-Loro                        |
-Luchador de Siam            |
-Luciérnaga                  |
-Lucio                       |y
-Mandril                     |
-Mangosta                    |
-Mantarraya                  |                   http://www.mantarayapedia.com/
-Mapache                     |
-Mariposa arlequin           |
-Mariposa monarca            |
-Mariposa genero             |x-Seleccionado     https://concepto.de/mariposas/
-Mariquita                   |
-Marmota                     |x
-Martín pescador             |
-Medusa                      |                   http://www.medusapedia.com/
-Milpiés                     |
-Mirlo común                 |
-Mofeta                      |x
-Molly                       |
-Mono                        |
-Morsa                       |                   http://www.morsapedia.com/
-Mosca común                 |
-Mula                        |
-Murciélago                  |
-Murciélago vampiro          |
-Musaraña                    |
-Numbat                      |x
-Nutria                      |VIDEO
-Orangután                   |
-Oropéndola                  |x
-Oruga                       |x
-Oryx                        |                       
-Ostra                       |
-Oveja                       |x
-Pájaro carpintero           |
-Pantera negra               |no seria una especie (https://www.publico.es/yo-animal/sabias-que-las-panteras-negras-no-existen/)
-Pato                        |
-pavo doméstico              |x          (Meleagris gallopavo domesticus)
-pavo real                   |
-Pelícano(genero)            |y-Seleccionado-VIDEO
-Pelícano comun              |
-Peramélido                  |
-Percebe                     |
-Perezoso                    |x
-Periquito común             |
-Perro                       |
-Pez Ángel                   |
-Pez cirujano                |
-Pez disco                   |
-Pez gato                    |
-Pez globo                   |
-Pez león                    |
-Pez mariposa                |
-Pez Payaso                  |
-Pingüino                    |x
-Piraña                      |x
-Polilla                     |
-Pollo                       |
-Proteo                      |
-Puercoespín                 |
-Pulpo                       |
-Rana africana de uñas       |
-Rana cohete rayada          |
-Rana comestible             |
-Rana dardo venenosa         |
-Rana de Darwin              |
-Rana europea común          |
-Rana excavadora             |
-Rana toro                   |
-Rana verde centroeuropea    |
-Ranas arbóreas (Hayla)      |
-Ranita monte Iberia         |                       
-Rata                        |
-Ratón común                 |
-Raya                        |
-Reno                        |x-Seleccionado
-Rorcual                     |
-Ruiseñor                    |
-Salamandra                  |x                   http://www.salamandrapedia.com    
-Saltamontes                 |x
-Sapo africano               |
-Sapo común                  |
-Sapo de caña                |
-Sapo de vientre de fuego    |
-Sapo pata de pala           |
-Sepia                       |
-Ser humano                  |
-Serpiente                   |
-Sula patiazul               |
-Termita                     |
-Tiburón mielga              |
-Topo                        |x
-Tortuga                     |
-Tucán                       |x-VIDEO
-Tucán pico iris             |
-Turaco                      |                   (ave)(https://www.faunia.es/planea-tu-visita/animales/turaco)
-Urraca común                |
-Vaca                        |
-Vaca marina de Steller      |
-Viuda negra                 |
-Wombat                      |
-Xifóforo                    |
-Yarará común                |
-Zapatero                    |
-Zorro                       |
-Zorro Polar                 |
+Abejaruco Esmeralda                     |
+Abejorro                                |
+Acara azul eléctrico                    |
+Ajolote                                 |x-VIDEO|                       
+Albatros                                |
+Almeja gigante                          |
+Anguila eléctrica                       |
+Anguila morena                          |
+Antílope                                |
+Ardilla                                 |
+Armadillo                               |
+Armiño                                  |x|
+Ascidias                                |
+Ave del paraíso                         |
+Avispa                                  |                   http://www.avispapedia.com/|
+Avispón asiático gigante                |
+Avoceta                                 |
+Babosa de mar                           |
+Babuino                                 |x|
+Barbo                                   |
+Barracuda                               |
+Búfalo                                  |
+Búhos                                   |                   http://www.buhopedia.com/|
+Búho chico                              |
+Búho nival                              |
+Burro                                   |
+Busardo ratonero                        |
+Caballito de mar                        |                   http://www.caballitodemarpedia.com/|
+Caballo                                 |                   http://www.caballopedia.com/|
+Cabra                                   |
+Cachalote común                         |
+Caimán                                  |                   
+Calamar                                 |X |                  http://www.calamarpedia.com/|
+Camaleón                                |                       
+Camarón                                 |
+Camello                                 |
+Cangrejo                                |
+Cangrejo herradura                      |
+Canguro                                 |                   http://www.canguropedia.com/|
+Cárabo común                            |
+Caracal                                 |
+Caracol                                 |                   http://www.caracolpedia.com/|
+Casuario                                |x-VIDEO|
+Cebú                                    |
+Cerdo                                   |
+Cerdo hormiguero                        |
+Cetia japonés                           |
+Chacal                                  |X|
+Chimpancé                               |                   http://www.chimpancepedia.com/|
+Chinchilla                              |
+Cíclido                                 |
+Ciempiés                                |
+Cigüeña                                 |
+Cisne                                   |X-Seleccionado-VIDEO|
+Civeta africana                         |
+Civeta de las palmeras común            |
+Civeta malaya                           |
+Coatí de cola anillada                  |
+Cobaya                                  |
+Cochinilla de la humedad                |
+Cocodrilo                               |                   http://www.cocodrilopedia.com/|
+Codorniz común                          |
+Colimbo grande                          |
+Comadreja                               |x|
+Conejo                                  |
+Coral                                   |
+Coyote                                  |X|
+Cucaracha                               |
+Demonio de Tasmania                     |
+Delfin                                  |                   http://www.delfinpedia.com/|
+Dientes de sable                        |
+Dingo                                   |
+Dodo                                    |extinta|
+Dólar de plata                          |
+Dragón de agua asiático                 |
+Dragón de agua australiano              |
+Dragón de mar foliáceo                  |
+Dugongo                                 |x|
+Elefante                                |                   http://www.elefantepedia.com/|
+Emperador púrpura                       |
+Emú común                               |
+Erizo                                   |
+Erizo de mar                            |
+Escarabajo                              |
+Escorpión                               |                   http://www.escorpionpedia.com/|
+Espátula rosada                         |
+Esponjas de mar                         |
+Estrella de mar                         |
+Facóquero común                         |
+Faetón                                  |y|
+Faisán                                  |
+Flamenco                                |x |                 http://www.flamencopedia.com/|
+Foca                                    |                   http://www.focapedia.com/|
+Fosa                                    |
+Frailecillo común                       |
+Fregata                                 |x-Seleccionado-VIDEO|
+Gallina de Guinea                       |
+Gallineta común                         |
+Gamba                                   |
+Ganso                                   |
+Garza                                   |X-Seleccionado|
+Garza(Garceta Azul)	                    |ecosdelbosque.com/fauna/egretta-caerulea
+Garza(Garceta grande)	                |ecosdelbosque.com/fauna/ardea-alba
+Garza(Garceta Nivosa)	                |ecosdelbosque.com/fauna/egretta-thula
+Garza(Garza agami)	                    |ecosdelbosque.com/fauna/agamia-agami
+Garza(Garza bueyera)	                |ecosdelbosque.com/fauna/bubulcus-ibis
+Garza(Garza del sol)	                |ecosdelbosque.com/fauna/eurypyga-helias
+Garza(Garza tigre, martín peña)         |ecosdelbosque.com/fauna/tigrisoma-fasciatum
+Garza(Garza tigre cuellinuda)           |ecosdelbosque.com/fauna/tigrisoma-mexicanum
+Garza(Garzón azulado o Garza ceniza)    |ecosdelbosque.com/fauna/ardea-herodias
+Gavial                                  |
+Gecko                                   |
+Glotón                                  |
+Gorrión                                 |x|
+Grulla                                  |x-VIDEO|
+Guppy                                   |
+Halcón                                  |
+Halcón peregrino                        |x|
+Hámster                                 |
+Hiena                                   |
+Hormiga                                 |x|x|                  http://www.hormigapedia.com/|
+Hurón                                   |
+Ibis                                    |X|
+Iguana                                  |x-VIDEO|
+Iguana marina                           |
+Impala                                  |
+Indri                                   |
+Jabalí                                  |x|
+Kakapo                                  |
+Kiwi                                    |x|
+Labridae                                |
+Lagarto                                 |
+Lagarto caimán del norte                |
+Langosta                                |
+Lechuza común                           |
+León marino                             |
+Libélula                                |
+Liebre                                  |x|
+Loro                                    |
+Luchador de Siam                        |
+Luciérnaga                              |
+Lucio                                   |y|
+Mandril                                 |
+Mangosta                                |
+Mantarraya                              |                   http://www.mantarayapedia.com/|
+Mapache                                 |
+Mariposa arlequin                       |
+Mariposa monarca                        |
+Mariposa genero                         |x-Seleccionado|     https://concepto.de/mariposas/|
+Mariquita                               |
+Marmota                                 |x|
+Martín pescador                         |
+Medusa                                  |                   http://www.medusapedia.com/|
+Milpiés                                 |
+Mirlo común                             |
+Mofeta                                  |x|
+Molly                                   |
+Mono                                    |
+Morsa                                   |                   http://www.morsapedia.com/|
+Mosca común                             |
+Mula                                    |
+Murciélago                              |
+Murciélago vampiro                      |
+Musaraña                                |
+Numbat                                  |x|
+Nutria                                  |VIDEO|
+Orangután                               |
+Oropéndola                              |x|
+Oruga                                   |x|
+Oryx                                    |                       
+Ostra                                   |
+Oveja                                   |x|
+Pájaro carpintero                       |
+Pantera negra                           |no seria una especie |(https://www.publico.es/yo-animal/sabias-que-las-panteras-negras-no-existen/)|
+Pato                                    |
+pavo doméstico                          |x|          (Meleagris gallopavo domesticus)|
+pavo real                               |
+Pelícano(genero)                        |y-Seleccionado-VIDEO
+Pelícano comun                          |
+Peramélido                              |
+Percebe                                 |
+Perezoso                                |x|
+Periquito común                         |
+Perro                                   |
+Pez Ángel                               |
+Pez cirujano                            |
+Pez disco                               |
+Pez gato                                |
+Pez globo                               |
+Pez león                                |
+Pez mariposa                            |
+Pez Payaso                              |
+Pingüino                                |x|
+Piraña                                  |x|
+Polilla                                 |
+Pollo                                   |
+Proteo                                  |
+Puercoespín                             |
+Pulpo                                   |
+Rana africana de uñas                   |
+Rana cohete rayada                      |
+Rana comestible                         |
+Rana dardo venenosa                     |
+Rana de Darwin                          |
+Rana europea común                      |
+Rana excavadora                         |
+Rana toro                               |
+Rana verde centroeuropea                |
+Ranas arbóreas (Hayla)                  |
+Ranita monte Iberia                     |                       
+Rata                                    |
+Ratón común                             |
+Raya                                    |
+Reno                                    |x-Seleccionado|
+Rorcual                                 |
+Ruiseñor                                |
+Salamandra                              |x              |     http://www.salamandrapedia.com    |
+Saltamontes                             |x|
+Sapo africano                           |
+Sapo común                              |
+Sapo de caña                            |
+Sapo de vientre de fuego                |
+Sapo pata de pala                       |
+Sepia                                   |
+Ser humano                              |
+Serpiente                               |
+Sula patiazul                           |
+Termita                                 |
+Tiburón mielga                          |
+Topo                                    |x|
+Tortuga                                 |
+Tucán                                   |x-VIDEO|
+Tucán pico iris                         |
+Turaco                                  |                   (ave)(https://www.faunia.es/planea-tu-visita/animales/turaco)|
+Urraca común                            |
+Vaca                                    |
+Vaca marina de Steller                  |
+Viuda negra                             |
+Wombat                                  |
+Xifóforo                                |
+Yarará común                            |
+Zapatero                                |
+Zorro                                   |
+Zorro Polar                             |
