@@ -19,6 +19,7 @@ Babosa de mar                           |
 Babuino                                 |x|
 Barbo                                   |
 Barracuda                               |
+Bigotudo(Panurus biarmicus)             |
 Búfalo                                  |
 Búhos                                   |                   http://www.buhopedia.com/|
 Búho chico                              |
@@ -42,6 +43,7 @@ Caracal                                 |
 Caracol                                 |                   http://www.caracolpedia.com/|
 Casuario                                |x-VIDEO|
 Cebú                                    |
+Centzontle Norteño(Mimus polyglottos)   |
 Cerdo                                   |
 Cerdo hormiguero                        |
 Cetia japonés                           |
@@ -126,6 +128,7 @@ Iguana marina                           |
 Impala                                  |
 Indri                                   |
 Jabalí                                  |x|
+Jilguero europeo                        |
 Kakapo                                  |
 Kiwi                                    |x|
 Labridae                                |
@@ -182,6 +185,7 @@ Percebe                                 |
 Perezoso                                |x|
 Periquito común                         |
 Perro                                   |
+Petirojo europeo                        |
 Pez Ángel                               |
 Pez cirujano                            |
 Pez disco                               |
@@ -228,7 +232,7 @@ Sula patiazul                           |
 Termita                                 |
 Tiburón mielga                          |
 Topo                                    |x|
-Tortuga                                 |
+Tortuga Carey                                |
 Tucán                                   |x-VIDEO|
 Tucán pico iris                         |
 Turaco                                  |                   (ave)(https://www.faunia.es/planea-tu-visita/animales/turaco)|
@@ -242,3 +246,6 @@ Yarará común                            |
 Zapatero                                |
 Zorro                                   |
 Zorro Polar                             |
+Pendiente de revisar
+    https://animalia.bio/es/lists/parrots
+    https://animalia.bio/es/reptiles
