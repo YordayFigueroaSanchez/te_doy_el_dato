@@ -100,7 +100,7 @@ Gallina de Guinea                       |
 Gallineta común                         |
 Gamba                                   |
 Ganso                                   |
-Garza                                   |X-Seleccionado|
+Garza                                   |X-Seleccionado-VIDEO|
 Garza(Garceta Azul)	                    |ecosdelbosque.com/fauna/egretta-caerulea
 Garza(Garceta grande)	                |ecosdelbosque.com/fauna/ardea-alba
 Garza(Garceta Nivosa)	                |ecosdelbosque.com/fauna/egretta-thula
