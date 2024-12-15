@@ -1,9 +1,14 @@
 20241215
-    Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales Ruiseñor, tortuga carey y Petirojo europeo. Quiero la respuesta con el animal : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
+    Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales Canguro, Escorpion y Bufalo. Quiero la respuesta con el animal : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
     ¿Que tema prefieres para el siguiente dato?
     Cisne: elegante, majestuoso, grácil  
     Coyote: astuto, adaptable, travieso  
     Ibis: colorido, sociable, curioso
+    Result
+        ¿Que tema prefieres para el siguiente dato?  
+        Canguro: ágil, saltarín, robusto  
+        Escorpión: venenoso, sigiloso, resistente  
+        Búfalo: fuerte, imponente, gregario  
 20241207
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales Ruiseñor, tortuga carey y Petirojo europeo. Quiero la respuesta con el animal : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
     ¿Que tema prefieres para el siguiente dato?
