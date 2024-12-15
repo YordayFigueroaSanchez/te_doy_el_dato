@@ -217,7 +217,7 @@ Ratón común                             |
 Raya                                    |
 Reno                                    |x-Seleccionado|
 Rorcual                                 |
-Ruiseñor                                |X
+Ruiseñor                                |X-Seleccionado
 Salamandra                              |x              |     http://www.salamandrapedia.com    |
 Saltamontes                             |x|
 Sapo africano                           |
