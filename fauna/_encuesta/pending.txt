@@ -20,7 +20,7 @@ Babuino                                 |x|
 Barbo                                   |
 Barracuda                               |
 Bigotudo(Panurus biarmicus)             |
-Búfalo                                  |
+Búfalo                                  |X|                 https://animalia.bio/es/bubalus
 Búhos                                   |                   http://www.buhopedia.com/|
 Búho chico                              |
 Búho nival                              |
@@ -31,13 +31,13 @@ Caballo                                 |                   http://www.caballope
 Cabra                                   |
 Cachalote común                         |
 Caimán                                  |                   
-Calamar                                 |X |                  http://www.calamarpedia.com/|
+Calamar                                 |X|                 http://www.calamarpedia.com/|
 Camaleón                                |                       
 Camarón                                 |
 Camello                                 |
 Cangrejo                                |
 Cangrejo herradura                      |
-Canguro                                 |                   http://www.canguropedia.com/|
+Canguro                                 |X|                 http://www.canguropedia.com/|
 Cárabo común                            |
 Caracal                                 |
 Caracol                                 |                   http://www.caracolpedia.com/|
@@ -84,14 +84,14 @@ Emú común                               |
 Erizo                                   |
 Erizo de mar                            |
 Escarabajo                              |
-Escorpión                               |                   http://www.escorpionpedia.com/|
+Escorpión                               |X|                 http://www.escorpionpedia.com/|
 Espátula rosada                         |
 Esponjas de mar                         |
 Estrella de mar                         |
 Facóquero común                         |
 Faetón                                  |y|
 Faisán                                  |
-Flamenco                                |x |                 http://www.flamencopedia.com/|
+Flamenco                                |x|                 http://www.flamencopedia.com/|
 Foca                                    |                   http://www.focapedia.com/|
 Fosa                                    |
 Frailecillo común                       |
