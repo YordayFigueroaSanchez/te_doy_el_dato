@@ -1,0 +1,21 @@
+promnt para generar articulo
+    hola, asume que eres un escritor con experiencia y basado en la informacion proporcionada en el fichero, genera un articulo de unos 12 parafos que sea de facil de entender para la comunidad de youtube. Trando los temas de Reproduccion, que comen, donde viven, caracteristicas de la especie, si tienen depredadores, ciclo de vida.
+promnt para parafo inicial
+    Puedes escribir un parafo de introduccion donde no se mencione al animal que se trata en el video
+titles
+    🏞️𓅥Depredadores de humedales𓅢🏞️
+adjetivos
+    promnt
+        tres adjetivos que identifiquen a las ruiseñor pechiazul
+    result
+        El ruiseñor pechiazul (Luscinia svecica) es un ave fascinante conocida por su canto melodioso y su plumaje distintivo. Aquí tienes tres adjetivos que podrían describirlo:  
+        1. **Melodioso** (por su canto hermoso y complejo).  
+        2. **Colorido** (por el llamativo azul en su pecho, a menudo con detalles en rojo o blanco).  
+        3. **Migratorio** (por su impresionante capacidad para viajar largas distancias entre Europa y África).  
+¿Te gustaría desarrollar un tema relacionado con esta ave para tu contenido?
+    Melodioso,Colorido,Migratorio
+tags
+me propones tag para youtube basados en el fichero que agrego, por favor separados por una coma cada tag.
+garzas, aves acuáticas, Ardeidae, garza goliat, avetoro enano, hábitats húmedos, lagos y pantanos, comportamiento de las garzas, alimentación de las garzas, ciclo de vida de las garzas, reproducción de las garzas, migraciones de aves, especies de garzas, conservación de aves, ecología de humedales, aves carnívoras, depredadores naturales, adaptación animal, equilibrio ecológico, aves migratorias, garcilla bueyera, garza real, ecosistemas acuáticos, biodiversidad, fauna silvestre, aves elegantes, naturaleza y vida salvaje.  
+url
+    https://youtu.be/p7tq6LEURfQ
