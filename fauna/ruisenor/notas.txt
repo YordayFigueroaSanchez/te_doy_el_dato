@@ -3,7 +3,8 @@ promnt para generar articulo
 promnt para parafo inicial
     Puedes escribir un parafo de introduccion donde no se mencione al animal que se trata en el video
 titles
-    🏞️𓅥Depredadores de humedales𓅢🏞️
+    Puedes escribir titulos para el siguiente articulo que se publica en youtube
+    🐣🎨🔊Colores, Cantos y Migraciones
 adjetivos
     promnt
         tres adjetivos que identifiquen a las ruiseñor pechiazul
@@ -16,6 +17,6 @@ adjetivos
     Melodioso,Colorido,Migratorio
 tags
 me propones tag para youtube basados en el fichero que agrego, por favor separados por una coma cada tag.
-garzas, aves acuáticas, Ardeidae, garza goliat, avetoro enano, hábitats húmedos, lagos y pantanos, comportamiento de las garzas, alimentación de las garzas, ciclo de vida de las garzas, reproducción de las garzas, migraciones de aves, especies de garzas, conservación de aves, ecología de humedales, aves carnívoras, depredadores naturales, adaptación animal, equilibrio ecológico, aves migratorias, garcilla bueyera, garza real, ecosistemas acuáticos, biodiversidad, fauna silvestre, aves elegantes, naturaleza y vida salvaje.  
+ruiseñor pechiazul, Luscinia svecica, aves migratorias, aves de colores, canto de aves, fauna silvestre, pájaros del norte, tundra ártica, ecosistemas alpinos, aves insectívoras, migración de aves, conservación de aves, biodiversidad, naturaleza y vida silvestre, aves de Eurasia, pájaros pequeños, canto melodioso, aves de montaña, reproducción de aves, hábitats naturales, aves de humedales, especies migratorias, curiosidades de aves, aves en peligro, ecología de aves, plumaje azul.  
 url
-    https://youtu.be/p7tq6LEURfQ
+    https://youtu.be/BHcw9iXEt7E
