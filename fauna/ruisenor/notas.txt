@@ -20,3 +20,5 @@ me propones tag para youtube basados en el fichero que agrego, por favor separad
 ruiseñor pechiazul, Luscinia svecica, aves migratorias, aves de colores, canto de aves, fauna silvestre, pájaros del norte, tundra ártica, ecosistemas alpinos, aves insectívoras, migración de aves, conservación de aves, biodiversidad, naturaleza y vida silvestre, aves de Eurasia, pájaros pequeños, canto melodioso, aves de montaña, reproducción de aves, hábitats naturales, aves de humedales, especies migratorias, curiosidades de aves, aves en peligro, ecología de aves, plumaje azul.  
 url
     https://youtu.be/BHcw9iXEt7E
+tags
+    animales,animals,fauna,ruisennor,nature
