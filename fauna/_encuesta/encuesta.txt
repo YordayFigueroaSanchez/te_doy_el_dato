@@ -1,3 +1,9 @@
+20241220
+    Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales Canguro, Escorpion y Bufalo. Quiero la respuesta con el animal : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
+    ¿Que tema prefieres para el siguiente dato?
+    Cisne: elegante, majestuoso, grácil  
+    Coyote: astuto, adaptable, travieso  
+    Ibis: colorido, sociable, curioso
 20241215
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales Canguro, Escorpion y Bufalo. Quiero la respuesta con el animal : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
     ¿Que tema prefieres para el siguiente dato?

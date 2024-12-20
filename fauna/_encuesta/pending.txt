@@ -20,6 +20,11 @@ Babuino                                 |x|
 Barbo                                   |
 Barracuda                               |
 Bigotudo(Panurus biarmicus)             |
+Bisonte                                 |VIDEO
+Boa de Duméril                          |
+Bongo oriental                          |
+Buey almizclero                         |VIDEO
+Bufalo rojo                             |
 Búfalo                                  |X|                 https://animalia.bio/es/bubalus
 Búhos                                   |                   http://www.buhopedia.com/|
 Búho chico                              |
@@ -32,7 +37,8 @@ Cabra                                   |
 Cachalote común                         |
 Caimán                                  |                   
 Calamar                                 |X|                 http://www.calamarpedia.com/|
-Camaleón                                |                       
+Camaleón                                |
+Camaleón pantera                        |                       
 Camarón                                 |
 Camello                                 |
 Cangrejo                                |
@@ -70,12 +76,14 @@ Coyote                                  |X|
 Cucaracha                               |
 Demonio de Tasmania                     |
 Delfin                                  |                   http://www.delfinpedia.com/|
+Dik-dik de Kirk                         |
 Dientes de sable                        |
 Dingo                                   |
 Dodo                                    |extinta|
 Dólar de plata                          |
 Dragón de agua asiático                 |
 Dragón de agua australiano              |
+Dragón de komodo                        |VIDEO
 Dragón de mar foliáceo                  |
 Dugongo                                 |x|
 Elefante                                |                   http://www.elefantepedia.com/|
@@ -85,6 +93,7 @@ Erizo                                   |
 Erizo de mar                            |
 Escarabajo                              |
 Escorpión                               |X|                 http://www.escorpionpedia.com/|
+Escorpión emperador                     |
 Espátula rosada                         |
 Esponjas de mar                         |
 Estrella de mar                         |
@@ -100,6 +109,7 @@ Gallina de Guinea                       |
 Gallineta común                         |
 Gamba                                   |
 Ganso                                   |
+Ganso del Nilo                          |
 Garza                                   |X-Seleccionado-VIDEO|
 Garza(Garceta Azul)	                    |ecosdelbosque.com/fauna/egretta-caerulea
 Garza(Garceta grande)	                |ecosdelbosque.com/fauna/ardea-alba
@@ -112,9 +122,11 @@ Garza(Garza tigre cuellinuda)           |ecosdelbosque.com/fauna/tigrisoma-mexic
 Garza(Garzón azulado o Garza ceniza)    |ecosdelbosque.com/fauna/ardea-herodias
 Gavial                                  |
 Gecko                                   |
+Gecko diurno Madagascar                 |
 Glotón                                  |
 Gorrión                                 |x|
 Grulla                                  |x-VIDEO|
+Grulla coronada cuellinegra             |
 Guppy                                   |
 Halcón                                  |
 Halcón peregrino                        |x|
@@ -129,7 +141,7 @@ Impala                                  |
 Indri                                   |
 Jabalí                                  |x|
 Jilguero europeo                        |
-Kakapo                                  |
+Kakapo                                  |X|
 Kiwi                                    |x|
 Labridae                                |
 Lagarto                                 |
