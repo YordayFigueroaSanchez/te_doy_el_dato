@@ -92,7 +92,7 @@ Emú común                               |
 Erizo                                   |
 Erizo de mar                            |
 Escarabajo                              |
-Escorpión                               |X|                 http://www.escorpionpedia.com/|
+Escorpión                               |X|Seleccionado     http://www.escorpionpedia.com/|
 Escorpión emperador                     |
 Espátula rosada                         |
 Esponjas de mar                         |

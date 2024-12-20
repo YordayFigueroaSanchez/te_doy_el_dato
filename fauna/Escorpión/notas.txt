@@ -1,0 +1,24 @@
+promnt para generar articulo
+    hola, asume que eres un escritor con experiencia y basado en la informacion proporcionada en el fichero, genera un articulo de unos 12 parafos que sea de facil de entender para la comunidad de youtube. Trando los temas de Reproduccion, que comen, donde viven, caracteristicas de la especie, si tienen depredadores, ciclo de vida.
+promnt para parafo inicial
+    Puedes escribir un parafo de introduccion donde no se mencione al animal que se trata en el video
+titles
+    Puedes escribir titulos para el siguiente articulo que se publica en youtube
+    🐣🎨🔊Colores, Cantos y Migraciones
+adjetivos
+    promnt
+        tres adjetivos que identifiquen a las ruiseñor pechiazul
+    result
+        El ruiseñor pechiazul (Luscinia svecica) es un ave fascinante conocida por su canto melodioso y su plumaje distintivo. Aquí tienes tres adjetivos que podrían describirlo:  
+        1. **Melodioso** (por su canto hermoso y complejo).  
+        2. **Colorido** (por el llamativo azul en su pecho, a menudo con detalles en rojo o blanco).  
+        3. **Migratorio** (por su impresionante capacidad para viajar largas distancias entre Europa y África).  
+¿Te gustaría desarrollar un tema relacionado con esta ave para tu contenido?
+    Melodioso,Colorido,Migratorio
+tags
+me propones tag para youtube basados en el fichero que agrego, por favor separados por una coma cada tag.
+ruiseñor pechiazul, Luscinia svecica, aves migratorias, aves de colores, canto de aves, fauna silvestre, pájaros del norte, tundra ártica, ecosistemas alpinos, aves insectívoras, migración de aves, conservación de aves, biodiversidad, naturaleza y vida silvestre, aves de Eurasia, pájaros pequeños, canto melodioso, aves de montaña, reproducción de aves, hábitats naturales, aves de humedales, especies migratorias, curiosidades de aves, aves en peligro, ecología de aves, plumaje azul.  
+url
+    https://youtu.be/BHcw9iXEt7E
+tags
+    animales,animals,fauna,ruisennor,nature
