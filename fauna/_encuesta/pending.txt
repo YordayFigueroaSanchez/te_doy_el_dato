@@ -217,7 +217,7 @@ Ratón común                             |
 Raya                                    |
 Reno                                    |x-Seleccionado|
 Rorcual                                 |
-Ruiseñor                                |X-Seleccionado
+Ruiseñor                                |X
 Ruiseñor pechiazul                      |X-Seleccionado-VIDEO
 Salamandra                              |x              |     http://www.salamandrapedia.com    |
 Saltamontes                             |x|
