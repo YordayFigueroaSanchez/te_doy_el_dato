@@ -1,9 +1,21 @@
 20241220
-    Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales Canguro, Escorpion y Bufalo. Quiero la respuesta con el animal : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
+    Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales Puercoespín, Gecko y Camaleón pantera. Quiero la respuesta con el animal : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
     ¿Que tema prefieres para el siguiente dato?
     Cisne: elegante, majestuoso, grácil  
     Coyote: astuto, adaptable, travieso  
     Ibis: colorido, sociable, curioso
+    Result
+        ¿Que tema prefieres para el siguiente dato?  
+        Puercoespín: espinoso, reservado, resistente  
+        Gecko: ágil, nocturno, adherente  
+        Camaleón pantera: colorido, adaptable, sigiloso
+    Para publicar en youtube
+        ¿Que tema prefieres para el siguiente dato?  
+        Puercoespín: espinoso, resistente  
+        Gecko: ágil, nocturno, adherente  
+        Camaleón pantera:colorido, adaptable
+    nombre de la tarea
+        Puercoespín-Gecko-CamaleónPantera
 20241215
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales Canguro, Escorpion y Bufalo. Quiero la respuesta con el animal : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
     ¿Que tema prefieres para el siguiente dato?

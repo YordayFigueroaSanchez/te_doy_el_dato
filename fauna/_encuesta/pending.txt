@@ -38,7 +38,7 @@ Cachalote común                         |
 Caimán                                  |                   
 Calamar                                 |X|                 http://www.calamarpedia.com/|
 Camaleón                                |
-Camaleón pantera                        |                       
+Camaleón pantera                        |X|                       
 Camarón                                 |
 Camello                                 |
 Cangrejo                                |
@@ -122,7 +122,7 @@ Garza(Garza tigre cuellinuda)           |ecosdelbosque.com/fauna/tigrisoma-mexic
 Garza(Garzón azulado o Garza ceniza)    |ecosdelbosque.com/fauna/ardea-herodias
 Gavial                                  |
 Gecko                                   |
-Gecko diurno Madagascar                 |
+Gecko diurno Madagascar                 |X|
 Glotón                                  |
 Gorrión                                 |x|
 Grulla                                  |x-VIDEO|
@@ -141,7 +141,7 @@ Impala                                  |
 Indri                                   |
 Jabalí                                  |x|
 Jilguero europeo                        |
-Kakapo                                  |X|
+Kakapo                                  |
 Kiwi                                    |x|
 Labridae                                |
 Lagarto                                 |
@@ -211,7 +211,7 @@ Piraña                                  |x|
 Polilla                                 |
 Pollo                                   |
 Proteo                                  |
-Puercoespín                             |
+Puercoespín                             |X|
 Pulpo                                   |
 Rana africana de uñas                   |
 Rana cohete rayada                      |
