@@ -218,6 +218,7 @@ Raya                                    |
 Reno                                    |x-Seleccionado|
 Rorcual                                 |
 Ruiseñor                                |X-Seleccionado
+Ruiseñor pechiazul                      |X-Seleccionado-VIDEO
 Salamandra                              |x              |     http://www.salamandrapedia.com    |
 Saltamontes                             |x|
 Sapo africano                           |
