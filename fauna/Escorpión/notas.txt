@@ -1,5 +1,5 @@
 promnt para generar articulo
-    hola, asume que eres un escritor con experiencia y basado en la informacion proporcionada en el fichero, genera un articulo de unos 12 parafos que sea de facil de entender para la comunidad de youtube. Trando los temas de Reproduccion, que comen, donde viven, caracteristicas de la especie, si tienen depredadores, ciclo de vida.
+    hola, asume que eres un escritor con experiencia y basado en la informacion proporcionada en el fichero, genera un articulo de unos 12 parafos que sea de facil de entender para la comunidad de youtube. Trando los temas de Anatomía, Alimentación, Hábitat, Reproducción, Evolución,  Depredadores, Mecanismos de defensa.
 promnt para parafo inicial
     Puedes escribir un parafo de introduccion donde no se mencione al animal que se trata en el video
 titles
