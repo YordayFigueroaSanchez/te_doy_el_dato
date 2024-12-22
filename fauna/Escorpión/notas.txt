@@ -4,21 +4,16 @@ promnt para parafo inicial
     Puedes escribir un parafo de introduccion donde no se mencione al animal que se trata en el video
 titles
     Puedes escribir titulos para el siguiente articulo que se publica en youtube
-    🐣🎨🔊Colores, Cantos y Migraciones
+    🦂 Veneno y Resiliencia 🦂
 adjetivos
     promnt
-        tres adjetivos que identifiquen a las ruiseñor pechiazul
+        tres adjetivos que identifiquen a los escorpiones
     result
-        El ruiseñor pechiazul (Luscinia svecica) es un ave fascinante conocida por su canto melodioso y su plumaje distintivo. Aquí tienes tres adjetivos que podrían describirlo:  
-        1. **Melodioso** (por su canto hermoso y complejo).  
-        2. **Colorido** (por el llamativo azul en su pecho, a menudo con detalles en rojo o blanco).  
-        3. **Migratorio** (por su impresionante capacidad para viajar largas distancias entre Europa y África).  
-¿Te gustaría desarrollar un tema relacionado con esta ave para tu contenido?
-    Melodioso,Colorido,Migratorio
+        Adaptables, Resilientes y Letales
 tags
 me propones tag para youtube basados en el fichero que agrego, por favor separados por una coma cada tag.
-ruiseñor pechiazul, Luscinia svecica, aves migratorias, aves de colores, canto de aves, fauna silvestre, pájaros del norte, tundra ártica, ecosistemas alpinos, aves insectívoras, migración de aves, conservación de aves, biodiversidad, naturaleza y vida silvestre, aves de Eurasia, pájaros pequeños, canto melodioso, aves de montaña, reproducción de aves, hábitats naturales, aves de humedales, especies migratorias, curiosidades de aves, aves en peligro, ecología de aves, plumaje azul.  
+escorpiones, vida de los escorpiones, anatomía del escorpión, veneno de escorpión, escorpión fluorescente, adaptación de escorpiones, hábitos de los escorpiones, alimentación de escorpiones, caza nocturna escorpiones, escorpiones en la naturaleza, depredadores de escorpiones, reproducción de escorpiones, cuidados maternos escorpiones, canibalismo en escorpiones, hábitats de escorpiones, curiosidades sobre escorpiones, ciclo de vida del escorpión, escorpiones y supervivencia, cómo sobreviven los escorpiones, defensa de los escorpiones, escorpiones en cautiverio, escorpiones y humanos, animales resilientes, criaturas venenosas, biodiversidad escorpiones, evolución de escorpiones, exoesqueleto escorpión  
 url
-    https://youtu.be/BHcw9iXEt7E
+    https://youtu.be/jRe5lijgXWo
 tags
-    animales,animals,fauna,ruisennor,nature
+    animales,animals,fauna,escorpiones,nature
