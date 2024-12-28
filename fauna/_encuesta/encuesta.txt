@@ -1,188 +1,201 @@
-20241220
-    Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales Puercoespín, Gecko y Camaleón pantera. Quiero la respuesta con el animal : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
-    ¿Que tema prefieres para el siguiente dato?
-    Cisne: elegante, majestuoso, grácil  
+20241228
+    Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Faisan, luciernagas y murcierlago: y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
+    ?Que tema prefieres para el siguiente dato?
+    Cisne: elegante, majestuoso, gracil  
     Coyote: astuto, adaptable, travieso  
     Ibis: colorido, sociable, curioso
     Result
-        ¿Que tema prefieres para el siguiente dato?  
-        Puercoespín: espinoso, reservado, resistente  
-        Gecko: ágil, nocturno, adherente  
-        Camaleón pantera: colorido, adaptable, sigiloso
+        Â¿QuÃ© tema prefieres para el siguiente dato?  
+        FaisÃ¡n: colorido, elegante, exÃ³tico  
+        LuciÃ©rnagas: luminosas, mÃ¡gicas
+        MurciÃ©lago: misterioso, nocturno
+    nombre
+        FaisÃ¡n-LuciÃ©rnagas-MurciÃ©lago
+20241220
+    Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales Puercoespï¿½n, Gecko y Camaleï¿½n pantera. Quiero la respuesta con el animal : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
+    ï¿½Que tema prefieres para el siguiente dato?
+    Cisne: elegante, majestuoso, grï¿½cil  
+    Coyote: astuto, adaptable, travieso  
+    Ibis: colorido, sociable, curioso
+    Result
+        ï¿½Que tema prefieres para el siguiente dato?  
+        Puercoespï¿½n: espinoso, reservado, resistente  
+        Gecko: ï¿½gil, nocturno, adherente  
+        Camaleï¿½n pantera: colorido, adaptable, sigiloso
     Para publicar en youtube
-        ¿Que tema prefieres para el siguiente dato?  
-        Puercoespín: espinoso, resistente  
-        Gecko: ágil, nocturno, adherente  
-        Camaleón pantera:colorido, adaptable
+        ï¿½Que tema prefieres para el siguiente dato?  
+        Puercoespï¿½n: espinoso, resistente  
+        Gecko: ï¿½gil, nocturno, adherente  
+        Camaleï¿½n pantera:colorido, adaptable
     nombre de la tarea
-        Puercoespín-Gecko-CamaleónPantera
+        Puercoespï¿½n-Gecko-Camaleï¿½nPantera
 20241215
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales Canguro, Escorpion y Bufalo. Quiero la respuesta con el animal : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
-    ¿Que tema prefieres para el siguiente dato?
-    Cisne: elegante, majestuoso, grácil  
+    ï¿½Que tema prefieres para el siguiente dato?
+    Cisne: elegante, majestuoso, grï¿½cil  
     Coyote: astuto, adaptable, travieso  
     Ibis: colorido, sociable, curioso
     Result
-        ¿Que tema prefieres para el siguiente dato?  
-        Canguro: ágil, saltarín, robusto  
-        Escorpión: venenoso, sigiloso, resistente  
-        Búfalo: fuerte, imponente, gregario  
+        ï¿½Que tema prefieres para el siguiente dato?  
+        Canguro: ï¿½gil, saltarï¿½n, robusto  
+        Escorpiï¿½n: venenoso, sigiloso, resistente  
+        Bï¿½falo: fuerte, imponente, gregario  
 20241207
-    Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales Ruiseñor, tortuga carey y Petirojo europeo. Quiero la respuesta con el animal : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
-    ¿Que tema prefieres para el siguiente dato?
-    Cisne: elegante, majestuoso, grácil  
+    Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales Ruiseï¿½or, tortuga carey y Petirojo europeo. Quiero la respuesta con el animal : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
+    ï¿½Que tema prefieres para el siguiente dato?
+    Cisne: elegante, majestuoso, grï¿½cil  
     Coyote: astuto, adaptable, travieso  
     Ibis: colorido, sociable, curioso
     Result
-        ¿Qué tema prefieres para el siguiente dato?  
-        Ruiseñor: melodioso, delicado, ágil  
-        Tortuga carey: longeva, resistente, exótica  
-        Petirrojo europeo: vibrante, pequeño, encantador  
+        ï¿½Quï¿½ tema prefieres para el siguiente dato?  
+        Ruiseï¿½or: melodioso, delicado, ï¿½gil  
+        Tortuga carey: longeva, resistente, exï¿½tica  
+        Petirrojo europeo: vibrante, pequeï¿½o, encantador  
     Compatible con la encuesta
-        ¿Qué tema prefieres para el siguiente dato?  
-        Ruiseñor: melodioso, delicado, ágil  
-        Tortuga carey: longeva, exótica  
-        Petirrojo europeo:vibrante, pequeño  
+        ï¿½Quï¿½ tema prefieres para el siguiente dato?  
+        Ruiseï¿½or: melodioso, delicado, ï¿½gil  
+        Tortuga carey: longeva, exï¿½tica  
+        Petirrojo europeo:vibrante, pequeï¿½o  
 20241130
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales Calamar, Hormiga y Salamandra. Quiero la respuesta con el animal : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
-    ¿Que tema prefieres para el siguiente dato?
-    Cisne: elegante, majestuoso, grácil  
+    ï¿½Que tema prefieres para el siguiente dato?
+    Cisne: elegante, majestuoso, grï¿½cil  
     Coyote: astuto, adaptable, travieso  
     Ibis: colorido, sociable, curioso
     Result
-        ¿Qué tema prefieres para el siguiente dato?  
-        Calamar: ágil, misterioso, adaptable  
+        ï¿½Quï¿½ tema prefieres para el siguiente dato?  
+        Calamar: ï¿½gil, misterioso, adaptable  
         Hormiga: trabajadora, organizada, incansable  
         Salamandra: colorida, resistente, escurridiza  
 20241123
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales Garza, Comadreja y Chacal. Quiero la respuesta con el animal : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
-    ¿Que tema prefieres para el siguiente dato?
-    Cisne: elegante, majestuoso, grácil  
+    ï¿½Que tema prefieres para el siguiente dato?
+    Cisne: elegante, majestuoso, grï¿½cil  
     Coyote: astuto, adaptable, travieso  
     Ibis: colorido, sociable, curioso
     Result
-        ¿Que tema prefieres para el siguiente dato?  
-        Garza: elegante, ágil, serena  
-        Comadreja: astuta, inquieta, ágil  
+        ï¿½Que tema prefieres para el siguiente dato?  
+        Garza: elegante, ï¿½gil, serena  
+        Comadreja: astuta, inquieta, ï¿½gil  
         Chacal: oportunista, leal, resistente  
 20241117
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales Liebre, Numbat y Reno. Quiero la respuesta con el animal : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
-    ¿Que tema prefieres para el siguiente dato?
-    Cisne: elegante, majestuoso, grácil  
+    ï¿½Que tema prefieres para el siguiente dato?
+    Cisne: elegante, majestuoso, grï¿½cil  
     Coyote: astuto, adaptable, travieso  
     Ibis: colorido, sociable, curioso
     Result
-        ¿Qué tema prefieres para el siguiente dato?  
+        ï¿½Quï¿½ tema prefieres para el siguiente dato?  
         Liebre: veloz, escurridiza, sigilosa  
-        Numbat: curioso, frágil, simpático  
+        Numbat: curioso, frï¿½gil, simpï¿½tico  
         Reno:resistente, migratorio, robusto  
 20241109
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales Pez globo, Mariposa y pavo domestico. Quiero la respuesta con el animal : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
-    ¿Que tema prefieres para el siguiente dato?
-    Cisne: elegante, majestuoso, grácil  
+    ï¿½Que tema prefieres para el siguiente dato?
+    Cisne: elegante, majestuoso, grï¿½cil  
     Coyote: astuto, adaptable, travieso  
     Ibis: colorido, sociable, curioso
     Result
-        ¿Qué tema prefieres para el siguiente dato?  
+        ï¿½Quï¿½ tema prefieres para el siguiente dato?  
         Pez globo: curioso, defensivo, fascinante  
-        Mariposa: colorida, frágil, efímera  
-        Pavo doméstico: sociable, vistoso, territorial   
+        Mariposa: colorida, frï¿½gil, efï¿½mera  
+        Pavo domï¿½stico: sociable, vistoso, territorial   
 20241030
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales fregata, oropendola y jabali. Quiero la respuesta con el animal : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
-    ¿Que tema prefieres para el siguiente dato?
-    Cisne: elegante, majestuoso, grácil  
+    ï¿½Que tema prefieres para el siguiente dato?
+    Cisne: elegante, majestuoso, grï¿½cil  
     Coyote: astuto, adaptable, travieso  
     Ibis: colorido, sociable, curioso
     Result
-        ¿Qué tema prefieres para el siguiente dato?  
-        Fregata: ágil, elegante, majestuosa  
-        Oropéndola: vibrante, melodiosa, ingeniosa  
-        Jabalí: resistente, salvaje, determinado    
+        ï¿½Quï¿½ tema prefieres para el siguiente dato?  
+        Fregata: ï¿½gil, elegante, majestuosa  
+        Oropï¿½ndola: vibrante, melodiosa, ingeniosa  
+        Jabalï¿½: resistente, salvaje, determinado    
 20241023
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales Pelicano, lucio y faeton. Quiero la respuesta con el animal : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
-    ¿Que tema prefieres para el siguiente dato?
-    Cisne: elegante, majestuoso, grácil  
+    ï¿½Que tema prefieres para el siguiente dato?
+    Cisne: elegante, majestuoso, grï¿½cil  
     Coyote: astuto, adaptable, travieso  
     Ibis: colorido, sociable, curioso
     Result
-        ¿Qué tema prefieres para el siguiente dato?  
-        Pelícano: robusto, preciso, curioso  
-        Lucio: sigiloso, ágil, feroz  
-        Fetonte: elegante, ágil, exótico    
+        ï¿½Quï¿½ tema prefieres para el siguiente dato?  
+        Pelï¿½cano: robusto, preciso, curioso  
+        Lucio: sigiloso, ï¿½gil, feroz  
+        Fetonte: elegante, ï¿½gil, exï¿½tico    
 20241013
     tres adjetivos para cada uno de los siguientes animales Cisne, Coyote y Ibis. Quiero la respuesta con el animal : y los tres adjetivos separados por coma.
-    ¿Que tema prefieres para el siguiente dato?
-    Cisne: elegante, majestuoso, grácil  
+    ï¿½Que tema prefieres para el siguiente dato?
+    Cisne: elegante, majestuoso, grï¿½cil  
     Coyote: astuto, adaptable, travieso  
     Ibis: colorido, sociable, curioso  
 20241006
-    tres adjetivos para cada uno de los siguientes animales Casuario, Dugongo y Halcón peregrino. Quiero la respuesta con el animal : y los tres adjetivos separados por coma.
-    ¿Que tema prefieres para el siguiente dato?
+    tres adjetivos para cada uno de los siguientes animales Casuario, Dugongo y Halcï¿½n peregrino. Quiero la respuesta con el animal : y los tres adjetivos separados por coma.
+    ï¿½Que tema prefieres para el siguiente dato?
     Casuario: imponente, colorido, agresivo.
-    Dugongo: pacífico, robusto, acuático.
-    Halcón peregrino: veloz, preciso, poderoso.
+    Dugongo: pacï¿½fico, robusto, acuï¿½tico.
+    Halcï¿½n peregrino: veloz, preciso, poderoso.
 20240929
-    tres adjetivos para cada uno de los siguientes animales Ajolote, Armiño y Babuino. Quiero la respuesta con el animal : y los tres adjetivos separados por coma.
-    ¿Que tema prefieres para el siguiente dato?
-    Ajolote: curioso, regenerativo, acuático
-    Armiño: ágil, elegante, esquivo
+    tres adjetivos para cada uno de los siguientes animales Ajolote, Armiï¿½o y Babuino. Quiero la respuesta con el animal : y los tres adjetivos separados por coma.
+    ï¿½Que tema prefieres para el siguiente dato?
+    Ajolote: curioso, regenerativo, acuï¿½tico
+    Armiï¿½o: ï¿½gil, elegante, esquivo
     Babuino: robusto, social, territorial
 20240922
-    tres adjetivos para cada uno de los siguientes animales Marmota Pingüino,Saltamontes y Topo. Quiero la respuesta con el animal : y los tres adjetivos separados por coma.
-    Claro, aquí tienes:
-    ¿Que tema prefieres para el siguiente dato?
-        Marmota:curiosa, ágil, peluda
-        Pingüino:elegante, sociable, torpe
-        Saltamontes:saltarín, verde, sigiloso
-        Topo:escurridizo, ciego, subterráneo
+    tres adjetivos para cada uno de los siguientes animales Marmota Pingï¿½ino,Saltamontes y Topo. Quiero la respuesta con el animal : y los tres adjetivos separados por coma.
+    Claro, aquï¿½ tienes:
+    ï¿½Que tema prefieres para el siguiente dato?
+        Marmota:curiosa, ï¿½gil, peluda
+        Pingï¿½ino:elegante, sociable, torpe
+        Saltamontes:saltarï¿½n, verde, sigiloso
+        Topo:escurridizo, ciego, subterrï¿½neo
 20240906
-    tres adjetivos para cada uno de los siguientes animales Piraña,Oveja,Oruga y Grulla
-    Piraña: voraz, afilada, ágil. Oveja: mansa, lanuda, tranquila. Oruga: metamórfica, segmentada, voraz. Grulla: elegante, grácil, altiva.
-    ¿Que tema prefieres para el siguiente dato?
-        Piraña: voraz, afilada, ágil.
+    tres adjetivos para cada uno de los siguientes animales Piraï¿½a,Oveja,Oruga y Grulla
+    Piraï¿½a: voraz, afilada, ï¿½gil. Oveja: mansa, lanuda, tranquila. Oruga: metamï¿½rfica, segmentada, voraz. Grulla: elegante, grï¿½cil, altiva.
+    ï¿½Que tema prefieres para el siguiente dato?
+        Piraï¿½a: voraz, afilada, ï¿½gil.
         Oveja: mansa, lanuda, tranquila.
-        Oruga: metamórfica, segmentada, voraz.
-        Grulla: elegante, grácil, altiva.  
+        Oruga: metamï¿½rfica, segmentada, voraz.
+        Grulla: elegante, grï¿½cil, altiva.  
 20240825
-    ¿Que tema prefieres para el siguiente dato?
-        Iguana: escamosa, ágil y territorial
+    ï¿½Que tema prefieres para el siguiente dato?
+        Iguana: escamosa, ï¿½gil y territorial
         Mofeta: olorosa, precavida y nocturna
         Perezoso: lento, somnoliento y solitario
-        Tucán: colorido, exótico y ruidoso  
+        Tucï¿½n: colorido, exï¿½tico y ruidoso  
     resource
         Foto de SevenStorm JUHASZIMRUS: https://www.pexels.com/es-es/foto/fotografia-en-primer-plano-de-la-iguana-verde-409802/
 20240824
-    ¿Que tema prefieres para el siguiente dato?
-        Flamenco: elegante, colorido, grácil.
-        Gorrión: pequeño, ágil, discreto.
+    ï¿½Que tema prefieres para el siguiente dato?
+        Flamenco: elegante, colorido, grï¿½cil.
+        Gorriï¿½n: pequeï¿½o, ï¿½gil, discreto.
         Hormiga: trabajadora, organizada, resistente.
         Kiwi: curioso, vulnerable, nocturno.
 20240814
-    ¿Que tema prefieres para el siguiente dato?
+    ï¿½Que tema prefieres para el siguiente dato?
         Hiena manchada  astuta y tenaz
-        Chimpancé sociable y curioso
+        Chimpancï¿½ sociable y curioso
         Nutria juguetona y traviesa
         Mapache  ingenioso y astuto
-    que adjetivos propones para los siguientes animales Hiena manchada, Chimpancé, Nutria y Mapache
-        Aquí tienes algunos adjetivos que podrían describir a estos animales:
+    que adjetivos propones para los siguientes animales Hiena manchada, Chimpancï¿½, Nutria y Mapache
+        Aquï¿½ tienes algunos adjetivos que podrï¿½an describir a estos animales:
         1. **Hiena manchada**: 
         - Resistente
         - Astuta
         - Tenaz
         - Poderosa
         - Adaptable
-        2. **Chimpancé**:
+        2. **Chimpancï¿½**:
         - Inteligente
         - Sociable
         - Curioso
-        - Ágil
-        - Juguetón
+        - ï¿½gil
+        - Juguetï¿½n
         3. **Nutria**:
-        - Ágil
+        - ï¿½gil
         - Juguetona
         - Traviesa
-        - Hábil
-        - Acuática
+        - Hï¿½bil
+        - Acuï¿½tica
         4. **Mapache**:
         - Ingenioso
         - Sigiloso

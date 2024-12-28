@@ -99,7 +99,7 @@ Esponjas de mar                         |
 Estrella de mar                         |
 Facóquero común                         |
 Faetón                                  |y|
-Faisán                                  |
+Faisán                                  |X
 Flamenco                                |x|                 http://www.flamencopedia.com/|
 Foca                                    |                   http://www.focapedia.com/|
 Fosa                                    |
@@ -153,7 +153,7 @@ Libélula                                |
 Liebre                                  |x|
 Loro                                    |
 Luchador de Siam                        |
-Luciérnaga                              |
+Luciérnaga                              |X
 Lucio                                   |y|
 Mandril                                 |
 Mangosta                                |
@@ -174,7 +174,7 @@ Mono                                    |
 Morsa                                   |                   http://www.morsapedia.com/|
 Mosca común                             |
 Mula                                    |
-Murciélago                              |
+Murciélago                              |X
 Murciélago vampiro                      |
 Musaraña                                |
 Numbat                                  |x|
