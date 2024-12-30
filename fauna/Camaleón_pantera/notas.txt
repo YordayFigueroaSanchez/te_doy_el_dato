@@ -1,19 +1,29 @@
 promnt para generar articulo
-    hola, asume que eres un escritor con experiencia y basado en la informacion proporcionada en el fichero, genera un articulo de unos 12 parafos que sea de facil de entender para la comunidad de youtube. Trando los temas de Anatomía, Alimentación, Hábitat, Reproducción, Evolución,  Depredadores, Mecanismos de defensa.
+    hola, asume que eres un escritor con experiencia y basado en la informacion proporcionada en el fichero, genera un articulo de unos 12 parafos que sea de facil de entender para la comunidad de youtube. Trando los temas de Anatomía, Alimentación, Hábitat, Reproducción, Evolución,  Depredadores, Mecanismos de defensa si el documento que le comparto contiene la informacion relacionado con el tema, no te inventes informacion si no esta en el documento compartido.
 promnt para parafo inicial
     Puedes escribir un parafo de introduccion donde no se mencione al animal que se trata en el video
 titles
     Puedes escribir titulos para el siguiente articulo que se publica en youtube
     🦂 Veneno y Resiliencia 🦂
+    "El Maestro del Camuflaje: Descubre los Secretos del Camaleón Pantera"
+    "El Rey de los Colores: Todo Sobre el Fascinante Camaleón Pantera"
+    "¿Sabías Esto del Camaleón Pantera? Su Vida, Hábitat y Más"
+    "Camaleón Pantera: El Reptil Más Colorido y Sorprendente de Madagascar"
+    "Mira Cómo Este Reptil Cambia de Color en Segundos: Camaleón Pantera"
+    "Todo Lo Que No Sabías del Camaleón Pantera en 10 Minutos"
+    "Un Experto en Camuflaje: Aprende Más del Camaleón Pantera"
+    "Por Qué el Camaleón Pantera Es Una Obra Maestra de la Naturaleza"
+    "Descubre Cómo Vive el Reptil Más Colorido del Mundo"
+    "Camaleón Pantera: Adaptación, Supervivencia y Colores Increíbles"
 adjetivos
     promnt
-        tres adjetivos que identifiquen a los escorpiones
+        basado en el texto puedes darme tres adjetivos que identifiquen al camaleon pantera
     result
-        Adaptables, Resilientes y Letales
+        Colorido,Adaptable,Ágil
 tags
-me propones tag para youtube basados en el fichero que agrego, por favor separados por una coma cada tag.
-escorpiones, vida de los escorpiones, anatomía del escorpión, veneno de escorpión, escorpión fluorescente, adaptación de escorpiones, hábitos de los escorpiones, alimentación de escorpiones, caza nocturna escorpiones, escorpiones en la naturaleza, depredadores de escorpiones, reproducción de escorpiones, cuidados maternos escorpiones, canibalismo en escorpiones, hábitats de escorpiones, curiosidades sobre escorpiones, ciclo de vida del escorpión, escorpiones y supervivencia, cómo sobreviven los escorpiones, defensa de los escorpiones, escorpiones en cautiverio, escorpiones y humanos, animales resilientes, criaturas venenosas, biodiversidad escorpiones, evolución de escorpiones, exoesqueleto escorpión  
+    basado en el texto me propones tag para youtube, por favor separados por una coma cada tag.
+    camaleón pantera, Furcifer pardalis, camaleones de Madagascar, reptiles coloridos, cambio de color, camuflaje animal, vida silvestre, hábitat tropical, camaleones gigantes, lengua proyectil, caza de insectos, biodiversidad de Madagascar, comportamiento de camaleones, reptiles exóticos, adaptaciones animales, depredadores de camaleones, cría de camaleones, ciclo de vida de camaleones, conservación de reptiles, curiosidades sobre camaleones.
 url
-    https://youtu.be/jRe5lijgXWo
+    
 tags
     animales,animals,fauna,escorpiones,nature
