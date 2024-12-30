@@ -26,4 +26,4 @@ tags
 url
     
 tags
-    animales,animals,fauna,escorpiones,nature
+    animales,animals,fauna,camaleon,nature
