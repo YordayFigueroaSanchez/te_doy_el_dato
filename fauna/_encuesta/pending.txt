@@ -38,7 +38,7 @@ Cachalote común                         |
 Caimán                                  |                   
 Calamar                                 |X|                 http://www.calamarpedia.com/|
 Camaleón                                |
-Camaleón pantera                        |X|Seleccionado                       
+Camaleón pantera                        |X|Seleccionado|VIDEO                       
 Camarón                                 |
 Camello                                 |
 Cangrejo                                |
