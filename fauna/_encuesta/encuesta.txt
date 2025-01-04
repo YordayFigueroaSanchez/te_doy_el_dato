@@ -1,3 +1,16 @@
+20250103
+    Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Mantarraya, Cangrejo y Impala: y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
+    ?Que tema prefieres para el siguiente dato?
+    Cisne: elegante, majestuoso, gracil  
+    Coyote: astuto, adaptable, travieso  
+    Ibis: colorido, sociable, curioso
+    Result
+        Â¿QuÃ© tema prefieres para el siguiente dato?  
+        Mantarraya: elegante, enigmÃ¡tica, majestuosa  
+        Cangrejo: resistente, Ã¡gil, curioso  
+        Impala: veloz, elegante, Ã¡gil
+    nombre
+        Mantarraya-Cangrejo-Impala 
 20241228
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Faisan, luciernagas y murcierlago: y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
     ?Que tema prefieres para el siguiente dato?

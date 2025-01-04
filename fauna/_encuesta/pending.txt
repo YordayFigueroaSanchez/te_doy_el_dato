@@ -48,7 +48,7 @@ Camaleón                                |
 Camaleón pantera                        |X|Seleccionado|VIDEO|SHORT|                       
 Camarón                                 |
 Camello                                 |
-Cangrejo                                |
+Cangrejo                                |X|
 Cangrejo herradura                      |
 Canguro                                 |X|                 http://www.canguropedia.com/|
 Capibara                                |VIDEO|
@@ -155,7 +155,7 @@ Hurón                                   |
 Ibis                                    |X|
 Iguana                                  |x-VIDEO|SHORT|
 Iguana marina                           |
-Impala                                  |
+Impala                                  |X|
 Indri                                   |
 Jabalí                                  |x|
 Jilguero europeo                        |
@@ -177,12 +177,12 @@ Llama                                   |VIDEO|
 Lobo blanco                             |VIDEO|
 Loro                                    |
 Luchador de Siam                        |
-Luciérnaga                              |X
+Luciérnaga                              |X|Seleccionado|
 Lucio                                   |y|
 Manati                                  |VIDEO|
 Mandril                                 |
 Mangosta                                |
-Mantarraya                              |                   http://www.mantarayapedia.com/|
+Mantarraya                              |X|                   http://www.mantarayapedia.com/|
 Mapache                                 |VIDEO|
 Mariposa arlequin                       |
 Mariposa monarca                        |
