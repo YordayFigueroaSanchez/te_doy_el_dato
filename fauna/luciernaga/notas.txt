@@ -1,0 +1,34 @@
+promnt para generar articulo(se uso https://www.perplexity.ai/)
+    hola, asume que eres un escritor con experiencia y basado en la informacion proporcionada en el fichero, genera un articulo de unos 12 parafos que sea de facil de entender para la comunidad de youtube. Trando los temas de Anatomía, Alimentación, Hábitat, Reproducción, Evolución,  Depredadores, Mecanismos de defensa si el documento que le comparto contiene la informacion relacionado con el tema, no te inventes informacion si no esta en el documento compartido.
+promnt para parafo inicial
+    Puedes escribir un parafo de introduccion donde no se mencione al animal que se trata en la fuente compartida, que el parafo sea corto y de alguna pista sobre el animal.
+titles
+    Puedes escribir titulos para el siguiente articulo que se publica en youtube
+    ཐི༏ཋྀ💥 Bioluminiscencia en la Noche 💥ཐི༏ཋྀ
+    1. **"Luciérnagas: El Fascinante Mundo de los Bichos de Luz"**
+    2. **"Bioluminiscencia en la Noche: Secretos de las Luciérnagas"**
+    3. **"¿Por Qué Están Desapareciendo las Luciérnagas? Descubre la Verdad"**
+    4. **"El Ciclo de Vida de las Luciérnagas: Desde Huevos hasta Adultos"**
+    5. **"Luciérnagas: Mecanismos de Defensa y Estrategias de Supervivencia"**
+    6. **"La Importancia de las Luciérnagas en Nuestros Ecosistemas"**
+    7. **"Cómo Proteger a las Luciérnagas: Acciones para su Conservación"**
+    8. **"La Magia Nocturna: El Cortejo Lumínico de las Luciérnagas"**
+    9. **"Luciérnagas y Contaminación Lumínica: Un Problema Creciente"**
+    10. **"Evolución y Adaptación: Las Luciérnagas a Través del Tiempo"**
+adjetivos
+    promnt
+        basado en el texto puedes darme tres adjetivos que identifiquen a la luciernaga
+    result
+        Tres adjetivos que identifican a las luciérnagas son:
+        1. **Bioluminiscentes**: Se destacan por su capacidad de emitir luz, un rasgo distintivo que utilizan para comunicarse y atraer parejas.
+        2. **Nocturnas**: Son insectos activos principalmente durante la noche, lo que les permite aprovechar su bioluminiscencia en sus rituales de cortejo.
+        3. **Vulnerables**: Enfrentan amenazas significativas, como la pérdida de hábitat y la contaminación lumínica, que ponen en riesgo sus poblaciones.
+    sumary
+        Bioluminiscentes, Nocturnas, Vulnerables
+tags
+    basado en el texto me propones tag para youtube, por favor separados por una coma cada tag.
+    luciérnagas, bioluminiscencia, insectos nocturnos, hábitat de luciérnagas, conservación de luciérnagas, ciclo de vida, depredadores de luciérnagas, alimentación de luciérnagas, reproducción de luciérnagas, amenaza a las luciérnagas, contaminación lumínica, especies de luciérnagas, mecanismos de defensa, ecosistemas húmedos, luciérnagas en peligro
+url
+    
+tags
+    animales,animals,fauna,luciernaga,nature
