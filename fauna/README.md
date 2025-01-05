@@ -1,3 +1,9 @@
+| Encabezado 1 | Encabezado 2 | Encabezado 3 |
+|--------------|--------------|--------------|
+| Fila 1, Columna 1 | Fila 1, Columna 2 | Fila 1, Columna 3 |
+| Fila 2, Columna 1 | Fila 2, Columna 2 | Fila 2, Columna 3 |
+| Fila 3, Columna 1 | Fila 3, Columna 2 | Fila 3, Columna 3 |
+
 ## Abejaruco Esmeralda                     
 |
 # Abejas                                  
