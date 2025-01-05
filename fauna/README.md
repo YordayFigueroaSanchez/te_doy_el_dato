@@ -1,16 +1,15 @@
-| Encabezado 1              | Encuesta  | Seleccionado  | Video | Source    |
-|--------------             |---------- |-------------- |-------|--------   |
-| Abejaruco Esmeralda       | -         | -             |       |           |
-| Abejas                    | OK        | -             | [link](https://youtu.be/3-UQtx3RCeo)      |           |
-| Abejorro                  | -         | -             |       |           |
-
-# Acara azul eléctrico                    |
-# Aguila real                             |VIDEO|
-# Ajolote                                 |x-VIDEO|SHORT|                       
-# Albatros                                |
-# Alce                                    |VIDEO|
-# Almeja gigante                          |
-# Anguila eléctrica                       |
+| Tema                      | Encuesta  | Seleccionado  | Video                               | Source    |
+|--------------             |---------- |-------------- |-------                              |--------   |
+| Abejaruco Esmeralda       | -         | -             |                                     |           |
+| Abejas                    | OK        | OK            |[link](https://youtu.be/3-UQtx3RCeo) |           |
+| Abejorro                  | -         | -             |                                     |           |
+| Acara azul eléctrico      | -         | -             |                                     |           |
+| Aguila real               | OK        | OK            |[link](https://youtu.be/TvznRVD1Kdw) |           |
+| Ajolote                   | OK        | OK            |[link](https://youtu.be/7YtiIV7lYsA) |           |
+| Albatros                  | -         | -             |                                     |           |
+| Alce                      | OK        | OK            |[link](https://youtu.be/X7IdEqA89Gw) |           |
+| Almeja gigante            | -         | -             |                                     |           |
+| Anguila eléctrica         | -         | -             |                                     |           |
 # Anguila morena                          |
 # Antílope                                |
 # Arana viuda negra                       |VIDEO|SHORT|
