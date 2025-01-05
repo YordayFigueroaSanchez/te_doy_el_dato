@@ -33,30 +33,30 @@
 | Bongo oriental                        |           |              |                                     |           |
 | Buey almizclero                       |           | OK (SHORT)   |[link](https://youtu.be/X7IdEqA89Gw) |           |
 | Bufalo rojo                           |           |              |                                     |           |
-| Búfalo                                | 1         |              |                                     |https://animalia.bio/es/bubalus|
-| Búhos                                 |           |              |                                     |http://www.buhopedia.com/|
+| Búfalo                                | 1         |              |                                     |[info](https://animalia.bio/es/bubalus)|
+| Búhos                                 |           |              |                                     |[info](http://www.buhopedia.com/)|
 | Búho chico                            |           |              |                                     |           |
 | Búho nival                            |           |              |                                     |           |
 | Buitre leonado                        |           | OK           |[link](https://youtu.be/X7IdEqA89Gw) |           |
 | Burro                                 |           |              |                                     |           |
 | Busardo ratonero                      |           |              |                                     |           |
-| Caballito de mar                      |           |              |                                     |http://www.caballitodemarpedia.com/|
-| Caballo                               |           | OK           |[link](https://youtu.be/X7IdEqA89Gw) |http://www.caballopedia.com/|
+| Caballito de mar                      |           |              |                                     |[info](http://www.caballitodemarpedia.com/)|
+| Caballo                               |           | OK           |[link](https://youtu.be/X7IdEqA89Gw) |[info](http://www.caballopedia.com/)|
 | Cabra                                 |           |              |                                     |           |
 | Cachalote común                       |           |              |                                     |           |
 | Caimán                                |           |              |                                     |           |                   
-| Calamar                               | 1         |              |                                     |http://www.calamarpedia.com/|
+| Calamar                               | 1         |              |                                     |[info](http://www.calamarpedia.com/)|
 | Camaleón                              |           |              |                                     |           |
 | Camaleón pantera                      | OK        | OK (SHORT)   |[link](https://youtu.be/X7IdEqA89Gw) |           |
 | Camarón                               |           |              |                                     |           |
 | Camello                               |           |              |                                     |           |
 | Cangrejo                              | 1         |              |                                     |           |
 | Cangrejo herradura                    |           |              |                                     |           |
-| Canguro                               | 1         |              |                                     |http://www.canguropedia.com/|
+| Canguro                               | 1         |              |                                     |[info](http://www.canguropedia.com/)|
 | Capibara                              |           | OK           |[link](https://youtu.be/X7IdEqA89Gw) |           |
 | Cárabo común                          |           |              |                                     |           |
 | Caracal                               |           |              |                                     |           |
-| Caracol                               |           |              |                                     |http://www.caracolpedia.com/|
+| Caracol                               |           |              |                                     |[info](http://www.caracolpedia.com/)|
 | Castor                                |           | OK           |[link](https://youtu.be/X7IdEqA89Gw) |           |
 | Casuario                              | 1         | OK (SHORT)   |[link](https://youtu.be/X7IdEqA89Gw) |           |
 | Cebú                                  |           |              |                                     |           |
@@ -65,7 +65,7 @@
 | Cerdo hormiguero                      |           |              |                                     |           |
 | Cetia japonés                         |           |              |                                     |           |
 | Chacal                                | 1         |              |                                     |           |
-| Chimpancé                             |           |              |                                     |http://www.chimpancepedia.com/|
+| Chimpancé                             |           |              |                                     |[info](http://www.chimpancepedia.com/)|
 | Chinchilla                            |           |              |                                     |           |
 | Cíclido                               |           |              |                                     |           |
 | Ciempiés                              |           |              |                                     |           |
@@ -77,7 +77,7 @@
 | Coatí de cola anillada                |           |              |                                     |           |
 | Cobaya                                |           |              |                                     |           |
 | Cochinilla de la humedad              |           |              |                                     |           |
-| Cocodrilo                             |           |              |                                     |http://www.cocodrilopedia.com/|
+| Cocodrilo                             |           |              |                                     |[info](http://www.cocodrilopedia.com/)|
 | Codorniz común                        |           |              |                                     |           |
 | Colimbo grande                        |           |              |                                     |           |
 | Comadreja                             | 1         |              |                                     |           |
@@ -86,7 +86,7 @@
 | Coyote                                | 1         |              |                                     |           |
 | Cucaracha                             |           |              |                                     |           |
 | Demonio de Tasmania                   |           |              |                                     |           |
-| Delfin                                |           | OK           |[link](https://youtu.be/X7IdEqA89Gw) |http://www.delfinpedia.com/|
+| Delfin                                |           | OK           |[link](https://youtu.be/X7IdEqA89Gw) |[info](http://www.delfinpedia.com/)|
 | Dik-dik de Kirk                       |           |              |                                     |           |
 | Dientes de sable                      |           |              |                                     |           |
 | Dingo                                 |           |              |                                     |           |
@@ -97,13 +97,13 @@
 | Dragón de komodo                      |           | OK (SHORT)   |[link](https://youtu.be/X7IdEqA89Gw) |           |
 | Dragón de mar foliáceo                |           |              |                                     |           |
 | Dugongo                               | 1         |              |                                     |           |
-| Elefante                              |           | OK           |[link](https://youtu.be/X7IdEqA89Gw) http://www.elefantepedia.com/|
+| Elefante                              |           | OK           |[link](https://youtu.be/X7IdEqA89Gw) |[info](http://www.elefantepedia.com/)|
 | Emperador púrpura                     |           |              |                                     |           |
 | Emú común                             |           |              |                                     |           |
 | Erizo                                 |           |              |                                     |           |
 | Erizo de mar                          |           |              |                                     |           |
 | Escarabajo                            |           |              |                                     |           |
-| Escorpión                             | 1         | OK (SHORT)   |[link](https://youtu.be/X7IdEqA89Gw) |http://www.escorpionpedia.com/|
+| Escorpión                             | 1         | OK (SHORT)   |[link](https://youtu.be/X7IdEqA89Gw) |[info](http://www.escorpionpedia.com/)|
 | Escorpión emperador                   |           |              |                                     |           |
 | Espátula rosada                       |           |              |                                     |           |
 | Esponjas de mar                       |           |              |                                     |           |
@@ -112,8 +112,8 @@
 | Facóquero común                       |           |              |                                     |           |
 | Faetón                                | 1         |              |                                     |           |
 | Faisán                                | 1         |              |                                     |           |
-| Flamenco                              | 1         |              |                                     |http://www.flamencopedia.com/|
-| Foca                                  |           |              |                                     |http://www.focapedia.com/|
+| Flamenco                              | 1         |              |                                     |[info](http://www.flamencopedia.com/)|
+| Foca                                  |           |              |                                     |[info](http://www.focapedia.com/)|
 | Foca leopardo                         |           | OK           |[link](https://youtu.be/X7IdEqA89Gw) |           |
 | Fosa                                  |           |              |                                     |           |
 | Frailecillo común                     |           |              |                                     |           |
@@ -125,15 +125,15 @@
 | Ganso                                 |           |              |                                     |           |
 | Ganso del Nilo                        |           |              |                                     |           |
 | Garza                                 | 1         | OK (SHORT)   |[link](https://youtu.be/X7IdEqA89Gw) |           |
-| Garza(Garceta Azul)	                |           |              |                                     |ecosdelbosque.com/fauna/egretta-caerulea|
-| Garza(Garceta grande)	                |           |              |                                     |ecosdelbosque.com/fauna/ardea-alba|
-| Garza(Garceta Nivosa)	                |           |              |                                     |ecosdelbosque.com/fauna/egretta-thula|
-| Garza(Garza agami)	                |           |              |                                     |ecosdelbosque.com/fauna/agamia-agami|
-| Garza(Garza bueyera)	                |           |              |                                     |ecosdelbosque.com/fauna/bubulcus-ibis|
-| Garza(Garza del sol)	                |           |              |                                     |ecosdelbosque.com/fauna/eurypyga-helias|
-| Garza(Garza tigre, martín peña)       |           |              |                                     |ecosdelbosque.com/fauna/tigrisoma-fasciatum|
-| Garza(Garza tigre cuellinuda)         |           |              |                                     |ecosdelbosque.com/fauna/tigrisoma-mexicanum|
-| Garza(Garzón azulado o Garza ceniza)  |           |              |                                     |ecosdelbosque.com/fauna/ardea-herodias|
+| Garza(Garceta Azul)	                |           |              |                                     |[info](ecosdelbosque.com/fauna/egretta-caerulea)|
+| Garza(Garceta grande)	                |           |              |                                     |[info](ecosdelbosque.com/fauna/ardea-alba)|
+| Garza(Garceta Nivosa)	                |           |              |                                     |[info](ecosdelbosque.com/fauna/egretta-thula)|
+| Garza(Garza agami)	                |           |              |                                     |[info](ecosdelbosque.com/fauna/agamia-agami)|
+| Garza(Garza bueyera)	                |           |              |                                     |[info](ecosdelbosque.com/fauna/bubulcus-ibis)|
+| Garza(Garza del sol)	                |           |              |                                     |[info](ecosdelbosque.com/fauna/eurypyga-helias)|
+| Garza(Garza tigre, martín peña)       |           |              |                                     |[info](ecosdelbosque.com/fauna/tigrisoma-fasciatum)|
+| Garza(Garza tigre cuellinuda)         |           |              |                                     |[info](ecosdelbosque.com/fauna/tigrisoma-mexicanum)|
+| Garza(Garzón azulado o Garza ceniza)  |           |              |                                     |[info](ecosdelbosque.com/fauna/ardea-herodias)|
 | Gato                                  |           | OK           |[link](https://youtu.be/X7IdEqA89Gw) |           |
 | Gato montes                           |           | OK           |[link](https://youtu.be/X7IdEqA89Gw) |           |
 | Gavial                                |           |              |                                     |           |
@@ -152,7 +152,7 @@
 | Hámster                               |           |              |                                     |           |
 | Hiena                                 |           |              |                                     |           |
 | Hiena manchada                        |           | OK           |[link](https://youtu.be/X7IdEqA89Gw) |           |
-| Hormiga                               | 2         |              |                                     |http://www.hormigapedia.com/|
+| Hormiga                               | 2         |              |                                     |[info](http://www.hormigapedia.com/)|
 | Hurón                                 |           |              |                                     |           |
 | Ibis                                  | 1         |              |                                     |           |
 | Iguana                                | 1         | OK (SHORT)   |[link](https://youtu.be/X7IdEqA89Gw) |           |
@@ -184,21 +184,21 @@
 | Manati                                |           | OK           |[link](https://youtu.be/X7IdEqA89Gw) |           |
 | Mandril                               |           |              |                                     |           |
 | Mangosta                              |           |              |                                     |           |
-| Mantarraya                            | 1         |              |                                     |http://www.mantarayapedia.com/|
+| Mantarraya                            | 1         |              |                                     |[info](http://www.mantarayapedia.com/)|
 | Mapache                               |           | OK           |[link](https://youtu.be/X7IdEqA89Gw) |           |
 | Mariposa arlequin                     |           |              |                                     |           |
 | Mariposa monarca                      |           |              |                                     |           |
-| Mariposa genero                       | 1         | OK (SHORT)   |[link](https://youtu.be/X7IdEqA89Gw) |https://concepto.de/mariposas/|
+| Mariposa genero                       | 1         | OK (SHORT)   |[link](https://youtu.be/X7IdEqA89Gw) |[info](https://concepto.de/mariposas/)|
 | Mariquita                             |           |              |                                     |           |
 | Marmota                               | 1         |              |                                     |           |
 | Martín pescador                       |           |              |                                     |           |
-| Medusa                                |           | OK           |[link](https://youtu.be/X7IdEqA89Gw) |http://www.medusapedia.com/|
+| Medusa                                |           | OK           |[link](https://youtu.be/X7IdEqA89Gw) |[info](http://www.medusapedia.com/)|
 | Milpiés                               |           |              |                                     |           |
 | Mirlo común                           |           |              |                                     |           |
 | Mofeta                                | 1         |              |                                     |           |
 | Molly                                 |           |              |                                     |           |
 | Mono                                  |           |              |                                     |           |
-| Morsa                                 |           |              |                                     |http://www.morsapedia.com/|
+| Morsa                                 |           |              |                                     |[info](http://www.morsapedia.com/)|
 | Mosca común                           |           |              |                                     |           |
 | Mula                                  |           |              |                                     |           |
 | Murciélago                            | 1         | OK           |[link](https://youtu.be/X7IdEqA89Gw) |           |
@@ -220,7 +220,7 @@
 | Oso polar                             |           | OK           |[link](https://youtu.be/X7IdEqA89Gw) |           |
 | Oveja                                 | 1         |              |                                     |           |
 | Pájaro carpintero                     |           |              |                                     |           |
-| Pantera negra (no seria una especie)  |           |              |                                     |https://www.publico.es/yo-animal/sabias-que-las-panteras-negras-no-existen/|
+| Pantera negra (no seria una especie)  |           |              |                                     |[info](https://www.publico.es/yo-animal/sabias-que-las-panteras-negras-no-existen/)|
 | Pato                                  |           |              |                                     |           |
 | pavo doméstico                        | 1         |              |                                     |           |
 | pavo real                             |           |              |                                     |           |
@@ -269,7 +269,7 @@
 | Rorcual                               |           |              |                                     |           |
 | Ruiseñor                              | 1         |              |                                     |           |
 | Ruiseñor pechiazul                    | 1         | OK (SHORT)   |[link](https://youtu.be/X7IdEqA89Gw) |           |
-| Salamandra                            | 1         |              |                                     |http://www.salamandrapedia.com    |
+| Salamandra                            | 1         |              |                                     |[info](http://www.salamandrapedia.com)    |
 | Saltamontes                           | 1         |              |                                     |           |
 | Sapo africano                         |           |              |                                     |           |
 | Sapo común                            |           |              |                                     |           |
@@ -291,7 +291,7 @@
 | Tortuga Carey                         | 1         |              |                                     |           |
 | Tucán                                 | 1         | OK (SHORT)   |[link](https://youtu.be/X7IdEqA89Gw) |           |
 | Tucán pico iris                       |           |              |                                     |           |
-| Turaco  (ave)                         |           |              |                                     |https://www.faunia.es/planea-tu-visita/animales/turaco|
+| Turaco  (ave)                         |           |              |                                     |[info](https://www.faunia.es/planea-tu-visita/animales/turaco)|
 | Urraca común                          |           |              |                                     |           |
 | Vaca                                  |           |              |                                     |           |
 | Vaca marina de Steller                |           |              |                                     |           |
