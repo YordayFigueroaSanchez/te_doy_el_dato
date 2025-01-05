@@ -5,10 +5,12 @@
     Coyote: astuto, adaptable, travieso  
     Ibis: colorido, sociable, curioso
     Result
-        Â¿QuÃ© tema prefieres para el siguiente dato?  
-        Mantarraya: elegante, enigmÃ¡tica, majestuosa  
-        Cangrejo: resistente, Ã¡gil, curioso  
-        Impala: veloz, elegante, Ã¡gil
+        ¿Qué tema prefieres para el siguiente dato?  
+        Mantarraya: elegante, enigmática, majestuosa  
+        Cangrejo: resistente, ágil, curioso  
+        Impala: veloz, elegante, ágil  
+
+Si necesitas ajustes adicionales, házmelo saber. 😊
     nombre
         Mantarraya-Cangrejo-Impala 
 20241228
