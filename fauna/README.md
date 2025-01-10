@@ -193,7 +193,7 @@
 | Manati                                |          |      | OK           |[🐚 Secretos del Gigante Gentil: El Fascinante Mundo de los Manatíes 🌱](https://youtu.be/LVKCJec5iUk) |           |
 | Mandril                               |          |      |              |                                     |           |
 | Mangosta                              |          |      |              |                                     |           |
-| Mantarraya                            | 1        |      |              |                                     |[info](http://www.mantarayapedia.com/)|
+| Mantarraya                            | 1        |      | Seleccionada |                                     |[info](http://www.mantarayapedia.com/)|
 | Mapache                               |          |      |              | |           |
 | Mariposa arlequin                     |          |      |              |                                     |           |
 | Mariposa monarca                      |          |      |              |                                     |           |
