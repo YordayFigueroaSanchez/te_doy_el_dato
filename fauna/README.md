@@ -48,11 +48,10 @@
 | Calamar                               | 1        |      |              |                                     |[info](http://www.calamarpedia.com/)|
 | Camaleón                              |          |      |              |                                     |           |
 | Camaleón pantera                      | OK       |      | OK (SHORT)   |[🦎 Maestro del Camuflaje 🦎](https://youtu.be/O-vIhrfStrc) |           |
-| Camarón                               |          |      |              |                                     |           |
-| Camelus bactrianus:camello bactriano doméstico |       |    |          |                                     |[Camelus bactrianus:camello bactriano doméstico](https://es.wikipedia.org/wiki/Camelus)|
+| Camarón                                           |       |      |              |                                     |           |
+| Camelus bactrianus:camello bactriano doméstico    |       |    |          |                                     |[Camelus bactrianus:camello bactriano doméstico](https://es.wikipedia.org/wiki/Camelus)|
 | Camelus dromedarius: el dromedario    | 1      |      |              |                                     |[Camelus dromedarius: el dromedario o camello arábigo, el cual posee una sola joroba](https://es.wikipedia.org/wiki/Camelus)|
 | Camelus ferus:camelloBactrianoSalvaje |          |      |              |                                     |[Camelus ferus: el camello salvaje o camello bactriano salvaje, el único que nunca fue domesticado](https://es.wikipedia.org/wiki/Camelus)|
-
 | Cangrejo                              | 1        |      |              |                                     |           |
 | Cangrejo herradura                    |          |      |              |                                     |           |
 | Canguro                               | 1        |      |              |                                     |[info](http://www.canguropedia.com/)|
