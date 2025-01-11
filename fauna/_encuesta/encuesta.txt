@@ -1,3 +1,21 @@
+20250111
+    Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Rata, Ardilla y Camello: y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
+    ?Que tema prefieres para el siguiente dato?
+    Cisne: elegante, majestuoso, gracil  
+    Coyote: astuto, adaptable, travieso  
+    Ibis: colorido, sociable, curioso
+    Result
+        ¿Qué tema prefieres para el siguiente dato?
+        Rata: ingeniosa, resistente, ágil  
+        Ardilla: veloz, juguetona, astuta
+        Camello: fuerte, paciente, adaptable
+    Adaptado
+        ¿Qué tema prefieres para el siguiente dato?
+        Rata: ingeniosa, resistente
+        Ardilla: veloz, juguetona
+        Camello: fuerte, paciente
+    nombre
+        Rata-Ardilla-Camello
 20250103
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Mantarraya, Cangrejo y Impala: y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
     ?Que tema prefieres para el siguiente dato?
@@ -9,7 +27,6 @@
         Mantarraya: elegante, enigmática, majestuosa  
         Cangrejo: resistente, ágil, curioso  
         Impala: veloz, elegante, ágil  
-
 Si necesitas ajustes adicionales, házmelo saber. 😊
     nombre
         Mantarraya-Cangrejo-Impala 

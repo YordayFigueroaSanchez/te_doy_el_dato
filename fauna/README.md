@@ -13,7 +13,7 @@
 | Anguila morena                        |          |      |              |                                     |           |
 | Antílope                              |          |      |              |                                     |           |
 | Arana viuda negra                     | OK       |  OK  | OK           |[Araña viuda negra, venenosa, sigilosa y peligrosa](https://youtu.be/7brFhGQ8pJ4) |           |
-| Ardilla                               |          |      |              | |           |
+| Ardilla                               | 1        |      |              | |           |
 | Armadillo                             |          |      |              |                                     |           |
 | Armiño                                | 1        |      |              |                                     |           |
 | Ascidias                              |          |      |              |                                     |           |
@@ -49,7 +49,10 @@
 | Camaleón                              |          |      |              |                                     |           |
 | Camaleón pantera                      | OK       |      | OK (SHORT)   |[🦎 Maestro del Camuflaje 🦎](https://youtu.be/O-vIhrfStrc) |           |
 | Camarón                               |          |      |              |                                     |           |
-| Camello                               |          |      |              |                                     |           |
+| Camelus bactrianus:camello bactriano doméstico |       |    |          |                                     |[Camelus bactrianus:camello bactriano doméstico](https://es.wikipedia.org/wiki/Camelus)|
+| Camelus dromedarius: el dromedario    | 1      |      |              |                                     |[Camelus dromedarius: el dromedario o camello arábigo, el cual posee una sola joroba](https://es.wikipedia.org/wiki/Camelus)|
+| Camelus ferus:camelloBactrianoSalvaje |          |      |              |                                     |[Camelus ferus: el camello salvaje o camello bactriano salvaje, el único que nunca fue domesticado](https://es.wikipedia.org/wiki/Camelus)|
+
 | Cangrejo                              | 1        |      |              |                                     |           |
 | Cangrejo herradura                    |          |      |              |                                     |           |
 | Canguro                               | 1        |      |              |                                     |[info](http://www.canguropedia.com/)|
@@ -270,7 +273,7 @@
 | Rana verde centroeuropea              |          |      |              |                                     |           |
 | Ranas arbóreas (Hayla)                |          |      |              |                                     |           |
 | Ranita monte Iberia                   |          |      |              |                                     |           |                       
-| Rata                                  |          |      |              |                                     |           |
+| Rata                                  | 1        |      |              |                                     |           |
 | Ratón común                           |          |      |              |                                     |           |
 | Raya                                  |          |      |              |                                     |           |    
 | Reno                                  | 1        |      | OK (SHORT)   |[🦌Un Explorador Ártico🎅🎄❄️☃️🎁🦌](https://youtu.be/NiGuNKrIsaY) |           |
