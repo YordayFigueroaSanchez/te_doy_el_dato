@@ -1,0 +1,16 @@
+promnt para generar articulo(se uso https://www.perplexity.ai/)
+    hola, asume que eres un escritor con experiencia y basado en la informacion proporcionada en el fichero, genera un articulo de unos 12 parafos que sea de facil de entender para la comunidad de youtube. Trando los temas de Anatomía, Alimentación, Hábitat, Reproducción, Evolución,  Depredadores, Mecanismos de defensa si el documento que le comparto contiene la informacion relacionado con el tema, no te inventes informacion si no esta en el documento compartido.
+promnt para parafo inicial
+    Puedes escribir un parafo de introduccion donde no se mencione al animal que se trata en la fuente compartida, que el parafo sea corto y de alguna pista sobre el animal.
+titles
+    Puedes escribir titulos para el siguiente articulo que se publica en youtube
+adjetivos
+    promnt
+        basado en el texto puedes darme tres adjetivos que identifiquen a la luciernaga
+    result
+tags
+    basado en el texto me propones tag para youtube, por favor separados por una coma cada tag.
+url
+    
+tags
+    animales,animals,fauna,mantarraya,nature
