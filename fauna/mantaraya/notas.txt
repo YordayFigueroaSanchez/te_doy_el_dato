@@ -3,6 +3,7 @@ promnt para generar articulo(se uso https://www.perplexity.ai/)
 promnt para parafo inicial
     Puedes escribir un parafo de introduccion donde no se mencione al animal que se trata en la fuente compartida, que el parafo sea corto y de alguna pista sobre el animal.
 titles
+    𓆰𓆪𓆰𓆪¿Quiénes son los voladores secretos del océano?🌊
     Puedes escribir titulos para el siguiente articulo que se publica en youtube
     1. **Descubriendo el Misterio de las Mantarrayas: Fascinantes Criaturas del Océano**
     2. **Todo lo que Necesitas Saber sobre las Mantarrayas: Anatomía y Hábitos**
@@ -29,6 +30,6 @@ tags
     result
         manta raya, mantarraya, criaturas del océano, animales marinos, conservación marina, hábitat de la manta raya, alimentación de mantas rayas, reproducción de mantas rayas, depredadores de mantas rayas, evolución de la manta raya, vida marina, protección de mantas rayas, características de la manta raya, acrobacias en el agua, ecosistema marino, especies de mantas rayas, mitos sobre mantas rayas
 url
-    
+    https://youtu.be/rW7UUFYgxdA
 tags
     animales,animals,fauna,mantarraya,nature
