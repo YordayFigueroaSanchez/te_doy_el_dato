@@ -4,12 +4,30 @@ promnt para parafo inicial
     Puedes escribir un parafo de introduccion donde no se mencione al animal que se trata en la fuente compartida, que el parafo sea corto y de alguna pista sobre el animal.
 titles
     Puedes escribir titulos para el siguiente articulo que se publica en youtube
+    1. **Descubriendo el Misterio de las Mantarrayas: Fascinantes Criaturas del Océano**
+    2. **Todo lo que Necesitas Saber sobre las Mantarrayas: Anatomía y Hábitos**
+    3. **Las Mantarrayas: Gigantes del Mar con un Corazón Suave**
+    4. **Alimentación y Hábitat de las Mantarrayas: Un Viaje por el Océano**
+    5. **Reproducción y Vida de las Mantarrayas: Un Ciclo Sorprendente**
+    6. **Evolución de las Mantarrayas: Un Viaje a Través del Tiempo**
+    7. **Depredadores Naturales de las Mantarrayas: ¿Quiénes Son sus Amenazas?**
+    8. **Mecanismos de Defensa de las Mantarrayas: Estrategias para Sobrevivir**
+    9. **El Impacto del Calentamiento Global en las Mantarrayas: Desafíos y Soluciones**
+    10. **Conservación de las Mantarrayas: ¿Cómo Podemos Ayudarlas?**
+    11. **Mitología y Cultura Popular: El Fascinante Mundo de las Mantarrayas**
+    12. **Las Mantarrayas en Cautiverio: Desafíos y Realidades**
 adjetivos
     promnt
-        basado en el texto puedes darme tres adjetivos que identifiquen a la luciernaga
+        basado en el texto puedes darme tres adjetivos que identifiquen a la mantarraya
     result
+        Tres adjetivos que identifican a la mantarraya son:
+        1. **Majestuosa**: Su gran tamaño y elegancia al nadar en el agua la hacen parecer una criatura imponente y hermosa.
+        2. **Inteligente**: Poseen el cerebro más grande entre los tiburones y rayas, lo que indica un alto nivel de inteligencia y capacidad de adaptación.
+        3. **Pacífica**: A pesar de su tamaño y apariencia, las mantas rayas son animales generalmente suaves que no representan una amenaza para los humanos.
 tags
     basado en el texto me propones tag para youtube, por favor separados por una coma cada tag.
+    result
+        manta raya, mantarraya, criaturas del océano, animales marinos, conservación marina, hábitat de la manta raya, alimentación de mantas rayas, reproducción de mantas rayas, depredadores de mantas rayas, evolución de la manta raya, vida marina, protección de mantas rayas, características de la manta raya, acrobacias en el agua, ecosistema marino, especies de mantas rayas, mitos sobre mantas rayas
 url
     
 tags
