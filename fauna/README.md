@@ -315,6 +315,6 @@
 | Zorro Polar                           |          |      |              |                                     |           |
 
 # Pendiente de revisar
-  https://animalia.bio/es/lists/parrots
-  https://animalia.bio/es/reptiles
-  https://seo.org/guia-de-aves/
+-  https://animalia.bio/es/lists/parrots
+-  https://animalia.bio/es/reptiles
+-  https://seo.org/guia-de-aves/
