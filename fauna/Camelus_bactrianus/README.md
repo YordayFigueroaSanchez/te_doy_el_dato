@@ -11,16 +11,16 @@ Con un peso que oscila entre 300 y 1000 kg y una altura al hombro de 230 cm, el 
 Los camellos bactrianos son herbívoros con una dieta adaptable que incluye plantas secas y espinosas e incluso materiales inusuales en tiempos difíciles, como piel y huesos. Tienen la capacidad única de comer nieve como fuente de agua durante los duros inviernos, lo que aumenta considerablemente su capacidad para sobrevivir en zonas áridas.
 
 ### Hábitat y Distribución
-Los hábitats de estos camellos van desde desiertos secos hasta montañas rocosas. En invierno se reúnen cerca de ríos helados, pero en verano se dispersan hacia las dunas de arena. Las temperaturas en esta región fluctúan entre -40 °C y 40 °C, lo que convierte a los camellos bacterianos en campeones de la resistencia al clima.
+Los hábitats de estos camellos van desde desiertos secos hasta montañas rocosas. En invierno se reúnen cerca de ríos helados, pero en verano se dispersan hacia las dunas de arena. Las temperaturas en esta región fluctúan entre -40 y 40 °C, lo que convierte a los camellos bacterianos en campeones de la resistencia al clima.
 
 ### Reproducción y Cuidado Materno
 La época de reproducción ocurre en otoño, el período de gestación es de 13 meses y suelen producir una o dos crías. Los camellos jóvenes se caracterizan por su precocidad, ya que son capaces de caminar inmediatamente después de nacer. Viven con su madre hasta cinco años y aprenden habilidades básicas de supervivencia.
 
 ### Evolución y Domesticación
-Domesticado hace más de 3.500 años, el camello bactriano es un socio indispensable en rutas comerciales como la Ruta de la Seda. Su capacidad para transportar cargas de hasta 450 kg lo convierte en un recurso invaluable en zonas desérticas y montañosas.
+Domesticado hace más de 3500 años, el camello bactriano es un socio indispensable en rutas comerciales como la Ruta de la Seda. Su capacidad para transportar cargas de hasta 450 kg lo convierte en un recurso invaluable en zonas desérticas y montañosas.
 
 ### Depredadores y Amenazas
-Aunque los camellos bactrianos se enfrentan a pocos depredadores naturales, los especímenes salvajes están seriamente amenazados por la caza, la competencia con el ganado domesticado y la explotación de los escasos recursos hídricos. Esto ha reducido su número en libertad a menos de 1.000 individuos, especialmente en Mongolia y China.
+Aunque los camellos bactrianos se enfrentan a pocos depredadores naturales, los especímenes salvajes están seriamente amenazados por la caza, la competencia con el ganado domesticado y la explotación de los escasos recursos hídricos. Esto ha reducido su número en libertad a menos de 1000 individuos, especialmente en Mongolia y China.
 
 ### Mecanismos de Defensa
 Para defenderse en situaciones peligrosas, los machos pueden volverse agresivos, utilizando morder y escupir como medio de disuasión. Además, sus adaptaciones físicas, como la capacidad de cerrar las fosas nasales, los protegen durante las tormentas de arena.
