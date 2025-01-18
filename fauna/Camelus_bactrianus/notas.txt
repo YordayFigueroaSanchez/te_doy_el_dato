@@ -1,0 +1,31 @@
+promnt para generar articulo
+    hola, asume que eres un escritor con experiencia y basado en la informacion proporcionada en el fichero, genera un articulo de unos 12 parafos que sea de facil de entender para la comunidad de youtube. Trando los temas de Anatomía, Alimentación, Hábitat, Reproducción, Evolución,  Depredadores, Mecanismos de defensa si el documento que le comparto contiene la informacion relacionado con el tema, no te inventes informacion si no esta en el documento compartido.
+promnt para parafo inicial
+    Puedes escribir un parafo de introduccion donde no se mencione al animal que se trata en la fuente compartida, que el parafo sea corto y de alguna pista sobre el animal.
+titles
+    Puedes escribir titulos para el siguiente articulo que se publica en youtube
+    🦎 Maestro del Camuflaje 🦎
+        1. **"El Rey del Desierto: Un Maestro de la Supervivencia"**  
+        2. **"Secretos de la Resistencia: Un Animal que Desafía los Extremos"**  
+        3. **"Adaptaciones Sorprendentes de una Criatura del Desierto"**  
+        4. **"Del Frío Glacial al Calor Abrasador: El Superviviente Perfecto"**  
+        5. **"El Gigante de Dos Jorobas: Más Allá de lo Que Creías Saber"**  
+        6. **"Cómo Sobrevive Este Animal en los Lugares Más Extremos del Mundo"**  
+        7. **"La Historia Increíble de un Ícono del Desierto Asiático"**  
+        8. **"Este Animal Puede Pasar Días Sin Agua… ¡Descubre Cómo lo Hace!"**  
+        9. **"De Leyenda a Realidad: Adaptaciones que Sorprenden"**  
+        10. **"Explora el Mundo de un Superviviente Milenario"**  
+adjetivos
+    promnt
+        basado en el texto puedes darme tres adjetivos que identifiquen al animal
+    result
+        Resiliente (por su capacidad de adaptarse y sobrevivir en condiciones extremas).
+        Versátil (por su dieta variada y usos múltiples, desde transporte hasta recursos básicos para las comunidades humanas).
+        Imponente (por su gran tamaño y presencia física).
+tags
+    basado en el texto me propones tag para youtube, por favor separados por una coma cada tag.
+    camello bactriano, animal del desierto, animales resistentes, supervivencia en desiertos, fauna asiática, camellos salvajes, adaptaciones animales, desierto de Gobi, camello de dos jorobas, animales de Asia Central, Ruta de la Seda, animales herbívoros, evolución de camellos, hábitat extremo, conservación de especies, camellos domesticados, datos sobre camellos, camello salvaje, adaptaciones al clima extremo, animales polígamos, curiosidades de camellos.
+url
+    
+tags
+    animales,animals,fauna,camello,nature,camelus
