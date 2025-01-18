@@ -14,7 +14,7 @@
 | Antílope                              |          |      |              |                                     |           |
 | Arana viuda negra                     | OK       |  OK  | OK           |[Araña viuda negra, venenosa, sigilosa y peligrosa](https://youtu.be/7brFhGQ8pJ4) |           |
 | Ardilla                               | 1        |      |              | |           |
-| Armadillo                             |          |      |              |                                     |           |
+| Armadillo                             | 1        |      |              |                                     |[info](https://mexico.inaturalist.org/taxa/47075-Dasypus-novemcinctus)|
 | Armiño                                | 1        |      |              |                                     |           |
 | Ascidias                              |          |      |              |                                     |           |
 | Ave del paraíso                       |          |      |              |                                     |           |
@@ -69,7 +69,7 @@
 | Cetia japonés                         |          |      |              |                                     |           |
 | Chacal                                | 1        |      |              |                                     |           |
 | Chimpancé                             |          |      |              |                                     |[info](http://www.chimpancepedia.com/)|
-| Chinchilla                            |          |      |              |                                     |           |
+| Chinchilla                            | 1        |      |              |                                     |[info 1](https://exoticsveterinaria.com/especies/roedores/chinchilla/)|
 | Cíclido                               |          |      |              |                                     |           |
 | Ciempiés                              |          |      |              |                                     |           |
 | Ciervo                                |          |      |              |[🌿🦌 Entre Cuernos y Bosques: La Belleza Salvaje de los Ciervos 🦌🌿](https://youtu.be/6MR2odQQbeE)                                     |           |
@@ -117,7 +117,7 @@
 | Estornino                             |          | WAIT | OK           |[✨El Vuelo Sincrónico 🌌: Explorando el Mundo de los Estorninos 🐦](https://youtu.be/bf9hFIpF-4o) |           |
 | Facóquero común                       |          |      |              |                                     |           |
 | Faetón                                | 1        |      |              |                                     |           |
-| Faisán                                | 1        |      |              |                                     |           |
+| Faisán                                | 2        |      |              |                                     |[info](https://www.naturalista.uy/taxa/981-Phasianus-colchicus)|
 | Flamenco                              | 1        |      |              |                                     |[info](http://www.flamencopedia.com/)|
 | Foca                                  |          |      |              |                                     |[info](http://www.focapedia.com/)|
 | Foca leopardo                         |          | WAIT | OK           |[🗺️🔍 Explorando el Reino Helado🌬️ Encuentro con la Foca Leopardo](https://youtu.be/Asd3inTh4RM) |  |

@@ -1,3 +1,21 @@
+20250117
+    Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Armadillo, Chinchilla y Faisán: y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
+    ?Que tema prefieres para el siguiente dato?
+    Cisne: elegante, majestuoso, gracil  
+    Coyote: astuto, adaptable, travieso  
+    Ibis: colorido, sociable, curioso
+    Result
+        ¿Qué tema prefieres para el siguiente dato?  
+        Armadillo: resistente, curioso, solitario  
+        Chinchilla: suave, ágil, encantador  
+        Faisán: colorido, exótico, elegante  
+    Adaptado
+        ¿Qué tema prefieres para el siguiente dato?
+        Armadillo: resistente, curioso
+        Chinchilla: suave, ágil, encantador
+        Faisán: colorido, exótico
+    nombre
+        Armadillo-Chinchilla-Faisán
 20250111
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Rata, Ardilla y Camello: y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
     ?Que tema prefieres para el siguiente dato?
