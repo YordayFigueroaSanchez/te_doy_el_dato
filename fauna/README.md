@@ -55,11 +55,11 @@
 | Cangrejo                              | 1        |      |              |                                     |           |
 | Cangrejo herradura                    |          |      |              |                                     |           |
 | Canguro                               | 1        |      |              |                                     |[info](http://www.canguropedia.com/)|
-| Capibara                              |          | WAIT | OK           |[🌿El Roedor Más Grande🐾](https://youtu.be/62pcn8KlXec)|           |
+| Capibara                              |          | 6    | OK           |[🌿El Roedor Más Grande🐾](https://youtu.be/62pcn8KlXec)|           |
 | Cárabo común                          |          |      |              |                                     |           |
 | Caracal                               |          |      |              |                                     |           |
 | Caracol                               |          |      |              |                                     |[info](http://www.caracolpedia.com/)|
-| Castor                                |          | WAIT | OK           |[🏗️Castores: Arquitectos Acuáticos y Sus Increíbles Presas🏞️](https://youtu.be/xAsoxYUc_UA)||
+| Castor                                |          | 9    | OK           |[🏗️Castores: Arquitectos Acuáticos y Sus Increíbles Presas🏞️](https://youtu.be/xAsoxYUc_UA)||
 | Casuario                              | 1        |      | OK (SHORT)   |[🦕El Ave Más Peligrosa del Mundo🦕](https://youtu.be/0_kwLA4VkUs) |           |
 | Cebra                                 |          |      |              |[🦓✨ Descubre los Secretos de las Cebras: ¡Más que Rayas!](https://youtu.be/YK9GXfO3oQc)| |
 | Cebú                                  |          |      |              |                                     |           |
