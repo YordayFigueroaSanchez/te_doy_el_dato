@@ -34,7 +34,7 @@
 | Buey almizclero                       |          |  OK  | OK (SHORT)   |[Descubriendo al 🐂 Buey Almizclero: Misterios de la Naturaleza 🏔️](https://youtu.be/Ts_GWytS9Ug) |           |
 | Bufalo rojo                           |          |      |              |                                     |           |
 | Búfalo                                | 1        |      |              |                                     |[info](https://animalia.bio/es/bubalus)|
-| Búhos                                 |          |      |              |                                     |[info](http://www.buhopedia.com/)|
+| Búhos (genero)                        | 1        |      |              |                                     |[info](http://www.buhopedia.com/)|
 | Búho chico                            |          |      |              |                                     |           |
 | Búho nival                            |          |      |              |                                     |           |
 | Buitre leonado                        |          |  WAIT| OK           |[🦅🌄El Buitre Leonado: Majestuoso Guardián de los Cielos🌄🦅](https://youtu.be/NBkANB5ClDE) |           |
@@ -183,7 +183,7 @@
 | Leon                                  |          |      | OK           |[Es el Rey ???](https://youtu.be/nDimojn4bH8) |           |
 | León marino                           |          |      |              |                                     |           |
 | Leopardo                              |          |      | OK           |[Un felino en las alturas](https://youtu.be/TyYOUk9MA5k) |           |
-| Libélula                              |          |      |              |                                     |           |
+| Libélula                              | 1        |      |              |                                     |           |
 | Liebre                                | 1        |      |              |                                     |           |
 | Lince                                 |          |      | OK           |[Lince sigiloso, elegante y adaptativo](https://youtu.be/w-PeKJTkqS8) |           |
 | Llama                                 |          |      | OK           |[🦙 Llamas: Tesoros de los Altos Andes 🏔️ y Guardianes del Equilibrio Ecológico 🏞️](https://youtu.be/pGB8Laz7GjY)| |
@@ -209,7 +209,7 @@
 | Mofeta                                | 1        |      |              |                                     |           |
 | Molly                                 |          |      |              |                                     |           |
 | Mono                                  |          |      |              |                                     |           |
-| Morsa                                 |          |      |              |                                     |[info](http://www.morsapedia.com/)|
+| Morsa                                 | 1        |      |              |                                     |[info](http://www.morsapedia.com/)|
 | Mosca común                           |          |      |              |                                     |           |
 | Mula                                  |          |      |              |                                     |           |
 | Murciélago                            |          |      |              | |           |
@@ -318,3 +318,15 @@
 -  https://animalia.bio/es/lists/parrots
 -  https://animalia.bio/es/reptiles
 -  https://seo.org/guia-de-aves/
+
+
+
+# test
+[info](https://www.miteco.gob.es/es/biodiversidad/temas/inventarios-nacionales/inventario-especies-terrestres/inventario-nacional-de-biodiversidad/ieet_mamif_atlas_indice_familias.html#artiodactilos)
+|Animal|Source|
+|---------|----------|
+|Mamiferos||
+|Sus scrofa. Jabalí|[info](https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/inventarios-nacionales/ieet_mami_sus_scrofa_tcm30-99882.pdf)|
+|Reptiles||
+|Peces||
+|Insectos||

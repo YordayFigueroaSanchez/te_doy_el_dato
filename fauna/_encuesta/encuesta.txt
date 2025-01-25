@@ -1,3 +1,21 @@
+20250125
+    Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Buho, Morsa y Libelula: y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
+    ?Que tema prefieres para el siguiente dato?
+    Cisne: elegante, majestuoso, gracil  
+    Coyote: astuto, adaptable, travieso  
+    Ibis: colorido, sociable, curioso
+    Result
+        ¿Cuál de los siguientes animales prefieres y qué adjetivos asocias con él?  
+        Búho: sabio, misterioso, observador
+        Morsa: robusto, tranquilo, resistente
+        Libélula: ágil, luminosa, delicada
+    Adaptado
+        ¿Qué tema prefieres para el siguiente dato?
+        Búho: sabio, misterioso, observador
+        Morsa: robusto, tranquilo,resistente
+        Libélula: ágil, luminosa, delicada
+    nombre
+        Búho-Morsa-Libélula
 20250117
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Armadillo, Chinchilla y Faisán: y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
     ?Que tema prefieres para el siguiente dato?
