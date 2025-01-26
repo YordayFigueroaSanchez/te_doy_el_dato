@@ -209,7 +209,7 @@
 | Mofeta                                            | 1         |       |               |                                     |           ||
 | Molly                                             |           |       |               |                                     |           ||
 | Mono                                              |           |       |               |                                     |           ||
-| Morsa                                             | 1         |       |               ||[info](http://www.morsapedia.com/)||
+| Morsa                                             | 1         |       |               ||[info](http://www.morsapedia.com/)|<img src="Morsa/morsa_pexels-tomas-malik-793526-26690643.jpg" alt="Morsa" width="150" height="150">|
 | Mosca común                                       |           |       |               |                                     |           ||
 | Mula                                              |           |       |               |                                     |           ||
 | Murciélago                                        |           |       |               | |           ||
@@ -314,7 +314,7 @@
 | Zorro                                             |           |       |               | |           ||
 | Zorro Polar                                       |           |       |               |                                     |           |
 
-<img src="Morsa/morsa_pexels-tomas-malik-793526-26690643.jpg" alt="Morsa" width="150" height="150">
+
 
 # Pendiente de revisar
 -  https://animalia.bio/es/lists/parrots
