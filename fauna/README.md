@@ -45,7 +45,7 @@
 | Cabra                                             |           |       |               |                                     |           ||
 | Cachalote común                                   |           |       |               |                                     |           ||
 | Caimán                                            |           |       |               |                                     |           ||                   
-| Calamar                                           |           | 1     |      |               |                                     |[info](http://www.calamarpedia.com/)||
+| Calamar                                           |           | 1     |               |                                     |[info](http://www.calamarpedia.com/)||
 | Camaleón                                          |           |       |               |                                     |           ||
 | Camaleón pantera                                  | OK        |       | OK (SHORT)    |[🦎 Maestro del Camuflaje 🦎](https://youtu.be/O-vIhrfStrc) |           ||
 | Camarón                                           |           |       |               |                                     |           ||
