@@ -209,7 +209,7 @@
 | Mofeta                                            | 1         |       |               |                                     |           ||
 | Molly                                             |           |       |               |                                     |           ||
 | Mono                                              |           |       |               |                                     |           ||
-| Morsa                                             | 1         |       |               ||[info](http://www.morsapedia.com/)|<img src="Morsa/morsa_pexels-tomas-malik-793526-26690643.jpg" alt="Morsa" width="150" height="150">|
+| Morsa                                             | 1         |       |               ||[info](http://www.morsapedia.com/)|<img src="Morsa/morsa_pexels-tomas-malik-793526-26690643.jpg" alt="Morsa" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Mosca común                                       |           |       |               |                                     |           ||
 | Mula                                              |           |       |               |                                     |           ||
 | Murciélago                                        |           |       |               | |           ||
