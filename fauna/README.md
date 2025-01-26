@@ -34,7 +34,7 @@
 | Buey almizclero                                   |           |  OK   | OK (SHORT)    |[Descubriendo al 🐂 Buey Almizclero: Misterios de la Naturaleza 🏔️](https://youtu.be/Ts_GWytS9Ug) |           ||
 | Bufalo rojo                                       |           |       |               |                                     |           ||
 | Búfalo                                            | 1         |       |               |                                     |[info](https://animalia.bio/es/bubalus)||
-| Búhos (genero)                                    | 1         |       |               |                                     |[info](http://www.buhopedia.com/)||
+| Búhos (genero)                                    | 1         |       |               |                                     |[info](http://www.buhopedia.com/)|<img src="Buhos/buhos_001_square.png" alt="Búhos (genero)" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Búho chico                                        |           |       |               |                                     |           ||
 | Búho nival                                        |           |       |               |                                     |           ||
 | Buitre leonado                                    |           |  WAIT | OK            |[🦅🌄El Buitre Leonado: Majestuoso Guardián de los Cielos🌄🦅](https://youtu.be/NBkANB5ClDE) |           ||
@@ -183,7 +183,7 @@
 | Leon                                              |           |       | OK            |[Es el Rey ???](https://youtu.be/nDimojn4bH8) |           ||
 | León marino                                       |           |       |               |                                     |           ||
 | Leopardo                                          |           |       | OK            |[Un felino en las alturas](https://youtu.be/TyYOUk9MA5k) |           ||
-| Libélula                                          | 1         |       |               |                                     |           ||
+| Libélula                                          | 1         |       |               |                                     |           |<img src="Libelula/libelula_001_square.png" alt="Libélula" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Liebre                                            | 1         |       |               |                                     |           ||
 | Lince                                             |           |       | OK            |[Lince sigiloso, elegante y adaptativo](https://youtu.be/w-PeKJTkqS8)                                       |           ||
 | Llama                                             |           |       | OK            |[🦙 Llamas: Tesoros de los Altos Andes 🏔️ y Guardianes del Equilibrio Ecológico 🏞️](https://youtu.be/pGB8Laz7GjY)      |           ||
