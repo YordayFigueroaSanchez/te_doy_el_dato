@@ -14,7 +14,7 @@
 | Antílope                                          |           |       |               |                                     |           ||
 | Arana viuda negra                                 | OK        |  OK   | OK            |[Araña viuda negra, venenosa, sigilosa y peligrosa](https://youtu.be/7brFhGQ8pJ4) |           ||
 | Ardilla                                           | 1         |       |               | |           ||
-| Armadillo                                         | 1         |       |Seleccionado   |                                     |[info](https://mexico.inaturalist.org/taxa/47075-Dasypus-novemcinctus)||
+| Armadillo                                         | 1         |  8    |26/01/2025     |[🛡️🛡️ Armadura natural ⚠️⚠️](https://youtu.be/RZtqaQs1NaM)|[info](https://mexico.inaturalist.org/taxa/47075-Dasypus-novemcinctus)||
 | Armiño                                            | 1         |       |               |                                     |           ||
 | Ascidias                                          |           |       |               |                                     |           ||
 | Ave del paraíso                                   |           |       |               |                                     |           ||
