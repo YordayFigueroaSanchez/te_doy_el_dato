@@ -34,7 +34,7 @@
 | Buey almizclero                                   |           |  OK   | OK (SHORT)    |[Descubriendo al 🐂 Buey Almizclero: Misterios de la Naturaleza 🏔️](https://youtu.be/Ts_GWytS9Ug) |           ||
 | Bufalo rojo                                       |           |       |               |                                     |           ||
 | Búfalo                                            | 1         |       |               |                                     |[info](https://animalia.bio/es/bubalus)||
-| Búhos (genero)                                    | 1         |       |               |                                     |[info](http://www.buhopedia.com/)|<img src="Buhos/buhos_001_square.png" alt="Búhos (genero)" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| Búhos (genero)                                    | 1         |Seleccionado|               |                                     |[info](http://www.buhopedia.com/)|<img src="Buhos/buhos_001_square.png" alt="Búhos (genero)" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Búho chico                                        |           |       |               |                                     |           ||
 | Búho nival                                        |           |       |               |                                     |           ||
 | Buitre leonado                                    |           |  WAIT | OK            |[🦅🌄El Buitre Leonado: Majestuoso Guardián de los Cielos🌄🦅](https://youtu.be/NBkANB5ClDE) |           ||
