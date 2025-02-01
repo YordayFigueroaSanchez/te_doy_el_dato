@@ -1,3 +1,21 @@
+20250131
+    Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Caballito de mar, Pulpo y Zapatero: y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
+    ?Que tema prefieres para el siguiente dato?
+    Cisne: elegante, majestuoso, gracil  
+    Coyote: astuto, adaptable, travieso  
+    Ibis: colorido, sociable, curioso
+    Result
+        ¿Cuál de los siguientes animales prefieres y qué adjetivos asocias con él?  
+        Caballito de mar: delicado, misterioso, tranquilo
+        Pulpo: inteligente, flexible, camaleónico
+        Zapatero: ágil, ligero, veloz
+    Adaptado
+        ¿Qué tema prefieres para el siguiente dato?
+        Caballito de mar: delicado,tranquilo
+        Pulpo: inteligente, camaleónico
+        Zapatero: ágil, ligero, veloz
+    nombre
+        Caballito_de_mar-Pulpo-Zapatero
 20250125
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Buho, Morsa y Libelula: y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
     ?Que tema prefieres para el siguiente dato?
