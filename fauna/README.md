@@ -40,7 +40,7 @@
 | Buitre leonado                                    |           |  WAIT | OK            |[🦅🌄El Buitre Leonado: Majestuoso Guardián de los Cielos🌄🦅](https://youtu.be/NBkANB5ClDE) |           ||
 | Burro                                             |           |       |               |                                     |           ||
 | Busardo ratonero                                  |           |       |               |                                     |           ||
-| Caballito de mar                                  | 1         |       |               |                                     |[info](http://www.caballitodemarpedia.com/)|[info](http://www.buhopedia.com/)|<img src="caballito_de_mar/caballito_de_mar_001_square.png" alt="Caballito de mar" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| Caballito de mar                                  | 1         |       |               |                                     |[info](http://www.buhopedia.com/)|<img src="caballito_de_mar/caballito_de_mar_001_square.png" alt="Caballito de mar" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Caballo                                           |           |  WAIT | OK            |[🏇🌟 La Elegancia y Fuerza del Caballo 🐴](https://youtu.be/Wrh2OyZrXzw) |[info](http://www.caballopedia.com/)||
 | Cabra                                             |           |       |               |                                     |           ||
 | Cachalote común                                   |           |       |               |                                     |           ||
@@ -258,7 +258,7 @@
 | Pollo                                             |           |       |               |                                     |           ||
 | Proteo                                            |           |       |               |                                     |           ||
 | Puercoespín                                       | 1         |       |               |                                     |           ||
-| Pulpo                                             | 1         |       |               |                                     |           |[info](http://www.buhopedia.com/)|<img src="pulpo/pulpo_001_square.png" alt="Pulpo" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| Pulpo                                             | 1         |       |               |                                     |           |<img src="pulpo/pulpo_001_square.png" alt="Pulpo" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Puma                                              |           |       | OK            |[El puma ágil, sigiloso y solitario](https://youtu.be/nQ54wW4Rjac) |           ||
 | Quetzal                                           |           |       | OK            |[El quetzal, colorido, elegante y exótico](https://youtu.be/D7zm7St6JN0) |           ||
 | Rana africana de uñas                             |           |       |               |                                     |           ||
@@ -309,7 +309,7 @@
 | Wombat                                            |           |       |               |                                     |           ||
 | Xifóforo                                          |           |       |               |                                     |           ||
 | Yarará común                                      |           |       |               |                                     |           ||
-| Zapatero                                          | 1         |       |               |                                     |           |[info](http://www.buhopedia.com/)|<img src="zapatero/zapatero_001_square.png" alt="Zapatero" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| Zapatero                                          | 1         |       |               |                                     |           |<img src="zapatero/zapatero_001_square.png" alt="Zapatero" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Zarigueya                                         |           |       | OK            |[Entre Sombras y Ramas 🌳🦝: La Vida Secreta de la Zarigüeya](https://youtu.be/1YqHXlGDYRQ) |  ||
 | Zorro                                             |           |       |               | |           ||
 | Zorro Polar                                       |           |       |               |                                     |           |
