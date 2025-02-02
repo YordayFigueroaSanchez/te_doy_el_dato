@@ -1,3 +1,84 @@
+# s_0001_gato_montes.mp4
+🐱 Lo atrapa ??? 🐱 #animales #animals #fauna #gato #nature #cat
+# s_0002_gato_montes.mp4
+🐱 Misterios del gato montes 🐱 #animales #animals #fauna #gato #nature #cat
+# s_0003_gato_montes.mp4
+🐱 Sigiloso andar 🐱 #animales #animals #fauna #gato #nature #cat
+# s_0004_gato_montes.mp4
+🐱 En divesas regiones 🐱 #animales #animals #fauna #gato #nature #cat
+# s_0005_gato_montes.mp4
+🐱 Matorral mediterraneo 🐱 #animales #animals #fauna #gato #nature #cat
+# s_0006_gato_montes.mp4
+🐱 Consume roedores 🐱 #animales #animals #fauna #gato #nature #cat
+# s_0007_gato_montes.mp4
+🐱 Madura en 18 meses 🐱 #animales #animals #fauna #gato #nature #cat
+# s_0008_gato_montes.mp4
+🐱 Gatitos nacen ciegos 🐱 #animales #animals #fauna #gato #nature #cat
+# s_0009_gato_montes.mp4
+🐱 Las crias comen carne 🐱 #animales #animals #fauna #gato #nature #cat
+# s_0010_gato_montes.mp4
+🐱 Medodos de comunicacion 🐱 #animales #animals #fauna #gato #nature #cat
+# s_0011_gato_montes.mp4
+🐱 Gira rapidamente 🐱 #animales #animals #fauna #gato #nature #cat
+# s_0012_delfin.mp4
+🐬 Adaptacion perfecta 🌊  #animales #animals #fauna #delfin #nature #dolphin
+# s_0013_delfin.mp4
+🐬 Inteligencia superior 🌊  #animales #animals #fauna #delfin #nature #dolphin
+# s_0014_delfin.mp4
+🐬 Bajo el mar sin ser peces 🌊  #animales #animals #fauna #delfin #nature #dolphin
+# s_0015_delfin.mp4
+🐬 Asombrosa memoria 🌊  #animales #animals #fauna #delfin #nature #dolphin
+# s_0016_delfin.mp4
+🐬 Complejo comportamiento social 🌊  #animales #animals #fauna #delfin #nature #dolphin
+# s_0017_delfin.mp4
+🐬 Luz a los 12 meses 🌊  #animales #animals #fauna #delfin #nature #dolphin
+# s_0018_delfin.mp4
+🐬 Control del proceso de obulacion 🌊  #animales #animals #fauna #delfin #nature #dolphin
+# s_0019_delfin.mp4
+🐬 Alimento completo 🌊  #animales #animals #fauna #delfin #nature #dolphin
+# s_0020_delfin.mp4
+🐬 Habitan en todo el planteta 🌊  #animales #animals #fauna #delfin #nature #dolphin
+# s_0021_delfin.mp4
+🐬 Cuerpo alargado 🌊  #animales #animals #fauna #delfin #nature #dolphin
+# s_0022_delfin.mp4
+🐬 No son tan ligeros 🌊  #animales #animals #fauna #delfin #nature #dolphin
+# s_0023_delfin.mp4
+🐬 Maestros del mar 🌊  #animales #animals #fauna #delfin #nature #dolphin
+# s_0024_delfin.mp4
+🐬 Navegan en total ocuridad 🌊  #animales #animals #fauna #delfin #nature #dolphin
+# s_0025_delfin.mp4
+🐬 Notable solidaridad 🌊  #animales #animals #fauna #delfin #nature #dolphin
+# s_0026_delfin.mp4
+🐬 Mudan la piel 🌊  #animales #animals #fauna #delfin #nature #dolphin
+# s_0027_delfin.mp4
+🐬 Cuidad a la madre gestante 🌊  #animales #animals #fauna #delfin #nature #dolphin
+# s_0028_hiena_manchada_short_001.mp4
+# s_0029_hiena_manchada_short_002.mp4
+# s_0030_hiena_manchada_short_003.mp4
+# s_0031_hiena_manchada_short_004.mp4
+# s_0032_hiena_manchada_short_005.mp4
+# s_0033_hiena_manchada_short_006.mp4
+# s_0034_hiena_manchada_short_007.mp4
+# s_0035_hiena_manchada_short_008.mp4
+# s_0036_hiena_manchada_short_009.mp4
+# s_0037_buey.mp4
+# s_0038_buey.mp4
+# s_0039_buey.mp4
+# s_0040_buey.mp4
+# s_0041_buey.mp4
+# s_0042_buey.mp4
+# s_0043_buey.mp4
+# s_0044_buey.mp4
+# s_0045_buey.mp4
+# s_0046_buey.mp4
+# s_0047_buey.mp4
+# s_0048_buey.mp4
+# s_0049_buey.mp4
+# s_0050_buey.mp4
+# s_0051_buey.mp4
+# s_0052_buey.mp4
+# s_0053_buey.mp4
+# s_0054_buey.mp4
 # s_0127_iguana.mp4
     🦎Reptiles fascinantes🦎#animals #faunasalvaje #especies #naturaleza #iguana 
     Las iguanas son reptiles fascinantes que han capturado la atención de las personas durante siglos debido a su aspecto exótico y su comportamiento único. Son nativas de las regiones tropicales que se extienden desde el sur de México, pasando por Centroam�rica, hasta llegar a Sudam�rica y las islas del Caribe. Estos reptiles pertenecen al g�nero Iguana y fueron descritos por primera vez en 1768 por el naturalista austr�aco Josephus Nicolaus Laurenti. Desde entonces, han sido estudiadas por cient�ficos y admiradas por amantes de los animales en todo el mundo.
@@ -736,10 +817,11 @@ Este majestuoso depredador nocturno no solo es un símbolo de sabiduría, sino t
 # s_0383_buho_genero.mp4
 [🦉 ¿Por qué son los reyes de la noche? 🌙 #animales #animals #fauna #buho #nature](https://youtube.com/shorts/tI8vmMToE3I?feature=share)
 ¿Sabías que los búhos esconden secretos asombrosos? Aunque no son las únicas aves que carecen de buche, su sistema digestivo es único: todo lo que comen pasa directamente a su estómago, lo que les permite procesar rápidamente presas enteras. Además, su cuello es una maravilla de la naturaleza: con 14 vértebras, pueden girar su cabeza hasta 270 grados, dándoles una visión casi completa de su entorno sin necesidad de mover el cuerpo. Algunas especies, como el búho nival, lucen un plumaje completamente blanco, perfecto para camuflarse en paisajes nevados. Y aunque son símbolos de sabiduría, no dejes que su apariencia serena te engañe: son extremadamente territoriales y pueden volverse muy agresivos, especialmente durante la época de apareamiento o cuando protegen a sus crías.
-🦧🐵🐒🦍🦧🐶🐕🦮🐕‍🦺🐩🐺🦊🦝🐱🐈🐈‍⬛🦁🐯🐅🐆🐴🫎🫏🐎🦄🦓🦌🦬🐮
-🐂🐃🐄🐷🐖🐗🐽🐏🐑🐐🐪🐫🦙🦒🐘🦣🦏🦛🐭🐁🐀🐹🐰🐇🐿️🦫🦇🦔🐻🦥
-🦦🦨🦘🦡🐾🦃🐔🐓🐣🐤🐥🐦🐧🕊️🦅🦆🦢🦉🦤🪶🦩🦚🦜🪽🐦‍⬛🪿🐸🐊🐢🦎🐍
-🐲🐉🦖🦕🐳🐋🐬🦭🐟🐠🐡🦈🐙🐚🪸🐌🦋🐛🐜🐝🪲🐞🦗🪳🕷️🕸️🦂🦟🪰🪱🦠💐🌸💮🪷🏵️
-𓅦
+# Emojis
+🦧🐵🐒🦍🦧🐶🐕🦮🐕‍🦺🐩🐺🦊🦝🐱🐈🐈‍⬛🦁🐯🐅🐆🐴🐎🦄🦓🦌🦬🐮
+🐂🐃🐄🐷🐖🐗🐽🐏🐑🐐🐪🐫🦙🦒🐘🦏🦛🐭🐁🐀🐹🐰🐇🐿️🦇🦔🐻🦥
+🦦🦨🦘🦡🐾🦃🐔🐓🐣🐤🐥🐦🐧🕊️🦅🦆🦢🦉🦩🦚🦜🐦‍⬛🐸🐊🐢🦎🐍
+🐲🐉🦖🦕🐳🐋🐬🐟🐠🐡🦈🐙🐚🐌🦋🐛🐜🐝🐞🦗🕷️🕸️🦂🦟🦠💐🌸💮🏵️𓅦
+# Url
 https://es.piliapp.com/symbol/animals/
 https://emojidb.org/
