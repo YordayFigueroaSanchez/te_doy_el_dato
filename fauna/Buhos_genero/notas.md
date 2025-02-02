@@ -57,5 +57,5 @@ búho, búhos, aves nocturnas, depredadores nocturnos, rapaces, aves rapaces, an
 # Url
 [🦉 Búhos: los depredadores nocturnos🌙](https://youtu.be/DgzzFdvD_N0)
 # Tags para odyse
-animales,animals,fauna,armadillo,nature
+animales,animals,fauna,buho,nature
 # Mejorar texto
