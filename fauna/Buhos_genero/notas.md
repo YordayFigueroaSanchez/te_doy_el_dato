@@ -34,6 +34,7 @@ Basado en el contenido del documento proporcionado, genera 10 títulos cortos, l
 🦉 Búhos vs. depredadores: ¿Cómo sobreviven en la naturaleza? 🛡️  
 🌍 Búhos en todo el mundo: ¿Dónde viven estas aves misteriosas? 🌎  
 🦉 ¡El ritual diario de los búhos: acicalarse antes de cazar! ✨  
+🦉 Búhos: los depredadores nocturnos🌙
 # Adjetivos
 ## Promnt
 Analiza el contenido del documento proporcionado y extrae tres adjetivos que mejor describan al animal del que trata la información. Los adjetivos deben destacar sus características más notables, como su comportamiento, habilidades, hábitat o aspecto físico. Prioriza términos llamativos y precisos que resuman su esencia de manera efectiva."
@@ -52,9 +53,9 @@ Analiza el contenido del documento proporcionado y genera una lista de etiquetas
 📌 Ejemplo de salida esperada (para un video sobre el murciélago):
 murciélago, murciélagos, animales nocturnos, mamíferos voladores, ecosistema, biodiversidad, cueva, insectívoro, noche, animales increíbles, wildlife
 ## Result
-armadillo, animales fascinantes, mamíferos blindados, armadillo de nueve bandas, armadillo gigante, armadillo rosado, hábitat del armadillo, comportamiento nocturno, excavadores expertos, controladores de plagas, reproducción de armadillos, crías idénticas, animales omnívoros, adaptación animal, coraza natural, animales en peligro, lepra en armadillos, curiosidades animales, naturaleza salvaje, supervivencia animal, fauna americana, animales excavadores, madrigueras, animales únicos, ingenieros de la naturaleza.  
+búho, búhos, aves nocturnas, depredadores nocturnos, rapaces, aves rapaces, anatomía búho, hábitat búho, alimentación búho, reproducción búho, curiosidades búho, búho nival, búho madriguera, caza nocturna, visión nocturna, plumas búho, garras afiladas, camuflaje animal, naturaleza salvaje, wildlife, animales increíbles, biodiversidad, conservación aves, aves misteriosas, símbolo sabiduría, aves adaptativas, aves territoriales, aves agresivas, aves solitarias, aves bosque
 # Url
-https://youtu.be/RZtqaQs1NaM
+[🦉 Búhos: los depredadores nocturnos🌙](https://youtu.be/DgzzFdvD_N0)
 # Tags para odyse
 animales,animals,fauna,armadillo,nature
 # Mejorar texto
