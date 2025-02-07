@@ -40,7 +40,7 @@
 | Buitre leonado                                    |           |  WAIT | OK            |[🦅🌄El Buitre Leonado: Majestuoso Guardián de los Cielos🌄🦅](https://youtu.be/NBkANB5ClDE) |           ||
 | Burro                                             |           |       |               |                                     |           ||
 | Busardo ratonero                                  |           |       |               |                                     |           ||
-| Caballito de mar                                  | 1         |       |               |                                     |[info](http://www.buhopedia.com/)|<img src="caballito_de_mar/caballito_de_mar_001_square.png" alt="Caballito de mar" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| Caballito de mar                                  | 1         |       |Seleccionado   |                                     |[info](http://www.buhopedia.com/)|<img src="caballito_de_mar/caballito_de_mar_001_square.png" alt="Caballito de mar" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Caballo                                           |           |  WAIT | OK            |[🏇🌟 La Elegancia y Fuerza del Caballo 🐴](https://youtu.be/Wrh2OyZrXzw) |[info](http://www.caballopedia.com/)||
 | Cabra                                             |           |       |               |                                     |           ||
 | Cachalote común                                   |           |       |               |                                     |           ||
