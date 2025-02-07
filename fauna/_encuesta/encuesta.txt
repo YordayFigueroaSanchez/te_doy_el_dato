@@ -1,3 +1,21 @@
+20250207
+    Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Caamaron, erizo y pez peleador : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
+    ?Que tema prefieres para el siguiente dato?
+    Cisne: elegante, majestuoso, gracil  
+    Coyote: astuto, adaptable, travieso  
+    Ibis: colorido, sociable, curioso
+    Result
+        ¿Qué tema prefieres para el siguiente dato?  
+        Camarón: ágil, diminuto, resistente  
+        Erizo: espinoso, nocturno, tierno  
+        Pez peleador: combativo, vibrante, territorial
+    Adaptado
+        ¿Qué tema prefieres para el siguiente dato?
+        Camarón: ágil, diminuto, resistente  
+        Erizo: espinoso, nocturno, tierno  
+        Pez peleador: combativo, territorial
+    nombre
+        Camarón-Erizo-Pez_peleador
 20250131
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Caballito de mar, Pulpo y Zapatero: y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
     ?Que tema prefieres para el siguiente dato?

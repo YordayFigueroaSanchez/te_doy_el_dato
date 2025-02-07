@@ -48,7 +48,7 @@
 | Calamar                                           |           | 1     |               |                                     |[info](http://www.calamarpedia.com/)||
 | Camaleón                                          |           |       |               |                                     |           ||
 | Camaleón pantera                                  | OK        |       | OK (SHORT)    |[🦎 Maestro del Camuflaje 🦎](https://youtu.be/O-vIhrfStrc) |           ||
-| Camarón                                           |           |       |               |                                     |           ||
+| Camarón                                           | 1         |       |               |                                     |           |<img src="camaron/camaron_001_square.png" alt="Camaron" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Camelus bactrianus:camello bactriano doméstico    | 1         |  6    |19/01/2025|    [🐫🐫 Desafía los Extremos 🐫🐫](https://youtu.be/RrW0lusN_NE)|[Camelus bactrianus:camello bactriano doméstico](https://es.wikipedia.org/wiki/Camelus)||
 | Camelus dromedarius: el dromedario                |           |       |               |                                     |[Camelus dromedarius: el dromedario o camello arábigo, el cual posee una sola joroba](https://es.wikipedia.org/wiki/Camelus)||
 | Camelus ferus:camelloBactrianoSalvaje             |           |       |               |                                     |[Camelus ferus: el camello salvaje o camello bactriano salvaje, el único que nunca fue domesticado](https://es.wikipedia.org/wiki/Camelus)||
@@ -106,7 +106,7 @@
 | Elefante                                          |           | WAIT  | OK            |[Descubriendo al Elefante](https://youtu.be/4ZbgP7tGWzI) |[info](http://www.elefantepedia.com/)||
 | Emperador púrpura                                 |           |       |               |                                     |           ||
 | Emú común                                         |           |       |               |                                     |           ||
-| Erizo                                             |           |       |               |                                     |           ||
+| Erizo                                             | 1         |       |               |                                     |           |<img src="Erizo/erizo_001_square.png" alt="Erizo" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Erizo de mar                                      |           |       |               |                                     |           ||
 | Escarabajo                                        |           |       |               |                                     |           ||
 | Escorpión                                         | 1         |       | OK (SHORT)    |[🦂 Veneno y Resiliencia 🦂](https://youtu.be/jRe5lijgXWo) |[info](http://www.escorpionpedia.com/)||
@@ -249,6 +249,7 @@
 | Pez gato                                          |           |       |               |                                     |           ||
 | Pez globo                                         |           |       |               |                                     |           ||
 | Pez león                                          |           |       | OK            |[Intruso Exótico: 🐠🦁 La Amenaza del Pez León 🔥](https://youtu.be/tvQ9hewfxls) |           ||
+| Pez luchador                                      | 1         |       |               |                                     |[info](https://www.fishipedia.es/pez/betta-splendens)|<img src="Pez_luchador/pez_peleador_001_square.png" alt="Pez luchador" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Pez mandarin                                      |           |       | OK            |[El pez mandarín colorido, delicado y ornamental](https://youtu.be/lc5iTfC6UeI) |           ||
 | Pez mariposa                                      |           |       |               |                                     |           ||
 | Pez Payaso                                        |           |       |               |                                     |           ||
@@ -320,6 +321,8 @@
 -  https://animalia.bio/es/lists/parrots
 -  https://animalia.bio/es/reptiles
 -  https://seo.org/guia-de-aves/
+- [Pedia de peces](https://www.fishipedia.es/#)
+- [wiki de peces](https://www.peceswiki.com/)
 
 
 
