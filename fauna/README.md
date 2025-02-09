@@ -40,7 +40,7 @@
 | Buitre leonado                                    |           |  WAIT | OK            |[🦅🌄El Buitre Leonado: Majestuoso Guardián de los Cielos🌄🦅](https://youtu.be/NBkANB5ClDE) |           ||
 | Burro                                             |           |       |               |                                     |           ||
 | Busardo ratonero                                  |           |       |               |                                     |           ||
-| Caballito de mar                                  | 1         |       |09/02/2025|[🦐 ¡El pez que desafía la naturaleza! ¿Sabías que el macho da a luz? 🤯](https://youtu.be/lC2IIldc4qM)||<img src="caballito_de_mar/caballito_de_mar_001_square.png" alt="Caballito de mar" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| Caballito de mar                                  | 1         |   8   |09/02/2025|[🦐 ¡El pez que desafía la naturaleza! ¿Sabías que el macho da a luz? 🤯](https://youtu.be/lC2IIldc4qM)||<img src="caballito_de_mar/caballito_de_mar_001_square.png" alt="Caballito de mar" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Caballo                                           |           |  WAIT | OK            |[🏇🌟 La Elegancia y Fuerza del Caballo 🐴](https://youtu.be/Wrh2OyZrXzw) |[info](http://www.caballopedia.com/)||
 | Cabra                                             |           |       |               |                                     |           ||
 | Cachalote común                                   |           |       |               |                                     |           ||
