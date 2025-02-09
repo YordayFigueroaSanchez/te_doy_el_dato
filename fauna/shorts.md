@@ -53,32 +53,59 @@
 # s_0027_delfin.mp4
 🐬 Cuidad a la madre gestante 🌊  #animales #animals #fauna #delfin #nature #dolphin
 # s_0028_hiena_manchada_short_001.mp4
+🐾 Cuerpo desproporcionalmente largo 🦴#animales #animals #faunasalvaje #hienas #faunasalvaje
 # s_0029_hiena_manchada_short_002.mp4
+🐾 Risa desagradable 🦴#animales #animals #faunasalvaje #hienas #faunasalvaje
 # s_0030_hiena_manchada_short_003.mp4
+🐾 Vive en grupos ledereado por una hembra 🦴#animales #animals #faunasalvaje #hienas #faunasalvaje
 # s_0031_hiena_manchada_short_004.mp4
+🐾 Pelaje escaso para mantenerse limpia 🦴#animales #animals #faunasalvaje #hienas #faunasalvaje
 # s_0032_hiena_manchada_short_005.mp4
+🐾 Cazadora eficaz 🦴#animales #animals #faunasalvaje #hienas #faunasalvaje
 # s_0033_hiena_manchada_short_006.mp4
+🐾 Mas pesada que el macho 🦴#animales #animals #faunasalvaje #hienas #faunasalvaje
 # s_0034_hiena_manchada_short_007.mp4
+🐾 Crias con los ojos abiertos 🦴#animales #animals #faunasalvaje #hienas #faunasalvaje
 # s_0035_hiena_manchada_short_008.mp4
+🐾 En la sabana africana 🦴#animales #animals #faunasalvaje #hienas #faunasalvaje
 # s_0036_hiena_manchada_short_009.mp4
+🐾 Gran depredador 🦴#animales #animals #faunasalvaje #hienas #faunasalvaje
 # s_0037_buey.mp4
+Tundra artica
 # s_0038_buey.mp4
+Cola corta y oculta
 # s_0039_buey.mp4
+Abrigo de invierno
 # s_0040_buey.mp4
+Hembras pesadas
 # s_0041_buey.mp4
+Notable protuberancia cornea
 # s_0042_buey.mp4
+Compiten por la supremacia
 # s_0043_buey.mp4
+Machos solitarios
 # s_0044_buey.mp4
+Terneros de pie al nacer
 # s_0045_buey.mp4
+Los terneros siguen a sus madres
 # s_0046_buey.mp4
+Leche materna necesaria
 # s_0047_buey.mp4
+Climas duros
 # s_0048_buey.mp4
+Grupos de 10 a 20 animales
 # s_0049_buey.mp4
+Comunicar dominancia
 # s_0050_buey.mp4
+Derecho de apareamiento
 # s_0051_buey.mp4
+Dependen de la leche materna
 # s_0052_buey.mp4
+En invierno modifican su dieta
 # s_0053_buey.mp4
+Se sobrecalientan facilmente
 # s_0054_buey.mp4
+Especie vulnerable
 # s_0127_iguana.mp4
     🦎Reptiles fascinantes🦎#animals #faunasalvaje #especies #naturaleza #iguana 
     Las iguanas son reptiles fascinantes que han capturado la atención de las personas durante siglos debido a su aspecto exótico y su comportamiento único. Son nativas de las regiones tropicales que se extienden desde el sur de México, pasando por Centroam�rica, hasta llegar a Sudam�rica y las islas del Caribe. Estos reptiles pertenecen al g�nero Iguana y fueron descritos por primera vez en 1768 por el naturalista austr�aco Josephus Nicolaus Laurenti. Desde entonces, han sido estudiadas por cient�ficos y admiradas por amantes de los animales en todo el mundo.

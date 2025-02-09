@@ -31,7 +31,7 @@
 | Bisonte                                           |           | WAIT  | OK            |[Imponente, peludo y salvaje](https://youtu.be/CR0eYiFuvLo) |           ||
 | Boa de Duméril                                    |           |       |               |                                     |           ||
 | Bongo oriental                                    |           |       |               |                                     |           ||
-| Buey almizclero                                   |           |  OK   | OK (SHORT)    |[Descubriendo al 🐂 Buey Almizclero: Misterios de la Naturaleza 🏔️](https://youtu.be/Ts_GWytS9Ug) |           ||
+| Buey almizclero                                   |           |  18   | OK (SHORT)    |[Descubriendo al 🐂 Buey Almizclero: Misterios de la Naturaleza 🏔️](https://youtu.be/Ts_GWytS9Ug) |           ||
 | Bufalo rojo                                       |           |       |               |                                     |           ||
 | Búfalo                                            | 1         |       |               |                                     |[info](https://animalia.bio/es/bubalus)||
 | Búhos (genero)                                    | 1         |   7   |02/01/2025|[🦉 Búhos: los depredadores nocturnos🌙](https://youtu.be/DgzzFdvD_N0)|[info](http://www.buhopedia.com/)|<img src="Buhos_genero/buhos_001_square.png" alt="Búhos (genero)" style="width: 300px; height: auto; border: 2px solid #ccc;">|
@@ -158,7 +158,7 @@
 | Halcón peregrino                                  | 1         |       |               |                                     |           ||
 | Hámster                                           |           |       |               |                                     |           ||
 | Hiena                                             |           |       |               |                                     |           ||
-| Hiena manchada                                    |           |       | OK            |[🐾Más Allá de su Risa Feroz🦴](https://youtu.be/UCRYiGAlxVM) |           ||
+| Hiena manchada                                    |           |  9    | OK            |[🐾Más Allá de su Risa Feroz🦴](https://youtu.be/UCRYiGAlxVM) |           ||
 | Hipopótamo                                        |           |       |               |[Descubriendo al Hipopótamo](https://youtu.be/BnFVL8MC8vY)                                     |           ||
 | Hormiga                                           | 2         |       |               |                                     |[info](http://www.hormigapedia.com/)||
 | Hurón                                             |           |       |               |                                     |           ||
