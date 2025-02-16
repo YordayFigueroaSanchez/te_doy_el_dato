@@ -1,3 +1,21 @@
+20250216
+    Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Atun rojo, Caiman y Canguro : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
+    ?Que tema prefieres para el siguiente dato?
+    Cisne: elegante, majestuoso, gracil  
+    Coyote: astuto, adaptable, travieso  
+    Ibis: colorido, sociable, curioso
+    Result
+        ¿Cuál de los siguientes animales prefieres y por qué?  
+        Atún rojo: veloz, poderoso, migratorio  
+        Caimán: fuerte, sigiloso, resistente  
+        Canguro: ágil, enérgico, protector
+    Adaptado
+        ¿Qué tema prefieres para el siguiente dato?
+        Atún rojo:veloz,poderoso,migratorio
+        Caimán: fuerte,sigiloso, resistente
+        Canguro: ágil, enérgico, protector
+    nombre
+        Atún-Caimán-Canguro
 20250207
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Caamaron, erizo y pez peleador : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
     ?Que tema prefieres para el siguiente dato?

@@ -15,6 +15,7 @@
 | Arana viuda negra                                 | OK        |  OK   | OK            |[Araña viuda negra, venenosa, sigilosa y peligrosa](https://youtu.be/7brFhGQ8pJ4) |           ||
 | Ardilla                                           | 1         |       |               | |           ||
 | Armadillo                                         | 1         |  8    |26/01/2025     |[🛡️🛡️ Armadura natural ⚠️⚠️](https://youtu.be/RZtqaQs1NaM)|[info](https://mexico.inaturalist.org/taxa/47075-Dasypus-novemcinctus)||
+| Atun rojo                                         | 1         |       |               |                                     |           |<img src="atun_rojo/atun_rojo_002_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Armiño                                            | 1         |       |               |                                     |           ||
 | Ascidias                                          |           |       |               |                                     |           ||
 | Ave del paraíso                                   |           |       |               |                                     |           ||
@@ -42,6 +43,7 @@
 | Busardo ratonero                                  |           |       |               |                                     |           ||
 | Caballito de mar                                  | 1         |   8   |09/02/2025|[🦐 ¡El pez que desafía la naturaleza! ¿Sabías que el macho da a luz? 🤯](https://youtu.be/lC2IIldc4qM)||<img src="caballito_de_mar/caballito_de_mar_001_square.png" alt="Caballito de mar" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Caballo                                           |           |  WAIT | OK            |[🏇🌟 La Elegancia y Fuerza del Caballo 🐴](https://youtu.be/Wrh2OyZrXzw) |[info](http://www.caballopedia.com/)||
+| Caiman                                            | 1         |       |               |                                     |           |<img src="caiman/caiman_002_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Cabra                                             |           |       |               |                                     |           ||
 | Cachalote común                                   |           |       |               |                                     |           ||
 | Caimán                                            |           |       |               |                                     |           ||                   
@@ -54,7 +56,7 @@
 | Camelus ferus:camelloBactrianoSalvaje             |           |       |               |                                     |[Camelus ferus: el camello salvaje o camello bactriano salvaje, el único que nunca fue domesticado](https://es.wikipedia.org/wiki/Camelus)||
 | Cangrejo                                          | 1         |       |               |                                     |           ||
 | Cangrejo herradura                                |           |       |               |                                     |           ||
-| Canguro                                           | 1         |       |               |                                     |[info](http://www.canguropedia.com/)||
+| Canguro                                           | 2         |       |               |                                     |[info](http://www.canguropedia.com/)|<img src="canguro/canguro_102_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Capibara                                          |           | 6     | OK            |[🌿El Roedor Más Grande🐾](https://youtu.be/62pcn8KlXec)|           ||
 | Cárabo común                                      |           |       |               |                                     |           ||
 | Caracal                                           |           |       |               |                                     |           ||
