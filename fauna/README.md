@@ -251,7 +251,7 @@
 | Pez gato                                          |           |       |               |                                     |           ||
 | Pez globo                                         |           |       |               |                                     |           ||
 | Pez león                                          |           |       | OK            |[Intruso Exótico: 🐠🦁 La Amenaza del Pez León 🔥](https://youtu.be/tvQ9hewfxls) |           ||
-| Pez luchador                                      | 1         |       | 17/02/2025    |[🐠 ¡El pez más feroz y hermoso del acuario! 🔥](https://youtu.be/HpZQCff57ms)|[info](https://www.fishipedia.es/pez/betta-splendens)|<img src="Pez_luchador/pez_peleador_001_square.png" alt="Pez luchador" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| Pez luchador                                      | 1         |   6   | 17/02/2025    |[🐠 ¡El pez más feroz y hermoso del acuario! 🔥](https://youtu.be/HpZQCff57ms)|[info](https://www.fishipedia.es/pez/betta-splendens)|<img src="Pez_luchador/pez_peleador_001_square.png" alt="Pez luchador" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Pez mandarin                                      |           |       | OK            |[El pez mandarín colorido, delicado y ornamental](https://youtu.be/lc5iTfC6UeI) |           ||
 | Pez mariposa                                      |           |       |               |                                     |           ||
 | Pez Payaso                                        |           |       |               |                                     |           ||
