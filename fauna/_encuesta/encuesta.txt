@@ -1,3 +1,21 @@
+20250223
+    Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Zorro, Mariposa monarca y Pez ballesta payaso : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
+    ?Que tema prefieres para el siguiente dato?
+    Cisne: elegante, majestuoso, gracil  
+    Coyote: astuto, adaptable, travieso  
+    Ibis: colorido, sociable, curioso
+    Result
+        ¿Qué animal prefieres?  
+        Zorro: astuto, ágil, sigiloso  
+        Mariposa monarca: delicada, migratoria, resiliente  
+        Pez ballesta payaso: colorido, territorial, robusto
+    Adaptado
+        ¿Qué tema prefieres para el siguiente dato?
+        Zorro: astuto, ágil, sigiloso
+        Mariposa monarca:delicada,migratoria
+        Pez ballesta payaso:colorido,robusto
+    nombre
+        Zorro-MariposaMonarca-PezBallestaPayaso
 20250216
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Atun rojo, Caiman y Canguro : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
     ?Que tema prefieres para el siguiente dato?

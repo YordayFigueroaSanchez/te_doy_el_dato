@@ -200,7 +200,7 @@
 | Mantarraya                                        | 1         |  7    | 13/01/2025    |[𓆰𓆪𓆰𓆪¿Quiénes son los voladores secretos del océano?🌊](https://youtu.be/rW7UUFYgxdA)|[info](http://www.mantarayapedia.com/)||
 | Mapache                                           |           |       |               | |           ||
 | Mariposa arlequin                                 |           |       |               |                                     |           ||
-| Mariposa monarca                                  |           |       |               |                                     |           ||
+| Mariposa monarca                                  | 1         |       |               |                                     |           |<img src="mariposa_monarca/mariposa_monarca_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Mariposa genero                                   | 1         |       | OK (SHORT)    |[🦋🌼Belleza Alada y Clave de los Ecosistemas🌼🦋](https://youtu.be/dllSt01c_OU) |[info](https://concepto.de/mariposas/)||
 | Mariquita                                         |           |       |               |                                     |           ||
 | Marmota                                           | 1         |       |               |                                     |           ||
@@ -246,6 +246,7 @@
 | Perro                                             |           |       |               |                                     |           ||
 | Petirojo europeo                                  | 1         |       |               |                                     |           ||
 | Pez Ángel                                         |           |       |               |                                     |           ||
+| Pez ballesta payaso                               | 1         |       |               |                                     |[info](https://www.peceswiki.com/pez-ballesta-payaso)|<img src="pez_ballesta_payaso/pez_ballesta_payaso_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Pez cirujano                                      |           |       |               |                                     |           ||
 | Pez disco                                         |           |       |               |                                     |           ||
 | Pez gato                                          |           |       |               |                                     |           ||
@@ -314,7 +315,7 @@
 | Yarará común                                      |           |       |               |                                     |           ||
 | Zapatero                                          | 1         |       |               |                                     |           |<img src="zapatero/zapatero_001_square.png" alt="Zapatero" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Zarigueya                                         |           |       | OK            |[Entre Sombras y Ramas 🌳🦝: La Vida Secreta de la Zarigüeya](https://youtu.be/1YqHXlGDYRQ) |  ||
-| Zorro                                             |           |       |               | |           ||
+| Zorro                                             | 1         |       |               | |           |<img src="zorro/zorro_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Zorro Polar                                       |           |       |               |                                     |           |
 
 
