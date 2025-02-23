@@ -17,6 +17,7 @@ Debes agregar en algunos parrafos el nombre del animal sobre el que se trata.
 Cuando menciones el nombre cientifico del animal hazlo formando parte de la oracion y no entre ().
 El articulo debe tener unos 5 minutos de lectura.
 La session de datos curiosos se debe escribir en forma de parrafos
+Cuando tengas que usar unidades de medida enfocate que sean en kilometros por hora, metros. Como enfocado en la comunidad de habla hispana.
 
 # Titles 🦉
 ## Promnt
