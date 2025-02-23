@@ -56,7 +56,7 @@
 | Camelus ferus:camelloBactrianoSalvaje             |           |       |               |                                     |[Camelus ferus: el camello salvaje o camello bactriano salvaje, el único que nunca fue domesticado](https://es.wikipedia.org/wiki/Camelus)||
 | Cangrejo                                          | 1         |       |               |                                     |           ||
 | Cangrejo herradura                                |           |       |               |                                     |           ||
-| Canguro                                           | 2         |       |               |                                     |[info](http://www.canguropedia.com/)|<img src="canguro/canguro_102_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| Canguro                                           | 2         |       |Seleccionado   |                                     |[info](http://www.canguropedia.com/)|<img src="canguro/canguro_102_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Capibara                                          |           | 6     | OK            |[🌿El Roedor Más Grande🐾](https://youtu.be/62pcn8KlXec)|           ||
 | Cárabo común                                      |           |       |               |                                     |           ||
 | Caracal                                           |           |       |               |                                     |           ||
