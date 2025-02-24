@@ -30,7 +30,18 @@ Basado en el contenido del documento proporcionado, genera 10 títulos cortos, l
 🦅 Fregata: ¡El pirata del cielo! ☠️
 🦌 Oryx, el antílope de los desiertos extremos! 🔥
 ## Result
+🦘 ¡El canguro es un verdadero maestro del salto! 🚀  
+🌍 ¿Cómo sobrevive el canguro en los terrenos más extremos? 🔥  
+🦘 ¡Este animal puede saltar más de 9 metros en un solo brinco! 😱  
+👶 Un bebé canguro es más pequeño que una habichuela… ¡Increíble! 🤯  
+💨 ¡El canguro puede alcanzar 70 km/h! ¿Más rápido que un caballo? 🏇  
+🛑 ¡Cuidado! El canguro tiene una técnica mortal para defenderse 💀  
+🔬 ¡Su ADN es clave para entender la evolución de los mamíferos! 🧬  
+🤔 ¿Sabías que el canguro puede retrasar su embarazo? 😲  
+🌊 ¡Este marsupial también es un nadador experto! 🏊‍♂️  
+💡 ¿Por qué el canguro nunca camina? Su secreto te sorprenderá… 😮  
 ## Seleccionado
+🦘 ¡El verdadero maestro del salto! 🚀  
 
 # Adjetivos
 ## Promnt
@@ -41,7 +52,13 @@ Misterioso 🦇
 Ágil ⚡
 Nocturno 🌙
 ## Result
+🔹 **Saltador** 🦘 (Su método de locomoción basado en saltos es único y eficiente)  
+🔹 **Resistente** 💪 (Adaptado a entornos áridos y condiciones extremas)  
+🔹 **Ágil** ⚡ (Capaz de alcanzar grandes velocidades y recorrer largas distancias con poco esfuerzo)  
 ## Adjetivos en limpio
+Saltador
+Resistente
+Ágil
 
 # Tags para youtube
 ## Prompt
@@ -49,10 +66,11 @@ Analiza el contenido del documento proporcionado y genera una lista de etiquetas
 📌 Ejemplo de salida esperada (para un video sobre el murciélago):
 murciélago, murciélagos, animales nocturnos, mamíferos voladores, ecosistema, biodiversidad, cueva, insectívoro, noche, animales increíbles, wildlife
 ## Result
+canguro, canguros, marsupial, marsupiales, Macropus, Macropus rufus, Macropus giganteus, Macropus fuliginosus, Macropus antilopinus, animales saltadores, mamíferos australianos, fauna de Australia, hábitat del canguro, locomoción por saltos, velocidad del canguro, adaptación animal, dieta herbívora, cría de canguro, bolsa marsupial, reproducción en marsupiales, depredadores del canguro, defensa animal, animales sorprendentes, curiosidades del canguro, biodiversidad, vida salvaje, documental de animales, naturaleza, wildlife
 
 # Url
-[🐠 ¡El pez más feroz y hermoso del acuario! 🔥](https://youtu.be/HpZQCff57ms)
-[🐠 ¡El pez más feroz y hermoso del acuario! 🔥](https://odysee.com/pez_luchador%E2%80%90video-720p:5eb919bce7f34f54b33a873fd3f40759b037dd19)
+[🦘 ¡El verdadero maestro del salto! 🚀](https://youtu.be/AaMz7okGyGM)
+[🦘 ¡El verdadero maestro del salto! 🚀](https://odysee.com/@yfsanchez:d/canguro_video_720p:e)
 
 # Tags para odyse
 animales,animals,fauna,canguro,nature
