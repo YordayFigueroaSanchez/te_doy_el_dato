@@ -897,6 +897,33 @@ Históricamente, estos peces fueron utilizados en peleas organizadas en Tailandi
 🐠 Solitario y territorial 🔥
 A pesar de su fama de solitario y territorial, el Betta splendens también tiene un lado más sociable. En un acuario bien diseñado, las hembras pueden vivir juntas en grupos conocidos como "sororidades", siempre que haya suficiente espacio y escondites para evitar conflictos.
 El Betta splendens es un pez fascinante, tanto por su belleza como por su comportamiento único. Su historia, adaptaciones y rituales de apareamiento lo convierten en un verdadero guerrero de aguas tranquilas. Si te ha intrigado este artículo, cuéntanos qué otros temas te gustaría que abordáramos en futuros contenidos. ¡Tu opinión es muy valiosa!
+# s_0406_canguro.mp4
+🦘 El canguro: el gigante resistente del desierto 🚀 
+En lo más profundo de los vastos paisajes áridos y semiáridos, donde las temperaturas fluctúan de manera extrema y los recursos pueden escasear, existe una criatura con una adaptación única. Su método de locomoción no solo le permite cubrir grandes distancias con eficiencia, sino que también es el sello distintivo de su especie. Su poderosa estructura y sus sorprendentes estrategias de supervivencia lo convierten en un verdadero símbolo de resistencia en su hábitat.
+El canguro, cuyo nombre científico varía según la especie, es el marsupial más grande del mundo. Dependiendo de la especie, los machos pueden alcanzar hasta los 2 metros de altura y pesar alrededor de 90 kilogramos. Su cuerpo es robusto, con patas traseras extremadamente fuertes y alargadas que le permiten saltar largas distancias con mínima inversión de energía.
+# s_0407_canguro.mp4
+🦘 El canguro y su asombroso equilibrio: más que saltos 🚀 
+Sus patas delanteras, aunque pequeñas, son funcionales para la alimentación y la defensa. Su cola, gruesa y musculosa, no solo equilibra su cuerpo mientras salta, sino que también le permite apoyarse cuando está en reposo, formando un trípode con sus patas delanteras. Además, su piel puede variar en tonalidades desde rojiza hasta gris, dependiendo de la especie y su entorno.
+Los canguros son originarios de Australia y su distribución varía según la especie. El canguro rojo (Macropus rufus) es común en las zonas áridas del centro del país, mientras que el canguro gris oriental (Macropus giganteus) y el canguro gris occidental (Macropus fuliginosus) prefieren las áreas más fértiles del este y el sur, respectivamente. Por otro lado, el canguro antilopino (Macropus antilopinus) habita en los bosques tropicales del norte.
+# s_0408_canguro.mp4
+🦘 Así se alimenta el canguro: un herbívoro sorprendente 🚀 
+Estos animales han desarrollado una capacidad impresionante para adaptarse a su entorno. Su método de locomoción les permite recorrer grandes distancias en busca de alimento, lo que es fundamental en un continente con climas tan variables.
+El canguro es un herbívoro estricto cuya dieta varía según la especie y el ecosistema en el que habita. Su alimentación se basa principalmente en hierbas y arbustos, aunque algunas especies también consumen hongos subterráneos. Poseen un sistema digestivo especializado que les permite fermentar la vegetación en recámaras estomacales, similar al de los rumiantes como las vacas.
+Para facilitar el consumo de hierba, los incisivos del canguro están diseñados para cortar la vegetación de manera eficiente, mientras que sus molares se encargan de triturarla. Además, sus dientes se reemplazan constantemente debido al desgaste que causa la sílice presente en las plantas que consumen.
+# s_0409_canguro.mp4
+🦘 ¿Sabías que los canguros pueden pausar un embarazo? 🚀 
+Uno de los aspectos más fascinantes del canguro es su ciclo reproductivo. La gestación dura entre 31 y 36 días, y cuando la cría nace, tiene el tamaño de un haba y está en una etapa muy temprana de desarrollo. Sin embargo, gracias a sus patas delanteras relativamente desarrolladas, es capaz de trepar hasta la bolsa materna, donde se adhiere a un pezón y se alimenta durante varios meses.
+La madre canguro posee una habilidad extraordinaria llamada diapausa embrionaria, que le permite retrasar el desarrollo de un embrión hasta que las condiciones sean favorables. Además, puede producir dos tipos de leche simultáneamente, adaptándose a las necesidades de crías de diferentes edades.
+A pesar de su gran tamaño y fuerza, los canguros tienen depredadores naturales. En el pasado, el tilacino y el león marsupial cazaban canguros, pero hoy en día, sus principales amenazas incluyen los dingos, zorros y gatos salvajes.
+# s_0410_canguro.mp4
+🦘 La increíble velocidad y defensa del canguro 🚀 
+Para defenderse, los canguros recurren a estrategias sorprendentes. Son excelentes nadadores y, si se ven acorralados, pueden sumergirse en el agua y mantener a su atacante bajo la superficie hasta ahogarlo. En tierra firme, utilizan sus patas traseras para lanzar potentes patadas que pueden ser letales para un depredador.
+Los canguros tienen una forma de moverse sumamente eficiente. Gracias a la energía almacenada en sus tendones, pueden alcanzar velocidades de hasta 70 kilómetros por hora en distancias cortas y mantener un ritmo de 40 kilómetros por hora durante casi dos kilómetros sin agotarse.
+Su sistema respiratorio está sincronizado con sus saltos. Cada vez que sus patas dejan el suelo, sus pulmones expulsan aire de manera automática, permitiéndoles respirar con mayor eficiencia.
+# s_0411_canguro.mp4
+🦘 Canguros: ¿Por qué viven más en cautiverio? 🚀 
+Aunque en la naturaleza la esperanza de vida de un canguro es de aproximadamente seis años, en cautiverio pueden superar los veinte años, dependiendo de la especie y las condiciones de vida.
+El canguro es un ejemplo extraordinario de adaptación y resistencia en la naturaleza. Desde su increíble método de locomoción hasta sus estrategias de supervivencia, este marsupial es una de las criaturas más emblemáticas del mundo animal. Si te ha intrigado este artículo, cuéntanos qué otros temas te gustaría que abordáramos en futuros contenidos. ¡Tu opinión es muy valiosa!
 
 # Emojis
 🦧🐵🐒🦍🦧🐶🐕🦮🐕‍🦺🐩🐺🦊🦝🐱🐈🐈‍⬛🦁🐯🐅🐆🐴🐎🦄🦓🦌🦬🐮
