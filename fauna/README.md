@@ -9,7 +9,7 @@
 | Albatros                                          |           |       |               |                                     |           ||
 | Alce                                              | OK        |       | OK            |[🦙El Alce: Gigante de los Bosques🌲](https://youtu.be/X7IdEqA89Gw) |           ||
 | Almeja gigante                                    |           |       |               |                                     |           ||
-| Anguila eléctrica                                 |           |       |               |                                     |           ||
+| Anguila eléctrica                                 | 1         |       |               |                                     |           |<img src="anguila_electrica/anguila_electrica_201_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Anguila morena                                    |           |       |               |                                     |           ||
 | Antílope                                          |           |       |               |                                     |           ||
 | Arana viuda negra                                 | OK        |  OK   | OK            |[Araña viuda negra, venenosa, sigilosa y peligrosa](https://youtu.be/7brFhGQ8pJ4) |           ||
@@ -241,7 +241,7 @@
 | Pelícano comun                                    |           |       |               |                                     |           ||
 | Peramélido                                        |           |       |               |                                     |           ||
 | Percebe                                           |           |       |               |                                     |           ||
-| Perezoso                                          | 1         |       |               |                                     |           ||
+| Perezoso                                          | 2         |       |               |                                     |           |<img src="perezoso/perezoso_201_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Periquito común                                   |           |       |               |                                     |           ||
 | Perro                                             |           |       |               |                                     |           ||
 | Petirojo europeo                                  | 1         |       |               |                                     |           ||
@@ -316,7 +316,7 @@
 | Zapatero                                          | 1         |       |               |                                     |           |<img src="zapatero/zapatero_001_square.png" alt="Zapatero" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Zarigueya                                         |           |       | OK            |[Entre Sombras y Ramas 🌳🦝: La Vida Secreta de la Zarigüeya](https://youtu.be/1YqHXlGDYRQ) |  ||
 | Zorro                                             | 1         |       |               | |           |<img src="zorro/zorro_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
-| Zorro Polar                                       |           |       |               |                                     |           |
+| Zorro Polar (Zorro ártico)                        | 1         |       |               |                                     |<img src="zorro_artico/zorro_artico_101_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 
 
 
