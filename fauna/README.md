@@ -316,7 +316,7 @@
 | Zapatero                                          | 1         |       |               |                                     |           |<img src="zapatero/zapatero_001_square.png" alt="Zapatero" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Zarigueya                                         |           |       | OK            |[Entre Sombras y Ramas 🌳🦝: La Vida Secreta de la Zarigüeya](https://youtu.be/1YqHXlGDYRQ) |  ||
 | Zorro                                             | 1         |       |               | |           |<img src="zorro/zorro_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
-| Zorro Polar (Zorro ártico)                        | 1         |       |               |                                     |<img src="zorro_artico/zorro_artico_101_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| Zorro Polar (Zorro ártico)                        | 1         |       |               | |           |<img src="zorro_artico/zorro_artico_101_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 
 
 
