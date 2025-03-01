@@ -1,3 +1,21 @@
+20250301
+    Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Zorro artico, anguila electrica y Perezoso, los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
+    ?Que tema prefieres para el siguiente dato?
+    Cisne: elegante, majestuoso, gracil  
+    Coyote: astuto, adaptable, travieso  
+    Ibis: colorido, sociable, curioso
+    Result
+        📌 **¿Qué animal prefieres?**  
+        🦊 Zorro ártico: ágil, resistente, sigiloso  
+        ⚡ Anguila eléctrica: poderosa, escurridiza, sorprendente  
+        🦥 Pérezoso: tranquilo, adorable, pausado
+    Adaptado
+        ¿Qué tema prefieres para el siguiente dato?
+        Zorro ártico: ágil, resistente
+        Anguila eléctrica: escurridiza
+        Pérezoso: tranquilo, adorable
+    nombre
+        ZorroArtico-AnguilaElectrica-Perezoso
 20250223
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Zorro, Mariposa monarca y Pez ballesta payaso : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
     ?Que tema prefieres para el siguiente dato?
