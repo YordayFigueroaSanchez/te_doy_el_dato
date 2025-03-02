@@ -30,18 +30,17 @@ Basado en el contenido del documento proporcionado, genera 10 títulos cortos, l
 🦅 Fregata: ¡El pirata del cielo! ☠️
 🦌 Oryx, el antílope de los desiertos extremos! 🔥
 ## Result
-🦘 ¡El canguro es un verdadero maestro del salto! 🚀  
-🌍 ¿Cómo sobrevive el canguro en los terrenos más extremos? 🔥  
-🦘 ¡Este animal puede saltar más de 9 metros en un solo brinco! 😱  
-👶 Un bebé canguro es más pequeño que una habichuela… ¡Increíble! 🤯  
-💨 ¡El canguro puede alcanzar 70 km/h! ¿Más rápido que un caballo? 🏇  
-🛑 ¡Cuidado! El canguro tiene una técnica mortal para defenderse 💀  
-🔬 ¡Su ADN es clave para entender la evolución de los mamíferos! 🧬  
-🤔 ¿Sabías que el canguro puede retrasar su embarazo? 😲  
-🌊 ¡Este marsupial también es un nadador experto! 🏊‍♂️  
-💡 ¿Por qué el canguro nunca camina? Su secreto te sorprenderá… 😮  
+🦋 **¡El viajero más pequeño y resistente del mundo! 🌍✈️**  
+🔥 **¿Cómo sobrevive esta frágil mariposa a un viaje de 5000 km? 😲**  
+🧭 **Mariposa monarca: la increíble migración guiada por el sol 🌞**  
+☠️ **Este insecto es venenoso… ¡y usa su color para advertirlo! 🚨**  
+🏆 **El campeón de la migración: ¡Ni el viento ni el frío lo detienen! ❄️🦋**  
+🌿 **El secreto mortal de la mariposa monarca 🏵️☠️**  
+📍 **¡Regresan al mismo árbol sin haber estado ahí antes! 😮🦋**  
+💀 **¿Por qué relacionan a esta mariposa con el Día de Muertos? 🇲🇽🕯️**  
+🚀 **Este insecto puede volar miles de kilómetros sin GPS 😵**  
+🔬 **¡Científicos descubren el superpoder oculto de la mariposa monarca! 🦋⚡**  
 ## Seleccionado
-🦘 ¡El verdadero maestro del salto! 🚀  
 
 # Adjetivos
 ## Promnt
@@ -52,13 +51,13 @@ Misterioso 🦇
 Ágil ⚡
 Nocturno 🌙
 ## Result
-🔹 **Saltador** 🦘 (Su método de locomoción basado en saltos es único y eficiente)  
-🔹 **Resistente** 💪 (Adaptado a entornos áridos y condiciones extremas)  
-🔹 **Ágil** ⚡ (Capaz de alcanzar grandes velocidades y recorrer largas distancias con poco esfuerzo)  
+🌍 **Migratoria** – Recorre miles de kilómetros en una de las travesías más impresionantes del reino animal.  
+🛡️ **Venenosa** – Su dieta le permite almacenar toxinas que la protegen de los depredadores.  
+🎨 **Deslumbrante** – Sus vibrantes alas naranjas con patrones negros y blancos la hacen inconfundible.  
 ## Adjetivos en limpio
-Saltador
-Resistente
-Ágil
+Migratoria
+Venenosa
+Deslumbrante
 
 # Tags para youtube
 ## Prompt
@@ -66,13 +65,11 @@ Analiza el contenido del documento proporcionado y genera una lista de etiquetas
 📌 Ejemplo de salida esperada (para un video sobre el murciélago):
 murciélago, murciélagos, animales nocturnos, mamíferos voladores, ecosistema, biodiversidad, cueva, insectívoro, noche, animales increíbles, wildlife
 ## Result
-canguro, canguros, marsupial, marsupiales, Macropus, Macropus rufus, Macropus giganteus, Macropus fuliginosus, Macropus antilopinus, animales saltadores, mamíferos australianos, fauna de Australia, hábitat del canguro, locomoción por saltos, velocidad del canguro, adaptación animal, dieta herbívora, cría de canguro, bolsa marsupial, reproducción en marsupiales, depredadores del canguro, defensa animal, animales sorprendentes, curiosidades del canguro, biodiversidad, vida salvaje, documental de animales, naturaleza, wildlife
+mariposa monarca, mariposas monarca, Danaus plexippus, mariposa migratoria, migración de mariposas, mariposa venenosa, polinizadores, insectos migratorios, metamorfosis, crisálida, oruga, algodoncillo, mariposa naranja, insectos, biodiversidad, ecosistema, naturaleza, migración animal, animales sorprendentes, cambio climático, conservación, reserva de la biosfera, Día de Muertos, México, Canadá, Estados Unidos, vida silvestre, National Geographic, WWF, animales increíbles  
 
 # Url
-[🦘 ¡El verdadero maestro del salto! 🚀](https://youtu.be/AaMz7okGyGM)
-[🦘 ¡El verdadero maestro del salto! 🚀](https://odysee.com/@yfsanchez:d/canguro_video_720p:e)
 
 # Tags para odyse
-animales,animals,fauna,canguro,nature
+animales,animals,fauna,mariposa,nature
 
 # Mejorar texto
