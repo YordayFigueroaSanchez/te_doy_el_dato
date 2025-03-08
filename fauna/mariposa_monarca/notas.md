@@ -19,7 +19,7 @@ El articulo debe tener unos 5 minutos de lectura.
 La session de datos curiosos se debe escribir en forma de parrafos
 Cuando tengas que usar unidades de medida enfocate que sean en kilometros por hora, metros. Como enfocado en la comunidad de habla hispana.
 
-# Titles 🦉
+# Titles
 ## Promnt
 Basado en el contenido del documento proporcionado, genera 10 títulos cortos, llamativos y optimizados para YouTube. Deben despertar la curiosidad y atraer clics usando preguntas intrigantes, frases impactantes o datos sorprendentes. Agrega emojis relevantes para reforzar el mensaje visual y hacerlos más atractivos. Asegúrate de que cada título sea claro, directo y genere interés inmediato."
 📌 Ejemplo de salida esperada:
