@@ -924,7 +924,29 @@ Su sistema respiratorio está sincronizado con sus saltos. Cada vez que sus pata
 🦘 Canguros: ¿Por qué viven más en cautiverio? 🚀 
 Aunque en la naturaleza la esperanza de vida de un canguro es de aproximadamente seis años, en cautiverio pueden superar los veinte años, dependiendo de la especie y las condiciones de vida.
 El canguro es un ejemplo extraordinario de adaptación y resistencia en la naturaleza. Desde su increíble método de locomoción hasta sus estrategias de supervivencia, este marsupial es una de las criaturas más emblemáticas del mundo animal. Si te ha intrigado este artículo, cuéntanos qué otros temas te gustaría que abordáramos en futuros contenidos. ¡Tu opinión es muy valiosa!
-
+# s_0412_mariposa_monarca.mp4
+🦋 La Mariposa Que Viaja Miles de Kilómetros 🌞
+Cada año, millones de pequeños viajeros emprenden una odisea de miles de kilómetros, desafiando el viento, la lluvia y el frío en busca de un refugio cálido. Lo sorprendente es que estos intrépidos migrantes pesan menos de medio gramo y, a pesar de su fragilidad aparente, logran completar una de las migraciones más extraordinarias del reino animal. Este asombroso protagonista es la mariposa monarca, cuyo nombre científico es Danaus plexippus.
+Las mariposas monarca son inconfundibles por sus alas de color anaranjado intenso, decoradas con venas negras y bordeadas con puntos blancos. Los machos pueden diferenciarse de las hembras gracias a dos puntos negros en las venas de sus alas y un tamaño ligeramente mayor. En cambio, las hembras presentan venas más gruesas y colores algo más oscuros.
+# s_0413_mariposa_monarca.mp4
+🦋 Colores Letales: El Secreto de la Mariposa Monarca! 🌞
+Pero su belleza no es solo estética: los patrones y colores de sus alas cumplen un papel crucial en su supervivencia. Las tonalidades brillantes advierten a sus depredadores de su toxicidad, resultado de la alimentación que tuvieron en su etapa de oruga.
+Aunque la mariposa monarca es originaria de América del Norte y del Sur, actualmente también se encuentra en regiones cálidas de Europa y Oceanía. En América del Norte, se distinguen dos poblaciones principales: la oriental, que pasa el invierno en los bosques montañosos de México, y la occidental, que migra a la costa de California.
+Los bosques de oyamel y pino en el centro de México son el santuario de hibernación de millones de monarcas que recorren hasta 5000 kilómetros desde Canadá y Estados Unidos para escapar del frío y la escasez de alimento. Su presencia en estos bosques es vital para la conservación del ecosistema, ya que su actividad contribuye a la polinización de diversas especies vegetales.
+# s_0414_mariposa_monarca.mp4
+🦋 De Huevo a Mariposa: La Increíble Transformación! 🌞
+Desde que nacen, las mariposas monarca dependen de una planta muy especial: el algodoncillo. Durante su fase de oruga, se alimentan exclusivamente de esta planta, lo que les permite acumular toxinas que las hacen venenosas para sus depredadores. Una vez convertidas en mariposas adultas, cambian su dieta a néctar de diversas flores, lo que las convierte en polinizadores esenciales para muchos ecosistemas.
+La mariposa monarca tiene un ciclo de vida fascinante que consta de cuatro etapas: huevo, oruga, crisálida y adulto. Las hembras depositan entre 300 y 500 huevos de manera individual en las hojas del algodoncillo. En pocos días, los huevos eclosionan y emergen las orugas, que se alimentan vorazmente de la planta hasta multiplicar su tamaño por 3000. Luego, entran en la fase de crisálida, donde ocurre la metamorfosis. Tras aproximadamente dos semanas, emergen como mariposas completamente formadas y listas para emprender su viaje.
+# s_0415_mariposa_monarca.mp4
+🦋 Una Mariposa Venenosa y Migrante: Así Sobrevive la Monarca! 🌞
+Lo más impresionante es que las monarcas que nacen a finales del verano o en otoño no se reproducen de inmediato. En cambio, se preparan para la gran migración hacia el sur, donde pasarán el invierno antes de volver a procrear en primavera.
+A pesar de su aparente fragilidad, las mariposas monarca han desarrollado una estrategia de defensa efectiva contra sus principales depredadores, como aves y algunos insectos. Gracias a su dieta basada en algodoncillo, almacenan toxinas en su cuerpo, lo que las hace desagradables y peligrosas para quienes intentan comerlas. Su coloración brillante actúa como una señal de advertencia natural.
+La mariposa monarca no solo es un insecto hermoso, sino que también tiene características fascinantes. Por ejemplo, aunque tiene seis patas, solo usa cuatro para caminar, ya que las delanteras son vestigiales. Además, su velocidad de vuelo es bastante lenta en comparación con otros insectos, alcanzando un promedio de 9 kilómetros por hora.
+# s_0416_mariposa_monarca.mp4
+🦋 Generaciones Viajeras: La Migración Inexplicable de la Monarca! 🌞
+Otro hecho sorprendente es que, a pesar de que las mariposas monarca individuales solo viven entre 6 y 8 meses, su instinto migratorio se transmite de generación en generación. Es decir, las monarcas que inician la migración en Canadá no son las mismas que regresan en primavera, sino sus descendientes, quienes encuentran el camino con una precisión asombrosa.
+A pesar de su resistencia y asombrosa capacidad de migración, la población de la mariposa monarca se encuentra en declive. La pérdida de hábitat, el uso de herbicidas que eliminan el algodoncillo y el cambio climático son amenazas graves para su supervivencia.
+En México, la Reserva de la Biosfera Mariposa Monarca protege sus hábitats de hibernación, y se han implementado programas de conservación en América del Norte. La participación ciudadana también es clave: plantar algodoncillo en jardines y evitar el uso de pesticidas puede marcar una gran diferencia. Gracias por el apoyo y hasta la proxima.
 # Emojis
 🦧🐵🐒🦍🦧🐶🐕🦮🐕‍🦺🐩🐺🦊🦝🐱🐈🐈‍⬛🦁🐯🐅🐆🐴🐎🦄🦓🦌🦬🐮
 🐂🐃🐄🐷🐖🐗🐽🐏🐑🐐🐪🐫🦙🦒🐘🦏🦛🐭🐁🐀🐹🐰🐇🐿️🦇🦔🐻🦥
