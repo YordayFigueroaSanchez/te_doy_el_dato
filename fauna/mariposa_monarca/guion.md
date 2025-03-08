@@ -16,7 +16,7 @@ Los bosques de oyamel y pino en el centro de México son el santuario de hiberna
 
 ## Alimentación: una dieta venenosa
 
-Desde que nacen, las mariposas monarca dependen de una planta muy especial: el algodoncillo (Asclepias). Durante su fase de oruga, se alimentan exclusivamente de esta planta, lo que les permite acumular toxinas que las hacen venenosas para sus depredadores. Una vez convertidas en mariposas adultas, cambian su dieta a néctar de diversas flores, lo que las convierte en polinizadores esenciales para muchos ecosistemas.
+Desde que nacen, las mariposas monarca dependen de una planta muy especial: el algodoncillo. Durante su fase de oruga, se alimentan exclusivamente de esta planta, lo que les permite acumular toxinas que las hacen venenosas para sus depredadores. Una vez convertidas en mariposas adultas, cambian su dieta a néctar de diversas flores, lo que las convierte en polinizadores esenciales para muchos ecosistemas.
 
 ## Reproducción: un ciclo de vida asombroso
 
