@@ -117,7 +117,7 @@
 | Esponjas de mar                                   |           |       |               |                                     |           ||
 | Estrella de mar                                   |           |       |               |                                     |           ||
 | Estornino                                         |           | WAIT  | OK            |[✨El Vuelo Sincrónico 🌌: Explorando el Mundo de los Estorninos 🐦](https://youtu.be/bf9hFIpF-4o) |           ||
-| Facóquero común                                   |           |       |               |                                     |           ||
+| Facóquero común                                   |           |       |               |                                     |[info](https://www.naturalista.uy/taxa/42122-Phacochoerus-africanus)|<img src="facoquero/facoquero_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Faetón                                            | 1         |       |               |                                     |           ||
 | Faisán                                            | 2         |       |               |                                     |[info](https://www.naturalista.uy/taxa/981-Phasianus-colchicus)||
 | Flamenco                                          | 1         |       |               |                                     |[info](http://www.flamencopedia.com/)||
@@ -148,7 +148,7 @@
 | Gavial                                            |           |       |               |                                     |           ||
 | Gecko                                             |           |       |               |                                     |           ||
 | Gecko diurno Madagascar                           | 1         |       |               |                                     |           ||
-| Glotón                                            |           |       |               |                                     |           ||
+| Glotón                                            |           |       |               |                                     |[info](https://www.naturalista.uy/taxa/41852-Gulo-gulo)|<img src="gloton/gloton_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Gorila de montaña                                 |           |  WAIT | OK            |[En las huellas del Gorila de Montaña](https://youtu.be/4RsMMwrr5bA) |           ||
 | Gorrión                                           | 1         |       |               |                                     |           ||
 | Grulla                                            | 1         |       | OK            |[🦩Elegancia y Resistencia en los Cielos🦩](https://youtu.be/w21R6wQSIho) |           ||
@@ -248,6 +248,7 @@
 | Pez Ángel                                         |           |       |               |                                     |           ||
 | Pez ballesta payaso                               | 1         |       |               |                                     |[info](https://www.peceswiki.com/pez-ballesta-payaso)|<img src="pez_ballesta_payaso/pez_ballesta_payaso_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Pez cirujano                                      |           |       |               |                                     |           ||
+| Pez cofre                                         | 1         |       |               |                                     |[info](https://www.peceswiki.com/pez-cofre)|<img src="pez_cofre/pez_cofre_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Pez disco                                         |           |       |               |                                     |           ||
 | Pez gato                                          |           |       |               |                                     |           ||
 | Pez globo                                         |           |       |               |                                     |           ||
