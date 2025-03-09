@@ -9,7 +9,7 @@
 | Albatros                                          |           |       |               |                                     |           ||
 | Alce                                              | OK        |       | OK            |[🦙El Alce: Gigante de los Bosques🌲](https://youtu.be/X7IdEqA89Gw) |           ||
 | Almeja gigante                                    |           |       |               |                                     |           ||
-| Anguila eléctrica                                 | 1         |       |               |                                     |           |<img src="anguila_electrica/anguila_electrica_201_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| Anguila eléctrica                                 | 1         |       | SELECCIONADO  |                                     |           |<img src="anguila_electrica/anguila_electrica_201_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Anguila morena                                    |           |       |               |                                     |           ||
 | Antílope                                          |           |       |               |                                     |           ||
 | Arana viuda negra                                 | OK        |  OK   | OK            |[Araña viuda negra, venenosa, sigilosa y peligrosa](https://youtu.be/7brFhGQ8pJ4) |           ||
