@@ -1,3 +1,22 @@
+20250316
+    Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Cachalote , Cigüeña y Estrella de mar, los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
+    ?Que tema prefieres para el siguiente dato?
+    Cisne: elegante, majestuoso, gracil  
+    Coyote: astuto, adaptable, travieso  
+    Ibis: colorido, sociable, curioso
+    Result
+        ¿Qué tema prefieres para el siguiente dato?  
+        Cachalote: gigante, profundo, poderoso  
+        Cigüeña: elegante, migratoria, paciente  
+        Estrella de mar: fascinante, regenerativa, sigilosa
+    Adaptado
+        ¿Qué tema prefieres para el siguiente dato?
+        Cachalote: gigante, profundo
+        Cigüeña: elegante, migratoria
+        Estrella de mar: fascinante
+    nombre
+        Cachalote-Cigüeña-Estrella
+
 20250309
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Glotón (Gulo gulo), Facoquero (Phacochoerus africanus) y Pez cofre, los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
     ?Que tema prefieres para el siguiente dato?
