@@ -1,7 +1,5 @@
-![](anguila_electrica_portada_002.png)
-
 **El sorprendente depredador que caza con electricidad**
-
+![](anguila_electrica_portada_002.png)
 En las turbias aguas de Sudamérica, un cazador invisible acecha en la oscuridad. No necesita garras ni colmillos afilados, pues su arma es una de las más inusuales de la naturaleza: descargas eléctricas capaces de paralizar a sus presas en cuestión de milisegundos. Se trata de un ser misterioso que, aunque por su nombre parece pertenecer a un grupo bien conocido de animales, en realidad tiene una historia evolutiva muy diferente.
 
 ## Anatomía de la anguila eléctrica
