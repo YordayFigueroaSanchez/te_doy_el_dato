@@ -9,7 +9,7 @@
 | Albatros                                          |           |       |               |                                     |           ||
 | Alce                                              | OK        |       | OK            |[🦙El Alce: Gigante de los Bosques🌲](https://youtu.be/X7IdEqA89Gw) |           ||
 | Almeja gigante                                    |           |       |               |                                     |           ||
-| [Anguila eléctrica](../fauna/anguila_electrica/guion_01.md)|OK(1) |   | 16/03/2025    |[⚡🔥 ¡Este pez genera 860 voltios! ¿Cómo lo hace? 🤯](https://youtu.be/gNh4uz7z7II)|           |<img src="anguila_electrica/anguila_electrica_201_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| [Anguila eléctrica](../fauna/anguila_electrica/guion_01.md)|OK(1) | 7 | 16/03/2025    |[⚡🔥 ¡Este pez genera 860 voltios! ¿Cómo lo hace? 🤯](https://youtu.be/gNh4uz7z7II)|           |<img src="anguila_electrica/anguila_electrica_201_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Anguila morena                                    |           |       |               |                                     |           ||
 | Antílope                                          |           |       |               |                                     |           ||
 | Arana viuda negra                                 | OK        |  OK   | OK            |[Araña viuda negra, venenosa, sigilosa y peligrosa](https://youtu.be/7brFhGQ8pJ4) |           ||

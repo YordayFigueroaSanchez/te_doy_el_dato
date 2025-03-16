@@ -947,6 +947,33 @@ La mariposa monarca no solo es un insecto hermoso, sino que también tiene carac
 Otro hecho sorprendente es que, a pesar de que las mariposas monarca individuales solo viven entre 6 y 8 meses, su instinto migratorio se transmite de generación en generación. Es decir, las monarcas que inician la migración en Canadá no son las mismas que regresan en primavera, sino sus descendientes, quienes encuentran el camino con una precisión asombrosa.
 A pesar de su resistencia y asombrosa capacidad de migración, la población de la mariposa monarca se encuentra en declive. La pérdida de hábitat, el uso de herbicidas que eliminan el algodoncillo y el cambio climático son amenazas graves para su supervivencia.
 En México, la Reserva de la Biosfera Mariposa Monarca protege sus hábitats de hibernación, y se han implementado programas de conservación en América del Norte. La participación ciudadana también es clave: plantar algodoncillo en jardines y evitar el uso de pesticidas puede marcar una gran diferencia. Gracias por el apoyo y hasta la proxima.
+# s_0417_anguila_electrica.mp4
+⚡🔥 El Cazador que Electrocuta a sus Presas ⚡🐟
+En las turbias aguas de Sudamérica, un cazador invisible acecha en la oscuridad. No necesita garras ni colmillos afilados, pues su arma es una de las más inusuales de la naturaleza: descargas eléctricas capaces de paralizar a sus presas en cuestión de milisegundos. Se trata de un ser misterioso que, aunque por su nombre parece pertenecer a un grupo bien conocido de animales, en realidad tiene una historia evolutiva muy diferente.
+La anguila eléctrica, cuyo nombre científico es Electrophorus electricus, es un pez de agua dulce de gran tamaño, que puede alcanzar los 2,5 metros de longitud y pesar hasta 20 kilogramos. Aunque se le llame anguila, en realidad no pertenece al grupo de las anguilas verdaderas, sino que es parte del orden Gymnotiformes.
+# s_0418_anguila_electrica.mp4
+⚡🔥 El Pez que Caza con Descargas ⚡🐟
+Su cuerpo alargado y fusiforme carece casi por completo de escamas y tiene una coloración parda o verdosa. Su cabeza es aplanada y ancha, con una gran boca que contiene una única fila de dientes cónicos en cada mandíbula. A lo largo de su cuerpo se encuentran tres órganos eléctricos especializados: el órgano principal y el de Hunter, que generan descargas de alta potencia para defensa y caza, y el órgano de Sachs, que produce descargas de bajo voltaje usadas para la electrolocalización.
+# s_0419_anguila_electrica.mp4
+⚡🔥 El Depredador Oculto del Amazonas ⚡🐟
+Este impresionante pez habita en las cuencas de los ríos Amazonas y Orinoco, en Sudamérica. Prefiere las aguas dulces con poca corriente, como pantanos, arroyos y llanuras inundables. Se le encuentra con mayor frecuencia en zonas con aguas lénticas, es decir, tranquilas y fangosas, donde acecha a sus presas y se esconde de posibles depredadores. Aunque prefiere aguas con baja conductividad, algunas especies de Electrophorus se han adaptado a distintos tipos de hábitats dentro de la selva amazónica.
+# s_0420_anguila_electrica.mp4
+⚡🔥 El Depredador que Ataca con 850 Voltios ⚡🐟
+La anguila eléctrica es un depredador carnívoro con una estrategia de caza única. Su dieta se compone principalmente de peces, aunque también puede incluir invertebrados acuáticos, aves y pequeños mamíferos. Para atrapar a sus presas, primero utiliza su órgano de Sachs para localizarlas a través de un campo eléctrico de bajo voltaje. Una vez identificadas, genera potentes descargas de hasta 850 voltios que paralizan a su víctima en cuestión de milisegundos, facilitando su captura y consumo.
+Las crías de la anguila eléctrica tienen una dieta más limitada, alimentándose de pequeños invertebrados, embriones y, en algunos casos, incluso de huevos de su propia especie.
+# s_0421_anguila_electrica.mp4
+⚡🔥 De Cría Transparente a Depredador Letal ⚡🐟
+La reproducción de la anguila eléctrica es peculiar. Durante la estación seca, los machos construyen un nido utilizando su propia saliva, donde las hembras depositan sus huevos. En un solo nido pueden eclosionar hasta 17 mil crías. Una vez que emergen, las larvas son transparentes y dependen de su entorno para obtener alimento. Conforme crecen, desarrollan sus órganos eléctricos, lo que les permite comenzar a cazar presas de mayor tamaño y valor nutricional.
+Aunque la anguila eléctrica es un formidable depredador, también enfrenta amenazas. Sus principales enemigos incluyen aves como garzas, cormoranes y águilas pescadoras, así como mamíferos acuáticos como los mapaches. Sin embargo, su capacidad de generar potentes descargas eléctricas la convierte en un objetivo difícil de capturar.
+# s_0422_anguila_electrica.mp4
+⚡🔥 El Pez que Caza con Electricidad y Ecolocación ⚡🐟
+El ser humano también representa un peligro para esta especie, ya que es capturada para el comercio de peces exóticos y, en algunas regiones, como fuente de alimento. Aunque no se encuentra en peligro de extinción, su población podría verse afectada por la destrucción de su hábitat y la explotación comercial.
+Además de su capacidad para generar electricidad, la anguila eléctrica ha sido objeto de numerosos estudios científicos debido a sus habilidades únicas. Por ejemplo, se ha descubierto que usa sus descargas eléctricas como una especie de "sónar", similar a la ecolocación de los murciélagos y delfines, lo que le permite detectar objetos y presas en su entorno.
+# s_0423_anguila_electrica.mp4
+⚡🔥 El Pez con 860 Voltios que Inspiró la Tecnología ⚡🐟
+Otro dato interesante es que, aunque se pensaba que solo existía una especie de anguila eléctrica, estudios recientes han revelado que en realidad hay tres especies distintas. Una de ellas, Electrophorus voltai, es el ser vivo con mayor potencia eléctrica registrada, capaz de generar descargas de hasta 860 voltios.
+Además, la anguila eléctrica ha inspirado el desarrollo de nuevas tecnologías en el campo de la bioingeniería, como el diseño de baterías basadas en la estructura de sus órganos eléctricos.
+La anguila eléctrica es un animal verdaderamente sorprendente, cuya capacidad para generar electricidad la convierte en una de las criaturas más impresionantes del reino animal. Su forma de cazar, comunicarse y defenderse demuestra lo ingeniosa que puede ser la naturaleza.
 # Emojis
 🦧🐵🐒🦍🦧🐶🐕🦮🐕‍🦺🐩🐺🦊🦝🐱🐈🐈‍⬛🦁🐯🐅🐆🐴🐎🦄🦓🦌🦬🐮
 🐂🐃🐄🐷🐖🐗🐽🐏🐑🐐🐪🐫🦙🦒🐘🦏🦛🐭🐁🐀🐹🐰🐇🐿️🦇🦔🐻🦥
