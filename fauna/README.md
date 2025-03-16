@@ -45,7 +45,7 @@
 | Caballo                                           |           |  WAIT | OK            |[🏇🌟 La Elegancia y Fuerza del Caballo 🐴](https://youtu.be/Wrh2OyZrXzw) |[info](http://www.caballopedia.com/)||
 | Caiman                                            | 1         |       |               |                                     |           |<img src="caiman/caiman_002_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Cabra                                             |           |       |               |                                     |           ||
-| Cachalote común                                   |           |       |               |                                     |           ||
+| Cachalote                                         | 1         |       |               |                                     |           |<img src="cachalote/Cachalote_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Caimán                                            |           |       |               |                                     |           ||                   
 | Calamar                                           |           | 1     |               |                                     |[info](http://www.calamarpedia.com/)||
 | Camaleón                                          |           |       |               |                                     |           ||
@@ -75,7 +75,7 @@
 | Cíclido                                           |           |       |               |                                     |           ||
 | Ciempiés                                          |           |       |               |                                     |           ||
 | Ciervo                                            |           |       |               |[🌿🦌 Entre Cuernos y Bosques: La Belleza Salvaje de los Ciervos 🦌🌿](https://youtu.be/6MR2odQQbeE)                                     |           ||
-| Cigüeña                                           |           |       |               |                                     |           ||
+| Cigüeña                                           | 1         |       |               |                                     |           |<img src="ciguena/Ciguena_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Cisne                                             | 1         |       | OK (SHORT)    |[🦢Elegancia y Feroz Defensor💪 de su Familia🐣](https://youtu.be/iaEjZ789Tjc) |           ||
 | Civeta africana                                   |           |       |               |                                     |           ||
 | Civeta de las palmeras común                      |           |       |               |                                     |           ||
@@ -115,7 +115,7 @@
 | Escorpión emperador                               |           |       |               |                                     |           ||
 | Espátula rosada                                   |           |       |               |                                     |           ||
 | Esponjas de mar                                   |           |       |               |                                     |           ||
-| Estrella de mar                                   |           |       |               |                                     |           ||
+| Estrella de mar                                   | 1         |       |               |                                     |           |<img src="estrella/Estrella_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Estornino                                         |           | WAIT  | OK            |[✨El Vuelo Sincrónico 🌌: Explorando el Mundo de los Estorninos 🐦](https://youtu.be/bf9hFIpF-4o) |           ||
 | Facóquero común                                   |           |       |               |                                     |[info](https://www.naturalista.uy/taxa/42122-Phacochoerus-africanus)|<img src="facoquero/facoquero_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Faetón                                            | 1         |       |               |                                     |           ||
