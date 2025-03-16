@@ -71,41 +71,41 @@
 # s_0036_hiena_manchada_short_009.mp4
 🐾 Gran depredador 🦴#animales #animals #faunasalvaje #hienas #faunasalvaje
 # s_0037_buey.mp4
-Tundra artica
+🐂 Tundra artica 🏔️ #naturaleza #curiosidades #fauna #animals #animales #faunasalvaje #buey
 # s_0038_buey.mp4
-Cola corta y oculta
+🐂 Cola corta y oculta 🏔️ #naturaleza #curiosidades #fauna #animals #animales #faunasalvaje #buey
 # s_0039_buey.mp4
-Abrigo de invierno
+🐂 Abrigo de invierno 🏔️ #naturaleza #curiosidades #fauna #animals #animales #faunasalvaje #buey
 # s_0040_buey.mp4
-Hembras pesadas
+🐂 Hembras pesadas 🏔️ #naturaleza #curiosidades #fauna #animals #animales #faunasalvaje #buey
 # s_0041_buey.mp4
-Notable protuberancia cornea
+🐂 Notable protuberancia cornea 🏔️ #naturaleza #curiosidades #fauna #animals #animales #faunasalvaje
 # s_0042_buey.mp4
-Compiten por la supremacia
+🐂 Compiten por la supremacia 🏔️ #naturaleza #curiosidades #fauna #animals #animales
 # s_0043_buey.mp4
-Machos solitarios
+🐂 Machos solitarios 🏔️ #naturaleza #curiosidades #fauna #animals #animales #faunasalvaje #buey
 # s_0044_buey.mp4
-Terneros de pie al nacer
+🐂 Terneros de pie al nacer 🏔️ #naturaleza #curiosidades #fauna #animals #animales #faunasalvaje
 # s_0045_buey.mp4
-Los terneros siguen a sus madres
+🐂 Los terneros siguen a sus madres 🏔️ #naturaleza #curiosidades #fauna #animals #animales
 # s_0046_buey.mp4
-Leche materna necesaria
+🐂 Leche materna necesaria 🏔️ #naturaleza #curiosidades #fauna #animals #animales #faunasalvaje #buey
 # s_0047_buey.mp4
-Climas duros
+🐂 Climas duros 🏔️ #naturaleza #curiosidades #fauna #animals #animales #faunasalvaje #buey
 # s_0048_buey.mp4
-Grupos de 10 a 20 animales
+🐂 Grupos de 10 a 20 animales 🏔️ #naturaleza #curiosidades #fauna #animals #animales #faunasalvaje
 # s_0049_buey.mp4
-Comunicar dominancia
+🐂 Comunicar dominancia 🏔️ #naturaleza #curiosidades #fauna #animals #animales #faunasalvaje #buey
 # s_0050_buey.mp4
-Derecho de apareamiento
+🐂 Derecho de apareamiento 🏔️ #naturaleza #curiosidades #fauna #animals #animales #faunasalvaje #buey
 # s_0051_buey.mp4
-Dependen de la leche materna
+🐂 Dependen de la leche materna 🏔️ #naturaleza #curiosidades #fauna #animals #animales #faunasalvaje
 # s_0052_buey.mp4
-En invierno modifican su dieta
+🐂 En invierno modifican su dieta🏔️ #naturaleza #curiosidades #fauna #animals #animales #faunasalvaje
 # s_0053_buey.mp4
-Se sobrecalientan facilmente
+🐂 Se sobrecalientan facilmente 🏔️ #naturaleza #curiosidades #fauna #animals #animales #faunasalvaje
 # s_0054_buey.mp4
-Especie vulnerable
+🐂 Especie vulnerable 🏔️ #naturaleza #curiosidades #fauna #animals #animales #faunasalvaje #buey
 # s_0127_iguana.mp4
     🦎Reptiles fascinantes🦎#animals #faunasalvaje #especies #naturaleza #iguana 
     Las iguanas son reptiles fascinantes que han capturado la atención de las personas durante siglos debido a su aspecto exótico y su comportamiento único. Son nativas de las regiones tropicales que se extienden desde el sur de México, pasando por Centroam�rica, hasta llegar a Sudam�rica y las islas del Caribe. Estos reptiles pertenecen al g�nero Iguana y fueron descritos por primera vez en 1768 por el naturalista austr�aco Josephus Nicolaus Laurenti. Desde entonces, han sido estudiadas por cient�ficos y admiradas por amantes de los animales en todo el mundo.
