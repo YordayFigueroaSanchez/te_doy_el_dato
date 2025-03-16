@@ -69,7 +69,8 @@ murciélago, murciélagos, animales nocturnos, mamíferos voladores, ecosistema,
 anguila eléctrica, anguilas eléctricas, Electrophorus electricus, pez eléctrico, descargas eléctricas, peces amazónicos, depredador acuático, río Amazonas, río Orinoco, peces carnívoros, electricidad en animales, electrolocalización, animales sorprendentes, biodiversidad acuática, animales del Amazonas, fauna sudamericana, depredadores del agua, peces exóticos, voltaje animal, ciencia y naturaleza, curiosidades animales, peces depredadores, defensa eléctrica, peces fascinantes, documentales de animales, vida salvaje, animales asombrosos
 
 # Url
-
+[⚡🔥 ¡Este pez genera 860 voltios! ¿Cómo lo hace? 🤯](https://youtu.be/gNh4uz7z7II)
+[⚡🔥 ¡Este pez genera 860 voltios! ¿Cómo lo hace? 🤯](https://odysee.com/anguila_electrica_video_720p:04bec49b27816b8d579b33c3e59bbad1f7fec833)
 
 # Tags para odyse
 animales,animals,fauna,anguila,nature
