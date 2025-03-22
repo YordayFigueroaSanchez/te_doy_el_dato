@@ -30,18 +30,19 @@ Basado en el contenido del documento proporcionado, genera 10 títulos cortos, l
 🦅 Fregata: ¡El pirata del cielo! ☠️
 🦌 Oryx, el antílope de los desiertos extremos! 🔥
 ## Result
-🦋 **¡El viajero más pequeño y resistente del mundo! 🌍✈️**  
-🔥 **¿Cómo sobrevive esta frágil mariposa a un viaje de 5000 km? 😲**  
-🧭 **Mariposa monarca: la increíble migración guiada por el sol 🌞**  
-☠️ **Este insecto es venenoso… ¡y usa su color para advertirlo! 🚨**  
-🏆 **El campeón de la migración: ¡Ni el viento ni el frío lo detienen! ❄️🦋**  
-🌿 **El secreto mortal de la mariposa monarca 🏵️☠️**  
-📍 **¡Regresan al mismo árbol sin haber estado ahí antes! 😮🦋**  
-💀 **¿Por qué relacionan a esta mariposa con el Día de Muertos? 🇲🇽🕯️**  
-🚀 **Este insecto puede volar miles de kilómetros sin GPS 😵**  
-🔬 **¡Científicos descubren el superpoder oculto de la mariposa monarca! 🦋⚡**  
+🐾 ¿El glotón es el depredador más feroz del norte? ❄️🔥  
+💀 ¡Este pequeño carnívoro desafía a osos y lobos! 🐺🐻  
+🦴 El glotón: ¡La bestia que tritura huesos con facilidad! 💪  
+🌍 ¿Por qué el glotón es el superviviente definitivo? 🏔️🥶  
+🏃‍♂️ ¡Este animal come el 15% de su peso en un día! 🍖😱  
+🕵️‍♂️ El glotón: El guerrero oculto de la tundra 🌨️🦾  
+🦡 ¡Más fuerte que parece! El glotón y su mordida letal ⚔️  
+🥶 El glotón: El depredador que domina la nieve ❄️🐾  
+🏹 ¿Cómo este pequeño cazador derrota a grandes presas? 🎯🦌  
+🔥 ¡El glotón es real y es más temible que Wolverine! 🐾⚡  
 ## Seleccionado
 🦋 Increíble migración guiada por el sol 🌞
+
 # Adjetivos
 ## Promnt
 Analiza el contenido del documento proporcionado y extrae tres adjetivos que mejor describan al animal del que trata la información. Los adjetivos deben destacar sus características más notables, como su comportamiento, habilidades, hábitat o aspecto físico. Prioriza términos llamativos y precisos que resuman su esencia de manera efectiva."
@@ -51,13 +52,13 @@ Misterioso 🦇
 Ágil ⚡
 Nocturno 🌙
 ## Result
-🌍 **Migratoria** – Recorre miles de kilómetros en una de las travesías más impresionantes del reino animal.  
-🛡️ **Venenosa** – Su dieta le permite almacenar toxinas que la protegen de los depredadores.  
-🎨 **Deslumbrante** – Sus vibrantes alas naranjas con patrones negros y blancos la hacen inconfundible.  
+1️⃣ **Feroz** 🦾 – Su agresividad y valentía le permiten enfrentarse a presas y depredadores más grandes.  
+2️⃣ **Resistente** ❄️ – Sobrevive en condiciones extremas gracias a su fortaleza y adaptabilidad.  
+3️⃣ **Voraz** 🍖 – Puede consumir hasta el 15% de su peso corporal en un solo día, aprovechando cada recurso disponible.  
 ## Adjetivos en limpio
-Migratoria
-Venenosa
-Deslumbrante
+Feroz
+Resistente
+Voraz
 
 # Tags para youtube
 ## Prompt
@@ -65,7 +66,7 @@ Analiza el contenido del documento proporcionado y genera una lista de etiquetas
 📌 Ejemplo de salida esperada (para un video sobre el murciélago):
 murciélago, murciélagos, animales nocturnos, mamíferos voladores, ecosistema, biodiversidad, cueva, insectívoro, noche, animales increíbles, wildlife
 ## Result
-mariposa monarca, mariposas monarca, Danaus plexippus, mariposa migratoria, migración de mariposas, mariposa venenosa, polinizadores, insectos migratorios, metamorfosis, crisálida, oruga, algodoncillo, mariposa naranja, insectos, biodiversidad, ecosistema, naturaleza, migración animal, animales sorprendentes, cambio climático, conservación, reserva de la biosfera, Día de Muertos, México, Canadá, Estados Unidos, vida silvestre, National Geographic, WWF, animales increíbles  
+glotón, glotones, carcayú, Gulo gulo, mustélidos, depredador, animales salvajes, fauna boreal, ecosistema, tundra, taiga, supervivencia animal, mamíferos carnívoros, naturaleza extrema, animales del frío, caza en la nieve, carroñero, depredador solitario, animales resistentes, fauna de Canadá, fauna de Rusia, lobos vs glotón, osos vs glotón, wolverine, animales increíbles, mundo animal, documentales de animales, curiosidades de animales, top depredadores, glotón atacando, animales feroces  
 
 # Url
 https://youtu.be/hKviXYCHZNQ
