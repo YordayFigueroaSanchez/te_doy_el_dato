@@ -38,5 +38,3 @@ A pesar de su aspecto robusto, es un excelente trepador y nadador, lo que le per
 ### Conclusión: El Espíritu del Bosque Boreal
 
 El glotón es un animal extraordinario, capaz de sobrevivir en condiciones extremas gracias a su fuerza, adaptabilidad y tenacidad. Aunque no es muy conocido, su papel en los ecosistemas boreales es fundamental, ya que ayuda a mantener el equilibrio natural al controlar poblaciones de presas y reciclar materia orgánica como carroñero.
-
-Si quieres conocer más sobre este impresionante depredador, no te pierdas nuestro próximo video, donde exploraremos imágenes y datos impactantes sobre el glotón en su hábitat natural. ¡Suscríbete y sigue descubriendo el asombroso mundo de la fauna salvaje!

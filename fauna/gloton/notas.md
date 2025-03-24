@@ -41,7 +41,7 @@ Basado en el contenido del documento proporcionado, genera 10 títulos cortos, l
 🏹 ¿Cómo este pequeño cazador derrota a grandes presas? 🎯🦌  
 🔥 ¡El glotón es real y es más temible que Wolverine! 🐾⚡  
 ## Seleccionado
-🦋 Increíble migración guiada por el sol 🌞
+🦡 El glotón: El guerrero oculto de la tundra ❄️🐾
 
 # Adjetivos
 ## Promnt
@@ -69,10 +69,10 @@ murciélago, murciélagos, animales nocturnos, mamíferos voladores, ecosistema,
 glotón, glotones, carcayú, Gulo gulo, mustélidos, depredador, animales salvajes, fauna boreal, ecosistema, tundra, taiga, supervivencia animal, mamíferos carnívoros, naturaleza extrema, animales del frío, caza en la nieve, carroñero, depredador solitario, animales resistentes, fauna de Canadá, fauna de Rusia, lobos vs glotón, osos vs glotón, wolverine, animales increíbles, mundo animal, documentales de animales, curiosidades de animales, top depredadores, glotón atacando, animales feroces  
 
 # Url
-https://youtu.be/hKviXYCHZNQ
-https://odysee.com/@yfsanchez:d/mariposa_monarca_video_720p:5
+https://youtu.be/jAcelyEHJVs
+https://odysee.com/gloton_video_720p:372a74112b941a929c72d51199d4bc74d84ee236
 
 # Tags para odyse
-animales,animals,fauna,mariposa,nature
+animales,animals,fauna,glotón,nature
 
 # Mejorar texto
