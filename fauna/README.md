@@ -148,7 +148,7 @@
 | Gavial                                            |           |       |               |                                     |           ||
 | Gecko                                             |           |       |               |                                     |           ||
 | Gecko diurno Madagascar                           | 1         |       |               |                                     |           ||
-| Glotón                                            |           |       |               |                                     |[info](https://www.naturalista.uy/taxa/41852-Gulo-gulo)|<img src="gloton/gloton_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| [Glotón](../fauna/gloton/README.md)|OK(1) | 6 | 23/03/2025    |[🦡 El glotón: El guerrero oculto de la tundra ❄️🐾](https://youtu.be/jAcelyEHJVs)|[info](https://www.naturalista.uy/taxa/41852-Gulo-gulo)|<img src="gloton/gloton_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Gorila de montaña                                 |           |  WAIT | OK            |[En las huellas del Gorila de Montaña](https://youtu.be/4RsMMwrr5bA) |           ||
 | Gorrión                                           | 1         |       |               |                                     |           ||
 | Grulla                                            | 1         |       | OK            |[🦩Elegancia y Resistencia en los Cielos🦩](https://youtu.be/w21R6wQSIho) |           ||
