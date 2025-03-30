@@ -18,6 +18,8 @@ Cuando menciones el nombre cientifico del animal hazlo formando parte de la orac
 El articulo debe tener unos 5 minutos de lectura.
 La session de datos curiosos se debe escribir en forma de parrafos
 Cuando tengas que usar unidades de medida enfocate que sean en kilometros por hora, metros. Como enfocado en la comunidad de habla hispana.
+## Result
+https://docs.google.com/document/d/18GucIBFtTYOJIpU2-xBR4DsmYiF90J4NvtCMTwRfRuw/edit?usp=sharing
 
 # Titles
 ## Promnt
@@ -30,18 +32,18 @@ Basado en el contenido del documento proporcionado, genera 10 títulos cortos, l
 🦅 Fregata: ¡El pirata del cielo! ☠️
 🦌 Oryx, el antílope de los desiertos extremos! 🔥
 ## Result
-🐾 ¿El glotón es el depredador más feroz del norte? ❄️🔥  
-💀 ¡Este pequeño carnívoro desafía a osos y lobos! 🐺🐻  
-🦴 El glotón: ¡La bestia que tritura huesos con facilidad! 💪  
-🌍 ¿Por qué el glotón es el superviviente definitivo? 🏔️🥶  
-🏃‍♂️ ¡Este animal come el 15% de su peso en un día! 🍖😱  
-🕵️‍♂️ El glotón: El guerrero oculto de la tundra 🌨️🦾  
-🦡 ¡Más fuerte que parece! El glotón y su mordida letal ⚔️  
-🥶 El glotón: El depredador que domina la nieve ❄️🐾  
-🏹 ¿Cómo este pequeño cazador derrota a grandes presas? 🎯🦌  
-🔥 ¡El glotón es real y es más temible que Wolverine! 🐾⚡  
+⭐Estrellas de Mar: ¡El Secreto de sus 5 Brazos (o Más!) 🤯
+💪¿Cómo se Defiende una Estrella de Mar? ¡Te Sorprenderá! 🛡️
+😲 Estrellas de Mar: ¡Regeneración NUNCA antes vista! 💥
+🍽️ El Festín de una Estrella de Mar: ¡Su Estómago Sale de Paseo! 🤯
+🌊 Hogar, Dulce Hogar: Descubre dónde viven las Estrellas de Mar 🏠
+👶 El Ciclo de Vida de una Estrella de Mar: ¡De Larva a Estrella! ✨
+👀 ¿Pueden las Estrellas de Mar VER? ¡La Verdad Revelada! 🌟
+🐙 Estrella de Mar VS Ofiura VS Clavelina: ¡No las Confundas! 🔍
+🧪 Secretos Asombrosos de las Estrellas de Mar ¡Que Nadie Te Contó! 🤫
+🌟 Estrellas de Mar: ¡Las REINAS del Océano! 👑
 ## Seleccionado
-🦡 El glotón: El guerrero oculto de la tundra ❄️🐾
+😲 Estrellas de Mar: ¡Regeneración NUNCA antes vista! 💥
 
 # Adjetivos
 ## Promnt
@@ -52,13 +54,13 @@ Misterioso 🦇
 Ágil ⚡
 Nocturno 🌙
 ## Result
-1️⃣ **Feroz** 🦾 – Su agresividad y valentía le permiten enfrentarse a presas y depredadores más grandes.  
-2️⃣ **Resistente** ❄️ – Sobrevive en condiciones extremas gracias a su fortaleza y adaptabilidad.  
-3️⃣ **Voraz** 🍖 – Puede consumir hasta el 15% de su peso corporal en un solo día, aprovechando cada recurso disponible.  
+Radialmente simétricas: Este adjetivo destaca la peculiar organización de su cuerpo.
+Regenerativas: Describe su asombrosa capacidad de recuperar partes perdidas.
+Depredadoras: Resalta su rol activo en la alimentación marina.
 ## Adjetivos en limpio
-Feroz
-Resistente
-Voraz
+Simétricas
+Regenerativas
+Depredadoras
 
 # Tags para youtube
 ## Prompt
@@ -66,13 +68,13 @@ Analiza el contenido del documento proporcionado y genera una lista de etiquetas
 📌 Ejemplo de salida esperada (para un video sobre el murciélago):
 murciélago, murciélagos, animales nocturnos, mamíferos voladores, ecosistema, biodiversidad, cueva, insectívoro, noche, animales increíbles, wildlife
 ## Result
-glotón, glotones, carcayú, Gulo gulo, mustélidos, depredador, animales salvajes, fauna boreal, ecosistema, tundra, taiga, supervivencia animal, mamíferos carnívoros, naturaleza extrema, animales del frío, caza en la nieve, carroñero, depredador solitario, animales resistentes, fauna de Canadá, fauna de Rusia, lobos vs glotón, osos vs glotón, wolverine, animales increíbles, mundo animal, documentales de animales, curiosidades de animales, top depredadores, glotón atacando, animales feroces  
+estrella de mar, estrellas de mar, Asteroidea, equinodermos, animales marinos, fauna marina, biología marina, anatomía animal, regeneración animal, alimentación animal, depredadores marinos, reproducción animal, vida oceánica, curiosidades animales, naturaleza, vida silvestre, reino animal, invertebrados, pies tubulares, osículos, simetría radial, pentarradial, Solasteridae, Labidiaster annulatus, Antártida, arrecifes de coral, océano profundo
 
 # Url
 https://youtu.be/jAcelyEHJVs
 https://odysee.com/gloton_video_720p:372a74112b941a929c72d51199d4bc74d84ee236
 
 # Tags para odyse
-animales,animals,fauna,glotón,nature
+animales,animals,fauna,estrella,nature
 
 # Mejorar texto
