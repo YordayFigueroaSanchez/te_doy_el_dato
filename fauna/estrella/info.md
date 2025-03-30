@@ -1,0 +1,6 @@
+[Estrellas de Mar](https://www.naturalista.uy/taxa/47668-Asteroidea)
+[¿Conocéis las estrellas de mar?](https://anellides.com/es/blog/conoceis-las-estrellas-de-mar/)
+[Estrellas de mar](https://denverzoo.org/es/animals/sea-stars/)
+[Las estrellas de mar, criaturas enigmáticas del océano](https://unamglobal.unam.mx/global_revista/las-estrellas-de-mar-criaturas-enigmaticas-del-oceano/)
+[Estrellas de mar (Asteroidea)](https://virtue.gmbl.se/es/artgrupper/salt-water/estrellas-de-mar-asteroidea)
+[Estrella de mar](https://contenidoseducativosdigitales.edu.uy/contenido/estrella-de-mar/)
