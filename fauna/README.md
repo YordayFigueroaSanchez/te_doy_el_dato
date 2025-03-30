@@ -22,7 +22,7 @@
 | Avestruz                                          |           |  OK   | OK            |[No, no vuela](https://youtu.be/3HRBk2X-pvQ)                                     |           ||
 | Avispa                                            |           |       |               |                                     |[info](http://www.avispapedia.com/)||
 | Avispón asiático gigante                          |           |       |               |                                     |           ||
-| Avoceta                                           |           |       |               |                                     |           ||
+| Avoceta                                           | 1         |       |               |                                     |           |<img src="avoceta/avoceta_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Babosa de mar                                     |           |       |               |                                     |           ||
 | Babuino                                           | 1         |       |               |                                     |           ||
 | Ballena azul                                      |           |  OK   | OK            |[Grande no, el más grande](https://youtu.be/I7tZo5470ks) |           ||
@@ -44,7 +44,7 @@
 | Caballito de mar                                  | 1         |   8   |09/02/2025|[🦐 ¡El pez que desafía la naturaleza! ¿Sabías que el macho da a luz? 🤯](https://youtu.be/lC2IIldc4qM)||<img src="caballito_de_mar/caballito_de_mar_001_square.png" alt="Caballito de mar" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Caballo                                           |           |  WAIT | OK            |[🏇🌟 La Elegancia y Fuerza del Caballo 🐴](https://youtu.be/Wrh2OyZrXzw) |[info](http://www.caballopedia.com/)||
 | Caiman                                            | 1         |       |               |                                     |           |<img src="caiman/caiman_002_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
-| Cabra                                             |           |       |               |                                     |           ||
+| Cabra                                             | 1         |       |               |                                     |           |<img src="cabra/cabra_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Cachalote                                         | 1         |       |               |                                     |           |<img src="cachalote/Cachalote_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Caimán                                            |           |       |               |                                     |           ||                   
 | Calamar                                           |           | 1     |               |                                     |[info](http://www.calamarpedia.com/)||
@@ -77,7 +77,7 @@
 | Ciervo                                            |           |       |               |[🌿🦌 Entre Cuernos y Bosques: La Belleza Salvaje de los Ciervos 🦌🌿](https://youtu.be/6MR2odQQbeE)                                     |           ||
 | Cigüeña                                           | 1         |       |               |                                     |           |<img src="ciguena/Ciguena_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Cisne                                             | 1         |       | OK (SHORT)    |[🦢Elegancia y Feroz Defensor💪 de su Familia🐣](https://youtu.be/iaEjZ789Tjc) |           ||
-| Civeta africana                                   |           |       |               |                                     |           ||
+| Civeta africana                                   | 1         |       |               |                                     |           |<img src="civeta_africana/civeta_africana_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Civeta de las palmeras común                      |           |       |               |                                     |           ||
 | Civeta malaya                                     |           |       |               |                                     |           ||
 | Coatí de cola anillada                            |           |       |               |                                     |           ||
