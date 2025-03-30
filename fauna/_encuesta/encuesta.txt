@@ -1,3 +1,22 @@
+20250329
+    Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Civeta, Cabra y Avoceta, los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
+    ?Que tema prefieres para el siguiente dato?
+    Cisne: elegante, majestuoso, gracil  
+    Coyote: astuto, adaptable, travieso  
+    Ibis: colorido, sociable, curioso
+    Result
+        ¿Qué tema prefieres para el siguiente dato?  
+        Civeta: sigilosa, nocturna, ágil  
+        Cabra: resistente, curiosa, intrépida  
+        Avoceta: esbelta, elegante, ágil
+    Adaptado
+        ¿Qué tema prefieres para el siguiente dato?
+        Civeta: sigilosa, nocturna, ágil
+        Cabra:resistente, curiosa, intrépida
+        Avoceta: esbelta, elegante, ágil
+    nombre
+        Civeta-Cabra-Avoceta
+    publicada en facebook y twitter, no permitio en youtube
 20250316
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Cachalote , Cigüeña y Estrella de mar, los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
     ?Que tema prefieres para el siguiente dato?
