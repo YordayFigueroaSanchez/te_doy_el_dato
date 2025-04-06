@@ -1,6 +1,6 @@
 Prepárense para sumergirse en el misterioso mundo de una criatura fascinante. Imaginen un ser con una asombrosa simetría, capaz de regenerar partes perdidas de su cuerpo y con una forma que evoca las noches estrelladas bajo el océano. ¿Intrigados? Acompáñenme a descubrir todos los secretos de este increíble habitante de las profundidades.
 
-![](Estrella_001_square.png)
+![](estrella_portada_002.png)
 
 # Anatomía Asombrosa de las Estrellas de Mar
 Las estrellas de mar, conocidas científicamente como Asteroidea, despliegan una organización corporal radialmente simétrica, generalmente con cinco brazos que irradian desde un disco central en su etapa adulta. Esta simetría pentarradial es una de las características más distintivas de estos equinodermos. Sin embargo, se cree que sus ancestros evolutivos tenían simetría bilateral, y de hecho, las estrellas de mar, al igual que otros equinodermos, solo exhiben esta simetría bilateral en sus formas larvales. La naturaleza, en su infinita sabiduría, nos muestra que siempre hay excepciones a la regla. Varios grupos de asteroideos, como la familia Solasteridae, se apartan de la norma al poseer entre 10 y 15 brazos. Pero la verdadera campeona en diversidad de extremidades es la Labidiaster annulatus, una especie antártica que puede llegar a tener la asombrosa cantidad de ¡hasta 50 brazos! Incluso dentro de las especies de cinco brazos, no es raro encontrar individuos con seis o más extremidades, una peculiaridad derivada de anomalías en su desarrollo.
