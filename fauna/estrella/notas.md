@@ -71,8 +71,8 @@ murciélago, murciélagos, animales nocturnos, mamíferos voladores, ecosistema,
 estrella de mar, estrellas de mar, Asteroidea, equinodermos, animales marinos, fauna marina, biología marina, anatomía animal, regeneración animal, alimentación animal, depredadores marinos, reproducción animal, vida oceánica, curiosidades animales, naturaleza, vida silvestre, reino animal, invertebrados, pies tubulares, osículos, simetría radial, pentarradial, Solasteridae, Labidiaster annulatus, Antártida, arrecifes de coral, océano profundo
 
 # Url
-https://youtu.be/jAcelyEHJVs
-https://odysee.com/gloton_video_720p:372a74112b941a929c72d51199d4bc74d84ee236
+[😲 Estrellas de Mar: ¡Regeneración NUNCA antes vista! 💥](https://youtu.be/VYc_hNI8FE0)
+[😲 Estrellas de Mar: ¡Regeneración NUNCA antes vista! 💥](https://odysee.com/estrella_video_720p:8a19c6f7d224e34dfcf07b0a37f3ea0568c87a91)
 
 # Tags para odyse
 animales,animals,fauna,estrella,nature

@@ -115,7 +115,7 @@
 | Escorpión emperador                               |           |       |               |                                     |           ||
 | Espátula rosada                                   |           |       |               |                                     |           ||
 | Esponjas de mar                                   |           |       |               |                                     |           ||
-| Estrella de mar                                   | 1         |       |               |                                     |           |<img src="estrella/Estrella_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| Estrella de mar                                   | 1 (OK)    |pending|06/04/2025|[😲 Estrellas de Mar: ¡Regeneración NUNCA antes vista! 💥](https://youtu.be/VYc_hNI8FE0)|           |<img src="estrella/Estrella_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Estornino                                         |           | WAIT  | OK            |[✨El Vuelo Sincrónico 🌌: Explorando el Mundo de los Estorninos 🐦](https://youtu.be/bf9hFIpF-4o) |           ||
 | Facóquero común                                   |           |       |               |                                     |[info](https://www.naturalista.uy/taxa/42122-Phacochoerus-africanus)|<img src="facoquero/facoquero_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Faetón                                            | 1         |       |               |                                     |           ||
