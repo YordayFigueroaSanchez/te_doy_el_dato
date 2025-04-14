@@ -982,10 +982,9 @@ El glotón (Gulo gulo), también conocido como carcayú, es un mamífero de la f
 🦡 El glotón: Blindado por la naturaleza y listo para el combate 🏔️🔥
 Este animal posee una piel excepcionalmente resistente que le ayuda a evitar heridas graves en combates con otros depredadores. Además, sus mandíbulas son increíblemente fuertes, lo que le permite triturar huesos con facilidad y aprovechar cada parte de sus presas. Sus garras afiladas no solo le sirven para cazar, sino también para trepar árboles y excavar madrigueras en la nieve.
 El glotón habita en las vastas extensiones de la tundra y la taiga boreal de Europa, Asia y América del Norte. Sus poblaciones más grandes se encuentran en Canadá, Alaska, Escandinavia y Rusia. Prefiere territorios boscosos y montañosos con abundante nieve, ya que esta le ofrece refugio y facilita su estilo de caza. En algunas regiones, su número ha disminuido debido a la fragmentación del hábitat y la caza, lo que ha llevado a que se le considere una especie en riesgo en ciertas áreas.
-# s_0426_gloton.mp4
-🦡 El glotón: Un comedor incansable y un cazador astuto 🏔️🔥
-El glotón es un depredador versátil y carroñero. Su dieta varía según la estación del año y la disponibilidad de alimento. En verano, se alimenta de pequeños mamíferos, aves, insectos, huevos y bayas. En invierno, cuando la comida escasea, se convierte en un formidable cazador de ungulados como renos, alces y ciervos, a los que ataca por sorpresa. También roba presas de otros depredadores como zorros y lobos, y no duda en aprovechar cualquier carroña que encuentre en su camino.
-Su increíble fuerza le permite mover grandes rocas y troncos para acceder a su comida, y es capaz de consumir hasta el 15% de su peso corporal en un solo día. Gracias a su eficiente metabolismo, puede sobrevivir largos períodos sin alimentarse, almacenando energía en su gruesa capa de grasa.
+
+# s_0426_gloton.mp4 (eliminado por bloqueado)
+
 # s_0427_gloton.mp4
 🦡 Criados en la nieve: El duro comienzo de un glotón 🏔️🔥
 El glotón es un animal solitario y territorial, excepto durante la época de apareamiento, que ocurre entre junio y agosto. Las hembras dan a luz entre uno y cinco cachorros después de una gestación de aproximadamente 30 a 60 días. Las crías nacen ciegas, sordas y sin pelaje, por lo que dependen completamente de su madre durante los primeros meses de vida.
