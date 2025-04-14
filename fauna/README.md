@@ -27,7 +27,7 @@
 | Babuino                                           | 1         |       |               |                                     |           ||
 | Ballena azul                                      |           |  OK   | OK            |[Grande no, el más grande](https://youtu.be/I7tZo5470ks) |           ||
 | Barbo                                             |           |       |               |                                     |           ||
-| Barracuda                                         |           |       |               |                                     |           ||
+| Barracuda                                         | 1         |       |               |                                     |           |<img src="barracuda/barracuda_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Bigotudo(Panurus biarmicus)                       |           |       |               |                                     |           ||
 | Bisonte                                           |           | WAIT  | OK            |[Imponente, peludo y salvaje](https://youtu.be/CR0eYiFuvLo) |           ||
 | Boa de Duméril                                    |           |       |               |                                     |           ||
@@ -66,7 +66,7 @@
 | Cebra                                             |           |       |               |[🦓✨ Descubre los Secretos de las Cebras: ¡Más que Rayas!](https://youtu.be/YK9GXfO3oQc)| ||
 | Cebú                                              |           |       |               |                                     |           ||
 | Centzontle Norteño(MimusPolyglottos)              |           |       |               |                                     |           ||
-| Cerdo                                             |           |       |               |                                     |           ||
+| Cerdo                                             | 1         |       |               |                                     |           |<img src="cerdo/cerdo_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Cerdo hormiguero                                  |           |       |               |                                     |           ||
 | Cetia japonés                                     |           |       |               |                                     |           ||
 | Chacal                                            | 1         |       |               |                                     |           ||
@@ -198,7 +198,7 @@
 | Mandril                                           |           |       |               |                                     |           ||
 | Mangosta                                          |           |       |               |                                     |           ||
 | Mantarraya                                        | 1         |  7    | 13/01/2025    |[𓆰𓆪𓆰𓆪¿Quiénes son los voladores secretos del océano?🌊](https://youtu.be/rW7UUFYgxdA)|[info](http://www.mantarayapedia.com/)||
-| Mapache                                           |           |       |               | |           ||
+| Mapache                                           | 1         |       |               | |           |<img src="mapache/mapache_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Mariposa arlequin                                 |           |       |               |                                     |           ||
 | Mariposa monarca                                  | 1-OK      |   5   | 09/03/2025    |[🦋 Increíble migración guiada por el sol 🌞](https://youtu.be/hKviXYCHZNQ)|           |<img src="mariposa_monarca/mariposa_monarca_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Mariposa genero                                   | 1         |       | OK (SHORT)    |[🦋🌼Belleza Alada y Clave de los Ecosistemas🌼🦋](https://youtu.be/dllSt01c_OU) |[info](https://concepto.de/mariposas/)||

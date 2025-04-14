@@ -1,3 +1,21 @@
+20250413
+    Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Cerdo, Mapache y Barracuda, los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
+    ?Que tema prefieres para el siguiente dato?
+    Cisne: elegante, majestuoso, gracil  
+    Coyote: astuto, adaptable, travieso  
+    Ibis: colorido, sociable, curioso
+    Result
+        **¿Qué animal prefieres para el siguiente dato?**  
+        Cerdo: inteligente, sociable, glotón  
+        Mapache: curioso, ágil, ingenioso  
+        Barracuda: veloz, agresiva, sigilosa  
+    Adaptado
+        ¿Qué tema prefieres para el siguiente dato?
+        Cerdo: inteligente, sociable, glotón
+        Mapache: curioso, ágil, ingenioso
+        Barracuda: veloz, agresiva, sigilosa
+    nombre
+        Cerdo-Mapache-Barracuda
 20250329
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Civeta, Cabra y Avoceta, los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
     ?Que tema prefieres para el siguiente dato?
