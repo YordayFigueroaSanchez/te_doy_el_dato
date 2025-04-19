@@ -1,5 +1,7 @@
 **La maestra del equilibrio que desafía la gravedad**
 
+![](cabra_portada_001.png)
+
 En los escarpados peñascos donde ningún otro animal se atreve a pisar, existe un ser increíblemente ágil, que desafía la lógica al caminar con elegancia sobre las paredes verticales de piedra. Su andar seguro y su carácter tenaz le han permitido convivir con el ser humano desde tiempos prehistóricos, convirtiéndose en un símbolo de adaptación, supervivencia y utilidad. Pero este admirable animal no solo es una pieza clave en la historia rural, sino también un verdadero prodigio de la naturaleza. Hoy te invito a conocer a la **cabra**, un mamífero tan versátil como sorprendente.
 
 ---

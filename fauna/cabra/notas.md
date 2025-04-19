@@ -19,7 +19,7 @@ El articulo debe tener unos 5 minutos de lectura.
 La session de datos curiosos se debe escribir en forma de parrafos
 Cuando tengas que usar unidades de medida enfocate que sean en kilometros por hora, metros. Como enfocado en la comunidad de habla hispana.
 ## Result
-https://docs.google.com/document/d/18GucIBFtTYOJIpU2-xBR4DsmYiF90J4NvtCMTwRfRuw/edit?usp=sharing
+[guion](guion.md)
 
 # Titles
 ## Promnt
@@ -32,18 +32,18 @@ Basado en el contenido del documento proporcionado, genera 10 títulos cortos, l
 🦅 Fregata: ¡El pirata del cielo! ☠️
 🦌 Oryx, el antílope de los desiertos extremos! 🔥
 ## Result
-⭐Estrellas de Mar: ¡El Secreto de sus 5 Brazos (o Más!) 🤯
-💪¿Cómo se Defiende una Estrella de Mar? ¡Te Sorprenderá! 🛡️
-😲 Estrellas de Mar: ¡Regeneración NUNCA antes vista! 💥
-🍽️ El Festín de una Estrella de Mar: ¡Su Estómago Sale de Paseo! 🤯
-🌊 Hogar, Dulce Hogar: Descubre dónde viven las Estrellas de Mar 🏠
-👶 El Ciclo de Vida de una Estrella de Mar: ¡De Larva a Estrella! ✨
-👀 ¿Pueden las Estrellas de Mar VER? ¡La Verdad Revelada! 🌟
-🐙 Estrella de Mar VS Ofiura VS Clavelina: ¡No las Confundas! 🔍
-🧪 Secretos Asombrosos de las Estrellas de Mar ¡Que Nadie Te Contó! 🤫
-🌟 Estrellas de Mar: ¡Las REINAS del Océano! 👑
+🐐 ¿Cómo sube por paredes casi verticales? ¡Descúbrelo! 🧗‍♂️  
+🦴 ¡La cabra tiene súper pezuñas antideslizantes! 😲  
+🧠 ¿Sabías que la cabra es más lista de lo que parece? 🤓  
+🏔️ Cabra montés: la reina de las alturas extremas 👑  
+🐐 ¿Qué tiene la leche de cabra que la hace tan especial? 🧀  
+👶 ¿Cómo crían a sus cabritos? ¡Conoce a la madre experta! 🍼  
+🌍 La cabra: ¡un animal que conquista el mundo! 🌎  
+🥷 ¿Cómo se defiende sin luchar? ¡Te sorprenderá! ⚔️  
+😯 ¡Este animal fue domesticado hace más de 10.000 años! ⏳  
+💡 ¿Sabías que sus cuernos revelan su edad? 🌀  
 ## Seleccionado
-😲 Estrellas de Mar: ¡Regeneración NUNCA antes vista! 💥
+
 
 # Adjetivos
 ## Promnt
@@ -54,13 +54,13 @@ Misterioso 🦇
 Ágil ⚡
 Nocturno 🌙
 ## Result
-Radialmente simétricas: Este adjetivo destaca la peculiar organización de su cuerpo.
-Regenerativas: Describe su asombrosa capacidad de recuperar partes perdidas.
-Depredadoras: Resalta su rol activo en la alimentación marina.
+**Ágil** 🧗‍♀️  
+**Resistente** 💪  
+**Versátil** 🌍
 ## Adjetivos en limpio
-Simétricas
-Regenerativas
-Depredadoras
+Ágil
+Resistente
+Versátil
 
 # Tags para youtube
 ## Prompt
@@ -68,13 +68,11 @@ Analiza el contenido del documento proporcionado y genera una lista de etiquetas
 📌 Ejemplo de salida esperada (para un video sobre el murciélago):
 murciélago, murciélagos, animales nocturnos, mamíferos voladores, ecosistema, biodiversidad, cueva, insectívoro, noche, animales increíbles, wildlife
 ## Result
-estrella de mar, estrellas de mar, Asteroidea, equinodermos, animales marinos, fauna marina, biología marina, anatomía animal, regeneración animal, alimentación animal, depredadores marinos, reproducción animal, vida oceánica, curiosidades animales, naturaleza, vida silvestre, reino animal, invertebrados, pies tubulares, osículos, simetría radial, pentarradial, Solasteridae, Labidiaster annulatus, Antártida, arrecifes de coral, océano profundo
+cabra, cabras, cabra montés, cabras montesas, Capra aegagrus hircus, Capra pyrenaica, animales de montaña, animales domésticos, ganado caprino, mamífero, mamíferos rumiantes, animales resistentes, animales ágiles, animales versátiles, hábitat montañoso, leche de cabra, cuernos de cabra, cría de cabras, cabritos, animales herbívoros, reproducción animal, animales sorprendentes, naturaleza salvaje, vida rural, animales increíbles, fauna del mundo, adaptación animal, comportamiento animal, biodiversidad, escaladores naturales, supervivencia animal, animales del mundo, wildlife, mountain goat
 
 # Url
-[😲 Estrellas de Mar: ¡Regeneración NUNCA antes vista! 💥](https://youtu.be/VYc_hNI8FE0)
-[😲 Estrellas de Mar: ¡Regeneración NUNCA antes vista! 💥](https://odysee.com/estrella_video_720p:8a19c6f7d224e34dfcf07b0a37f3ea0568c87a91)
 
 # Tags para odyse
-animales,animals,fauna,estrella,nature
+animales,animals,fauna,cabra,nature
 
 # Mejorar texto
