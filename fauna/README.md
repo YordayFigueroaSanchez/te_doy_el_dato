@@ -66,7 +66,7 @@
 | Cebra                                             |           |       |               |[🦓✨ Descubre los Secretos de las Cebras: ¡Más que Rayas!](https://youtu.be/YK9GXfO3oQc)| ||
 | Cebú                                              |           |       |               |                                     |           ||
 | Centzontle Norteño(MimusPolyglottos)              |           |       |               |                                     |           ||
-| Cerdo                                             | 1         |       |               |                                     |           |<img src="cerdo/cerdo_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| Cerdo                                             | 1         |       |SELECCIONADO|                                     |           |<img src="cerdo/cerdo_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Cerdo hormiguero                                  |           |       |               |                                     |           ||
 | Cetia japonés                                     |           |       |               |                                     |           ||
 | Chacal                                            | 1         |       |               |                                     |           ||
@@ -89,7 +89,7 @@
 | Colibri                                           |           |       |               |[🌺Magia en Miniatura🐦](https://youtu.be/1k5i5PG5Z_Q)|           ||
 |                                                   |           |       |               |[version 1](https://youtu.be/THKRiTspxp4)|           ||
 | Comadreja                                         | 1         |       |               |                                     |           ||
-| Conejo                                            |           |       |               |                                     |           ||
+| Conejo                                            |           |       |               |                                     |           |<img src="conejo/conejo_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Coral                                             |           |       |               |                                     |           ||
 | Coyote                                            | 1         |       |               |                                     |           ||
 | Cucaracha                                         |           |       |               |                                     |           ||
@@ -119,7 +119,7 @@
 | Estornino                                         |           | WAIT  | OK            |[✨El Vuelo Sincrónico 🌌: Explorando el Mundo de los Estorninos 🐦](https://youtu.be/bf9hFIpF-4o) |           ||
 | Facóquero común                                   |           |       |               |                                     |[info](https://www.naturalista.uy/taxa/42122-Phacochoerus-africanus)|<img src="facoquero/facoquero_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Faetón                                            | 1         |       |               |                                     |           ||
-| Faisán                                            | 2         |       |               |                                     |[info](https://www.naturalista.uy/taxa/981-Phasianus-colchicus)||
+| Faisán                                            | 2         |       |               |                                     |[info](https://www.naturalista.uy/taxa/981-Phasianus-colchicus)|<img src="faisan/faisan_003_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Flamenco                                          | 1         |       |               |                                     |[info](http://www.flamencopedia.com/)||
 | Foca                                              |           |       |               |                                     |[info](http://www.focapedia.com/)||
 | Foca leopardo                                     |           | WAIT  | OK            |[🗺️🔍 Explorando el Reino Helado🌬️ Encuentro con la Foca Leopardo](https://youtu.be/Asd3inTh4RM) |  ||
@@ -181,7 +181,7 @@
 | Lagarto caimán del norte                          |           |       |               |                                     |           ||
 | Langosta                                          |           |       |               |                                     |           ||
 | Lechuza común                                     |           |       |               |                                     |           ||
-| Lemur catta                                       |           |       |               |[📚 Lemur Catta👑Curiosidades y Hábitat🌿](https://youtu.be/LzTFS_aL9Dc)|||
+| Lemur catta                                       |           |       |               |[📚 Lemur Catta👑Curiosidades y Hábitat🌿](https://youtu.be/LzTFS_aL9Dc)||<img src="lechuza/lechuza_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Leon                                              |           |       | OK            |[Es el Rey ???](https://youtu.be/nDimojn4bH8) |           ||
 | León marino                                       |           |       |               |                                     |           ||
 | Leopardo                                          |           |       | OK            |[Un felino en las alturas](https://youtu.be/TyYOUk9MA5k) |           ||
