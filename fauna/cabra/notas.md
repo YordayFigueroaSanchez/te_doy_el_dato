@@ -43,7 +43,7 @@ Basado en el contenido del documento proporcionado, genera 10 títulos cortos, l
 😯 ¡Este animal fue domesticado hace más de 10.000 años! ⏳  
 💡 ¿Sabías que sus cuernos revelan su edad? 🌀  
 ## Seleccionado
-
+🐐 ¿Cómo sube por paredes casi verticales? ¡Descúbrelo!😲
 
 # Adjetivos
 ## Promnt
@@ -71,6 +71,8 @@ murciélago, murciélagos, animales nocturnos, mamíferos voladores, ecosistema,
 cabra, cabras, cabra montés, cabras montesas, Capra aegagrus hircus, Capra pyrenaica, animales de montaña, animales domésticos, ganado caprino, mamífero, mamíferos rumiantes, animales resistentes, animales ágiles, animales versátiles, hábitat montañoso, leche de cabra, cuernos de cabra, cría de cabras, cabritos, animales herbívoros, reproducción animal, animales sorprendentes, naturaleza salvaje, vida rural, animales increíbles, fauna del mundo, adaptación animal, comportamiento animal, biodiversidad, escaladores naturales, supervivencia animal, animales del mundo, wildlife, mountain goat
 
 # Url
+[🐐 ¿Cómo sube por paredes casi verticales? ¡Descúbrelo!😲](https://youtu.be/4InC5ReOi9M)
+[🐐 ¿Cómo sube por paredes casi verticales? ¡Descúbrelo!😲](https://odysee.com/cabra_video_720p:1743f03e48d0496e37d9628035d2a4b28f241537)
 
 # Tags para odyse
 animales,animals,fauna,cabra,nature
