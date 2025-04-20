@@ -44,7 +44,7 @@
 | Caballito de mar                                  | 1         |   8   |09/02/2025|[🦐 ¡El pez que desafía la naturaleza! ¿Sabías que el macho da a luz? 🤯](https://youtu.be/lC2IIldc4qM)||<img src="caballito_de_mar/caballito_de_mar_001_square.png" alt="Caballito de mar" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Caballo                                           |           |  WAIT | OK            |[🏇🌟 La Elegancia y Fuerza del Caballo 🐴](https://youtu.be/Wrh2OyZrXzw) |[info](http://www.caballopedia.com/)||
 | Caiman                                            | 1         |       |               |                                     |           |<img src="caiman/caiman_002_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
-| Cabra                                             |1 - OK|7|20/04/2025|[🐐 ¿Cómo sube por paredes casi verticales? ¡Descúbrelo!😲](https://youtu.be/4InC5ReOi9M)| |<img src="cabra/cabra_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| [Cabra](cabra/guion.md)                                             |1 - OK|7|20/04/2025|[🐐 ¿Cómo sube por paredes casi verticales? ¡Descúbrelo!😲](https://youtu.be/4InC5ReOi9M)| |<img src="cabra/cabra_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Cachalote                                         | 1         |       |               |                                     |           |<img src="cachalote/Cachalote_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Caimán                                            |           |       |               |                                     |           ||                   
 | Calamar                                           |           | 1     |               |                                     |[info](http://www.calamarpedia.com/)||
@@ -180,8 +180,8 @@
 | Lagarto                                           |           |       |               |                                     |           ||
 | Lagarto caimán del norte                          |           |       |               |                                     |           ||
 | Langosta                                          |           |       |               |                                     |           ||
-| Lechuza común                                     |           |       |               |                                     |           ||
-| Lemur catta                                       |           |       |               |[📚 Lemur Catta👑Curiosidades y Hábitat🌿](https://youtu.be/LzTFS_aL9Dc)||<img src="lechuza/lechuza_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| Lechuza común                                     |           |       |               |                                     |           |<img src="lechuza/lechuza_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| Lemur catta                                       |           |       |               |[📚 Lemur Catta👑Curiosidades y Hábitat🌿](https://youtu.be/LzTFS_aL9Dc)|||
 | Leon                                              |           |       | OK            |[Es el Rey ???](https://youtu.be/nDimojn4bH8) |           ||
 | León marino                                       |           |       |               |                                     |           ||
 | Leopardo                                          |           |       | OK            |[Un felino en las alturas](https://youtu.be/TyYOUk9MA5k) |           ||
