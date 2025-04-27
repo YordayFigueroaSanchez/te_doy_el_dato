@@ -1,5 +1,20 @@
-Conejo
-20250420
+# 20250427
+Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Indri indri, Sula patiazul y Ganso del nilo, los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
+?Que tema prefieres para el siguiente dato?
+Cisne: elegante, majestuoso, gracil  
+Coyote: astuto, adaptable, travieso  
+Ibis: colorido, sociable, curioso
+## Result
+¿Cuál de los siguientes animales te parece más interesante o atractivo para el próximo dato de interés?
+Indri indri: saltarín, vocalizador
+Sula patiazul: peculiar, danzarín
+Ganso del Nilo: bullicioso,adaptable
+## Adaptado
+¿Qué tema prefieres para el siguiente dato?
+## Nombre
+Indri-Sula-Ganso
+
+# 20250420
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Conejo, Faisán y Lechuza , los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
     ?Que tema prefieres para el siguiente dato?
     Cisne: elegante, majestuoso, gracil  
