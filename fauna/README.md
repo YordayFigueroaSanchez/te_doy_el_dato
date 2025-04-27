@@ -132,7 +132,7 @@
 | Gallineta común                                   |           |       |               |                                     |           ||
 | Gamba                                             |           |       |               |                                     |           ||
 | Ganso                                             |           |       |               |                                     |           ||
-| Ganso del Nilo                                    |           |       |               |                                     |           ||
+| Ganso del Nilo                                    |           |       |               |                                     |           |<img src="Ganso_del_Nilo/ganso_del_nilo_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Garza                                             | 1         |       | OK (SHORT)    |[🏞️𓅥Depredadores de humedales𓅢🏞️](https://youtu.be/p7tq6LEURfQ) |           ||
 | Garza(Garceta Azul)	                            |           |       |               |                                     |[info](ecosdelbosque.com/fauna/egretta-caerulea)||
 | Garza(Garceta grande)	                            |           |       |               |                                     |[info](ecosdelbosque.com/fauna/ardea-alba)||
@@ -168,7 +168,7 @@
 | Iguana                                            | 1         |       | OK (SHORT)    |[🦎Maestras del Camuflaje y la Supervivencia🦎](https://youtu.be/vRizI7dbWQs) |           ||
 | Iguana marina                                     |           |       |               |                                     |           ||
 | Impala                                            | 1         |       |               |                                     |           ||
-| Indri                                             |           |       |               |                                     |           ||
+| Indri                                             |           |       |               |                                     |           |<img src="indri_indri/indri_indri_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Jabalí                                            | 1         |       |               |                                     |           ||
 | Jaguar-yaguar-yaguarete                           |           |       |               |[💪 El Poderío del Jaguar 🐆: Rey de la Selva 🌳 y Maestro del Sigilo 🐾](https://youtu.be/xKwvAPWmeuM)| ||
 | Jilguero europeo                                  |           |       |               |                                     |           ||
@@ -296,7 +296,7 @@
 | Ser humano                                        |           |       |               |                                     |           ||
 | Serpiente                                         |           |       |               |                                     |           ||
 | Suricata                                          |           |       | OK            |[👀Suricatos: Los Centinelas del Desierto🛡️](https://youtu.be/yV0lGcNgszg) |           ||
-| Sula patiazul                                     |           |       |               |                                     |           ||
+| Sula patiazul                                     |           |       |               |                                     |           |<img src="sula_patiazul/sula_patiazul_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Tejon melero                                      |           |       | OK            |[🔎El Tejón Melero: Secretos del Depredador Más Valiente🦡](https://youtu.be/nDNIAXOFzk0) |           ||
 | Termita                                           |           |       |               |                                     |           ||
 | Tiburón ballena                                   |           |       | OK            |[🤫Secretos del Tiburón Ballena 🐋 Tras las Huellas del Gigante🌊](https://youtu.be/H5f-W3WO3xg) |  ||
