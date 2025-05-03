@@ -32,18 +32,18 @@ Basado en el contenido del documento proporcionado, genera 10 títulos cortos, l
 🦅 Fregata: ¡El pirata del cielo! ☠️
 🦌 Oryx, el antílope de los desiertos extremos! 🔥
 ## Result
-🐐 ¿Cómo sube por paredes casi verticales? ¡Descúbrelo! 🧗‍♂️  
-🦴 ¡La cabra tiene súper pezuñas antideslizantes! 😲  
-🧠 ¿Sabías que la cabra es más lista de lo que parece? 🤓  
-🏔️ Cabra montés: la reina de las alturas extremas 👑  
-🐐 ¿Qué tiene la leche de cabra que la hace tan especial? 🧀  
-👶 ¿Cómo crían a sus cabritos? ¡Conoce a la madre experta! 🍼  
-🌍 La cabra: ¡un animal que conquista el mundo! 🌎  
-🥷 ¿Cómo se defiende sin luchar? ¡Te sorprenderá! ⚔️  
-😯 ¡Este animal fue domesticado hace más de 10.000 años! ⏳  
-💡 ¿Sabías que sus cuernos revelan su edad? 🌀  
+🐷 ¿El Cerdo es más listo que tu Perro? ¡Sorpréndete! 🤯
+🤔 ¿Por qué los Cerdos AMAN el Lodo? (¡No es suciedad!) <0xF0><0x9F><0xA5><0xA5>
+🧼 ¡La Sorprendente LIMPIEZA del Cerdo Desmentida! ✨
+🥵 El MITO del "Sudar como Cerdo" ¡Revelado! 🚫💧
+🧠 Cerdo: ¡Inteligencia de Niño de 3 Años! ¿Lo Sabías? 💡
+🗣️ El Lenguaje SECRETO de los Cerdos: ¡Más de 20 Sonidos! 🐽
+💨 ¡Cerdos SÚPER RÁPIDOS y Ágiles! ¿Te lo Esperabas? 🏃‍♂️
+💖 La Vida Social OCULTA de los Cerdos: ¡Amigos y Familia! 🥰
+🎶 ¡Mamás Cerdas que CANTAN a sus Lechones! 🎵💕
+🦸‍♂️ ¿Cerdos HÉROES? ¡Historias Reales Increíbles! 💪 
 ## Seleccionado
-🐐 ¿Cómo sube por paredes casi verticales? ¡Descúbrelo!😲
+🐷 ¿El Cerdo es más listo que tu Perro? ¡Sorpréndete! 🤯
 
 # Adjetivos
 ## Promnt
@@ -54,13 +54,13 @@ Misterioso 🦇
 Ágil ⚡
 Nocturno 🌙
 ## Result
-**Ágil** 🧗‍♀️  
-**Resistente** 💪  
-**Versátil** 🌍
+Inteligente 🧠 (Destaca sus habilidades cognitivas, aprendizaje y resolución de problemas)
+Social 🫂 (Resalta su necesidad de vivir en grupos, formar lazos y comunicarse)
+Olfativo 🐽 (Enfatiza la importancia de su sentido del olfato y su hocico para explorar y alimentarse)
 ## Adjetivos en limpio
-Ágil
-Resistente
-Versátil
+Inteligente
+Social
+Olfativo
 
 # Tags para youtube
 ## Prompt
@@ -68,13 +68,11 @@ Analiza el contenido del documento proporcionado y genera una lista de etiquetas
 📌 Ejemplo de salida esperada (para un video sobre el murciélago):
 murciélago, murciélagos, animales nocturnos, mamíferos voladores, ecosistema, biodiversidad, cueva, insectívoro, noche, animales increíbles, wildlife
 ## Result
-cabra, cabras, cabra montés, cabras montesas, Capra aegagrus hircus, Capra pyrenaica, animales de montaña, animales domésticos, ganado caprino, mamífero, mamíferos rumiantes, animales resistentes, animales ágiles, animales versátiles, hábitat montañoso, leche de cabra, cuernos de cabra, cría de cabras, cabritos, animales herbívoros, reproducción animal, animales sorprendentes, naturaleza salvaje, vida rural, animales increíbles, fauna del mundo, adaptación animal, comportamiento animal, biodiversidad, escaladores naturales, supervivencia animal, animales del mundo, wildlife, mountain goat
+cerdo, cerdos, puerco, cochino, marrano, chancho, pig, pigs, Sus scrofa domesticus, animales de granja, mamíferos, inteligencia animal, cerdo inteligente, animales sociales, comportamiento animal, cerdos limpios, cerdos barro, cerdos no sudan, omnívoro, dieta cerdo, hocico cerdo, olfato cerdo, lechón, cochinillo, cerda, reproducción cerdo, curiosidades animales, documental animal, fauna, naturaleza, vida animal, animales sorprendentes, animales incomprendidos, comunicación animal.
 
 # Url
-[🐐 ¿Cómo sube por paredes casi verticales? ¡Descúbrelo!😲](https://youtu.be/4InC5ReOi9M)
-[🐐 ¿Cómo sube por paredes casi verticales? ¡Descúbrelo!😲](https://odysee.com/cabra_video_720p:1743f03e48d0496e37d9628035d2a4b28f241537)
 
 # Tags para odyse
-animales,animals,fauna,cabra,nature
+animales,animals,fauna,cerdo,nature
 
 # Mejorar texto
