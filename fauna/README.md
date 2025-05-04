@@ -66,7 +66,7 @@
 | Cebra                                             |           |       |               |[🦓✨ Descubre los Secretos de las Cebras: ¡Más que Rayas!](https://youtu.be/YK9GXfO3oQc)| ||
 | Cebú                                              |           |       |               |                                     |           ||
 | Centzontle Norteño(MimusPolyglottos)              |           |       |               |                                     |           ||
-| Cerdo                                             | 1         |       |SELECCIONADO|                                     |           |<img src="cerdo/cerdo_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| Cerdo                                             | 1         | 10    |04/05/2025|[🐷 ¿El Cerdo es más listo que tu Perro? ¡Sorpréndete! 🤯](https://youtu.be/R0XLLGzmHGk)|           |<img src="cerdo/cerdo_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Cerdo hormiguero                                  |           |       |               |                                     |           ||
 | Cetia japonés                                     |           |       |               |                                     |           ||
 | Chacal                                            | 1         |       |               |                                     |           ||
