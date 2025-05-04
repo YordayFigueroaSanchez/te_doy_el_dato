@@ -71,6 +71,8 @@ murciélago, murciélagos, animales nocturnos, mamíferos voladores, ecosistema,
 cerdo, cerdos, puerco, cochino, marrano, chancho, pig, pigs, Sus scrofa domesticus, animales de granja, mamíferos, inteligencia animal, cerdo inteligente, animales sociales, comportamiento animal, cerdos limpios, cerdos barro, cerdos no sudan, omnívoro, dieta cerdo, hocico cerdo, olfato cerdo, lechón, cochinillo, cerda, reproducción cerdo, curiosidades animales, documental animal, fauna, naturaleza, vida animal, animales sorprendentes, animales incomprendidos, comunicación animal.
 
 # Url
+[🐷 ¿El Cerdo es más listo que tu Perro? ¡Sorpréndete! 🤯](https://youtu.be/R0XLLGzmHGk)
+[🐷 ¿El Cerdo es más listo que tu Perro? ¡Sorpréndete! 🤯](https://odysee.com/cerdo_720p:e824bce6dcff90b333869b03d8597866ba306b57)
 
 # Tags para odyse
 animales,animals,fauna,cerdo,nature
