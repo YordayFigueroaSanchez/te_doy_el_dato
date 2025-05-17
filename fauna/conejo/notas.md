@@ -32,18 +32,18 @@ Basado en el contenido del documento proporcionado, genera 10 títulos cortos, l
 🦅 Fregata: ¡El pirata del cielo! ☠️
 🦌 Oryx, el antílope de los desiertos extremos! 🔥
 ## Result
-🐷 ¿El Cerdo es más listo que tu Perro? ¡Sorpréndete! 🤯
-🤔 ¿Por qué los Cerdos AMAN el Lodo? (¡No es suciedad!) <0xF0><0x9F><0xA5><0xA5>
-🧼 ¡La Sorprendente LIMPIEZA del Cerdo Desmentida! ✨
-🥵 El MITO del "Sudar como Cerdo" ¡Revelado! 🚫💧
-🧠 Cerdo: ¡Inteligencia de Niño de 3 Años! ¿Lo Sabías? 💡
-🗣️ El Lenguaje SECRETO de los Cerdos: ¡Más de 20 Sonidos! 🐽
-💨 ¡Cerdos SÚPER RÁPIDOS y Ágiles! ¿Te lo Esperabas? 🏃‍♂️
-💖 La Vida Social OCULTA de los Cerdos: ¡Amigos y Familia! 🥰
-🎶 ¡Mamás Cerdas que CANTAN a sus Lechones! 🎵💕
-🦸‍♂️ ¿Cerdos HÉROES? ¡Historias Reales Increíbles! 💪 
+🐇 ¿Conejos NO son Roedores? ¡La Verdad SORPRENDENTE! 🤯
+🦷 ¡Dientes de Conejo que NUNCA PARAN de Crecer! ¿Por Qué? 🐰
+🐰 Orejas de Conejo: ¿Más que para Oír? ¡Su SECRETO TERMORREGULADOR! 🌡️
+👁️ ¡Visión de CASI 360°! El SÚPER PODER Ocular del Conejo (¡Cuidado con su punto ciego!) 🐇
+🥕 ¿Zanahorias? ¡El MITO de la Comida Favorita del Conejo DESMENTIDO! 🐰
+💩 ¿Por Qué los Conejos Comen su PROPIO Popó? ¡El Asombroso Secreto de la Cecotrofia! 😱
+💨 ¡Conejos a 70km/h! ¿MÁS RÁPIDOS de lo que IMAGINAS? 🐇
+🤫 El Lenguaje SECRETO de los Conejos: ¡Golpes, Olores y MÁS! 🐇
+🏡 ¡Dentro del VIVAR! La Fascinante Vida Social de los Conejos 👨‍👩‍👧‍👦
+❤️ Conejos como Mascotas: ¿Adorable Compañía o GRAN Desafío? (¡Viven +10 años!) 🐾 
 ## Seleccionado
-🐷 ¿El Cerdo es más listo que tu Perro? ¡Sorpréndete! 🤯
+💩¿Por Qué los Conejos Comen su PROPIO Popó?😱
 
 # Adjetivos
 ## Promnt
@@ -54,13 +54,13 @@ Misterioso 🦇
 Ágil ⚡
 Nocturno 🌙
 ## Result
-Inteligente 🧠 (Destaca sus habilidades cognitivas, aprendizaje y resolución de problemas)
-Social 🫂 (Resalta su necesidad de vivir en grupos, formar lazos y comunicarse)
-Olfativo 🐽 (Enfatiza la importancia de su sentido del olfato y su hocico para explorar y alimentarse)
+Ágil 🐇💨 (Destacado por "saltos ágiles", "velocidad", "escapar de sus enemigos")
+Perceptivo 👀👂 (Resaltado por "orejas largas... escuchar a los depredadores a gran distancia" y "ojos... un campo de visión de casi 360 grados")
+Sorprendente ✨ (El texto inicia con "sorprendente mundo", menciona "mucho más en estos animales de lo que parece a simple vista" y destaca características inesperadas como la cecotrofia)
 ## Adjetivos en limpio
-Inteligente
-Social
-Olfativo
+Ágil
+Perceptivo
+Sorprendente
 
 # Tags para youtube
 ## Prompt
@@ -68,13 +68,13 @@ Analiza el contenido del documento proporcionado y genera una lista de etiquetas
 📌 Ejemplo de salida esperada (para un video sobre el murciélago):
 murciélago, murciélagos, animales nocturnos, mamíferos voladores, ecosistema, biodiversidad, cueva, insectívoro, noche, animales increíbles, wildlife
 ## Result
-cerdo, cerdos, puerco, cochino, marrano, chancho, pig, pigs, Sus scrofa domesticus, animales de granja, mamíferos, inteligencia animal, cerdo inteligente, animales sociales, comportamiento animal, cerdos limpios, cerdos barro, cerdos no sudan, omnívoro, dieta cerdo, hocico cerdo, olfato cerdo, lechón, cochinillo, cerda, reproducción cerdo, curiosidades animales, documental animal, fauna, naturaleza, vida animal, animales sorprendentes, animales incomprendidos, comunicación animal.
+conejo, conejos, lagomorfos, Leporidae, animales, naturaleza, fauna, curiosidades animales, comportamiento animal, dientes de conejo, orejas de conejo, visión 360 conejos, cecotrofia, herbívoros, madrigueras, vivares, conejares, conejos mascotas, cuidado de conejos, Conejo de Pascua, animales sociales, comunicación conejos, vida silvestre, gazapos, reino animal, animales sorprendentes, documental de animales, biología, mamíferos
 
 # Url
-[🐷 ¿El Cerdo es más listo que tu Perro? ¡Sorpréndete! 🤯](https://youtu.be/R0XLLGzmHGk)
-[🐷 ¿El Cerdo es más listo que tu Perro? ¡Sorpréndete! 🤯](https://odysee.com/cerdo_720p:e824bce6dcff90b333869b03d8597866ba306b57)
+[💩¿Por Qué los Conejos Comen su PROPIO Popó?😱]()
+[💩¿Por Qué los Conejos Comen su PROPIO Popó?😱]()
 
 # Tags para odyse
-animales,animals,fauna,cerdo,nature
+animales,animals,fauna,conejo,nature
 
 # Mejorar texto
