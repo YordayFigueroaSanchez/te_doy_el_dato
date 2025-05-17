@@ -89,7 +89,7 @@
 | Colibri                                           |           |       |               |[🌺Magia en Miniatura🐦](https://youtu.be/1k5i5PG5Z_Q)|           ||
 |                                                   |           |       |               |[version 1](https://youtu.be/THKRiTspxp4)|           ||
 | Comadreja                                         | 1         |       |               |                                     |           ||
-| Conejo                                            |           |       |               |                                     |           |<img src="conejo/conejo_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| Conejo                                            | 1         |Pendiente|17/07/2025|[💩¿Por Qué los Conejos Comen su PROPIO Popó?😱](https://youtu.be/bT0QZRHLMhc)|           |<img src="conejo/conejo_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Coral                                             |           |       |               |                                     |           ||
 | Coyote                                            | 1         |       |               |                                     |           ||
 | Cucaracha                                         |           |       |               |                                     |           ||
