@@ -150,7 +150,7 @@
 | Gecko diurno Madagascar                           | 1         |       |               |                                     |           ||
 | [Glotón](../fauna/gloton/README.md)|OK(1) | 6 | 23/03/2025    |[🦡 El glotón: El guerrero oculto de la tundra ❄️🐾](https://youtu.be/jAcelyEHJVs)|[info](https://www.naturalista.uy/taxa/41852-Gulo-gulo)|<img src="gloton/gloton_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Gorila de montaña                                 |           |  WAIT | OK            |[En las huellas del Gorila de Montaña](https://youtu.be/4RsMMwrr5bA) |           ||
-| Gorrión                                           | 1         |       |               |                                     |           ||
+| Gorrión                                           | 1         |       |               |                                     |           |<img src="gorrion/gorrion_comun_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Grulla                                            | 1         |       | OK            |[🦩Elegancia y Resistencia en los Cielos🦩](https://youtu.be/w21R6wQSIho) |           ||
 | Grulla coronada cuellinegra                       |           |       |               |                                     |           ||
 | Guacamayo                                         |           |       | OK            |[Un festín de colores](https://youtu.be/wEwGt2AsmKs) |           ||
@@ -232,7 +232,7 @@
 | Oso panda                                         |           |       | OK            |[Oso panda adorable, pacifico y vulnerable](https://youtu.be/W6iL6p3f8ys) |           ||
 | Oso polar                                         |           |       | OK            |[Un oso blanco, poderoso y vulnerable](https://youtu.be/w_Ov9KNSV4E) |           ||
 | Oveja                                             | 1         |       |               |                                     |           ||
-| Pájaro carpintero                                 |           |       |               |                                     |           ||
+| Pájaro carpintero                                 |           |       |               |                                     |           |<img src="pajaro_carpintero/Pajaros_carpinteros_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Pantera negra (no seria una especie)              |           |       |               |                                     |[info](https://www.publico.es/yo-animal/sabias-que-las-panteras-negras-no-existen/)||
 | Pato                                              |           |       |               |                                     |           ||
 | pavo doméstico                                    | 1         |       |               |                                     |           ||
@@ -308,7 +308,7 @@
 | Tucán                                             | 1         |       | OK (SHORT)    |[💐Asombroso Pico🌸](https://youtu.be/JDMSfqA1S7o) |           ||
 | Tucán pico iris                                   |           |       |               |                                     |           ||
 | Turaco  (ave)                                     |           |       |               |                                     |[info](https://www.faunia.es/planea-tu-visita/animales/turaco)||
-| Urraca común                                      |           |       |               |                                     |           ||
+| Urraca común                                      |           |       |               |                                     |           |<img src="urraca_comun/Urraca_comun_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Vaca                                              |           |       |               |                                     |           ||
 | Vaca marina de Steller                            |           |       |               |                                     |           ||
 | Wombat                                            |           |       |               |                                     |           ||

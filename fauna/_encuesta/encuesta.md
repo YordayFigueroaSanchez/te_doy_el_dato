@@ -1,3 +1,17 @@
+# 20250525
+Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Gorrión común, Pájaros carpinteros, Urraca común, los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
+?Que tema prefieres para el siguiente dato?
+Cisne: elegante, majestuoso, gracil  
+Coyote: astuto, adaptable, travieso  
+Ibis: colorido, sociable, curioso
+## Result
+¿Qué tema prefieres para el siguiente dato?
+Gorrión común: pequeño, ágil, resistente
+Pájaros carpinteros: ruidoso, persistente, habilidoso
+Urraca común: inteligente, curiosa, ruidosa
+## Nombre
+Gorrión común-Pájaros carpinteros-Urraca común
+
 # 20250427
 Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Indri indri, Sula patiazul y Ganso del nilo, los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
 ?Que tema prefieres para el siguiente dato?
