@@ -57,8 +57,8 @@ murciélago, murciélagos, animales nocturnos, mamíferos voladores, ecosistema,
 ganso del nilo, gansos del nilo, alopochen aegyptiaca, especie invasora, animales, fauna, aves, pájaros, anátidas, documental de animales, antiguo egipto, animal sagrado, comportamiento animal, territorial, agresivo, vida salvaje, naturaleza, aves acuáticas, fauna de españa, fauna ibérica, humedales, río nilo, curiosidades animales, animales sorprendentes
 
 # Url
-[🐷 ¿El Cerdo es más listo que tu Perro? ¡Sorpréndete! 🤯](https://youtu.be/R0XLLGzmHGk)
-[🐷 ¿El Cerdo es más listo que tu Perro? ¡Sorpréndete! 🤯](https://odysee.com/cerdo_720p:e824bce6dcff90b333869b03d8597866ba306b57)
+[🦆 El GANSO que en realidad NO es un GANSO 🤯](https://youtu.be/Pk585B-HnJ8)
+[🦆 El GANSO que en realidad NO es un GANSO 🤯](https://odysee.com/@yfsanchez:d/ganso_del_nilo_video_720p:e)
 
 # Tags para odyse
 animales,animals,fauna,ganso del nilo,nature
