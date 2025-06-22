@@ -132,7 +132,7 @@
 | Gallineta común                                   |           |       |               |                                     |           ||
 | Gamba                                             |           |       |               |                                     |           ||
 | Ganso                                             |           |       |               |                                     |           ||
-| Ganso del Nilo                                    |           |       |               |                                     |           |<img src="Ganso_del_Nilo/ganso_del_nilo_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| Ganso del Nilo                                    |           |       |22/06/2025|[🦆 El GANSO que en realidad NO es un GANSO 🤯](https://youtu.be/Pk585B-HnJ8)|           |<img src="Ganso_del_Nilo/ganso_del_nilo_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Garza                                             | 1         |       | OK (SHORT)    |[🏞️𓅥Depredadores de humedales𓅢🏞️](https://youtu.be/p7tq6LEURfQ) |           ||
 | Garza(Garceta Azul)	                            |           |       |               |                                     |[info](ecosdelbosque.com/fauna/egretta-caerulea)||
 | Garza(Garceta grande)	                            |           |       |               |                                     |[info](ecosdelbosque.com/fauna/ardea-alba)||
