@@ -683,6 +683,11 @@ El camaleón pantera no solo es un tesoro de la fauna, sino también un recordat
 🐝🌻 Comportamiento crucial 🌻🐝 #animales #animals #fauna #abeja #nature #bee
 # s_0334_abeja.mp4
 🐝🌻 Evitar el monocultivo 🌻🐝 #animales #animals #fauna #abeja #nature #bee
+---
+---
+**CONTINUAR AGREGANDO SHORT DESDE ACA**
+---
+---
 # s_0335_luciernaga.mp4
 ཐི༏ཋྀ💥 Emitir luz 💥ཐི༏ཋྀ #animales #animals #fauna #luciernaga #nature #fireflies
 La característica más distintiva de las luciérnagas es su capacidad para emitir luz, un fenómeno conocido como bioluminiscencia. Este brillo se produce en órganos lumínicos ubicados en la parte inferior de su abdomen. La luz se genera a través de una reacción química entre oxígeno y una sustancia llamada luciferina, en presencia de la enzima luciferasa. Este proceso no solo permite a las luciérnagas comunicarse durante el cortejo, sino que también puede actuar como un mecanismo de defensa al indicar que no son un bocado apetitoso para los depredadores.
@@ -818,31 +823,31 @@ A pesar de su armadura protectora, los armadillos enfrentan varias amenazas. La 
 Otro problema es que los armadillos son susceptibles a enfermedades como la lepra. De hecho, el armadillo de nueve bandas es uno de los pocos animales que puede contraer esta enfermedad, lo que ha llamado la atención de los científicos que estudian su transmisión.
 Aunque muchas especies de armadillos no están en peligro de extinción, es importante tomar medidas para proteger sus hábitats y garantizar su supervivencia. Algunas especies, como el armadillo gigante, están clasificadas como vulnerables debido a la reducción de sus poblaciones.
 # s_0377_buho_genero.mp4
-[🦉 De mitos y realidad: La verdad detrás de los búhos 🌙 #animales #animals #fauna #buho #nature](https://youtube.com/shorts/UO8dKXqC51k?feature=share)
+🦉 De mitos y realidad: La verdad detrás de los búhos 🌙 #animales #animals #fauna #buho #nature
 Imagina un ave que simboliza la sabiduría, que caza en silencio bajo el manto de la noche y que puede girar su cabeza casi 360 grados. Este misterioso depredador, con su mirada penetrante y su vuelo sigiloso, ha fascinado a culturas enteras y se ha convertido en un ícono de la naturaleza. ¿Sabes de quién estamos hablando? Acompáñanos a descubrir todos los secretos de esta increíble criatura.
 Este animal posee una anatomía única que lo distingue de otras aves. Con ojos grandes y una cabeza redondeada, su apariencia es inconfundible. Sus ojos están diseñados para una visión binocular excepcional, permitiéndole ver en la oscuridad con claridad. Además, tiene tres párpados: uno para parpadear, otro para dormir y un tercero para mantener sus ojos limpios.  
 # s_0378_buho_genero.mp4
-[🦉 Búhos: Gigantes y miniatura, ¿cómo conviven en la naturaleza? 🌙 #animales #animals #fauna #buho](https://youtube.com/shorts/QL5uNR9HlzQ?feature=share)
+🦉 Búhos: Gigantes y miniatura, ¿cómo conviven en la naturaleza? 🌙 #animales #animals #fauna #buho
 Su tamaño varía drásticamente según la especie, desde pequeños ejemplares de apenas 4 pulgadas hasta imponentes aves de 28 pulgadas de altura. Sus plumas están diseñadas para camuflarse perfectamente en su entorno, cambiando de color según la estación. Sus garras son extremadamente afiladas, ideales para capturar presas, y su pico, aunque pequeño, es poderoso y eficaz para desgarrar comida.  
 Esta ave es increíblemente versátil y se encuentra en casi todos los rincones del mundo, excepto en la Antártida. Prefiere zonas boscosas, pero también habita en selvas tropicales, pastizales e incluso desiertos. Algunas especies viven en troncos de árboles, mientras que otras, como el búho de madriguera, prefieren vivir bajo tierra.  
 # s_0379_buho_genero.mp4
-[🦉 Oídos agudos y garras letales: El kit de caza de los búhos 🌙 #animales #animals #fauna #buho](https://youtube.com/shorts/3d72NrZ_WWM?feature=share)
+🦉 Oídos agudos y garras letales: El kit de caza de los búhos 🌙 #animales #animals #fauna #buho
 Su capacidad para adaptarse a diferentes climas y entornos es asombrosa. Desde los bosques de madera dura hasta las praderas abiertas, esta ave ha demostrado ser un maestro de la supervivencia. Sin embargo, la destrucción de su hábitat natural es una amenaza constante para su existencia.  
 Este depredador nocturno es un cazador experto. Su dieta incluye una amplia variedad de presas, desde insectos y arañas hasta roedores, peces e incluso otras aves. Utiliza su aguda visión y su excelente oído para detectar a sus presas en la oscuridad. Una vez que localiza su objetivo, se abalanza con precisión y rapidez, capturándolo con sus poderosas garras.  
 # s_0380_buho_genero.mp4
-[🦉 Búhos: ¿Por qué tragan a sus presas enteras? 🌙 #animales #animals #fauna #buho #nature](https://youtube.com/shorts/8GNJk54kl9w?feature=share)
+🦉 Búhos: ¿Por qué tragan a sus presas enteras? 🌙 #animales #animals #fauna #buho #nature
 Una curiosidad fascinante es que traga a sus presas enteras y luego regurgita los restos no digeridos, como huesos y piel, en forma de bolitas. Este proceso es esencial para su digestión y ha sido estudiado por científicos para entender mejor sus hábitos alimenticios.  
 Cuando llega la primavera, esta ave solitaria cambia por completo su comportamiento. Los machos comienzan a llamar a las hembras, y una vez que encuentran pareja, pasan varios días juntos. A diferencia de otras aves, no construyen sus propios nidos, sino que utilizan nidos abandonados o cavidades naturales en árboles.  
 # s_0381_buho_genero.mp4
-[🦉 Cuidado extremo, peligros 🌙 #animales #animals #fauna #buho #nature](https://youtube.com/shorts/fxSi1q4cNbo?feature=share)
+🦉 Cuidado extremo, peligros 🌙 #animales #animals #fauna #buho #nature
 La hembra pone entre unos pocos huevos y más de una docena, dependiendo de la especie. Ambos padres se turnan para incubar los huevos y cuidar de los polluelos. Los jóvenes son vulnerables al nacer, pero rápidamente desarrollan plumas y aprenden a valerse por sí mismos. Los padres son extremadamente protectores y pueden volverse agresivos si perciben una amenaza.  
 Aunque se encuentra en lo alto de la cadena alimentaria, esta ave no está exenta de peligros. Zorros, serpientes, gatos salvajes y águilas son algunos de sus principales depredadores. Los mapaches y las ardillas también pueden atacar a los polluelos o a las especies más pequeñas.  
 # s_0382_buho_genero.mp4
-[🦉 El depredador nocturno que domina la noche 🌙 #animales #animals #fauna #buho #nature](https://youtube.com/shorts/pg4lsTZKrmE?feature=share)
+🦉 El depredador nocturno que domina la noche 🌙 #animales #animals #fauna #buho #nature
 Para defenderse, este animal cuenta con varias estrategias. Su camuflaje le permite mezclarse con el entorno, y sus garras y pico afilados son armas poderosas contra los atacantes. Además, su capacidad para girar la cabeza en casi cualquier dirección le da una ventaja adicional para detectar y evitar amenazas.  
 Este majestuoso depredador nocturno no solo es un símbolo de sabiduría, sino también una obra maestra de la evolución y un verdadero experto en supervivencia.
 # s_0383_buho_genero.mp4
-[🦉 ¿Por qué son los reyes de la noche? 🌙 #animales #animals #fauna #buho #nature](https://youtube.com/shorts/tI8vmMToE3I?feature=share)
+🦉 ¿Por qué son los reyes de la noche? 🌙 #animales #animals #fauna #buho #nature
 ¿Sabías que los búhos esconden secretos asombrosos? Aunque no son las únicas aves que carecen de buche, su sistema digestivo es único: todo lo que comen pasa directamente a su estómago, lo que les permite procesar rápidamente presas enteras. Además, su cuello es una maravilla de la naturaleza: con 14 vértebras, pueden girar su cabeza hasta 270 grados, dándoles una visión casi completa de su entorno sin necesidad de mover el cuerpo. Algunas especies, como el búho nival, lucen un plumaje completamente blanco, perfecto para camuflarse en paisajes nevados. Y aunque son símbolos de sabiduría, no dejes que su apariencia serena te engañe: son extremadamente territoriales y pueden volverse muy agresivos, especialmente durante la época de apareamiento o cuando protegen a sus crías.
 # s_0384_caballito_de_mar.mp4
 🦐 Esta criatura hace lo imposible en el océano 🤯  #animales #animals #fauna #caballito #nature
@@ -1134,11 +1139,30 @@ La comunicación es clave en su mundo. Aunque machos y hembras son casi idéntic
 🦆 La PAREJA más unida 🦆
 Son seres de fuertes lazos sociales, pero centrados en la pareja. La monogamia de por vida y la defensa conjunta del nido y los polluelos es el pilar de su estructura social. Viven en pequeños grupos la mayor parte del año, lo que les ofrece protección, pero durante la cría, la pareja se aísla para defender su territorio. Se saludan y comunican con una serie de movimientos de cabeza y cuello, reforzando sus vínculos.
 El ganso del Nilo, un animal con una rica historia, lleno de belleza, carácter y una sorprendente dualidad que desafía cualquier estereotipo. Desde su estatus sagrado en el pasado hasta su complejo papel como especie invasora en el presente, hay mucho que analizar en el Alopochen aegyptiaca. Esperamos que este viaje por el mundo del ganso del Nilo te haya resultado fascinante. Te invitamos a seguir explorando con nosotros la increíble fauna que puebla nuestro planeta aquí en nuestro canal. ¡No te pierdas nuestras próximas aventuras
+# s_0475_elefante_short_001.mp4
+🐘 ¿Sabías esto del elefante? 🐘
+# s_0476_elefante_short_002.mp4
+🐘 El gigante sabio de la sabana 🐘
+# s_0477_estornino_short_001.mp4
+🐦‍🐦‍ El estornino y sus danzas aéreas 🐦‍🐦‍
+# s_0478_estornino_short_002.mp4
+🐦‍🐦‍ Miles de alas, un solo movimiento 🐦‍🐦‍
+# s_0479_foca_leopardo_short_001.mp4
+💦 Foca leopardo: la cazadora del hielo 💦
+# s_0480_foca_leopardo_short_002.mp4
+💦 ¿Conoces a la foca más temida de la Antártida? 💦
+# s_0481_gato_short_001.mp4
+🐈 ¿Por qué los gatos amasan? 🐈
+# s_0482_gato_short_002.mp4
+🐈 El misterio del gato y su ronroneo 🐈
+
+
 # Emojis
-🦧🐵🐒🦍🦧🐶🐕🦮🐕‍🦺🐩🐺🦊🦝🐱🐈🐈‍⬛🦁🐯🐅🐆🐴🐎🦄🦓🦌🦬🐮
+🦧🐵🐒🦍🦧🐶🐕🦮🐕‍🦺🐩🐺🦊🦝🐱🐈🐈‍🦁🐯🐅🐆🐴🐎🦄🦓🦌🐮
 🐂🐃🐄🐷🐖🐗🐽🐏🐑🐐🐪🐫🦙🦒🐘🦏🦛🐭🐁🐀🐹🐰🐇🐿️🦇🦔🐻🦥
-🦦🦨🦘🦡🐾🦃🐔🐓🐣🐤🐥🐦🐧🕊️🦅🦆🦢🦉🦩🦚🦜🐦‍⬛🐸🐊🐢🦎🐍
+🦦🦨🦘🦡🐾🦃🐔🐓🐣🐤🐥🐦🐧🕊️🦅🦆🦢🦉🦩🦚🦜🐦‍🐸🐊🐢🦎🐍
 🐲🐉🦖🦕🐳🐋🐬🐟🐠🐡🦈🐙🐚🐌🦋🐛🐜🐝🐞🦗🕷️🕸️🦂🦟🦠💐🌸💮🏵️𓅦
+🦥💦
 # Url
 https://es.piliapp.com/symbol/animals/
 https://emojidb.org/
