@@ -1155,6 +1155,26 @@ El ganso del Nilo, un animal con una rica historia, lleno de belleza, carácter 
 🐈 ¿Por qué los gatos amasan? 🐈
 # s_0482_gato_short_002.mp4
 🐈 El misterio del gato y su ronroneo 🐈
+# s_0490_gorrion.mp4
+👀Un Vecino Ignorado: El Gorrión Común💥
+# s_0491_gorrion.mp4
+👀Pequeño, Robusto y con Marcas Distintivas💥
+# s_0492_gorrion.mp4
+👀Un Viajero Global de la Mano del Hombre💥
+# s_0493_gorrion.mp4
+👀El Rey del Oportunismo en la Mesa Urbana y Rural💥
+# s_0494_gorrion.mp4
+👀Un Prolífico Constructor de Hogares Improvisados💥
+# s_0495_gorrion.mp4
+👀Depredadores y los Peligros de la Vida Moderna💥
+# s_0496_gorrion.mp4
+👀Inteligencia y Astucia para la Supervivencia Urbana💥
+# s_0497_gorrion.mp4
+👀El Compañero Alado de la Civilización💥
+# s_0498_gorrion.mp4
+👀El Lenguaje Secreto de los Gorjeos y Jerarquías💥
+# s_0499_gorrion.mp4
+👀Redescubriendo a un Extraordinario Superviviente💥
 
 
 # Emojis

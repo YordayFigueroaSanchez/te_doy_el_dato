@@ -1,5 +1,5 @@
 # 🐦 El VECINO más COMÚN del que NO SABES NADA 🤫
-
+![alt text](gorrion_portada_003.png)
 Piensa en el pájaro más común que ves cada día. Ese que te encuentras en parques, terrazas y calles, tan familiar que a menudo pasa desapercibido. Pero, ¿qué sabes realmente de él? Imagina un ave que ha conquistado el mundo siguiendo nuestros pasos, un superviviente nato con una inteligencia que subestimamos. Quédate con nosotros para redescubrir a este compañero inseparable de la humanidad. Hoy exploraremos los secretos del gorrión común, conocido científicamente como Passer domesticus, un animal cuya historia y habilidades te dejarán asombrado.
 
 ## Anatomía y Apariencia

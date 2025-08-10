@@ -57,8 +57,8 @@ murciélago, murciélagos, animales nocturnos, mamíferos voladores, ecosistema,
 gorrión, gorriones, gorrión común, Passer domesticus, aves, pájaros, pájaros de ciudad, aves urbanas, fauna urbana, inteligencia animal, pájaro inteligente, animales increíbles, comportamiento animal, curiosidades animales, documental de aves, naturaleza, vida silvestre, adaptable, oportunista, cosmopolita, nidos de pájaros, canto de gorrión, animales y mascotas, el vecino más común, supervivencia animal
 
 # Url
-[🦆 El GANSO que en realidad NO es un GANSO 🤯](https://youtu.be/Pk585B-HnJ8)
-[🦆 El GANSO que en realidad NO es un GANSO 🤯](https://odysee.com/@yfsanchez:d/ganso_del_nilo_video_720p:e)
+[👀El "BABERO" del Macho REVELA su PODER 💥](https://youtu.be/rFAetq1BR74)
+[👀El "BABERO" del Macho REVELA su PODER 💥](https://odysee.com/gorrion_video_720p:9a8302683fabdcd5bdedeeb19d69029c78332179)
 
 # Tags para odyse
 animales,animals,fauna,gorriones,nature

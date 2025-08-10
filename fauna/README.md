@@ -150,7 +150,7 @@
 | Gecko diurno Madagascar                           | 1         |       |               |                                     |           ||
 | [Glotón](../fauna/gloton/README.md)|OK(1) | 6 | 23/03/2025    |[🦡 El glotón: El guerrero oculto de la tundra ❄️🐾](https://youtu.be/jAcelyEHJVs)|[info](https://www.naturalista.uy/taxa/41852-Gulo-gulo)|<img src="gloton/gloton_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Gorila de montaña                                 |           |  WAIT | OK            |[En las huellas del Gorila de Montaña](https://youtu.be/4RsMMwrr5bA) |           ||
-| Gorrión                                           | 1         |       |               |                                     |           |<img src="gorrion/gorrion_comun_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| [Gorrión](gorrion/guion.md)|OK(1)|10|10/08/2025|[👀El "BABERO" del Macho REVELA su PODER 💥](https://youtu.be/rFAetq1BR74)|[info](gorrion/info.md)|<img src="gorrion/gorrion_comun_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Grulla                                            | 1         |       | OK            |[🦩Elegancia y Resistencia en los Cielos🦩](https://youtu.be/w21R6wQSIho) |           ||
 | Grulla coronada cuellinegra                       |           |       |               |                                     |           ||
 | Guacamayo                                         |           |       | OK            |[Un festín de colores](https://youtu.be/wEwGt2AsmKs) |           ||
