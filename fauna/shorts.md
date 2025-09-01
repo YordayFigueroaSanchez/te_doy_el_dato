@@ -683,11 +683,6 @@ El camaleón pantera no solo es un tesoro de la fauna, sino también un recordat
 🐝🌻 Comportamiento crucial 🌻🐝 #animales #animals #fauna #abeja #nature #bee
 # s_0334_abeja.mp4
 🐝🌻 Evitar el monocultivo 🌻🐝 #animales #animals #fauna #abeja #nature #bee
----
----
-**CONTINUAR AGREGANDO SHORT DESDE ACA**
----
----
 # s_0335_luciernaga.mp4
 ཐི༏ཋྀ💥 Emitir luz 💥ཐི༏ཋྀ #animales #animals #fauna #luciernaga #nature #fireflies
 La característica más distintiva de las luciérnagas es su capacidad para emitir luz, un fenómeno conocido como bioluminiscencia. Este brillo se produce en órganos lumínicos ubicados en la parte inferior de su abdomen. La luz se genera a través de una reacción química entre oxígeno y una sustancia llamada luciferina, en presencia de la enzima luciferasa. Este proceso no solo permite a las luciérnagas comunicarse durante el cortejo, sino que también puede actuar como un mecanismo de defensa al indicar que no son un bocado apetitoso para los depredadores.
@@ -780,6 +775,22 @@ El camello bactriano nos enseña sobre la resiliencia y la interrelación entre 
 🦦🦦 De dos a cuatro crias 🦦 #animales #animals #fauna #castor #nature #beaver
 # s_0362_castor_short_009.mp4
 🦦🦦 Caza excesiva 🦦 #animales #animals #fauna #castor #nature #beaver
+---
+---
+---
+---
+---
+---
+---
+**CONTINUAR AGREGANDO SHORT DESDE ACA**
+---
+---
+---
+---
+---
+---
+---
+---
 # s_0363_capibara_short_001.mp4
 🦛🦛 Roedores mas grandes 🦛 #animales #animals #fauna #capibara #nature #capybara
 # s_0364_capibara_short_002.mp4
