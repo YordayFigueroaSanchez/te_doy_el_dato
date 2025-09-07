@@ -32,6 +32,6 @@ La mayor amenaza para los pájaros carpinteros es la pérdida de hábitat. La de
 La fragmentación del hábitat también limita el intercambio genético entre poblaciones, lo que puede afectar su capacidad de adaptación. Por eso, la conservación de bosques maduros y la creación de reservas naturales son esenciales para proteger a estos ingenieros del ecosistema.
 
 ## ¿Un Carpintero sin más?
-Nada más lejos. El pájaro carpintero es una especie clave, un constructor de hábitats, un controlador natural de plagas y un modelo de adaptación evolutiva. Su historia es la de una criatura que ha perfeccionado su técnica durante millones de años, hasta convertirse en uno de los habitantes más fascinantes del bosque.
+El pájaro carpintero es una especie clave, un constructor de hábitats, un controlador natural de plagas y un modelo de adaptación evolutiva. Su historia es la de una criatura que ha perfeccionado su técnica durante millones de años, hasta convertirse en uno de los habitantes más fascinantes del bosque.
 
 La próxima vez que escuches ese tamborileo en la distancia, detente un momento. Estás presenciando el trabajo de un verdadero maestro de la naturaleza. Y ahora que lo conoces mejor, quizás lo veas con nuevos ojos.
