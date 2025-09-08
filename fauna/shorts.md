@@ -683,11 +683,6 @@ El camaleón pantera no solo es un tesoro de la fauna, sino también un recordat
 🐝🌻 Comportamiento crucial 🌻🐝 #animales #animals #fauna #abeja #nature #bee
 # s_0334_abeja.mp4
 🐝🌻 Evitar el monocultivo 🌻🐝 #animales #animals #fauna #abeja #nature #bee
----
----
-**CONTINUAR AGREGANDO SHORT DESDE ACA**
----
----
 # s_0335_luciernaga.mp4
 ཐི༏ཋྀ💥 Emitir luz 💥ཐི༏ཋྀ #animales #animals #fauna #luciernaga #nature #fireflies
 La característica más distintiva de las luciérnagas es su capacidad para emitir luz, un fenómeno conocido como bioluminiscencia. Este brillo se produce en órganos lumínicos ubicados en la parte inferior de su abdomen. La luz se genera a través de una reacción química entre oxígeno y una sustancia llamada luciferina, en presencia de la enzima luciferasa. Este proceso no solo permite a las luciérnagas comunicarse durante el cortejo, sino que también puede actuar como un mecanismo de defensa al indicar que no son un bocado apetitoso para los depredadores.
@@ -780,6 +775,22 @@ El camello bactriano nos enseña sobre la resiliencia y la interrelación entre 
 🦦🦦 De dos a cuatro crias 🦦 #animales #animals #fauna #castor #nature #beaver
 # s_0362_castor_short_009.mp4
 🦦🦦 Caza excesiva 🦦 #animales #animals #fauna #castor #nature #beaver
+---
+---
+---
+---
+---
+---
+---
+**CONTINUAR AGREGANDO SHORT DESDE ACA**
+---
+---
+---
+---
+---
+---
+---
+---
 # s_0363_capibara_short_001.mp4
 🦛🦛 Roedores mas grandes 🦛 #animales #animals #fauna #capibara #nature #capybara
 # s_0364_capibara_short_002.mp4
@@ -1169,6 +1180,26 @@ El ganso del Nilo, un animal con una rica historia, lleno de belleza, carácter 
 💪 ¡Inteligencia animal en acción: el carpintero planifica su comida! 🧱
 # s_0489_pajaro_carpintero.mp4
 💪 ¿Qué revela la presencia de un pájaro carpintero en el bosque? 🧱
+# s_0490_gorrion.mp4
+👀Un Vecino Ignorado: El Gorrión Común💥
+# s_0491_gorrion.mp4
+👀Pequeño, Robusto y con Marcas Distintivas💥
+# s_0492_gorrion.mp4
+👀Un Viajero Global de la Mano del Hombre💥
+# s_0493_gorrion.mp4
+👀El Rey del Oportunismo en la Mesa Urbana y Rural💥
+# s_0494_gorrion.mp4
+👀Un Prolífico Constructor de Hogares Improvisados💥
+# s_0495_gorrion.mp4
+👀Depredadores y los Peligros de la Vida Moderna💥
+# s_0496_gorrion.mp4
+👀Inteligencia y Astucia para la Supervivencia Urbana💥
+# s_0497_gorrion.mp4
+👀El Compañero Alado de la Civilización💥
+# s_0498_gorrion.mp4
+👀El Lenguaje Secreto de los Gorjeos y Jerarquías💥
+# s_0499_gorrion.mp4
+👀Redescubriendo a un Extraordinario Superviviente💥
 
 
 # Emojis
