@@ -1155,6 +1155,20 @@ El ganso del Nilo, un animal con una rica historia, lleno de belleza, carácter 
 🐈 ¿Por qué los gatos amasan? 🐈
 # s_0482_gato_short_002.mp4
 🐈 El misterio del gato y su ronroneo 🐈
+# s_0483_pajaro_carpintero.mp4
+💪 ¡El arquitecto del bosque que salva a otras especies! 🧱
+# s_0484_pajaro_carpintero.mp4
+💪 ¿Sabías que el pájaro carpintero usa herramientas? 🧱
+# s_0485_pajaro_carpintero.mp4
+💪 ¡El cráneo más resistente del reino animal! ¿Cómo lo logra? 🧱
+# s_0486_pajaro_carpintero.mp4
+💪 ¡Descubre al ave que escucha insectos dentro de los árboles! 🧱
+# s_0487_pajaro_carpintero.mp4
+💪 ¿Por qué el tamborileo del pájaro carpintero es tan importante? 🧱
+# s_0488_pajaro_carpintero.mp4
+💪 ¡Inteligencia animal en acción: el carpintero planifica su comida! 🧱
+# s_0489_pajaro_carpintero.mp4
+💪 ¿Qué revela la presencia de un pájaro carpintero en el bosque? 🧱
 
 
 # Emojis
