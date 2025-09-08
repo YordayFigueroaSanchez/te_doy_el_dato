@@ -1,3 +1,4 @@
+![alt text](pajaro_carpintero_portada_004.png)
 # 🐦 El INGENIERO del BOSQUE que GOLPEA con PRECISIÓN MILIMÉTRICA 🔨🌳
 Piensa en un sonido que resuena en lo profundo del bosque: un tamborileo rítmico, seco, constante. No es música, pero tiene cadencia. No es casualidad, pero sí natural. Ese sonido es la firma del pájaro carpintero, un ave que no solo perfora árboles con una destreza asombrosa, sino que transforma el entorno con cada golpe. Hoy te invitamos a conocer a este maestro de la madera, un verdadero prodigio de la evolución que combina fuerza, inteligencia y belleza en cada uno de sus movimientos.
 
