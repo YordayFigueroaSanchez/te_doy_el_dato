@@ -1,10 +1,10 @@
-# 🐦 La URRACA COMÚN: La Mente Brillante del Bosque Urbano 🧠✨
+# 🐦 La URRACA: La Mente Brillante del Bosque Urbano 🧠✨
 
-Imagina una figura elegante que salta entre ramas, emite sonidos ásperos y recolecta objetos brillantes como si fueran tesoros. No es un ladrón, aunque muchos lo crean. Es la urraca común, una de las aves más inteligentes del planeta. Su presencia en parques, campos y ciudades no solo embellece el paisaje, sino que revela una historia de adaptación, astucia y sorprendente complejidad social. Hoy te invitamos a conocer a esta mente brillante alada, capaz de reconocer su reflejo, planificar su alimentación y comunicarse con precisión.
+Imagina una figura elegante que salta entre ramas, emite sonidos ásperos y recolecta objetos brillantes como si fueran tesoros. No es un ladrón, aunque muchos lo crean. Es la urraca, una de las aves más inteligentes del planeta. Su presencia en parques, campos y ciudades no solo embellece el paisaje, sino que revela una historia de adaptación, astucia y sorprendente complejidad social. Hoy te invitamos a conocer a esta mente brillante alada, capaz de reconocer su reflejo, planificar su alimentación y comunicarse con precisión.
 
 ## Anatomía y Apariencia
 
-La urraca común mide entre 40 y 51 centímetros, con una envergadura que puede alcanzar los 60. Su plumaje blanco y negro, con reflejos azulados o verdosos en alas y cola, la convierte en una figura inconfundible. Su pico recto y fuerte, sus patas negras y su larga cola escalonada no solo definen su silueta, sino que le permiten moverse con agilidad y precisión. Aunque no presenta un dimorfismo sexual evidente, los machos suelen ser más corpulentos que las hembras.
+La urraca mide entre 40 y 51 centímetros, con una envergadura que puede alcanzar los 60. Su plumaje blanco y negro, con reflejos azulados o verdosos en alas y cola, la convierte en una figura inconfundible. Su pico recto y fuerte, sus patas negras y su larga cola escalonada no solo definen su silueta, sino que le permiten moverse con agilidad y precisión. Aunque no presenta un dimorfismo sexual evidente, los machos suelen ser más corpulentos que las hembras.
 
 ## Inteligencia y Comportamiento
 
@@ -36,4 +36,4 @@ La fama de ladrona que persigue a la urraca tiene algo de mito y algo de verdad.
 
 ## Conclusión
 
-La urraca común es mucho más que una ave ruidosa. Es una mente brillante que ha conquistado los entornos urbanos y rurales con su inteligencia, adaptabilidad y comportamiento social. Observarla es descubrir una historia de evolución, cooperación y astucia. La próxima vez que escuches su característico “chac-chac-chac”, recuerda que estás frente a una de las criaturas más fascinantes del mundo alado.
+La urraca es mucho más que una ave ruidosa. Es una mente brillante que ha conquistado los entornos urbanos y rurales con su inteligencia, adaptabilidad y comportamiento social. Observarla es descubrir una historia de evolución, cooperación y astucia. La próxima vez que escuches su característico “chac-chac-chac”, recuerda que estás frente a una de las criaturas más fascinantes del mundo alado.
