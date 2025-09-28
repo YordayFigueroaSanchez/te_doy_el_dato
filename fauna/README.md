@@ -308,7 +308,7 @@
 | Tucán                                             | 1         |       | OK (SHORT)    |[💐Asombroso Pico🌸](https://youtu.be/JDMSfqA1S7o) |           ||
 | Tucán pico iris                                   |           |       |               |                                     |           ||
 | Turaco  (ave)                                     |           |       |               |                                     |[info](https://www.faunia.es/planea-tu-visita/animales/turaco)||
-| Urraca común                                      |           |       |               |                                     |           |<img src="urraca_comun/Urraca_comun_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| Urraca común                                      |           | 10    | 28/09/2025    |[🐦 ¡La urraca: más que ruidosa, increíblemente inteligente! 🔊](https://youtu.be/3NgWBImtLo8) |           |<img src="urraca_comun/Urraca_comun_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Vaca                                              |           |       |               |                                     |           ||
 | Vaca marina de Steller                            |           |       |               |                                     |           ||
 | Wombat                                            |           |       |               |                                     |           ||

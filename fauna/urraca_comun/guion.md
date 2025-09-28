@@ -1,3 +1,5 @@
+![alt text](urraca_portada_004.png)
+
 # 🐦 La URRACA: La Mente Brillante del Bosque Urbano 🧠✨
 
 Imagina una figura elegante que salta entre ramas, emite sonidos ásperos y recolecta objetos brillantes como si fueran tesoros. No es un ladrón, aunque muchos lo crean. Es la urraca, una de las aves más inteligentes del planeta. Su presencia en parques, campos y ciudades no solo embellece el paisaje, sino que revela una historia de adaptación, astucia y sorprendente complejidad social. Hoy te invitamos a conocer a esta mente brillante alada, capaz de reconocer su reflejo, planificar su alimentación y comunicarse con precisión.
