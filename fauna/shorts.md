@@ -1201,6 +1201,28 @@ El ganso del Nilo, un animal con una rica historia, lleno de belleza, carácter 
 # s_0499_gorrion.mp4
 👀Redescubriendo a un Extraordinario Superviviente💥
 
+# s_490_urraca_comun.mp4
+🐦 ¿Ladrón o genio? La verdad sobre la urraca te sorprenderá 🔊
+# s_491_urraca_comun.mp4
+🐦 La urraca: elegancia, precisión… ¡y un toque brillante! 🔊
+# s_492_urraca_comun.mp4
+🐦 ¿Un ave que se reconoce en el espejo? Conoce a la urraca 🔊
+# s_493_urraca_comun.mp4
+🐦 ¿Dónde vive la urraca? ¡Más cerca de ti de lo que imaginas! 🔊
+# s_494_urraca_comun.mp4
+🐦 ¿Una urraca aplastando avispas? ¡Así caza esta mente brillante! 🔊
+# s_495_urraca_comun.mp4
+🐦 ¿Sabías que la urraca decora su nido con objetos brillantes? 🔊
+# s_496_urraca_comun.mp4
+🐦 ¿Un ejército de urracas contra depredadores? ¡Así se defienden en grupo! 🔊
+# s_497_urraca_comun.mp4
+🐦 De perseguida a protegida: la sorprendente historia de la urraca 🔊
+# s_498_urraca_comun.mp4
+🐦 ¿La urraca roba joyas? Mito, verdad… y mucha inteligencia 🔊
+# s_499_urraca_comun.mp4
+🐦 ¿Solo un ave ruidosa? La urraca es mucho más de lo que crees 🔊
+
+
 
 # Emojis
 🦧🐵🐒🦍🦧🐶🐕🦮🐕‍🦺🐩🐺🦊🦝🐱🐈🐈‍🦁🐯🐅🐆🐴🐎🦄🦓🦌🐮
