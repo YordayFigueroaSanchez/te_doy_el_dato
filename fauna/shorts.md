@@ -775,6 +775,18 @@ El camello bactriano nos enseña sobre la resiliencia y la interrelación entre 
 🦦🦦 De dos a cuatro crias 🦦 #animales #animals #fauna #castor #nature #beaver
 # s_0362_castor_short_009.mp4
 🦦🦦 Caza excesiva 🦦 #animales #animals #fauna #castor #nature #beaver
+# s_0363_capibara_short_001.mp4
+🦛🦛 Roedores mas grandes 🦛 #animales #animals #fauna #capibara #nature #capybara
+# s_0364_capibara_short_002.mp4
+🦛🦛 Pelaje aspero y pardo 🦛 #animales #animals #fauna #capibara #nature #capybara
+# s_0365_capibara_short_003.mp4
+🦛🦛 Increiblemente sociales 🦛 #animales #animals #fauna #capibara #nature #capybara
+# s_0366_capibara_short_004.mp4
+🦛🦛 Destreza para nadar 🦛 #animales #animals #fauna #capibara #nature #capybara
+# s_0367_capibara_short_005.mp4
+🦛🦛 120 diaz para tener crias 🦛 #animales #animals #fauna #capibara #nature #capybara
+# s_0368_capibara_short_006.mp4
+🦛🦛 Capibara 🦛 #animales #animals #fauna #capibara #nature #capybara
 ---
 ---
 ---
@@ -791,18 +803,6 @@ El camello bactriano nos enseña sobre la resiliencia y la interrelación entre 
 ---
 ---
 ---
-# s_0363_capibara_short_001.mp4
-🦛🦛 Roedores mas grandes 🦛 #animales #animals #fauna #capibara #nature #capybara
-# s_0364_capibara_short_002.mp4
-🦛🦛 Pelaje aspero y pardo 🦛 #animales #animals #fauna #capibara #nature #capybara
-# s_0365_capibara_short_003.mp4
-🦛🦛 Increiblemente sociales 🦛 #animales #animals #fauna #capibara #nature #capybara
-# s_0366_capibara_short_004.mp4
-🦛🦛 Destreza para nadar 🦛 #animales #animals #fauna #capibara #nature #capybara
-# s_0367_capibara_short_005.mp4
-🦛🦛 120 diaz para tener crias 🦛 #animales #animals #fauna #capibara #nature #capybara
-# s_0368_capibara_short_006.mp4
-🦛🦛 Capibara 🦛 #animales #animals #fauna #capibara #nature #capybara
 # s_0369_armadillo.mp4
 🛡️🛡️ Armadura natural ⚠️⚠️ #animales #animals #fauna #armadillo #nature
 Imagina un animal que parece sacado de una historia medieval, con una armadura natural que lo protege de los peligros del mundo salvaje. Este curioso mamífero no solo es un maestro de la excavación, capaz de construir refugios complejos en cuestión de minutos, sino que también posee habilidades sorprendentes, como contener la respiración bajo el agua y dar a luz a crías idénticas. Su dieta lo convierte en un aliado natural contra las plagas, y su capacidad de adaptación le ha permitido colonizar diversos hábitats, desde bosques tropicales hasta praderas semiáridas. ¡Acompáñanos a explorar sus secretos!
@@ -1200,26 +1200,25 @@ El ganso del Nilo, un animal con una rica historia, lleno de belleza, carácter 
 👀El Lenguaje Secreto de los Gorjeos y Jerarquías💥
 # s_0499_gorrion.mp4
 👀Redescubriendo a un Extraordinario Superviviente💥
-
-# s_490_urraca_comun.mp4
+# s_0500_urraca_comun.mp4
 🐦 ¿Ladrón o genio? La verdad sobre la urraca te sorprenderá 🔊
-# s_491_urraca_comun.mp4
+# s_0501_urraca_comun.mp4
 🐦 La urraca: elegancia, precisión… ¡y un toque brillante! 🔊
-# s_492_urraca_comun.mp4
+# s_0502_urraca_comun.mp4
 🐦 ¿Un ave que se reconoce en el espejo? Conoce a la urraca 🔊
-# s_493_urraca_comun.mp4
+# s_0503_urraca_comun.mp4
 🐦 ¿Dónde vive la urraca? ¡Más cerca de ti de lo que imaginas! 🔊
-# s_494_urraca_comun.mp4
+# s_0504_urraca_comun.mp4
 🐦 ¿Una urraca aplastando avispas? ¡Así caza esta mente brillante! 🔊
-# s_495_urraca_comun.mp4
+# s_0505_urraca_comun.mp4
 🐦 ¿Sabías que la urraca decora su nido con objetos brillantes? 🔊
-# s_496_urraca_comun.mp4
+# s_0506_urraca_comun.mp4
 🐦 ¿Un ejército de urracas contra depredadores? ¡Así se defienden en grupo! 🔊
-# s_497_urraca_comun.mp4
+# s_0507_urraca_comun.mp4
 🐦 De perseguida a protegida: la sorprendente historia de la urraca 🔊
-# s_498_urraca_comun.mp4
+# s_0508_urraca_comun.mp4
 🐦 ¿La urraca roba joyas? Mito, verdad… y mucha inteligencia 🔊
-# s_499_urraca_comun.mp4
+# s_0509_urraca_comun.mp4
 🐦 ¿Solo un ave ruidosa? La urraca es mucho más de lo que crees 🔊
 
 
