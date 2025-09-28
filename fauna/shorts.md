@@ -787,22 +787,6 @@ El camello bactriano nos enseña sobre la resiliencia y la interrelación entre 
 🦛🦛 120 diaz para tener crias 🦛 #animales #animals #fauna #capibara #nature #capybara
 # s_0368_capibara_short_006.mp4
 🦛🦛 Capibara 🦛 #animales #animals #fauna #capibara #nature #capybara
----
----
----
----
----
----
----
-**CONTINUAR AGREGANDO SHORT DESDE ACA**
----
----
----
----
----
----
----
----
 # s_0369_armadillo.mp4
 🛡️🛡️ Armadura natural ⚠️⚠️ #animales #animals #fauna #armadillo #nature
 Imagina un animal que parece sacado de una historia medieval, con una armadura natural que lo protege de los peligros del mundo salvaje. Este curioso mamífero no solo es un maestro de la excavación, capaz de construir refugios complejos en cuestión de minutos, sino que también posee habilidades sorprendentes, como contener la respiración bajo el agua y dar a luz a crías idénticas. Su dieta lo convierte en un aliado natural contra las plagas, y su capacidad de adaptación le ha permitido colonizar diversos hábitats, desde bosques tropicales hasta praderas semiáridas. ¡Acompáñanos a explorar sus secretos!
@@ -833,6 +817,22 @@ Pero lo más sorprendente es que algunas especies, como el armadillo de nueve ba
 A pesar de su armadura protectora, los armadillos enfrentan varias amenazas. La pérdida de hábitat debido a la deforestación y la expansión agrícola es uno de los mayores desafíos. Además, en algunas regiones, los armadillos son cazados por su carne y su caparazón, que se utiliza para fabricar artesanías.
 Otro problema es que los armadillos son susceptibles a enfermedades como la lepra. De hecho, el armadillo de nueve bandas es uno de los pocos animales que puede contraer esta enfermedad, lo que ha llamado la atención de los científicos que estudian su transmisión.
 Aunque muchas especies de armadillos no están en peligro de extinción, es importante tomar medidas para proteger sus hábitats y garantizar su supervivencia. Algunas especies, como el armadillo gigante, están clasificadas como vulnerables debido a la reducción de sus poblaciones.
+---
+---
+---
+---
+---
+---
+---
+**CONTINUAR AGREGANDO SHORT DESDE ACA**
+---
+---
+---
+---
+---
+---
+---
+---
 # s_0377_buho_genero.mp4
 🦉 De mitos y realidad: La verdad detrás de los búhos 🌙 #animales #animals #fauna #buho #nature
 Imagina un ave que simboliza la sabiduría, que caza en silencio bajo el manto de la noche y que puede girar su cabeza casi 360 grados. Este misterioso depredador, con su mirada penetrante y su vuelo sigiloso, ha fascinado a culturas enteras y se ha convertido en un ícono de la naturaleza. ¿Sabes de quién estamos hablando? Acompáñanos a descubrir todos los secretos de esta increíble criatura.
