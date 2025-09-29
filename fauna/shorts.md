@@ -844,22 +844,6 @@ Este majestuoso depredador nocturno no solo es un símbolo de sabiduría, sino t
 # s_0383_buho_genero.mp4
 🦉 ¿Por qué son los reyes de la noche? 🌙 #animales #animals #fauna #buho #nature
 ¿Sabías que los búhos esconden secretos asombrosos? Aunque no son las únicas aves que carecen de buche, su sistema digestivo es único: todo lo que comen pasa directamente a su estómago, lo que les permite procesar rápidamente presas enteras. Además, su cuello es una maravilla de la naturaleza: con 14 vértebras, pueden girar su cabeza hasta 270 grados, dándoles una visión casi completa de su entorno sin necesidad de mover el cuerpo. Algunas especies, como el búho nival, lucen un plumaje completamente blanco, perfecto para camuflarse en paisajes nevados. Y aunque son símbolos de sabiduría, no dejes que su apariencia serena te engañe: son extremadamente territoriales y pueden volverse muy agresivos, especialmente durante la época de apareamiento o cuando protegen a sus crías.
----
----
----
----
----
----
----
-**CONTINUAR AGREGANDO SHORT DESDE ACA**
----
----
----
----
----
----
----
----
 # s_0384_caballito_de_mar.mp4
 🦐 Esta criatura hace lo imposible en el océano 🤯  #animales #animals #fauna #caballito #nature
 En lo más profundo de los mares tropicales y templados, existe una criatura que desafía todas las reglas del mundo marino. No es un pez común; su forma y comportamiento lo hacen único en su especie. Lo más sorprendente es su singular método de reproducción, completamente opuesto al de la mayoría de los animales. ¿Puedes adivinar de qué ser estamos hablando?
@@ -887,6 +871,22 @@ Desafortunadamente, el caballito de mar enfrenta graves amenazas. La pesca indis
 🦐 ¿Podemos salvar al caballito de mar? 🤯  #animales #animals #fauna #caballito #nature
 En los últimos años, diversas organizaciones han trabajado para concienciar sobre la importancia de preservar esta especie y su hábitat. Los esfuerzos de conservación incluyen la creación de reservas marinas y la prohibición de su captura en algunas regiones.
 El caballito de mar sigue asombrando a científicos y amantes de la naturaleza con su peculiar forma de vida. Sin embargo, enfrenta graves amenazas debido a la contaminación, la pesca indiscriminada y la destrucción de su hábitat. Protegerlo es fundamental para la conservación de los mares.
+---
+---
+---
+---
+---
+---
+---
+**CONTINUAR AGREGANDO SHORT DESDE ACA**
+---
+---
+---
+---
+---
+---
+---
+---
 # s_0400_pez_luchador.mp4
 🐠 ¡El Betta splendens: el pequeño gigante del acuario! 🔥
 Imagina un pequeño pez de colores vibrantes que, a pesar de su tamaño, es capaz de defender su territorio con una ferocidad impresionante. Este pez, originario del sudeste asiático, ha cautivado a los amantes de la acuariofilia no solo por su belleza, sino también por su carácter desafiante. ¿Quieres saber más sobre este intrigante animal?
