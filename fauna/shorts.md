@@ -883,6 +883,10 @@ Diurno y forma grupos familiares o bandadas
 Con su piel amarillenta moteada y su capacidad para trepar árboles con agilidad
 # s_0397_guepardo_short_002
 Fuertes patas y garras retráctiles
+# s_0398_hipopotamo_short_001
+Gigantes acuáticos y su influencia en los ecosistemas africanos
+# s_0399_hipopotamo_short_002
+Asombrosos animales!
 ---
 ---
 ---
@@ -899,10 +903,6 @@ Fuertes patas y garras retráctiles
 ---
 ---
 ---
-# s_0398_hipopotamo_short_001
-Gigantes acuáticos y su influencia en los ecosistemas africanos
-# s_0399_hipopotamo_short_002
-Asombrosos animales!
 # s_0400_pez_luchador.mp4
 🐠 ¡El Betta splendens: el pequeño gigante del acuario! 🔥
 Imagina un pequeño pez de colores vibrantes que, a pesar de su tamaño, es capaz de defender su territorio con una ferocidad impresionante. Este pez, originario del sudeste asiático, ha cautivado a los amantes de la acuariofilia no solo por su belleza, sino también por su carácter desafiante. ¿Quieres saber más sobre este intrigante animal?
