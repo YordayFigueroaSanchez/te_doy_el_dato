@@ -875,6 +875,10 @@ El caballito de mar sigue asombrando a científicos y amantes de la naturaleza c
 Dieta es principalmente herbívora
 # s_0393_gorila_de_montana_short_002
 Majestuosos primates viven en grupos familiares
+# s_0394_guacamayo_short_001
+Su imponente presencia y su naturaleza sociable
+# s_0395_guacamayo_short_002
+Diurno y forma grupos familiares o bandadas
 ---
 ---
 ---
@@ -891,10 +895,6 @@ Majestuosos primates viven en grupos familiares
 ---
 ---
 ---
-# s_0394_guacamayo_short_001
-Su imponente presencia y su naturaleza sociable
-# s_0395_guacamayo_short_002
-Diurno y forma grupos familiares o bandadas
 # s_0396_guepardo_short_001
 # s_0397_guepardo_short_002
 # s_0398_hipopotamo_short_001
