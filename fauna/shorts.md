@@ -775,22 +775,6 @@ El camello bactriano nos enseña sobre la resiliencia y la interrelación entre 
 🦦🦦 De dos a cuatro crias 🦦 #animales #animals #fauna #castor #nature #beaver
 # s_0362_castor_short_009.mp4
 🦦🦦 Caza excesiva 🦦 #animales #animals #fauna #castor #nature #beaver
----
----
----
----
----
----
----
-**CONTINUAR AGREGANDO SHORT DESDE ACA**
----
----
----
----
----
----
----
----
 # s_0363_capibara_short_001.mp4
 🦛🦛 Roedores mas grandes 🦛 #animales #animals #fauna #capibara #nature #capybara
 # s_0364_capibara_short_002.mp4
@@ -887,6 +871,38 @@ Desafortunadamente, el caballito de mar enfrenta graves amenazas. La pesca indis
 🦐 ¿Podemos salvar al caballito de mar? 🤯  #animales #animals #fauna #caballito #nature
 En los últimos años, diversas organizaciones han trabajado para concienciar sobre la importancia de preservar esta especie y su hábitat. Los esfuerzos de conservación incluyen la creación de reservas marinas y la prohibición de su captura en algunas regiones.
 El caballito de mar sigue asombrando a científicos y amantes de la naturaleza con su peculiar forma de vida. Sin embargo, enfrenta graves amenazas debido a la contaminación, la pesca indiscriminada y la destrucción de su hábitat. Protegerlo es fundamental para la conservación de los mares.
+# s_0392_gorila_de_montana_short_001
+Dieta es principalmente herbívora
+# s_0393_gorila_de_montana_short_002
+Majestuosos primates viven en grupos familiares
+# s_0394_guacamayo_short_001
+Su imponente presencia y su naturaleza sociable
+# s_0395_guacamayo_short_002
+Diurno y forma grupos familiares o bandadas
+# s_0396_guepardo_short_001
+Con su piel amarillenta moteada y su capacidad para trepar árboles con agilidad
+# s_0397_guepardo_short_002
+Fuertes patas y garras retráctiles
+# s_0398_hipopotamo_short_001
+Gigantes acuáticos y su influencia en los ecosistemas africanos
+# s_0399_hipopotamo_short_002
+Asombrosos animales!
+---
+---
+---
+---
+---
+---
+---
+**CONTINUAR AGREGANDO SHORT DESDE ACA**
+---
+---
+---
+---
+---
+---
+---
+---
 # s_0400_pez_luchador.mp4
 🐠 ¡El Betta splendens: el pequeño gigante del acuario! 🔥
 Imagina un pequeño pez de colores vibrantes que, a pesar de su tamaño, es capaz de defender su territorio con una ferocidad impresionante. Este pez, originario del sudeste asiático, ha cautivado a los amantes de la acuariofilia no solo por su belleza, sino también por su carácter desafiante. ¿Quieres saber más sobre este intrigante animal?
@@ -1200,26 +1216,25 @@ El ganso del Nilo, un animal con una rica historia, lleno de belleza, carácter 
 👀El Lenguaje Secreto de los Gorjeos y Jerarquías💥
 # s_0499_gorrion.mp4
 👀Redescubriendo a un Extraordinario Superviviente💥
-
-# s_490_urraca_comun.mp4
+# s_0500_urraca_comun.mp4
 🐦 ¿Ladrón o genio? La verdad sobre la urraca te sorprenderá 🔊
-# s_491_urraca_comun.mp4
+# s_0501_urraca_comun.mp4
 🐦 La urraca: elegancia, precisión… ¡y un toque brillante! 🔊
-# s_492_urraca_comun.mp4
+# s_0502_urraca_comun.mp4
 🐦 ¿Un ave que se reconoce en el espejo? Conoce a la urraca 🔊
-# s_493_urraca_comun.mp4
+# s_0503_urraca_comun.mp4
 🐦 ¿Dónde vive la urraca? ¡Más cerca de ti de lo que imaginas! 🔊
-# s_494_urraca_comun.mp4
+# s_0504_urraca_comun.mp4
 🐦 ¿Una urraca aplastando avispas? ¡Así caza esta mente brillante! 🔊
-# s_495_urraca_comun.mp4
+# s_0505_urraca_comun.mp4
 🐦 ¿Sabías que la urraca decora su nido con objetos brillantes? 🔊
-# s_496_urraca_comun.mp4
+# s_0506_urraca_comun.mp4
 🐦 ¿Un ejército de urracas contra depredadores? ¡Así se defienden en grupo! 🔊
-# s_497_urraca_comun.mp4
+# s_0507_urraca_comun.mp4
 🐦 De perseguida a protegida: la sorprendente historia de la urraca 🔊
-# s_498_urraca_comun.mp4
+# s_0508_urraca_comun.mp4
 🐦 ¿La urraca roba joyas? Mito, verdad… y mucha inteligencia 🔊
-# s_499_urraca_comun.mp4
+# s_0509_urraca_comun.mp4
 🐦 ¿Solo un ave ruidosa? La urraca es mucho más de lo que crees 🔊
 
 
