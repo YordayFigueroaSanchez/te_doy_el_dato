@@ -817,22 +817,6 @@ Pero lo más sorprendente es que algunas especies, como el armadillo de nueve ba
 A pesar de su armadura protectora, los armadillos enfrentan varias amenazas. La pérdida de hábitat debido a la deforestación y la expansión agrícola es uno de los mayores desafíos. Además, en algunas regiones, los armadillos son cazados por su carne y su caparazón, que se utiliza para fabricar artesanías.
 Otro problema es que los armadillos son susceptibles a enfermedades como la lepra. De hecho, el armadillo de nueve bandas es uno de los pocos animales que puede contraer esta enfermedad, lo que ha llamado la atención de los científicos que estudian su transmisión.
 Aunque muchas especies de armadillos no están en peligro de extinción, es importante tomar medidas para proteger sus hábitats y garantizar su supervivencia. Algunas especies, como el armadillo gigante, están clasificadas como vulnerables debido a la reducción de sus poblaciones.
----
----
----
----
----
----
----
-**CONTINUAR AGREGANDO SHORT DESDE ACA**
----
----
----
----
----
----
----
----
 # s_0377_buho_genero.mp4
 🦉 De mitos y realidad: La verdad detrás de los búhos 🌙 #animales #animals #fauna #buho #nature
 Imagina un ave que simboliza la sabiduría, que caza en silencio bajo el manto de la noche y que puede girar su cabeza casi 360 grados. Este misterioso depredador, con su mirada penetrante y su vuelo sigiloso, ha fascinado a culturas enteras y se ha convertido en un ícono de la naturaleza. ¿Sabes de quién estamos hablando? Acompáñanos a descubrir todos los secretos de esta increíble criatura.
@@ -860,6 +844,22 @@ Este majestuoso depredador nocturno no solo es un símbolo de sabiduría, sino t
 # s_0383_buho_genero.mp4
 🦉 ¿Por qué son los reyes de la noche? 🌙 #animales #animals #fauna #buho #nature
 ¿Sabías que los búhos esconden secretos asombrosos? Aunque no son las únicas aves que carecen de buche, su sistema digestivo es único: todo lo que comen pasa directamente a su estómago, lo que les permite procesar rápidamente presas enteras. Además, su cuello es una maravilla de la naturaleza: con 14 vértebras, pueden girar su cabeza hasta 270 grados, dándoles una visión casi completa de su entorno sin necesidad de mover el cuerpo. Algunas especies, como el búho nival, lucen un plumaje completamente blanco, perfecto para camuflarse en paisajes nevados. Y aunque son símbolos de sabiduría, no dejes que su apariencia serena te engañe: son extremadamente territoriales y pueden volverse muy agresivos, especialmente durante la época de apareamiento o cuando protegen a sus crías.
+---
+---
+---
+---
+---
+---
+---
+**CONTINUAR AGREGANDO SHORT DESDE ACA**
+---
+---
+---
+---
+---
+---
+---
+---
 # s_0384_caballito_de_mar.mp4
 🦐 Esta criatura hace lo imposible en el océano 🤯  #animales #animals #fauna #caballito #nature
 En lo más profundo de los mares tropicales y templados, existe una criatura que desafía todas las reglas del mundo marino. No es un pez común; su forma y comportamiento lo hacen único en su especie. Lo más sorprendente es su singular método de reproducción, completamente opuesto al de la mayoría de los animales. ¿Puedes adivinar de qué ser estamos hablando?
