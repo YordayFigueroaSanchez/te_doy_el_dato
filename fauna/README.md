@@ -46,6 +46,7 @@
 | Caballo                                           |           |  WAIT | OK            |[🏇🌟 La Elegancia y Fuerza del Caballo 🐴](https://youtu.be/Wrh2OyZrXzw) |[info](http://www.caballopedia.com/)||
 | Caiman                                            | 1         |       |               |                                     |           |<img src="caiman/caiman_002_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | [Cabra](cabra/guion.md)                                             |1 - OK|7|20/04/2025|[🐐 ¿Cómo sube por paredes casi verticales? ¡Descúbrelo!😲](https://youtu.be/4InC5ReOi9M)| |<img src="cabra/cabra_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| Cacatúa negra                                    | | | | |[readme](Cacatua_negra/readme.md) | |
 | Cachalote                                         | 1         |       |               |                                     |           |<img src="cachalote/Cachalote_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Caimán                                            |           |       |               |                                     |           ||                   
 | Calamar                                           |           | 1     |               |                                     |[info](http://www.calamarpedia.com/)||
