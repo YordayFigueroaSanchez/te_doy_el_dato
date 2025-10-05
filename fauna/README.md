@@ -313,6 +313,7 @@
 | Termita                                           |           |       |               |                                     |           ||
 | Tiburón ballena                                   |           |       | OK            |[🤫Secretos del Tiburón Ballena 🐋 Tras las Huellas del Gigante🌊](https://youtu.be/H5f-W3WO3xg) |  ||
 | Tiburón blanco                                    |           |       | OK            |[El tiburón blanco imponente, formidable y predador](https://youtu.be/x5Hg1NSPFOo) |           ||
+| Tiburón duende                                    | | | | |[readme](Tiburon_duende/readme.md) | |
 | Tiburón mielga                                    |           |       |               |                                     |           ||
 | Tigre                                             |           |       | OK (SHORT)    |[Tigre feroz, elegante y rayado](https://youtu.be/8BDJ0Pd0Wt4) |           ||
 | Topo                                              | 1         |       |               |                                     |           ||
