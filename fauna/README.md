@@ -101,7 +101,7 @@
 | Dingo                                             |           |       |               |                                     |           ||
 | Dodo (extinta)                                    |           |       |               |                                     |           ||
 | Dólar de plata                                    |           |       |               |                                     |           ||
-| Dragón azul                                    | | | | |[readme](fauna/Dragon_azul/readme.md) | |
+| Dragón azul                                    | | | | |[readme](Dragon_azul/readme.md) | |
 | Dragón de agua asiático                           |           |       |               |                                     |           ||
 | Dragón de agua australiano                        |           |       |               |                                     |           ||
 | Dragón de komodo                                  |           |       | OK (SHORT)    |[Dragón de Komodo formidable, sigiloso y carnívoro](https://youtu.be/Hvmolz0AxnQ) |           ||
@@ -224,7 +224,7 @@
 | Numbat                                            | 1         |       |               |                                     |           ||
 | Nutria                                            |           |       | OK            |[🦦Expertas del Agua🦦](https://youtu.be/mYlgYTaB8yw) |           ||
 | Ocelote                                           |           |       | OK            |[🐾 Siguiendo las Huellas del Ocelote: Una Aventura en la Selva 🌿](https://youtu.be/yDARrzaeLpc) |           ||
-| Okapi                                    | | | | |[readme](fauna/Okapi/readme.md) | |
+| Okapi                                    | | | | |[readme](Okapi/readme.md) | |
 | Orangután                                         |           |       |               |                                     |           ||
 | Orca                                              |           |       | OK            |[🧠💪🌊 Orcas: Inteligencia y Poder en el Mar](https://youtu.be/Eaz9YCf0mBM)|||
 | Ornitorinco                                       |           |       | OK            |[🌟La Fascinante Vida del Ornitorrinco: Naturaleza y Curiosidades🤔](https://youtu.be/iqKKGVmqySA) |           ||
@@ -259,7 +259,7 @@
 | Pez león                                          |           |       | OK            |[Intruso Exótico: 🐠🦁 La Amenaza del Pez León 🔥](https://youtu.be/tvQ9hewfxls) |           ||
 | Pez luchador                                      | 1         |   6   | 17/02/2025    |[🐠 ¡El pez más feroz y hermoso del acuario! 🔥](https://youtu.be/HpZQCff57ms)|[info](https://www.fishipedia.es/pez/betta-splendens)|<img src="pez_luchador/pez_peleador_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Pez mandarin                                      |           |       | OK            |[El pez mandarín colorido, delicado y ornamental](https://youtu.be/lc5iTfC6UeI) |           ||
-| Pez mano rosado                                    | | | | |[readme](fauna/Pez_mano_rosado/readme.md) | |
+| Pez mano rosado                                    | | | | |[readme](Pez_mano_rosado/readme.md) | |
 | Pez mariposa                                      |           |       |               |                                     |           ||
 | Pez Payaso                                        |           |       |               |                                     |           ||
 | Pingüino                                          | 1         |       |               |                                     |           ||
@@ -293,6 +293,7 @@
 | Ruiseñor pechiazul                                | 1         |       | OK (SHORT)    |[🐣🎨🔊Colores, Cantos y Migraciones](https://youtu.be/BHcw9iXEt7E) |           ||
 | Salamandra                                        | 1         |       |               |                                     |[info](http://www.salamandrapedia.com)    ||
 | Saltamontes                                       | 1         |       |               |                                     |           ||
+| Saola                                           |           |       |             | |[readme](Saola/readme.md)||
 | Sapo africano                                     |           |       |               |                                     |           ||
 | Sapo común                                        |           |       |               |                                     |           ||
 | Sapo de caña                                      |           |       |               |                                     |           ||
@@ -303,7 +304,7 @@
 | Serpiente                                         |           |       |               |                                     |           ||
 | Suricata                                          |           |       | OK            |[👀Suricatos: Los Centinelas del Desierto🛡️](https://youtu.be/yV0lGcNgszg) |           ||
 | Sula patiazul                                     |           |       |               |                                     |           |<img src="sula_patiazul/sula_patiazul_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
-| Tarsier                                    | | | | |[readme](fauna/Tarsier/readme.md) | |
+| Tarsier                                    | | | | |[readme](Tarsier/readme.md) | |
 | Tejon melero                                      |           |       | OK            |[🔎El Tejón Melero: Secretos del Depredador Más Valiente🦡](https://youtu.be/nDNIAXOFzk0) |           ||
 | Termita                                           |           |       |               |                                     |           ||
 | Tiburón ballena                                   |           |       | OK            |[🤫Secretos del Tiburón Ballena 🐋 Tras las Huellas del Gigante🌊](https://youtu.be/H5f-W3WO3xg) |  ||
