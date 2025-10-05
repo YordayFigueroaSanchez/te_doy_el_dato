@@ -51,6 +51,7 @@
 | Camaleón                                          |           |       |               |                                     |           ||
 | Camaleón pantera                                  | OK        |       | OK (SHORT)    |[🦎 Maestro del Camuflaje 🦎](https://youtu.be/O-vIhrfStrc) |           ||
 | Camarón                                           | 1         |       |               |                                     |           |<img src="camaron/camaron_001_square.png" alt="Camaron" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| Camarón mantis                                    | | | | |[readme](Camaron_mantis/readme.md) | |
 | Camelus bactrianus:camello bactriano doméstico    | 1         |  6    |19/01/2025|    [🐫🐫 Desafía los Extremos 🐫🐫](https://youtu.be/RrW0lusN_NE)|[Camelus bactrianus:camello bactriano doméstico](https://es.wikipedia.org/wiki/Camelus)||
 | Camelus dromedarius: el dromedario                |           |       |               |                                     |[Camelus dromedarius: el dromedario o camello arábigo, el cual posee una sola joroba](https://es.wikipedia.org/wiki/Camelus)||
 | Camelus ferus:camelloBactrianoSalvaje             |           |       |               |                                     |[Camelus ferus: el camello salvaje o camello bactriano salvaje, el único que nunca fue domesticado](https://es.wikipedia.org/wiki/Camelus)||
