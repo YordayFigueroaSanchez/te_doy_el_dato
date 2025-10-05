@@ -101,6 +101,7 @@
 | Dingo                                             |           |       |               |                                     |           ||
 | Dodo (extinta)                                    |           |       |               |                                     |           ||
 | Dólar de plata                                    |           |       |               |                                     |           ||
+| Dragón azul                                    | | | | |[readme](fauna/Dragon_azul/readme.md) | |
 | Dragón de agua asiático                           |           |       |               |                                     |           ||
 | Dragón de agua australiano                        |           |       |               |                                     |           ||
 | Dragón de komodo                                  |           |       | OK (SHORT)    |[Dragón de Komodo formidable, sigiloso y carnívoro](https://youtu.be/Hvmolz0AxnQ) |           ||
