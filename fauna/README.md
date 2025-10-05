@@ -224,6 +224,7 @@
 | Numbat                                            | 1         |       |               |                                     |           ||
 | Nutria                                            |           |       | OK            |[🦦Expertas del Agua🦦](https://youtu.be/mYlgYTaB8yw) |           ||
 | Ocelote                                           |           |       | OK            |[🐾 Siguiendo las Huellas del Ocelote: Una Aventura en la Selva 🌿](https://youtu.be/yDARrzaeLpc) |           ||
+| Okapi                                    | | | | |[readme](fauna/Okapi/readme.md) | |
 | Orangután                                         |           |       |               |                                     |           ||
 | Orca                                              |           |       | OK            |[🧠💪🌊 Orcas: Inteligencia y Poder en el Mar](https://youtu.be/Eaz9YCf0mBM)|||
 | Ornitorinco                                       |           |       | OK            |[🌟La Fascinante Vida del Ornitorrinco: Naturaleza y Curiosidades🤔](https://youtu.be/iqKKGVmqySA) |           ||
