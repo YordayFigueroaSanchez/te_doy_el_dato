@@ -23,6 +23,7 @@
 | Avispa                                            |           |       |               |                                     |[info](http://www.avispapedia.com/)||
 | Avispón asiático gigante                          |           |       |               |                                     |           ||
 | Avoceta                                           | 1         |       |               |                                     |           |<img src="avoceta/avoceta_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| Aye-aye                                    | | | | |[readme](Aye-aye/readme.md) | |
 | Babosa de mar                                     |           |       |               |                                     |           ||
 | Babuino                                           | 1         |       |               |                                     |           ||
 | Ballena azul                                      |           |  OK   | OK            |[Grande no, el más grande](https://youtu.be/I7tZo5470ks) |           ||
