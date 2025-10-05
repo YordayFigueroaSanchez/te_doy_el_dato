@@ -125,7 +125,7 @@
 | Flamenco                                          | 1         |       |               |                                     |[info](http://www.flamencopedia.com/)||
 | Foca                                              |           |       |               |                                     |[info](http://www.focapedia.com/)||
 | Foca leopardo                                     |           | WAIT  | OK            |[🗺️🔍 Explorando el Reino Helado🌬️ Encuentro con la Foca Leopardo](https://youtu.be/Asd3inTh4RM) |  ||
-| Fosa                                              |           |       |               |                                     |           ||
+| Fosa                                              |           |       |               |                                     |[readme](Fosa/readme.md)           ||
 | Frailecillo común                                 |           |       |               |                                     |           ||
 | Fregata                                           | 1         |       | OK (SHORT)    |[🦃El ave con la bolsa gular roja🦃](https://youtu.be/617T4fW5KF0) |           ||
 | Gacela                                            |           | WAIT  | OK            |[La elegancia y rapidez de la gacela](https://youtu.be/CApPwBXdPJE) |           ||
