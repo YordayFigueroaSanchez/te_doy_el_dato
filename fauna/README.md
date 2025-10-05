@@ -301,6 +301,7 @@
 | Serpiente                                         |           |       |               |                                     |           ||
 | Suricata                                          |           |       | OK            |[👀Suricatos: Los Centinelas del Desierto🛡️](https://youtu.be/yV0lGcNgszg) |           ||
 | Sula patiazul                                     |           |       |               |                                     |           |<img src="sula_patiazul/sula_patiazul_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| Tarsier                                    | | | | |[readme](fauna/Tarsier/readme.md) | |
 | Tejon melero                                      |           |       | OK            |[🔎El Tejón Melero: Secretos del Depredador Más Valiente🦡](https://youtu.be/nDNIAXOFzk0) |           ||
 | Termita                                           |           |       |               |                                     |           ||
 | Tiburón ballena                                   |           |       | OK            |[🤫Secretos del Tiburón Ballena 🐋 Tras las Huellas del Gigante🌊](https://youtu.be/H5f-W3WO3xg) |  ||
