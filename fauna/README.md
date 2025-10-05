@@ -23,6 +23,7 @@
 | Avispa                                            |           |       |               |                                     |[info](http://www.avispapedia.com/)||
 | Avispón asiático gigante                          |           |       |               |                                     |           ||
 | Avoceta                                           | 1         |       |               |                                     |           |<img src="avoceta/avoceta_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| Aye-aye                                    | | | | |[readme](Aye-aye/readme.md) | |
 | Babosa de mar                                     |           |       |               |                                     |           ||
 | Babuino                                           | 1         |       |               |                                     |           ||
 | Ballena azul                                      |           |  OK   | OK            |[Grande no, el más grande](https://youtu.be/I7tZo5470ks) |           ||
@@ -45,12 +46,14 @@
 | Caballo                                           |           |  WAIT | OK            |[🏇🌟 La Elegancia y Fuerza del Caballo 🐴](https://youtu.be/Wrh2OyZrXzw) |[info](http://www.caballopedia.com/)||
 | Caiman                                            | 1         |       |               |                                     |           |<img src="caiman/caiman_002_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | [Cabra](cabra/guion.md)                                             |1 - OK|7|20/04/2025|[🐐 ¿Cómo sube por paredes casi verticales? ¡Descúbrelo!😲](https://youtu.be/4InC5ReOi9M)| |<img src="cabra/cabra_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| Cacatúa negra                                    | | | | |[readme](Cacatua_negra/readme.md) | |
 | Cachalote                                         | 1         |       |               |                                     |           |<img src="cachalote/Cachalote_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Caimán                                            |           |       |               |                                     |           ||                   
 | Calamar                                           |           | 1     |               |                                     |[info](http://www.calamarpedia.com/)||
 | Camaleón                                          |           |       |               |                                     |           ||
 | Camaleón pantera                                  | OK        |       | OK (SHORT)    |[🦎 Maestro del Camuflaje 🦎](https://youtu.be/O-vIhrfStrc) |           ||
 | Camarón                                           | 1         |       |               |                                     |           |<img src="camaron/camaron_001_square.png" alt="Camaron" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| Camarón mantis                                    | | | | |[readme](Camaron_mantis/readme.md) | |
 | Camelus bactrianus:camello bactriano doméstico    | 1         |  6    |19/01/2025|    [🐫🐫 Desafía los Extremos 🐫🐫](https://youtu.be/RrW0lusN_NE)|[Camelus bactrianus:camello bactriano doméstico](https://es.wikipedia.org/wiki/Camelus)||
 | Camelus dromedarius: el dromedario                |           |       |               |                                     |[Camelus dromedarius: el dromedario o camello arábigo, el cual posee una sola joroba](https://es.wikipedia.org/wiki/Camelus)||
 | Camelus ferus:camelloBactrianoSalvaje             |           |       |               |                                     |[Camelus ferus: el camello salvaje o camello bactriano salvaje, el único que nunca fue domesticado](https://es.wikipedia.org/wiki/Camelus)||
@@ -88,6 +91,7 @@
 | Colimbo grande                                    |           |       |               |                                     |           ||
 | Colibri                                           |           |       |               |[🌺Magia en Miniatura🐦](https://youtu.be/1k5i5PG5Z_Q)|           ||
 |                                                   |           |       |               |[version 1](https://youtu.be/THKRiTspxp4)|           ||
+| Colugo                                    | | | | |[readme](Colugo/readme.md) | |
 | Comadreja                                         | 1         |       |               |                                     |           ||
 | [Conejo](https://youtu.be/bT0QZRHLMhc)            | 1         |6|17/07/2025|[💩¿Por Qué los Conejos Comen su PROPIO Popó?😱](https://youtu.be/bT0QZRHLMhc)|           |<img src="conejo/conejo_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Coral                                             |           |       |               |                                     |           ||
@@ -100,6 +104,7 @@
 | Dingo                                             |           |       |               |                                     |           ||
 | Dodo (extinta)                                    |           |       |               |                                     |           ||
 | Dólar de plata                                    |           |       |               |                                     |           ||
+| Dragón azul                                    | | | | |[readme](Dragon_azul/readme.md) | |
 | Dragón de agua asiático                           |           |       |               |                                     |           ||
 | Dragón de agua australiano                        |           |       |               |                                     |           ||
 | Dragón de komodo                                  |           |       | OK (SHORT)    |[Dragón de Komodo formidable, sigiloso y carnívoro](https://youtu.be/Hvmolz0AxnQ) |           ||
@@ -123,7 +128,7 @@
 | Flamenco                                          | 1         |       |               |                                     |[info](http://www.flamencopedia.com/)||
 | Foca                                              |           |       |               |                                     |[info](http://www.focapedia.com/)||
 | Foca leopardo                                     |           | WAIT  | OK            |[🗺️🔍 Explorando el Reino Helado🌬️ Encuentro con la Foca Leopardo](https://youtu.be/Asd3inTh4RM) |  ||
-| Fosa                                              |           |       |               |                                     |           ||
+| Fosa                                              |           |       |               |                                     |[readme](Fosa/readme.md)           ||
 | Frailecillo común                                 |           |       |               |                                     |           ||
 | Fregata                                           | 1         |       | OK (SHORT)    |[🦃El ave con la bolsa gular roja🦃](https://youtu.be/617T4fW5KF0) |           ||
 | Gacela                                            |           | WAIT  | OK            |[La elegancia y rapidez de la gacela](https://youtu.be/CApPwBXdPJE) |           ||
@@ -217,10 +222,12 @@
 | Murciélago                                        |           |       |               | |           ||
 | Murciélago vampiro                                |           |       |               |                                     |           ||
 | Musaraña                                          |           |       |               |                                     |           ||
+| Narval                                            |          |       |               ||[readme](narval/readme.md)||
 | Nu                                                |           |       | OK            |[Ñu herbívoro, veloz y gregario](https://youtu.be/pAXQmnywQQQ) |           ||
 | Numbat                                            | 1         |       |               |                                     |           ||
 | Nutria                                            |           |       | OK            |[🦦Expertas del Agua🦦](https://youtu.be/mYlgYTaB8yw) |           ||
 | Ocelote                                           |           |       | OK            |[🐾 Siguiendo las Huellas del Ocelote: Una Aventura en la Selva 🌿](https://youtu.be/yDARrzaeLpc) |           ||
+| Okapi                                    | | | | |[readme](Okapi/readme.md) | |
 | Orangután                                         |           |       |               |                                     |           ||
 | Orca                                              |           |       | OK            |[🧠💪🌊 Orcas: Inteligencia y Poder en el Mar](https://youtu.be/Eaz9YCf0mBM)|||
 | Ornitorinco                                       |           |       | OK            |[🌟La Fascinante Vida del Ornitorrinco: Naturaleza y Curiosidades🤔](https://youtu.be/iqKKGVmqySA) |           ||
@@ -233,6 +240,7 @@
 | Oso polar                                         |           |       | OK            |[Un oso blanco, poderoso y vulnerable](https://youtu.be/w_Ov9KNSV4E) |           ||
 | Oveja                                             | 1         |       |               |                                     |           ||
 | Pájaro carpintero                                 |           |   7   |07/09/2025     |[💪 ¡El cráneo más resistente del reino animal! ¿Cómo lo logra? 🧱](https://youtu.be/nERiXNIFMfE)|          |<img src="pajaro_carpintero/Pajaros_carpinteros_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| Pangolín                                    | | | | |[readme](Pangolin/readme.md) | |
 | Pantera negra (no seria una especie)              |           |       |               |                                     |[info](https://www.publico.es/yo-animal/sabias-que-las-panteras-negras-no-existen/)||
 | Pato                                              |           |       |               |                                     |           ||
 | pavo doméstico                                    | 1         |       |               |                                     |           ||
@@ -255,6 +263,7 @@
 | Pez león                                          |           |       | OK            |[Intruso Exótico: 🐠🦁 La Amenaza del Pez León 🔥](https://youtu.be/tvQ9hewfxls) |           ||
 | Pez luchador                                      | 1         |   6   | 17/02/2025    |[🐠 ¡El pez más feroz y hermoso del acuario! 🔥](https://youtu.be/HpZQCff57ms)|[info](https://www.fishipedia.es/pez/betta-splendens)|<img src="pez_luchador/pez_peleador_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Pez mandarin                                      |           |       | OK            |[El pez mandarín colorido, delicado y ornamental](https://youtu.be/lc5iTfC6UeI) |           ||
+| Pez mano rosado                                    | | | | |[readme](Pez_mano_rosado/readme.md) | |
 | Pez mariposa                                      |           |       |               |                                     |           ||
 | Pez Payaso                                        |           |       |               |                                     |           ||
 | Pingüino                                          | 1         |       |               |                                     |           ||
@@ -265,7 +274,8 @@
 | Puercoespín                                       | 1         |       |               |                                     |           ||
 | Pulpo                                             | 1         |       |               |                                     |           |<img src="pulpo/pulpo_001_square.png" alt="Pulpo" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Puma                                              |           |       | OK            |[El puma ágil, sigiloso y solitario](https://youtu.be/nQ54wW4Rjac) |           ||
-| Quetzal                                           |           |       | OK            |[El quetzal, colorido, elegante y exótico](https://youtu.be/D7zm7St6JN0) |           ||
+| Quokka                                           |           |       |             | |[readme](Quokka/readme.md)||
+| Fosa                                              |           |       |               |                                     |[readme](Fosa/readme.md)           ||
 | Rana africana de uñas                             |           |       |               |                                     |           ||
 | Rana cohete rayada                                |           |       |               |                                     |           ||
 | Rana comestible                                   |           |       |               |                                     |           ||
@@ -287,6 +297,7 @@
 | Ruiseñor pechiazul                                | 1         |       | OK (SHORT)    |[🐣🎨🔊Colores, Cantos y Migraciones](https://youtu.be/BHcw9iXEt7E) |           ||
 | Salamandra                                        | 1         |       |               |                                     |[info](http://www.salamandrapedia.com)    ||
 | Saltamontes                                       | 1         |       |               |                                     |           ||
+| Saola                                           |           |       |             | |[readme](Saola/readme.md)||
 | Sapo africano                                     |           |       |               |                                     |           ||
 | Sapo común                                        |           |       |               |                                     |           ||
 | Sapo de caña                                      |           |       |               |                                     |           ||
@@ -297,10 +308,13 @@
 | Serpiente                                         |           |       |               |                                     |           ||
 | Suricata                                          |           |       | OK            |[👀Suricatos: Los Centinelas del Desierto🛡️](https://youtu.be/yV0lGcNgszg) |           ||
 | Sula patiazul                                     |           |       |               |                                     |           |<img src="sula_patiazul/sula_patiazul_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| Tarsier                                    | | | | |[readme](Tarsier/readme.md) | |
 | Tejon melero                                      |           |       | OK            |[🔎El Tejón Melero: Secretos del Depredador Más Valiente🦡](https://youtu.be/nDNIAXOFzk0) |           ||
+| Tenrec                                    | | | | |[readme](Tenrec/readme.md) | |
 | Termita                                           |           |       |               |                                     |           ||
 | Tiburón ballena                                   |           |       | OK            |[🤫Secretos del Tiburón Ballena 🐋 Tras las Huellas del Gigante🌊](https://youtu.be/H5f-W3WO3xg) |  ||
 | Tiburón blanco                                    |           |       | OK            |[El tiburón blanco imponente, formidable y predador](https://youtu.be/x5Hg1NSPFOo) |           ||
+| Tiburón duende                                    | | | | |[readme](Tiburon_duende/readme.md) | |
 | Tiburón mielga                                    |           |       |               |                                     |           ||
 | Tigre                                             |           |       | OK (SHORT)    |[Tigre feroz, elegante y rayado](https://youtu.be/8BDJ0Pd0Wt4) |           ||
 | Topo                                              | 1         |       |               |                                     |           ||
