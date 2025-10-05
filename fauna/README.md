@@ -270,7 +270,8 @@
 | Puercoespín                                       | 1         |       |               |                                     |           ||
 | Pulpo                                             | 1         |       |               |                                     |           |<img src="pulpo/pulpo_001_square.png" alt="Pulpo" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Puma                                              |           |       | OK            |[El puma ágil, sigiloso y solitario](https://youtu.be/nQ54wW4Rjac) |           ||
-| Quetzal                                           |           |       | OK            |[El quetzal, colorido, elegante y exótico](https://youtu.be/D7zm7St6JN0) |           ||
+| Quokka                                           |           |       |             | |[readme](Quokka/readme.md)||
+| Fosa                                              |           |       |               |                                     |[readme](Fosa/readme.md)           ||
 | Rana africana de uñas                             |           |       |               |                                     |           ||
 | Rana cohete rayada                                |           |       |               |                                     |           ||
 | Rana comestible                                   |           |       |               |                                     |           ||
