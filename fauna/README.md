@@ -258,6 +258,7 @@
 | Pez león                                          |           |       | OK            |[Intruso Exótico: 🐠🦁 La Amenaza del Pez León 🔥](https://youtu.be/tvQ9hewfxls) |           ||
 | Pez luchador                                      | 1         |   6   | 17/02/2025    |[🐠 ¡El pez más feroz y hermoso del acuario! 🔥](https://youtu.be/HpZQCff57ms)|[info](https://www.fishipedia.es/pez/betta-splendens)|<img src="pez_luchador/pez_peleador_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Pez mandarin                                      |           |       | OK            |[El pez mandarín colorido, delicado y ornamental](https://youtu.be/lc5iTfC6UeI) |           ||
+| Pez mano rosado                                    | | | | |[readme](fauna/Pez_mano_rosado/readme.md) | |
 | Pez mariposa                                      |           |       |               |                                     |           ||
 | Pez Payaso                                        |           |       |               |                                     |           ||
 | Pingüino                                          | 1         |       |               |                                     |           ||
