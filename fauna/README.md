@@ -296,6 +296,7 @@
 | Ruiseñor                                          | 1         |       |               |                                     |           ||
 | Ruiseñor pechiazul                                | 1         |       | OK (SHORT)    |[🐣🎨🔊Colores, Cantos y Migraciones](https://youtu.be/BHcw9iXEt7E) |           ||
 | Salamandra                                        | 1         |       |               |                                     |[info](http://www.salamandrapedia.com)    ||
+| Salmon                                        |  | | | | |<img src="salmon/salmon.jpg" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Saltamontes                                       | 1         |       |               |                                     |           ||
 | Saola                                           |           |       |             | |[readme](Saola/readme.md)||
 | Sapo africano                                     |           |       |               |                                     |           ||
