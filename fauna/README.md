@@ -307,6 +307,7 @@
 | Sula patiazul                                     |           |       |               |                                     |           |<img src="sula_patiazul/sula_patiazul_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Tarsier                                    | | | | |[readme](Tarsier/readme.md) | |
 | Tejon melero                                      |           |       | OK            |[🔎El Tejón Melero: Secretos del Depredador Más Valiente🦡](https://youtu.be/nDNIAXOFzk0) |           ||
+| Tenrec                                    | | | | |[readme](Tenrec/readme.md) | |
 | Termita                                           |           |       |               |                                     |           ||
 | Tiburón ballena                                   |           |       | OK            |[🤫Secretos del Tiburón Ballena 🐋 Tras las Huellas del Gigante🌊](https://youtu.be/H5f-W3WO3xg) |  ||
 | Tiburón blanco                                    |           |       | OK            |[El tiburón blanco imponente, formidable y predador](https://youtu.be/x5Hg1NSPFOo) |           ||
