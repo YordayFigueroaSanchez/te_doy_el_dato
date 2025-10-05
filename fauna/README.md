@@ -46,14 +46,14 @@
 | Caballo                                           |           |  WAIT | OK            |[🏇🌟 La Elegancia y Fuerza del Caballo 🐴](https://youtu.be/Wrh2OyZrXzw) |[info](http://www.caballopedia.com/)||
 | Caiman                                            | 1         |       |               |                                     |           |<img src="caiman/caiman_002_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | [Cabra](cabra/guion.md)                                             |1 - OK|7|20/04/2025|[🐐 ¿Cómo sube por paredes casi verticales? ¡Descúbrelo!😲](https://youtu.be/4InC5ReOi9M)| |<img src="cabra/cabra_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
-| Cacatúa negra                                    | | | | |[readme](Cacatua_negra/readme.md) | |
+| Cacatúa negra                                    | | | | |[readme](Cacatua_negra/readme.md) |<img src="Cacatua_negra/Cacatúa-negra.jpg" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Cachalote                                         | 1         |       |               |                                     |           |<img src="cachalote/Cachalote_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Caimán                                            |           |       |               |                                     |           ||                   
 | Calamar                                           |           | 1     |               |                                     |[info](http://www.calamarpedia.com/)||
 | Camaleón                                          |           |       |               |                                     |           ||
 | Camaleón pantera                                  | OK        |       | OK (SHORT)    |[🦎 Maestro del Camuflaje 🦎](https://youtu.be/O-vIhrfStrc) |           ||
 | Camarón                                           | 1         |       |               |                                     |           |<img src="camaron/camaron_001_square.png" alt="Camaron" style="width: 300px; height: auto; border: 2px solid #ccc;">|
-| Camarón mantis                                    | | | | |[readme](Camaron_mantis/readme.md) | |
+| Camarón mantis                                    | | | | |[readme](Camaron_mantis/readme.md) |<img src="Camaron_mantis/Camarón-mantis.jpg" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Camelus bactrianus:camello bactriano doméstico    | 1         |  6    |19/01/2025|    [🐫🐫 Desafía los Extremos 🐫🐫](https://youtu.be/RrW0lusN_NE)|[Camelus bactrianus:camello bactriano doméstico](https://es.wikipedia.org/wiki/Camelus)||
 | Camelus dromedarius: el dromedario                |           |       |               |                                     |[Camelus dromedarius: el dromedario o camello arábigo, el cual posee una sola joroba](https://es.wikipedia.org/wiki/Camelus)||
 | Camelus ferus:camelloBactrianoSalvaje             |           |       |               |                                     |[Camelus ferus: el camello salvaje o camello bactriano salvaje, el único que nunca fue domesticado](https://es.wikipedia.org/wiki/Camelus)||
@@ -91,7 +91,7 @@
 | Colimbo grande                                    |           |       |               |                                     |           ||
 | Colibri                                           |           |       |               |[🌺Magia en Miniatura🐦](https://youtu.be/1k5i5PG5Z_Q)|           ||
 |                                                   |           |       |               |[version 1](https://youtu.be/THKRiTspxp4)|           ||
-| Colugo                                    | | | | |[readme](Colugo/readme.md) | |
+| Colugo                                    | | | | |[readme](Colugo/readme.md) |<img src="Colugo/Colugo.jpg" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Comadreja                                         | 1         |       |               |                                     |           ||
 | [Conejo](https://youtu.be/bT0QZRHLMhc)            | 1         |6|17/07/2025|[💩¿Por Qué los Conejos Comen su PROPIO Popó?😱](https://youtu.be/bT0QZRHLMhc)|           |<img src="conejo/conejo_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Coral                                             |           |       |               |                                     |           ||
@@ -104,7 +104,7 @@
 | Dingo                                             |           |       |               |                                     |           ||
 | Dodo (extinta)                                    |           |       |               |                                     |           ||
 | Dólar de plata                                    |           |       |               |                                     |           ||
-| Dragón azul                                    | | | | |[readme](Dragon_azul/readme.md) | |
+| Dragón azul                                    | | | | |[readme](Dragon_azul/readme.md) |<img src="Dragon_azul/Dragon-azul.jpg" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Dragón de agua asiático                           |           |       |               |                                     |           ||
 | Dragón de agua australiano                        |           |       |               |                                     |           ||
 | Dragón de komodo                                  |           |       | OK (SHORT)    |[Dragón de Komodo formidable, sigiloso y carnívoro](https://youtu.be/Hvmolz0AxnQ) |           ||
@@ -128,7 +128,7 @@
 | Flamenco                                          | 1         |       |               |                                     |[info](http://www.flamencopedia.com/)||
 | Foca                                              |           |       |               |                                     |[info](http://www.focapedia.com/)||
 | Foca leopardo                                     |           | WAIT  | OK            |[🗺️🔍 Explorando el Reino Helado🌬️ Encuentro con la Foca Leopardo](https://youtu.be/Asd3inTh4RM) |  ||
-| Fosa                                              |           |       |               |                                     |[readme](Fosa/readme.md)           ||
+| Fosa                                              |           |       |               |                                     |[readme](Fosa/readme.md)           |<img src="Fosa/fosa.jpg" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Frailecillo común                                 |           |       |               |                                     |           ||
 | Fregata                                           | 1         |       | OK (SHORT)    |[🦃El ave con la bolsa gular roja🦃](https://youtu.be/617T4fW5KF0) |           ||
 | Gacela                                            |           | WAIT  | OK            |[La elegancia y rapidez de la gacela](https://youtu.be/CApPwBXdPJE) |           ||
@@ -222,7 +222,7 @@
 | Murciélago                                        |           |       |               | |           ||
 | Murciélago vampiro                                |           |       |               |                                     |           ||
 | Musaraña                                          |           |       |               |                                     |           ||
-| Narval                                            |          |       |               ||[readme](narval/readme.md)||
+| Narval                                            |          |       |               ||[readme](narval/readme.md)|<img src="narval/Narval.jpg" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Nu                                                |           |       | OK            |[Ñu herbívoro, veloz y gregario](https://youtu.be/pAXQmnywQQQ) |           ||
 | Numbat                                            | 1         |       |               |                                     |           ||
 | Nutria                                            |           |       | OK            |[🦦Expertas del Agua🦦](https://youtu.be/mYlgYTaB8yw) |           ||
@@ -263,7 +263,7 @@
 | Pez león                                          |           |       | OK            |[Intruso Exótico: 🐠🦁 La Amenaza del Pez León 🔥](https://youtu.be/tvQ9hewfxls) |           ||
 | Pez luchador                                      | 1         |   6   | 17/02/2025    |[🐠 ¡El pez más feroz y hermoso del acuario! 🔥](https://youtu.be/HpZQCff57ms)|[info](https://www.fishipedia.es/pez/betta-splendens)|<img src="pez_luchador/pez_peleador_001_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Pez mandarin                                      |           |       | OK            |[El pez mandarín colorido, delicado y ornamental](https://youtu.be/lc5iTfC6UeI) |           ||
-| Pez mano rosado                                    | | | | |[readme](Pez_mano_rosado/readme.md) | |
+| Pez mano rosado                                    | | | | |[readme](Pez_mano_rosado/readme.md) |<img src="Pez_mano_rosado/Pez-mano-rosado.jpg" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Pez mariposa                                      |           |       |               |                                     |           ||
 | Pez Payaso                                        |           |       |               |                                     |           ||
 | Pingüino                                          | 1         |       |               |                                     |           ||
@@ -315,7 +315,7 @@
 | Termita                                           |           |       |               |                                     |           ||
 | Tiburón ballena                                   |           |       | OK            |[🤫Secretos del Tiburón Ballena 🐋 Tras las Huellas del Gigante🌊](https://youtu.be/H5f-W3WO3xg) |  ||
 | Tiburón blanco                                    |           |       | OK            |[El tiburón blanco imponente, formidable y predador](https://youtu.be/x5Hg1NSPFOo) |           ||
-| Tiburón duende                                    | | | | |[readme](Tiburon_duende/readme.md) | |
+| Tiburón duende                                    | | | | |[readme](Tiburon_duende/readme.md) |<img src="Tiburon_duende/Tiburón-duende.jpg" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Tiburón mielga                                    |           |       |               |                                     |           ||
 | Tigre                                             |           |       | OK (SHORT)    |[Tigre feroz, elegante y rayado](https://youtu.be/8BDJ0Pd0Wt4) |           ||
 | Topo                                              | 1         |       |               |                                     |           ||
