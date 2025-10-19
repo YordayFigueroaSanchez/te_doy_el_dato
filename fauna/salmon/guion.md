@@ -4,7 +4,7 @@ Imagina un ser vivo que nace en la tranquilidad de un río, se aventura a la inm
 
 ### Anatomía: Un Diseño para la Resistencia
 
-El cuerpo del salmón es una obra maestra de la hidrodinámica. Alargado y fusiforme, está cubierto por pequeñas escamas que, cuando se encuentra en el mar, brillan con un tono plateado que le sirve de camuflaje en las aguas abiertas. Puede alcanzar hasta 150 cm de longitud y su cabeza, relativamente pequeña, alberga mandíbulas fuertes y grandes. Una de sus adaptaciones más notables es la aleta adiposa, una pequeña aleta carnosa situada en el lomo, cerca de la cola, característica de su familia. Su cola es extremadamente poderosa y flexible, el motor que le permite viajar miles de kilómetros y realizar saltos espectaculares de hasta 4 metros para superar cascadas y obstáculos en su camino río arriba.
+El cuerpo del salmón es una obra maestra de hidrodinámica. Alargado y fusiforme, está cubierto por pequeñas escamas que, cuando nada en mar abierto, brillan con un tono plateado que lo camufla entre las corrientes. Su longitud suele oscilar entre 60 y 100 cm, y su cabeza, relativamente pequeña, alberga mandíbulas potentes. Destaca también su aleta adiposa, una pequeña aleta carnosa situada en el lomo, cerca de la cola, típica de su familia. Su cola, poderosa y flexible, actúa como motor natural que le permite recorrer largas distancias migratorias y realizar saltos espectaculares de varios metros de altura para superar cascadas y otros obstáculos en su camino río arriba.
 
 ### Hábitat y Distribución: Un Ciudadano del Hemisferio Norte
 
