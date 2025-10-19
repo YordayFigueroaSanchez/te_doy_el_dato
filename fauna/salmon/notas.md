@@ -72,9 +72,11 @@ salmón, salmones, peces, animales salvajes, documental, naturaleza, vida salvaj
 
 # Url
 ## Youtube
-[🐷 ¿El Cerdo es más listo que tu Perro? ¡Sorpréndete! 🤯](https://youtu.be/R0XLLGzmHGk)
+[🌊 Salmón: El Viajero de DOS MUNDOS 🏞️](https://youtu.be/CaZX7XoAkak)
 ## Odysee
-[🐷 ¿El Cerdo es más listo que tu Perro? ¡Sorpréndete! 🤯](https://odysee.com/cerdo_720p:e824bce6dcff90b333869b03d8597866ba306b57)
+[🌊 Salmón: El Viajero de DOS MUNDOS 🏞️](https://odysee.com/salmon_video_720p:5dc516386cd64ace422e7eaed382bcc2cb88962d)
+## Substack
+[🌊 Salmón: El Viajero de DOS MUNDOS 🏞️](https://open.substack.com/pub/tedoyeldato/p/el-viajero-incansable-de-dos-mundos?r=6httlh&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
 # Tags para odyse
 animales,animals,fauna,salmon,nature

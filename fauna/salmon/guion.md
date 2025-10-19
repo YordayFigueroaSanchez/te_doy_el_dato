@@ -1,3 +1,5 @@
+![alt text](salmon_portada_001.png)
+
 ### El Viajero Incansable de Dos Mundos
 
 Imagina un ser vivo que nace en la tranquilidad de un río, se aventura a la inmensidad del océano para alcanzar su plenitud y, contra todo pronóstico, emprende un épico viaje de regreso al mismo punto donde su vida comenzó. No come durante meses, transforma su cuerpo y desafía corrientes y depredadores, todo por un único propósito: asegurar el futuro de su especie. Este atleta de la naturaleza, este navegante de instintos ancestrales, es el salmón.
