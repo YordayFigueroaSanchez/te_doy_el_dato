@@ -8,7 +8,7 @@ El cuerpo del salmón es una obra maestra de la hidrodinámica. Alargado y fusif
 
 ### Hábitat y Distribución: Un Ciudadano del Hemisferio Norte
 
-El salmón es un pez de aguas frías y bien oxigenadas, lo que define su distribución global. Habita en los océanos Atlántico y Pacífico. Especies como el salmón del Atlántico, cuyo nombre científico es *Salmo salar*, se encuentran en las costas de Norteamérica y Europa. Por otro lado, la cuenca del Pacífico es el hogar de varias especies del género *Oncorhynchus*, con poblaciones clave en las costas de Alaska, Canadá y Rusia. Su vida transcurre en dos hábitats radicalmente distintos: los ríos y lagos de agua dulce, donde nacen y se reproducen, y el océano de agua salada, donde crecen y maduran.
+El salmón es un pez de aguas frías y bien oxigenadas, lo que define su distribución global. Habita en los océanos Atlántico y Pacífico. Especies como el salmón del Atlántico, cuyo nombre científico es Salmo salar, se encuentran en las costas de Norteamérica y Europa. Por otro lado, la cuenca del Pacífico es el hogar de varias especies del género Oncorhynchus, con poblaciones clave en las costas de Alaska, Canadá y Rusia. Su vida transcurre en dos hábitats radicalmente distintos: los ríos y lagos de agua dulce, donde nacen y se reproducen, y el océano de agua salada, donde crecen y maduran.
 
 ### Alimentación: Una Dieta que Cambia con el Viaje
 
@@ -28,7 +28,7 @@ A lo largo de toda su vida, el salmón se enfrenta a una multitud de depredadore
 
 El salmón es uno de los pocos animales capaces de vivir tanto en agua dulce como en agua salada, un rasgo conocido como anadromía. Este cambio de ambiente requiere una asombrosa adaptación fisiológica llamada esmoltificación, donde su cuerpo se reconfigura para poder procesar la sal del agua de mar.
 
-Su capacidad de navegación es legendaria. Pueden recorrer distancias de más de 6.000 kilómetros desde sus zonas de alimentación en el océano, como las costas de Groenlandia, para encontrar con una precisión asombrosa el mismo río donde nacieron años atrás. Su potencia no es menor, ya que su musculosa cola les permite alcanzar velocidades de nado de hasta 50 kilómetros por hora en ráfagas cortas.
+Su capacidad de navegación es legendaria. Pueden recorrer distancias de más de 6000 kilómetros desde sus zonas de alimentación en el océano, como las costas de Groenlandia, para encontrar con una precisión asombrosa el mismo río donde nacieron años atrás. Su potencia no es menor, ya que su musculosa cola les permite alcanzar velocidades de nado de hasta 50 kilómetros por hora en ráfagas cortas.
 
 Aunque parezca increíble, el cuerpo sin vida de un salmón tras el desove juega un papel ecológico crucial. Al descomponerse, libera nutrientes de origen marino en los ecosistemas de agua dulce, que de otro modo serían pobres en ellos. Este acto final fertiliza el río y proporciona el primer alimento a los insectos y crustáceos que, a su vez, alimentarán a la siguiente generación de salmones.
 
