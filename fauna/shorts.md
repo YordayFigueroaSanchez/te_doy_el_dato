@@ -1236,6 +1236,24 @@ El ganso del Nilo, un animal con una rica historia, lleno de belleza, carácter 
 🐦 ¿La urraca roba joyas? Mito, verdad… y mucha inteligencia 🔊
 # s_0509_urraca_comun.mp4
 🐦 ¿Solo un ave ruidosa? La urraca es mucho más de lo que crees 🔊
+# s_0510_salmon.mp4
+🌊 El regreso imposible del salmón 🏞️
+# s_0511_salmon.mp4
+🌊 Así es el atleta más poderoso de los ríos 🏞️
+# s_0512_salmon.mp4
+🌊 Del río al océano: la doble vida del salmón 🏞️
+# s_0513_salmon.mp4
+🌊 El cambio de dieta más extremo del reino animal 🏞️
+# s_0514_salmon.mp4
+🌊 La migración más extrema del planeta 🏞️
+# s_0515_salmon.mp4
+🌊 La última metamorfosis del salmón 🏞️
+# s_0516_salmon.mp4
+🌊 El peligroso viaje del salmón: todos quieren devorarlo 🏞️
+# s_0517_salmon.mp4
+🌊 El pez que navega miles de kilómetros para volver a casa 🏞️
+# s_0518_salmon.mp4
+🌊 Cuando la muerte da vida: el último regalo del salmón 🏞️
 
 
 
