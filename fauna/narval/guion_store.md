@@ -1,6 +1,6 @@
 # ChatGPT
 
-
+[Chat con ChatGPT](https://chatgpt.com/share/68ff77be-c930-8007-9643-eb6f75fcccd3)
 
 ## **El Unicornio del Ártico: El Misterioso Narval**
 
