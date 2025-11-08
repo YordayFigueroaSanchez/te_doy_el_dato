@@ -222,7 +222,7 @@
 | Murciélago                                        |           |       |               | |           ||
 | Murciélago vampiro                                |           |       |               |                                     |           ||
 | Musaraña                                          |           |       |               |                                     |           ||
-| Narval                                            |          |       |               ||[readme](narval/readme.md)|<img src="narval/Narval.jpg" style="width: 300px; height: auto; border: 2px solid #ccc;">|
+| [Narval](narval/guion.md)                         |          | 11      | 08/11/2025              |[🦄 Narval: ¿El unicornio del mar es REAL?](https://youtu.be/q6iE68nNXYE)|[readme](narval/readme.md)|<img src="narval/Narval.jpg" style="width: 300px; height: auto; border: 2px solid #ccc;">|
 | Nu                                                |           |       | OK            |[Ñu herbívoro, veloz y gregario](https://youtu.be/pAXQmnywQQQ) |           ||
 | Numbat                                            | 1         |       |               |                                     |           ||
 | Nutria                                            |           |       | OK            |[🦦Expertas del Agua🦦](https://youtu.be/mYlgYTaB8yw) |           ||
