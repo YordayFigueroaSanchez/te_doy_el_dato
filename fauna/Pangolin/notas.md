@@ -43,7 +43,9 @@ Basado en el contenido del documento proporcionado, genera 10 títulos cortos, l
 9. 🐯 **¡El animal que humilla a los leones con su defensa!** 🦁
 10. 🌍 **Pangolín: ¡El guardián silencioso de nuestros bosques!** 🌱
 ## Seleccionado
-🦄 Narval: ¿El unicornio del mar es REAL?
+🐜 Pangolín: ¡La máquina devoradora de 70 millones de hormigas! 🍽️
+🐯 ¡El animal que humilla a los leones con su defensa! 🦁
+🛡️ Pangolín: ¡El único mamífero con armadura de caballero! ⚔️
 
 # Adjetivos
 ## Promnt
@@ -54,13 +56,13 @@ Misterioso 🦇
 Ágil ⚡
 Nocturno 🌙
 ## Result
-Misterioso 🦄
-Ártico 🧊
-Sensorial 📡
+* **Acorazado** 🛡️ (Debido a su armadura única de escamas de queratina que lo protege de los grandes depredadores).
+* **Enigmático** 🎭 (Por su naturaleza solitaria, nocturna y su historia evolutiva de 80 millones de años).
+* **Resiliente** 💪 (Por su capacidad de sobrevivir a ataques feroces y su resistencia genética ante virus, a pesar de las amenazas externas).
 ## Adjetivos en limpio
-Misterioso
-Ártico
-Sensorial
+Acorazado
+Enigmático
+Resiliente
 
 # Tags para youtube
 ## Prompt
@@ -68,14 +70,14 @@ Analiza el contenido del documento proporcionado y genera una lista de etiquetas
 📌 Ejemplo de salida esperada (para un video sobre el murciélago):
 murciélago, murciélagos, animales nocturnos, mamíferos voladores, ecosistema, biodiversidad, cueva, insectívoro, noche, animales increíbles, wildlife
 ## Result
-narval, narvales, unicornio del mar, monodon monoceros, ballena, animales árticos, cetáceo, animales marinos, colmillo de narval, diente, cuerno, polo norte, ártico, buceo profundo, ecolocalización, vida salvaje, documental de animales, naturaleza, curiosidades animales, supervivencia, animales misteriosos, cambio climático, hielo marino
+pangolín, pangolines, Pholidota, mamífero con escamas, animal acorazado, vida silvestre, biodiversidad, animales de África, animales de Asia, naturaleza, wildlife, insectívoros, control de plagas, tráfico de animales, conservación, especies en peligro, escamas de queratina, curiosidades animales, animales exóticos, animales nocturnos, evolución, superviviente, armadura natural, lengua de pangolín, pangolín chino, pangolín africano, medio ambiente, ecología, animales asombrosos.
 
 # Url
-[🦄 Narval: ¿El unicornio del mar es REAL?](https://youtu.be/q6iE68nNXYE)
-[🦄 Narval: ¿El unicornio del mar es REAL?](https://odysee.com/@yfsanchez:d/narval_video_720p:5)
-[🦄 Narval: ¿El unicornio del mar es REAL?](https://open.substack.com/pub/tedoyeldato/p/narval-el-unicornio-del-mar-es-real?r=6httlh&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+[🐜 Pangolín: ¡La máquina devoradora de 70 millones de hormigas! 🍽️](https://youtu.be/AnUuZopd46E)
+[🐜 Pangolín: ¡La máquina devoradora de 70 millones de hormigas! 🍽️](https://odysee.com/@yfsanchez:d/pangolin_video_720p:0)
+[🐜 Pangolín: ¡La máquina devoradora de 70 millones de hormigas! 🍽️](https://open.substack.com/pub/tedoyeldato/p/pangolin-la-maquina-devoradora-de?r=6httlh&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
 # Tags para odyse
-animales,animals,fauna,narval,nature
+animales,animals,fauna,pangolín,nature
 
 # Mejorar texto

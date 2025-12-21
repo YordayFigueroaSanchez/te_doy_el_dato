@@ -1,4 +1,5 @@
-## **El Pangolín: El Guerrero Acorazado que Desafía a los Gigantes**
+## 🐜 Pangolín: ¡La máquina devoradora de 70 millones de hormigas! 🍽️
+![alt text](pangolin_portada_002.png)
 
 Imagina al animal más enigmático de los bosques tropicales de África y Asia: una criatura que parece un cruce entre un armadillo y una alcachofa andante. 
 
