@@ -240,7 +240,7 @@
 | Oso polar                                         |           |       | OK            |[Un oso blanco, poderoso y vulnerable](https://youtu.be/w_Ov9KNSV4E) |           ||
 | Oveja                                             | 1         |       |               |                                     |           ||
 | Pájaro carpintero                                 |           |   7   |07/09/2025     |[💪 ¡El cráneo más resistente del reino animal! ¿Cómo lo logra? 🧱](https://youtu.be/nERiXNIFMfE)|          |<img src="pajaro_carpintero/Pajaros_carpinteros_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;">|
-| Pangolín                                    | | | | |[readme](Pangolin/readme.md) | |
+| [Pangolín](Pangolin/guion.md)| |5|21/12/2025 |[🐜 Pangolín: ¡La máquina devoradora de 70 millones de hormigas! 🍽️](https://youtu.be/AnUuZopd46E)|[readme](Pangolin/readme.md) | |
 | Pantera negra (no seria una especie)              |           |       |               |                                     |[info](https://www.publico.es/yo-animal/sabias-que-las-panteras-negras-no-existen/)||
 | Pato                                              |           |       |               |                                     |           ||
 | pavo doméstico                                    | 1         |       |               |                                     |           ||

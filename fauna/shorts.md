@@ -1258,7 +1258,16 @@ El ganso del Nilo, un animal con una rica historia, lleno de belleza, carácter 
 🦄 Narvales: la fuerza del grupo en el frío extremo ❄️🐋
 # s_0520_narval
 🦄 Narval: el verdadero unicornio del Ártico 🦄❄️
-
+# s_0521_pangolin
+⚽ El enfoque de misterio: ¿Armadillo o alcachofa? 🛡️🤔
+# s_0522_pangolin
+⚽ ¡La armadura más RESISTENTE de la naturaleza! 🛡️💥
+# s_0523_pangolin
+⚽ ¡El animal con la lengua más extraña! 👅🐜
+# s_0524_pangolin
+⚽ ¡Mamá pangolín y su forma única de cargar bebés! 🤱🛡️
+# s_0525_pangolin
+⚽ 💔 ¡El mamífero más TRAFICADO del planeta! 🚫🐾
 
 # Emojis
 🦧🐵🐒🦍🦧🐶🐕🦮🐕‍🦺🐩🐺🦊🦝🐱🐈🐈‍🦁🐯🐅🐆🐴🐎🦄🦓🦌🐮
