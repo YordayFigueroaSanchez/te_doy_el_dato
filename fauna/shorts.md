@@ -1068,22 +1068,6 @@ Desde tiempos inmemoriales, la figura de la cabra se ha entrelazado con el tejid
 ¿Sabías que en China se utilizan cabras en las plantaciones de té? Se sueltan en los campos para que se coman las malas hierbas, sin tocar las delicadas hojas del té verde. Así, además de limpiar el terreno, sus excrementos fertilizan naturalmente las plantas.
 También es curioso que a pesar de la fama de comelonas, las cabras rara vez comen alimentos sucios o contaminados. Su sentido del gusto es muy desarrollado y solo ingieren lo que han probado y considerado seguro.
 Sorprendentemente, una cabra con buenos cuidados puede vivir hasta 18 años, siendo lo común entre 10 y 12. Y aquí va otro dato interesante: ¡la edad de una cabra se revela en los anillos de sus cuernos, tal como sucede con los árboles!
----
----
----
----
----
----
----
-**CONTINUAR AGREGANDO SHORT DESDE ACA**
----
----
----
----
----
----
----
----
 # s_0450_cerdo.mp4
 🐷 ¿Cerdos Sucios? ¡Piénsalo de Nuevo! 🤯
 Imagina un animal que, a pesar de su reputación popular, es increíblemente limpio y ni siquiera puede sudar como nosotros. ¿Ya tienes una idea de quién hablamos? Quédate con nosotros para descubrir a esta criatura llena de sorpresas. Hoy exploraremos el mundo de un mamífero muy conocido pero a menudo incomprendido: el cerdo. Conocido por una variedad de nombres como puerco, cochino, marrano, chancho y muchos más según la región, este animal tiene una historia y unas características que te sorprenderán.
@@ -1114,6 +1098,22 @@ La comunicación es clave en el mundo porcino. Utilizan más de 20 vocalizacione
 # s_0459_cerdo.mp4
 🐷 ¡Súper Sociales, Juguetones y HÉROES! 🤗🦸‍♂️⚽ 🤯
 Son seres profundamente sociales. Prefieren vivir en grupos (piaras), forman fuertes lazos entre ellos y con otros animales o humanos, que pueden durar toda la vida. Duermen acurrucados, a menudo nariz con nariz, y saludarse frotando sus hocicos es una de sus interacciones favoritas. Se estresan si se les aísla. Además, ¡les encanta jugar! Pueden entretenerse con pelotas, cajas de cartón o simplemente corriendo y realizando otros juegos. Finalmente, aunque parezca increíble, hay historias documentadas de cerdos actuando heroicamente, salvando a humanos u otros animales de situaciones peligrosas como incendios, ahogamientos e incluso agresiones.
+---
+---
+---
+---
+---
+---
+---
+**CONTINUAR AGREGANDO SHORT DESDE ACA**
+---
+---
+---
+---
+---
+---
+---
+---
 # s_0460_conejo.mp4
 🐰 ¡NO es un Roedor! La Verdad del Conejo 🤯
 Para empezar, ¿qué es un conejo? Aunque a menudo se les confunde con roedores, los conejos pertenecen al orden de los Lagomorfos, junto con las liebres y las picas. Una diferencia clave con los roedores es que los lagomorfos tienen cuatro incisivos en la mandíbula superior, dos grandes delante y dos más pequeños, llamados "dientes de clavija", justo detrás, mientras que los roedores solo tienen dos. ¡Y estos dientes nunca dejan de crecer! Por eso necesitan roer constantemente para desgastarlos.
