@@ -1010,22 +1010,6 @@ Su estrategia de defensa incluye el uso de su potente mordida y su piel gruesa, 
 🦡 Excelente trepador y nadador 🏔️🔥
 A pesar de su aspecto robusto, es un excelente trepador y nadador, lo que le permite moverse con agilidad en su entorno. Su nombre científico, Gulo gulo, proviene del latín y significa "glotón", haciendo referencia a su gran apetito. Además, este mustélido es muy territorial y puede enfrentarse incluso a osos y lobos para defender su espacio. 
 El glotón es un animal extraordinario, capaz de sobrevivir en condiciones extremas gracias a su fuerza, adaptabilidad y tenacidad. Aunque no es muy conocido, su papel en los ecosistemas boreales es fundamental, ya que ayuda a mantener el equilibrio natural al controlar poblaciones de presas y reciclar materia orgánica como carroñero.
----
----
----
----
----
----
----
-**CONTINUAR AGREGANDO SHORT DESDE ACA**
----
----
----
----
----
----
----
----
 # s_0430_estrella.mp4
 😲 ¿Sabías que hay estrellas de mar con 50 brazos? 💥
 Las estrellas de mar, conocidas científicamente como Asteroidea, despliegan una organización corporal radialmente simétrica, generalmente con cinco brazos que irradian desde un disco central en su etapa adulta. Esta simetría pentarradial es una de las características más distintivas de estos equinodermos. Sin embargo, se cree que sus ancestros evolutivos tenían simetría bilateral, y de hecho, las estrellas de mar, al igual que otros equinodermos, solo exhiben esta simetría bilateral en sus formas larvales. La naturaleza, en su infinita sabiduría, nos muestra que siempre hay excepciones a la regla. Varios grupos de asteroideos, como la familia Solasteridae, se apartan de la norma al poseer entre 10 y 15 brazos. Pero la verdadera campeona en diversidad de extremidades es la Labidiaster annulatus, una especie antártica que puede llegar a tener la asombrosa cantidad de ¡hasta 50 brazos! Incluso dentro de las especies de cinco brazos, no es raro encontrar individuos con seis o más extremidades, una peculiaridad derivada de anomalías en su desarrollo.
@@ -1054,6 +1038,22 @@ También existen las clavelinas, pertenecientes a la clase Crinoidea, que compar
 # s_0437_estrella.mp4
 😲 Estrellas de mar: los sorprendentes genios del océano 💥
 Las estrellas de mar son mucho más que simples figuras marinas; son criaturas complejas con adaptaciones sorprendentes y un papel crucial en los ecosistemas oceánicos. Su capacidad de regeneración, su peculiar forma de alimentarse y sus "sentidos" rudimentarios nos abren una ventana a la increíble diversidad de la vida en nuestro planeta. Desde las profundidades abisales hasta los arrecifes de coral, estos equinodermos nos muestran la asombrosa variedad de formas y funciones que la evolución puede crear. Te invito a seguir explorando el fascinante mundo de las estrellas de mar y a maravillarse con cada nuevo descubrimiento.
+---
+---
+---
+---
+---
+---
+---
+**CONTINUAR AGREGANDO SHORT DESDE ACA**
+---
+---
+---
+---
+---
+---
+---
+---
 # s_0438_cabra.mp4
 🐐 La cabra: la reina de los acantilados 😲
 En los escarpados peñascos donde ningún otro animal se atreve a pisar, existe un ser increíblemente ágil, que desafía la lógica al caminar con elegancia sobre las paredes verticales de piedra. Su andar seguro y su carácter tenaz le han permitido convivir con el ser humano desde tiempos prehistóricos, convirtiéndose en un símbolo de adaptación, supervivencia y utilidad. Pero este admirable animal no solo es una pieza clave en la historia rural, sino también un verdadero prodigio de la naturaleza. Hoy te invito a conocer a la cabra, un mamífero tan versátil como sorprendente.
