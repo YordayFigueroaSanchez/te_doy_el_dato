@@ -887,22 +887,6 @@ Fuertes patas y garras retráctiles
 Gigantes acuáticos y su influencia en los ecosistemas africanos
 # s_0399_hipopotamo_short_002
 Asombrosos animales!
----
----
----
----
----
----
----
-**CONTINUAR AGREGANDO SHORT DESDE ACA**
----
----
----
----
----
----
----
----
 # s_0400_pez_luchador.mp4
 🐠 ¡El Betta splendens: el pequeño gigante del acuario! 🔥
 Imagina un pequeño pez de colores vibrantes que, a pesar de su tamaño, es capaz de defender su territorio con una ferocidad impresionante. Este pez, originario del sudeste asiático, ha cautivado a los amantes de la acuariofilia no solo por su belleza, sino también por su carácter desafiante. ¿Quieres saber más sobre este intrigante animal?
@@ -929,6 +913,22 @@ Históricamente, estos peces fueron utilizados en peleas organizadas en Tailandi
 🐠 Solitario y territorial 🔥
 A pesar de su fama de solitario y territorial, el Betta splendens también tiene un lado más sociable. En un acuario bien diseñado, las hembras pueden vivir juntas en grupos conocidos como "sororidades", siempre que haya suficiente espacio y escondites para evitar conflictos.
 El Betta splendens es un pez fascinante, tanto por su belleza como por su comportamiento único. Su historia, adaptaciones y rituales de apareamiento lo convierten en un verdadero guerrero de aguas tranquilas. Si te ha intrigado este artículo, cuéntanos qué otros temas te gustaría que abordáramos en futuros contenidos. ¡Tu opinión es muy valiosa!
+---
+---
+---
+---
+---
+---
+---
+**CONTINUAR AGREGANDO SHORT DESDE ACA**
+---
+---
+---
+---
+---
+---
+---
+---
 # s_0406_canguro.mp4
 🦘 El canguro: el gigante resistente del desierto 🚀 
 En lo más profundo de los vastos paisajes áridos y semiáridos, donde las temperaturas fluctúan de manera extrema y los recursos pueden escasear, existe una criatura con una adaptación única. Su método de locomoción no solo le permite cubrir grandes distancias con eficiencia, sino que también es el sello distintivo de su especie. Su poderosa estructura y sus sorprendentes estrategias de supervivencia lo convierten en un verdadero símbolo de resistencia en su hábitat.
