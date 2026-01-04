@@ -913,22 +913,6 @@ Históricamente, estos peces fueron utilizados en peleas organizadas en Tailandi
 🐠 Solitario y territorial 🔥
 A pesar de su fama de solitario y territorial, el Betta splendens también tiene un lado más sociable. En un acuario bien diseñado, las hembras pueden vivir juntas en grupos conocidos como "sororidades", siempre que haya suficiente espacio y escondites para evitar conflictos.
 El Betta splendens es un pez fascinante, tanto por su belleza como por su comportamiento único. Su historia, adaptaciones y rituales de apareamiento lo convierten en un verdadero guerrero de aguas tranquilas. Si te ha intrigado este artículo, cuéntanos qué otros temas te gustaría que abordáramos en futuros contenidos. ¡Tu opinión es muy valiosa!
----
----
----
----
----
----
----
-**CONTINUAR AGREGANDO SHORT DESDE ACA**
----
----
----
----
----
----
----
----
 # s_0406_canguro.mp4
 🦘 El canguro: el gigante resistente del desierto 🚀 
 En lo más profundo de los vastos paisajes áridos y semiáridos, donde las temperaturas fluctúan de manera extrema y los recursos pueden escasear, existe una criatura con una adaptación única. Su método de locomoción no solo le permite cubrir grandes distancias con eficiencia, sino que también es el sello distintivo de su especie. Su poderosa estructura y sus sorprendentes estrategias de supervivencia lo convierten en un verdadero símbolo de resistencia en su hábitat.
@@ -956,6 +940,22 @@ Su sistema respiratorio está sincronizado con sus saltos. Cada vez que sus pata
 🦘 Canguros: ¿Por qué viven más en cautiverio? 🚀 
 Aunque en la naturaleza la esperanza de vida de un canguro es de aproximadamente seis años, en cautiverio pueden superar los veinte años, dependiendo de la especie y las condiciones de vida.
 El canguro es un ejemplo extraordinario de adaptación y resistencia en la naturaleza. Desde su increíble método de locomoción hasta sus estrategias de supervivencia, este marsupial es una de las criaturas más emblemáticas del mundo animal. Si te ha intrigado este artículo, cuéntanos qué otros temas te gustaría que abordáramos en futuros contenidos. ¡Tu opinión es muy valiosa!
+---
+---
+---
+---
+---
+---
+---
+**CONTINUAR AGREGANDO SHORT DESDE ACA**
+---
+---
+---
+---
+---
+---
+---
+---
 # s_0412_mariposa_monarca.mp4
 🦋 La Mariposa Que Viaja Miles de Kilómetros 🌞
 Cada año, millones de pequeños viajeros emprenden una odisea de miles de kilómetros, desafiando el viento, la lluvia y el frío en busca de un refugio cálido. Lo sorprendente es que estos intrépidos migrantes pesan menos de medio gramo y, a pesar de su fragilidad aparente, logran completar una de las migraciones más extraordinarias del reino animal. Este asombroso protagonista es la mariposa monarca, cuyo nombre científico es Danaus plexippus.
