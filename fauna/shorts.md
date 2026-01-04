@@ -940,22 +940,6 @@ Su sistema respiratorio está sincronizado con sus saltos. Cada vez que sus pata
 🦘 Canguros: ¿Por qué viven más en cautiverio? 🚀 
 Aunque en la naturaleza la esperanza de vida de un canguro es de aproximadamente seis años, en cautiverio pueden superar los veinte años, dependiendo de la especie y las condiciones de vida.
 El canguro es un ejemplo extraordinario de adaptación y resistencia en la naturaleza. Desde su increíble método de locomoción hasta sus estrategias de supervivencia, este marsupial es una de las criaturas más emblemáticas del mundo animal. Si te ha intrigado este artículo, cuéntanos qué otros temas te gustaría que abordáramos en futuros contenidos. ¡Tu opinión es muy valiosa!
----
----
----
----
----
----
----
-**CONTINUAR AGREGANDO SHORT DESDE ACA**
----
----
----
----
----
----
----
----
 # s_0412_mariposa_monarca.mp4
 🦋 La Mariposa Que Viaja Miles de Kilómetros 🌞
 Cada año, millones de pequeños viajeros emprenden una odisea de miles de kilómetros, desafiando el viento, la lluvia y el frío en busca de un refugio cálido. Lo sorprendente es que estos intrépidos migrantes pesan menos de medio gramo y, a pesar de su fragilidad aparente, logran completar una de las migraciones más extraordinarias del reino animal. Este asombroso protagonista es la mariposa monarca, cuyo nombre científico es Danaus plexippus.
@@ -979,6 +963,22 @@ La mariposa monarca no solo es un insecto hermoso, sino que también tiene carac
 Otro hecho sorprendente es que, a pesar de que las mariposas monarca individuales solo viven entre 6 y 8 meses, su instinto migratorio se transmite de generación en generación. Es decir, las monarcas que inician la migración en Canadá no son las mismas que regresan en primavera, sino sus descendientes, quienes encuentran el camino con una precisión asombrosa.
 A pesar de su resistencia y asombrosa capacidad de migración, la población de la mariposa monarca se encuentra en declive. La pérdida de hábitat, el uso de herbicidas que eliminan el algodoncillo y el cambio climático son amenazas graves para su supervivencia.
 En México, la Reserva de la Biosfera Mariposa Monarca protege sus hábitats de hibernación, y se han implementado programas de conservación en América del Norte. La participación ciudadana también es clave: plantar algodoncillo en jardines y evitar el uso de pesticidas puede marcar una gran diferencia. Gracias por el apoyo y hasta la proxima.
+---
+---
+---
+---
+---
+---
+---
+**CONTINUAR AGREGANDO SHORT DESDE ACA**
+---
+---
+---
+---
+---
+---
+---
+---
 # s_0417_anguila_electrica.mp4
 ⚡🔥 El Cazador que Electrocuta a sus Presas ⚡🐟
 En las turbias aguas de Sudamérica, un cazador invisible acecha en la oscuridad. No necesita garras ni colmillos afilados, pues su arma es una de las más inusuales de la naturaleza: descargas eléctricas capaces de paralizar a sus presas en cuestión de milisegundos. Se trata de un ser misterioso que, aunque por su nombre parece pertenecer a un grupo bien conocido de animales, en realidad tiene una historia evolutiva muy diferente.
