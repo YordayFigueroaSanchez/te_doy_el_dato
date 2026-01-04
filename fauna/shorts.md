@@ -1098,22 +1098,6 @@ La comunicación es clave en el mundo porcino. Utilizan más de 20 vocalizacione
 # s_0459_cerdo.mp4
 🐷 ¡Súper Sociales, Juguetones y HÉROES! 🤗🦸‍♂️⚽ 🤯
 Son seres profundamente sociales. Prefieren vivir en grupos (piaras), forman fuertes lazos entre ellos y con otros animales o humanos, que pueden durar toda la vida. Duermen acurrucados, a menudo nariz con nariz, y saludarse frotando sus hocicos es una de sus interacciones favoritas. Se estresan si se les aísla. Además, ¡les encanta jugar! Pueden entretenerse con pelotas, cajas de cartón o simplemente corriendo y realizando otros juegos. Finalmente, aunque parezca increíble, hay historias documentadas de cerdos actuando heroicamente, salvando a humanos u otros animales de situaciones peligrosas como incendios, ahogamientos e incluso agresiones.
----
----
----
----
----
----
----
-**CONTINUAR AGREGANDO SHORT DESDE ACA**
----
----
----
----
----
----
----
----
 # s_0460_conejo.mp4
 🐰 ¡NO es un Roedor! La Verdad del Conejo 🤯
 Para empezar, ¿qué es un conejo? Aunque a menudo se les confunde con roedores, los conejos pertenecen al orden de los Lagomorfos, junto con las liebres y las picas. Una diferencia clave con los roedores es que los lagomorfos tienen cuatro incisivos en la mandíbula superior, dos grandes delante y dos más pequeños, llamados "dientes de clavija", justo detrás, mientras que los roedores solo tienen dos. ¡Y estos dientes nunca dejan de crecer! Por eso necesitan roer constantemente para desgastarlos.
@@ -1137,6 +1121,22 @@ La relación entre humanos y conejos es antigua y variada. Han sido cazados por 
 # s_0465_conejo.mp4
 🐰 La VERDAD Detrás de Esas Orejas Largas 🤫👂
 Culturalmente, el conejo aparece en el folclore y la mitología de muchas sociedades, a menudo como símbolo de fertilidad, suerte o astucia, como el famoso Conejo de Pascua. Desde sus adaptaciones únicas hasta su complejo comportamiento social y su importante papel tanto en los ecosistemas como en nuestras vidas, los conejos son verdaderamente criaturas extraordinarias. Esperamos que este viaje por su mundo te haya resultado tan fascinante como a nosotros. La próxima vez que veas un conejo, ya sea en el campo o en un hogar, recuerda la increíble naturaleza que se esconde tras esas largas orejas.
+---
+---
+---
+---
+---
+---
+---
+**CONTINUAR AGREGANDO SHORT DESDE ACA**
+---
+---
+---
+---
+---
+---
+---
+---
 # s_0466_ganso_del_nilo.mp4
 🦆 El ave SAGRADA que hoy es una AMENAZA 🦆
 Imagina un ave que parece un ganso pero no lo es, que fue venerada como sagrada por una de las civilizaciones más grandes de la historia, pero que hoy es vista como una amenaza en muchos lugares. ¿Ya tienes una idea de quién hablamos? Quédate con nosotros para descubrir a esta criatura llena de contrastes. Hoy exploraremos el mundo de un ave cada vez más común pero a menudo incomprendida: el ganso del Nilo. Conocido científicamente como Alopochen aegyptiaca, este animal tiene una historia y unas características que te sorprenderán.
