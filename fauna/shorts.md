@@ -1038,22 +1038,6 @@ También existen las clavelinas, pertenecientes a la clase Crinoidea, que compar
 # s_0437_estrella.mp4
 😲 Estrellas de mar: los sorprendentes genios del océano 💥
 Las estrellas de mar son mucho más que simples figuras marinas; son criaturas complejas con adaptaciones sorprendentes y un papel crucial en los ecosistemas oceánicos. Su capacidad de regeneración, su peculiar forma de alimentarse y sus "sentidos" rudimentarios nos abren una ventana a la increíble diversidad de la vida en nuestro planeta. Desde las profundidades abisales hasta los arrecifes de coral, estos equinodermos nos muestran la asombrosa variedad de formas y funciones que la evolución puede crear. Te invito a seguir explorando el fascinante mundo de las estrellas de mar y a maravillarse con cada nuevo descubrimiento.
----
----
----
----
----
----
----
-**CONTINUAR AGREGANDO SHORT DESDE ACA**
----
----
----
----
----
----
----
----
 # s_0438_cabra.mp4
 🐐 La cabra: la reina de los acantilados 😲
 En los escarpados peñascos donde ningún otro animal se atreve a pisar, existe un ser increíblemente ágil, que desafía la lógica al caminar con elegancia sobre las paredes verticales de piedra. Su andar seguro y su carácter tenaz le han permitido convivir con el ser humano desde tiempos prehistóricos, convirtiéndose en un símbolo de adaptación, supervivencia y utilidad. Pero este admirable animal no solo es una pieza clave en la historia rural, sino también un verdadero prodigio de la naturaleza. Hoy te invito a conocer a la cabra, un mamífero tan versátil como sorprendente.
@@ -1084,6 +1068,22 @@ Desde tiempos inmemoriales, la figura de la cabra se ha entrelazado con el tejid
 ¿Sabías que en China se utilizan cabras en las plantaciones de té? Se sueltan en los campos para que se coman las malas hierbas, sin tocar las delicadas hojas del té verde. Así, además de limpiar el terreno, sus excrementos fertilizan naturalmente las plantas.
 También es curioso que a pesar de la fama de comelonas, las cabras rara vez comen alimentos sucios o contaminados. Su sentido del gusto es muy desarrollado y solo ingieren lo que han probado y considerado seguro.
 Sorprendentemente, una cabra con buenos cuidados puede vivir hasta 18 años, siendo lo común entre 10 y 12. Y aquí va otro dato interesante: ¡la edad de una cabra se revela en los anillos de sus cuernos, tal como sucede con los árboles!
+---
+---
+---
+---
+---
+---
+---
+**CONTINUAR AGREGANDO SHORT DESDE ACA**
+---
+---
+---
+---
+---
+---
+---
+---
 # s_0450_cerdo.mp4
 🐷 ¿Cerdos Sucios? ¡Piénsalo de Nuevo! 🤯
 Imagina un animal que, a pesar de su reputación popular, es increíblemente limpio y ni siquiera puede sudar como nosotros. ¿Ya tienes una idea de quién hablamos? Quédate con nosotros para descubrir a esta criatura llena de sorpresas. Hoy exploraremos el mundo de un mamífero muy conocido pero a menudo incomprendido: el cerdo. Conocido por una variedad de nombres como puerco, cochino, marrano, chancho y muchos más según la región, este animal tiene una historia y unas características que te sorprenderán.
