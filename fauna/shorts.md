@@ -887,22 +887,6 @@ Fuertes patas y garras retráctiles
 Gigantes acuáticos y su influencia en los ecosistemas africanos
 # s_0399_hipopotamo_short_002
 Asombrosos animales!
----
----
----
----
----
----
----
-**CONTINUAR AGREGANDO SHORT DESDE ACA**
----
----
----
----
----
----
----
----
 # s_0400_pez_luchador.mp4
 🐠 ¡El Betta splendens: el pequeño gigante del acuario! 🔥
 Imagina un pequeño pez de colores vibrantes que, a pesar de su tamaño, es capaz de defender su territorio con una ferocidad impresionante. Este pez, originario del sudeste asiático, ha cautivado a los amantes de la acuariofilia no solo por su belleza, sino también por su carácter desafiante. ¿Quieres saber más sobre este intrigante animal?
@@ -1137,6 +1121,22 @@ La relación entre humanos y conejos es antigua y variada. Han sido cazados por 
 # s_0465_conejo.mp4
 🐰 La VERDAD Detrás de Esas Orejas Largas 🤫👂
 Culturalmente, el conejo aparece en el folclore y la mitología de muchas sociedades, a menudo como símbolo de fertilidad, suerte o astucia, como el famoso Conejo de Pascua. Desde sus adaptaciones únicas hasta su complejo comportamiento social y su importante papel tanto en los ecosistemas como en nuestras vidas, los conejos son verdaderamente criaturas extraordinarias. Esperamos que este viaje por su mundo te haya resultado tan fascinante como a nosotros. La próxima vez que veas un conejo, ya sea en el campo o en un hogar, recuerda la increíble naturaleza que se esconde tras esas largas orejas.
+---
+---
+---
+---
+---
+---
+---
+**CONTINUAR AGREGANDO SHORT DESDE ACA**
+---
+---
+---
+---
+---
+---
+---
+---
 # s_0466_ganso_del_nilo.mp4
 🦆 El ave SAGRADA que hoy es una AMENAZA 🦆
 Imagina un ave que parece un ganso pero no lo es, que fue venerada como sagrada por una de las civilizaciones más grandes de la historia, pero que hoy es vista como una amenaza en muchos lugares. ¿Ya tienes una idea de quién hablamos? Quédate con nosotros para descubrir a esta criatura llena de contrastes. Hoy exploraremos el mundo de un ave cada vez más común pero a menudo incomprendida: el ganso del Nilo. Conocido científicamente como Alopochen aegyptiaca, este animal tiene una historia y unas características que te sorprenderán.
