@@ -963,22 +963,6 @@ La mariposa monarca no solo es un insecto hermoso, sino que también tiene carac
 Otro hecho sorprendente es que, a pesar de que las mariposas monarca individuales solo viven entre 6 y 8 meses, su instinto migratorio se transmite de generación en generación. Es decir, las monarcas que inician la migración en Canadá no son las mismas que regresan en primavera, sino sus descendientes, quienes encuentran el camino con una precisión asombrosa.
 A pesar de su resistencia y asombrosa capacidad de migración, la población de la mariposa monarca se encuentra en declive. La pérdida de hábitat, el uso de herbicidas que eliminan el algodoncillo y el cambio climático son amenazas graves para su supervivencia.
 En México, la Reserva de la Biosfera Mariposa Monarca protege sus hábitats de hibernación, y se han implementado programas de conservación en América del Norte. La participación ciudadana también es clave: plantar algodoncillo en jardines y evitar el uso de pesticidas puede marcar una gran diferencia. Gracias por el apoyo y hasta la proxima.
----
----
----
----
----
----
----
-**CONTINUAR AGREGANDO SHORT DESDE ACA**
----
----
----
----
----
----
----
----
 # s_0417_anguila_electrica.mp4
 ⚡🔥 El Cazador que Electrocuta a sus Presas ⚡🐟
 En las turbias aguas de Sudamérica, un cazador invisible acecha en la oscuridad. No necesita garras ni colmillos afilados, pues su arma es una de las más inusuales de la naturaleza: descargas eléctricas capaces de paralizar a sus presas en cuestión de milisegundos. Se trata de un ser misterioso que, aunque por su nombre parece pertenecer a un grupo bien conocido de animales, en realidad tiene una historia evolutiva muy diferente.
@@ -1006,6 +990,22 @@ Además de su capacidad para generar electricidad, la anguila eléctrica ha sido
 Otro dato interesante es que, aunque se pensaba que solo existía una especie de anguila eléctrica, estudios recientes han revelado que en realidad hay tres especies distintas. Una de ellas, Electrophorus voltai, es el ser vivo con mayor potencia eléctrica registrada, capaz de generar descargas de hasta 860 voltios.
 Además, la anguila eléctrica ha inspirado el desarrollo de nuevas tecnologías en el campo de la bioingeniería, como el diseño de baterías basadas en la estructura de sus órganos eléctricos.
 La anguila eléctrica es un animal verdaderamente sorprendente, cuya capacidad para generar electricidad la convierte en una de las criaturas más impresionantes del reino animal. Su forma de cazar, comunicarse y defenderse demuestra lo ingeniosa que puede ser la naturaleza.
+---
+---
+---
+---
+---
+---
+---
+**CONTINUAR AGREGANDO SHORT DESDE ACA**
+---
+---
+---
+---
+---
+---
+---
+---
 # s_0424_gloton.mp4
 🦡 El glotón: Pequeño pero imparable 🏔️🔥
 Imagina un animal con la fuerza de un oso, la agilidad de un felino y la ferocidad de un lobo, pero con un tamaño relativamente pequeño. A pesar de no ser el más grande de su entorno, este depredador es capaz de enfrentarse a presas mucho más grandes que él y defender su territorio con una tenacidad asombrosa. Su apariencia ruda y su carácter indomable lo han convertido en una verdadera leyenda en las regiones frías del hemisferio norte. ¿Sabes de quién hablamos?
