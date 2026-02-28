@@ -12,22 +12,6 @@ En este organismo convergen la estética sublime y la letalidad absoluta. Bajo u
 
 Su nombre común puede inducir a confusión: no es ni mantis ni camarón. No pertenece al orden de los mantodeos —las mantis religiosas terrestres— ni al de los decápodos, los camarones que conocemos en la mesa. El apodo proviene de la semejanza superficial de sus apéndices raptoriales con las patas delanteras de una mantis religiosa, pero la relación termina ahí. Para comprender su verdadera supremacía, debemos adentrarnos en la aristocracia de los crustáceos "armados".
 
-## Ficha Técnica
-
-La clasificación del camarón mantis dentro de la subclase *Hoplocarida* es fundamental para entender su naturaleza. El término se traduce literalmente como "camarones armados", y los separa tajantemente de los decápodos comunes. Esta distinción subraya una trayectoria evolutiva independiente que priorizó el desarrollo de armamento especializado sobre la mera recolección de alimento.
-
-| Campo | Valor |
-|---|---|
-| Nombre común | Camarón mantis pavo real |
-| Nombre científico | *Odontodactylus scyllarus* |
-| Clase | *Malacostraca* |
-| Subclase | *Hoplocarida* |
-| Orden | *Stomatopoda* |
-| Suborden | *Unipeltata* |
-| Familia | *Odontodactylidae* |
-
-Este linaje como organismo "armado" se manifiesta plenamente en su anatomía externa, donde cada segmento del exoesqueleto ha sido esculpido por la selección natural para servir a una función ofensiva o defensiva.
-
 ## Biomecánica: el golpe (Bouligand + LaMSA + cavitación)
 
 En el camarón mantis, la morfología funcional alcanza una sofisticación técnica que rivaliza con la ingeniería aeroespacial. Su exoesqueleto no es una simple coraza pasiva, sino un sistema dinámico de almacenamiento de energía y filtrado acústico. Un hito crítico en su historia fue la Revolución Marina del Mesozoico, hace unos 126 millones de años, cuando el linaje pasó de ser mayoritariamente Arponero (*Spearer*) a desarrollar las formas Trituradoras (*Smasher*) actuales, en respuesta a la proliferación de presas acorazadas y depredadores más formidables.
