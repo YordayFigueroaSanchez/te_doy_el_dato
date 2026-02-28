@@ -30,3 +30,23 @@ Se alimenta de moluscos, cangrejos y peces pequeños. Usa sus patas delanteras p
 ---
 
 ¿Seguimos con el dragón azul o prefieres revisar estos dos antes de continuar? También puedo ayudarte a generar una estructura base para todos los animales si lo deseas.
+
+## Open Spec
+
+### Instalar openspec
+
+Requires Node.js 20.19.0 or higher.
+
+Install OpenSpec globally:
+
+```bash
+npm install -g @fission-ai/openspec@latest
+```
+
+### Run OpenSpec
+
+Run OpenSpec in the project directory:
+
+```bash
+openspec init 
+```
