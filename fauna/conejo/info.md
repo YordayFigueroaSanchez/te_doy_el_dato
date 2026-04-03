@@ -1,4 +1,5 @@
-# https://zooguadalajara.com.mx/animales/detalle/218
+# <https://zooguadalajara.com.mx/animales/detalle/218>
+
 Descripción
 El conejo se caracteriza por tener un cuerpo cubierto de un pelaje espeso y lanudo, de color pardo pálido a gris o rojizo, que permite su camuflaje para evitar a sus depredadores. Pesa entre 1,5 y 2,5 kg en estado salvaje. Tiene orejas largas de hasta 7 cm las cuales le ayudan a regular la temperatura del cuerpo y una cola muy corta. Sus patas anteriores son más cortas que las posteriores. Mide de 33 a 50 cm en condiciones afables, incluso más en razas domésticas para carne. Todas estas características que posee esta especie en estado salvaje pueden variar significativamente según la raza.
 Los dientes de un conejo, particularmente sus incisivos, crecen sin cesar. El conejo debe constantemente desgastar sus dientes con el fin de evitar que se vuelvan demasiado largos (lo que podría por otro lado herirle).
@@ -9,12 +10,14 @@ Golpean el suelo con sus patas traseras, y lo pueden hacer varias veces dependie
 La abundancia de la especie, se basa, además de en su capacidad reproductora, las crías, llamados gazapos, nacen sin pelo y ciegos. La madre sólo los visita unos pocos minutos al día para cuidarlos y alimentarlos con su leche. Los pequeños son destetados a las cuatro semanas de vida y tanto machos como hembras alcanzan la madurez sexual hacia los 8 meses de edad.
 El conejo doméstico constituye una plaga en numerosos países, donde se ha tratado de controlar su número mediante la introducción deliberada de enfermedades contagiosas.
 
-# https://www.msdvetmanual.com/es/todas-las-dem%C3%A1s-mascotas/conejos/descripci%C3%B3n-y-caracter%C3%ADsticas-f%C3%ADsicas-de-los-conejos
+# <https://www.msdvetmanual.com/es/todas-las-dem%C3%A1s-mascotas/conejos/descripci%C3%B3n-y-caracter%C3%ADsticas-f%C3%ADsicas-de-los-conejos>
+
 Los conejos son mamíferos pequeños, peludos, con orejas largas, colas cortas y esponjosas y patas traseras grandes y fuertes. Tienen dos pares de incisivos afilados (dientes frontales), un par en la parte superior y otro en la parte inferior. También tienen dos dientes en forma de clavija detrás de los incisivos superiores. Sus dientes están específicamente adaptados para roer y crecen continuamente durante toda su vida.
 Usando sus poderosas patas traseras, los conejos se mueven saltando. Tienen cuatro dedos en sus patas traseras que son largos y palmeados para evitar que se separen mientras saltan. Sus patas delanteras tienen cinco dedos cada una. Algunas especies de conejos pueden alcanzar velocidades de 56 a 72 km por hora. Los conejos jóvenes parecen caminar en lugar de saltar.
 Los conejos varían en color y tamaño, su peso varía de 1 a 7 kg, según la raza. Los conejos mascota que se han cuidado bien y se han esterilizado o castrado a una edad temprana tienen una esperanza de vida de 8-12 años.
 
-# https://hvmenes.com/blog/la-alimentacion-de-los-conejos/
+# <https://hvmenes.com/blog/la-alimentacion-de-los-conejos/>
+
 La alimentación de los conejos
 A diario se presentan en nuestra consulta pacientes enfermos debido a una mala alimentación, muchos de estos problemas son irreversibles y fatales para nuestra mascota.
 
@@ -46,7 +49,8 @@ No usar piensos de semillas y cereales, aunque muchos de ellos en el paquete pod
 Evitar frutas muy acuosas, galletas y cereales en general, golosinas con miel o pan ya que en exceso provocan obesidad y pueden causar fermentaciones graves en su intestino.
 Existe una leyenda urbana que afirma que «no se deben dar vegetales hasta que el animal sea adulto ya que provoca diarreas». Esto no es correcto, lo ideal es aportarle vegetales después del destete, de forma gradual en pequeñas cantidades y que nunca supongan el alimento principal, si el aporte de heno es el adecuado nuestra mascota tolerara los vegetales perfectamente.
 
-# https://melder.com.mx/reproduccion-y-gestacion-de-los-conejos/
+# <https://melder.com.mx/reproduccion-y-gestacion-de-los-conejos/>
+
 Reproducción de los Conejos
 El conejo es una especie polígama en donde el macho comparte sexualmente a las hembras. Los conejos llegan a su madurez sexual dependiendo el sexo; las hembras llegan entre los 4-5 meses mientras que los machos lo hacen entre los 5-6 meses.
 
@@ -60,7 +64,8 @@ El periodo de gestación de las conejas dura 30 días y poco después de parir, 
 
 Durante su etapa de gestación normalmente la coneja se encuentra en la etapa de lactación y por ende se le suministra abundante comida y por otro lado el agua deberá estar siempre en un lugar libre que este a su disposición.
 
-# https://www.bioenciclopedia.com/conejo-535.html
+# <https://www.bioenciclopedia.com/conejo-535.html>
+
 Conejo
 ¿Quieres aprender más sobre los conejos? Se trata de uno de los animales más famosos del mundo y debido a su aspecto adorable, con orejas y patas largas, y a su fácil domesticación, hace mucho tiempo, se convirtió en uno de los animales domésticos más habituales en los hogares.
 

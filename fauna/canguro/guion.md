@@ -43,4 +43,3 @@ Aunque en la naturaleza la esperanza de vida de un canguro es de aproximadamente
 ## Un Vistazo Final
 
 El canguro es un ejemplo extraordinario de adaptación y resistencia en la naturaleza. Desde su increíble método de locomoción hasta sus estrategias de supervivencia, este marsupial es una de las criaturas más emblemáticas del mundo animal. Si te ha intrigado este artículo, cuéntanos qué otros temas te gustaría que abordáramos en futuros contenidos. ¡Tu opinión es muy valiosa!
-

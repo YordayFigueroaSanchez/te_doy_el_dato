@@ -31,20 +31,25 @@ Basado en el contenido del documento proporcionado, genera 10 títulos cortos, l
 # Adjetivos
 
 ## Promnt
+
 Analiza el contenido del documento proporcionado y extrae tres adjetivos que mejor describan al animal del que trata la información. Los adjetivos deben destacar sus características más notables, como su comportamiento, habilidades, hábitat o aspecto físico. Prioriza términos llamativos y precisos que resuman su esencia de manera efectiva."
 📌 Ejemplo de salida esperada:
 Si el documento trata sobre el murciélago, podría generar:
 Misterioso 🦇
 Ágil ⚡
 Nocturno 🌙
+
 ## Result
+
 **Inteligente 🧠**  
 Capaz de reconocerse en un espejo, usar herramientas, almacenar comida y comunicarse con precisión. Su comportamiento revela una mente sorprendentemente avanzada.
 **Adaptable 🌍**  
 Habita desde zonas rurales hasta grandes ciudades, aprovechando los cambios provocados por el ser humano para sobrevivir y prosperar.
 **Social 🤝**  
 Forma bandadas con jerarquías, coopera con otras urracas para defenderse de depredadores y muestra una compleja vida grupal fuera de la época de cría.
+
 ## Adjetivos en limpio
+
 Inteligente
 Social
 Adaptable
@@ -74,4 +79,3 @@ animales,animals,fauna,urraca,nature
 [🐦 ¡La urraca: más que ruidosa, increíblemente inteligente! 🔊](https://youtu.be/3NgWBImtLo8)
 
 [🐦 ¡La urraca: más que ruidosa, increíblemente inteligente! 🔊](https://tedoyeldato.substack.com/p/la-urraca-mas-que-ruidosa-increiblemente?r=6httlh)
-

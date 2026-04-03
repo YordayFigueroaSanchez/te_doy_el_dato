@@ -13,6 +13,7 @@ El proyecto necesita generar el artículo divulgativo final (`guion.md`) sobre e
 ## Capabilities
 
 ### New Capabilities
+
 - `generacion-guion`: Generación del artículo/guion final en Markdown integrando todas las specs existentes, la fuente base y el estilo de los ejemplos.
 
 ### Modified Capabilities

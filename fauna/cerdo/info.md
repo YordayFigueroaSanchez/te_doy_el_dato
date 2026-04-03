@@ -1,4 +1,4 @@
-https://www.veterinariadigital.com/articulos/razas-de-cerdos-y-sus-caracteristicas/
+<https://www.veterinariadigital.com/articulos/razas-de-cerdos-y-sus-caracteristicas/>
 Razas de cerdos y sus características
 En general se considera que todas las razas de cerdos actuales tienen su origen en el jabalí silvestre. Pero dado que se conocen dos procesos de domesticación, uno en oriente medio datado con una antigüedad de 12.500 años y otro en Asia de 7.000 años, se considera que el jabalí europeo (sus scrofa ferus) podría haber dado origen al cerdo europeo mientras que el jabalí asiático (sus indicus) sería el origen las razas de cerdo asiáticas.
 Origen de las razas de cerdos
@@ -33,35 +33,34 @@ Otras razas porcinas del tronco atlántico como Duroc y cerdo ibérico son impor
 Las razas asiáticas son muy prolíficas y en ocasiones, excepto las chinas, poco estudiadas.
 La raza de cerdos china Meishan ha sido usada en países europeos para mejorar la prolificidad de razas del tronco atlántico (cerdo ibérico)
 
-
-https://chacraeducativasantalucia.blogspot.com/2023/05/datos-curiosos-sobre-los-cerdos.html
-Les contamos que desde hace un mes tenemos siete nuevos integrantes en la Chacra, ¿se  imaginan quiénes son? ¡Sí! Los lechones, mejor conocidos por ustedes como cerditos o  chanchitos. Aprovechando este momento tan lindo decidimos inaugurar una entrada nueva en  el blog llamada ‘’Datos curiosos sobre...’’. La idea es tener como protagonistas diferentes  animales y plantas de la Chacra. Los protagonistas de hoy: ¡los cerdos! Veamos qué datos ya  conocían y cuáles los sorprenden. 
+<https://chacraeducativasantalucia.blogspot.com/2023/05/datos-curiosos-sobre-los-cerdos.html>
+Les contamos que desde hace un mes tenemos siete nuevos integrantes en la Chacra, ¿se  imaginan quiénes son? ¡Sí! Los lechones, mejor conocidos por ustedes como cerditos o  chanchitos. Aprovechando este momento tan lindo decidimos inaugurar una entrada nueva en  el blog llamada ‘’Datos curiosos sobre...’’. La idea es tener como protagonistas diferentes  animales y plantas de la Chacra. Los protagonistas de hoy: ¡los cerdos! Veamos qué datos ya  conocían y cuáles los sorprenden.
 
 Los cerdos son animales muy limpios
-¿Te han dicho cerdo alguna vez por hacer algo asqueroso? A pesar de ser una expresión  popular, está lejos de la realidad, ¡los cerdos son animales muy limpios! Si se les da el espacio  suficiente evitarán defecar donde duermen y comen. Incluso los cerditos recién nacidos  abandonan su zona de descanso para hacer sus necesidades. 
+¿Te han dicho cerdo alguna vez por hacer algo asqueroso? A pesar de ser una expresión  popular, está lejos de la realidad, ¡los cerdos son animales muy limpios! Si se les da el espacio  suficiente evitarán defecar donde duermen y comen. Incluso los cerditos recién nacidos  abandonan su zona de descanso para hacer sus necesidades.
 
  Los cerdos no sudan
 ‘’Sudar como un cerdo’’ es otra frase engañosa y comúnmente utilizada, pero la realidad es  que los cerdos no pueden sudar. Los cerdos no tienen muchas glándulas sudoríparas, razón por  la cual no pueden eliminar el calor como sudor a diferencia de nosotros y muchos otros  animales. Para mantenerse frescos se revuelcan en el barro, lo que también les sirve para  protegerse del sol y enfriar su cuerpo durante más tiempo.  
 
 Los cerdos son muy inteligentes
-Los cerdos están considerados entre los animales más inteligentes del planeta. De hecho, los cerdos son más inteligentes que  muchas razas de perro. Poseen un cerebro grande y bien desarrollado y se sabe que son muy  curiosos, con una considerable capacidad de aprendizaje y resolución de problemas. Tienen  una gran capacidad para aprender de la experiencia y combinar información nueva con hechos  recordados previamente. Pueden aprender sus nombres en solo dos semanas y acuden cuando  se les llama. 
+Los cerdos están considerados entre los animales más inteligentes del planeta. De hecho, los cerdos son más inteligentes que  muchas razas de perro. Poseen un cerebro grande y bien desarrollado y se sabe que son muy  curiosos, con una considerable capacidad de aprendizaje y resolución de problemas. Tienen  una gran capacidad para aprender de la experiencia y combinar información nueva con hechos  recordados previamente. Pueden aprender sus nombres en solo dos semanas y acuden cuando  se les llama.
 
 Los cerdos dicen mucho más que ¡oink oink!
-Los cerdos se comunican entre sí mediante gruñidos y chillidos. Se han identificado más de 20  vocalizaciones, cada una de las cuales transmite un mensaje diferente, desde expresar hambre  hasta llamar a sus parejas. Las madres tienen llamadas especiales para sus lechones, y estos  aprenden a reconocer la llamada de su madre. 
+Los cerdos se comunican entre sí mediante gruñidos y chillidos. Se han identificado más de 20  vocalizaciones, cada una de las cuales transmite un mensaje diferente, desde expresar hambre  hasta llamar a sus parejas. Las madres tienen llamadas especiales para sus lechones, y estos  aprenden a reconocer la llamada de su madre.
 
 Los cerdos pueden moverse rápido
-¿Piensas que los cerdos son lentos? Pues resulta que no. Los cerdos adultos pueden correr a  velocidades de más de 17 kilómetros por hora, en otras palabras, pueden correr un kilómetro  en tres minutos y medio. Nosotros en la Chacra lo hemos comprobado en más de una ocasión,  ya que la madre es muy protectora con sus crías. Cuando hemos tenido que ayudar a las crías  por quedarse atascadas en el barro o por alguna herida, debemos ser muy rápidos para evitar  un golpe de la madre. 
+¿Piensas que los cerdos son lentos? Pues resulta que no. Los cerdos adultos pueden correr a  velocidades de más de 17 kilómetros por hora, en otras palabras, pueden correr un kilómetro  en tres minutos y medio. Nosotros en la Chacra lo hemos comprobado en más de una ocasión,  ya que la madre es muy protectora con sus crías. Cuando hemos tenido que ayudar a las crías  por quedarse atascadas en el barro o por alguna herida, debemos ser muy rápidos para evitar  un golpe de la madre.
 
 Los cerdos son animales sociales
 El comportamiento social está muy desarrollado en los cerdos. En cuestión de horas, los  lechones recién nacidos empiezan a establecer relaciones sociales de dominancia con sus  compañeros de camada y, con el tiempo, se forma una jerarquía estable Los cerdos prefieren  estar en grupo y se estresan cuando están solos. Forman fuertes lazos entre ellos, e incluso con  otros animales y seres humanos. Estas amistades pueden durar toda la vida. Cuando están en  grupo, los cerdos se acurrucan unos junto a otros para sentirse cómodos y calientes.
 
 Los cerdos tienen un olfato potente
-El olfato de los cerdos es, con diferencia, su sentido más desarrollado. El disco nasal del hocico  de los cerdos, aunque es lo bastante rígido como para utilizarlo para excavar, tiene numerosos  receptores sensoriales. Los cerdos emplean el hocico para explorar y buscar alimentos, empujar  objetos, aplastarlos, recogerlos y hacer palanca para arrancar raíces gruesas. También lo usan  para recoger información durante las interacciones sociales. Los que hayan visitado la Chacra  habrán notado que al acercarnos los cerdos mueven el hocico, nos huelen para obtener  información, saber si tenemos comida o detectar algún peligro. 
+El olfato de los cerdos es, con diferencia, su sentido más desarrollado. El disco nasal del hocico  de los cerdos, aunque es lo bastante rígido como para utilizarlo para excavar, tiene numerosos  receptores sensoriales. Los cerdos emplean el hocico para explorar y buscar alimentos, empujar  objetos, aplastarlos, recogerlos y hacer palanca para arrancar raíces gruesas. También lo usan  para recoger información durante las interacciones sociales. Los que hayan visitado la Chacra  habrán notado que al acercarnos los cerdos mueven el hocico, nos huelen para obtener  información, saber si tenemos comida o detectar algún peligro.
 
 Los cerdos arman nidos
 Esta curiosidad de los cerdos resulta difícil de creer. Siempre pensamos que son las aves quienes construyen hermosos nidos para incubar los huevos y tener sus crías. Pero las cerdas hembra en las horas previas al parto, construyen enormes montículos de pasto que ella misma corta con su boca y amontona en un sitio de la pradera. En el momento del parto se acuesta sobre la pila de material cortado, al nacer los cerditos encontrarán un sitio mullido, calentito, y si llueve o hay sol intenso tendrán donde guarecerse.
 
-https://direlivkom.ec/2018/01/08/caracteristicas-del-cerdo/
+<https://direlivkom.ec/2018/01/08/caracteristicas-del-cerdo/>
 Los términos cerdo, puerco, cochino, marrano o chancho se usan a menudo indistintamente para nombrar a estos animales.
 
 Los cerdos parecen descender de dos suidos salvajes, una especie europea y otra del Sureste asiático; probablemente se domesticaron en China hace unos 9.000 años y más tarde en Europa. Fueron introducidos en América por Cristóbal Colón y los expedicionarios españoles.
@@ -72,7 +71,7 @@ La piel, gruesa pero sensible, está cubierta en parte de ásperas cerdas y exhi
 
 Magníficamente adaptados para la producción de carne, dado que crecen y maduran con rapidez, tienen un periodo de gestación corto, de unos 114 días, y pueden tener camadas muy numerosas. Son omnívoros y consumen una gran variedad de alimentos, tal vez una de las razones que condujeron a su domesticación. Como fuente de alimento, convierten los cereales, como el maíz, y las leguminosas, como la soja (soya), en carne. Además de la carne, del cerdo también se aprovechan el cuero (piel de cerdo) para hacer maletas, calzado y guantes, y las cerdas para confeccionar cepillos.
 
-https://definicion.de/cerdo/
+<https://definicion.de/cerdo/>
 El cerdo es un animal mamífero que puede encontrarse en estado salvaje o doméstico. El nombre científico de la especie en estado natural es Sus scrofa y coloquialmente se lo conoce como jabalí o cerdo silvestre; mientras que aquéllos ejemplares que han sido domesticados reciben el nombre de Sus scrofa domestica.
 Se trata de un cuadrúpedo con patas cortas y pezuñas, un cuerpo pesado, hocico flexible y cola corta. Cabe señalar que el término cerdo proviene de cerda, lo que hace referencia a su pelo grueso.
 Distintas denominaciones
@@ -90,9 +89,10 @@ La memoria del cerdo
 En lo que respecta a su memoria, se sabe que poseen excelentes capacidades para recordar a largo plazo, no solo sus nombres sino también órdenes y voces. De hecho, en un estudio realizado por el Dr. Curtis fue capaz de enseñarles a varios cerdos a saltar y sentarse al lado o ir en busca de algún objeto que él arrojara previamente, siendo incluso capaces de distinguir entre diversos objetos.
 Lamentablemente los humanos pensamos únicamente en nosotros y nuestros placeres y en vez de acercarnos al resto de las especies con deseos de conocerlas y entablar relaciones con ellas, preferimos tomar de ellas lo que creemos que nos conviene, utilizando al resto de los organismos vivos a nuestro antojo como si fueran objetos. Y esto mismo es lo que hacemos con estos preciosos animalitos, ya que en lugar de aprender de ellos, preferimos relegarlos a una vida de hacinamiento para convertirlos en nuestro alimento. En «Rebelión en la granja» podíamos leer entre líneas un tratado sobre vegetarianismo, pese a ello, la mayoría de las personas humanas hoy en día continúan con sus dietas carnívoras.
 
-https://www.worldanimalprotection.es/noticias-y-blogs/blogs/datos-curiosos-cerdos-conocias-animales-granja/
+<https://www.worldanimalprotection.es/noticias-y-blogs/blogs/datos-curiosos-cerdos-conocias-animales-granja/>
 ¿Son sucios? No es verdad. Son inteligentes, alegres y limpios - ¡eso sí es cierto! - Los cerdos son animales asombrosos, capaces de aprender tareas complejas y comunicarse entre sí de forma elaborada.
 Conoce algunos hechos sorprendentes sobre ellos:
+
 1. Los cerdos comparten con nosotros desde hace mucho tiempo
 Los cerdos son una de las especies más antiguas de animales de granja. Ellos fueron domesticados por los seres humanos, incluso antes que las vacas, hace seis mil de años. Actualmente, hay mil millones de cerdos en el mundo (aproximadamente) y que se pueden encontrar en todos los continentes.
 Aunque la mayoría de los cerdos se concentran en el campo, ellos ganan los corazones de muchas personas en las ciudades, donde se crían como mascotas. Max es la mascota del actor George Clooney y vivió con él 18 años en su mansión de Hollywood.
@@ -119,7 +119,7 @@ Como los niños, los cerdos también les encanta jugar a la pelota, correr y rea
 8. Los cerdos son héroes
 Hay muchas historias de cerdos salvando la vida de personas. Ellos rescataran humanos y otros animales de incendios, ahogamientos e incluso agresiones.
 
-https://arbolabc.com/animales-para-ninos/mamiferos/cerdo
+<https://arbolabc.com/animales-para-ninos/mamiferos/cerdo>
 El favorito de los granjeros
 Chancho, puerco, porcino, marrano o cochino, son algunos de los nombres con los que conocemos al popular cerdo doméstico. Hay alrededor de 2 billones de cerdos en el mundo, que se encuentran en todos los continentes excepto en la Antártida. Según los científicos, el cerdo fue domesticado hace más de 13,000 años para el consumo de su carne.
 El cuerpo del cerdo es redondo y pesado, cubierto de pelo de diversos colores. Según la especie, sus patas son cortas con pezuñas y poseen un hocico flexible, lo cual resulta indispensable para encontrar el alimento en el suelo y percibir el mundo que los rodea.
@@ -131,7 +131,7 @@ Los cerdos se distinguen por comer de todo, desde vegetales hasta carne. Sin emb
 Los cerdos, al igual que los perros y gatos, no tienen glándulas sudoríparas, por esta razon, se revuelcan en el lodo para mantenerse frescos. Igualmente, el lodo protege la delicada piel del cerdo que se quema fácilmente con el sol.
 En estado salvaje, un cerdo puede llegar a vivir hasta 15 años.
 
-https://ecuador.inaturalist.org/taxa/324492-Sus-scrofa-domesticus
+<https://ecuador.inaturalist.org/taxa/324492-Sus-scrofa-domesticus>
 El cerdo (Sus scrofa domestica) es una subespecie de mamífero artiodáctilo de la familia Suidae. Es un animal doméstico usado en la alimentación humana por muchos pueblos. Su nombre científico es Sus scrofa ssp. domestica, aunque algunos autores lo denominan Sus domesticus o Sus domestica, reservando Sus scrofa para el jabalí. El cerdo también es denominado cochino, chancho, cuche, gocho,[1]​ marrano, porcino, puerco,[2]​ tocino,[3]​ sancho,[4]​ chino,[5]​ tunco,[6]​ currucho,[7]​ cuino,[8]​ gorrín,[9]​ entre otras denominaciones populares.[10]​
 Su domesticación se inició en el Oriente Próximo hace unos trece mil años,[11]​ aunque se produjo un proceso paralelo e independiente de domesticación en China.[12]​
 Los datos procedentes de los estudios de ADN sobre restos óseos de cerdos neolíticos europeos indican que los primeros cerdos domésticos llegaron a Europa desde el Oriente Próximo. Aun así, parece que, posteriormente, también se produjeron en Europa procesos de domesticación de jabalíes salvajes.[13]​ Los registros históricos indican que los cerdos domésticos asiáticos fueron introducidos en Europa durante los siglos XVIII y XIX, mezclándose con las razas europeas.[12]​
@@ -143,7 +143,7 @@ Adaptados mediante selección para la producción de carne, dado que crecen y ma
 Además de la carne, del cerdo también se aprovechan la piel (cuero) para hacer maletas, calzados y guantes, y las cerdas para confeccionar cepillos. También, son fuente primaria de grasa comestible saturada (manteca), aunque, en la actualidad, se prefieren las razas que producen carne magra. Asimismo, proporcionan materia prima de calidad para la elaboración del jamón, salchichas, chorizos y embutidos.
 En libertad, los cerdos pueden llegar a vivir de diez a quince años.
 
-https://pangeanimales.com/mamiferos/cerdo/
+<https://pangeanimales.com/mamiferos/cerdo/>
 TAMAÑO POBLACIÓN
 Enorme
 
@@ -171,7 +171,6 @@ El cerdo es un animal mamífero que se puede encontrar tanto en estado salvaje c
 
 En estado salvaje se le conoce más como cerdo silvestre o jabalí y es un ser vivo que siempre ha acompañado al ser humano desde hace miles de años.
 
-
 A los cerdos también se les conoce por una gran cantidad de nombres diferentes como lo son el cochino, puerco, marrano, porcino, chancho y marrano dependiendo el país dónde se ubique.
 
 Son animales cuadrúpedos con un aspecto bastante llamativo y reconocido por todos por: Patas cortas con pezuñas, tamaño enorme, que vive principalmente en granjas y que no tiene desperdicio y que se puede comer casi todo de él.
@@ -190,7 +189,6 @@ Existen ejemplares que por supuesto han llegado a tener 400 kg pero son casos ex
 Los cerdos son omnívoros y por lo tanto eso quiere decir que su alimentación se basa en la ingesta de cualquier tipo de alimento tanto de vegetales como de  carne.
 
 Su dieta es muy variada y extensa y por supuesto tremendamente condicionada dependiendo de su hábitat y si está en estado salvaje o cautiverio.
-
 
 Principalmente se alimentan de todo tipo de raíces, hongos, frutas, insectos, restos de otros alimentos o animales y ratones pero hay excepciones que son las más codiciadas y son los cerdos que prácticamente se alimentan de bellotas dónde es aquí cuando su carne es excepcional y considerada por muchos como una de las mejores del mundo.
 
@@ -214,7 +212,6 @@ Son animales extremadamente tranquilos y muy glotones llegando a tener un sueño
 
 Les encanta estar siempre agrupados con ejemplares de su misma especie y no suelen separarse demasiado para estar solos. Esto quiere decir que su sociabilidad y amabilidad predomina por encima de todo llegando a ser considerados como animales bastante inteligentes que hasta incluso se pueden llegar a enseñar a que hagan cosas.
 
-
 Tienen un olfato excepcional sobre todos los que se dedican a buscar bellotas. Hay hasta incluso gente que dice que el sulfato es mejor que el de los perros para ciertas cosas ya que pueden encontrar cosas tremendamente ocultas enterradas bajo tierra sin ningún tipo de problema.
 
 ¿Está en peligro de extinción el cerdo?
@@ -226,7 +223,6 @@ Sin ir más lejos, la raza denominada como cerdo ibérico más concretamente la 
 Si hay alguien que destaca por encima de todo como depredador del cerdo eso es sin lugar a dudas el ser humano. Nosotros hemos estado siempre junto con este animal por todos los beneficios que nos aporta ya que prácticamente todas y cualquiera de las partes del cuerpo del cerdo se pueden llegar a utilizar y aprovechar para consumo propio ya sea alimentación o para la creación de prendas y algún que otro artefacto como los cepillos de dientes.
 
 Pero si ya entramos en animales carnívoros depredadores que viven alrededor de sus ecosistemas y hábitats sí que es cierto que los lobos en ciertas ocasiones han llegado a causar verdaderos estragos en infinidad de lugares del mundo cuando han encontrado piaras gigantes sin protección.
-
 
 Por ejemplo en África, destacan sobre todo las hienas que aunque son animales conocidos como exclusivamente carroñeros, no se andan con tonterías cuando ven un lechón cerca indefenso y solo.
 

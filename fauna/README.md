@@ -335,17 +335,18 @@
 | Zorro Polar (Zorro ártico) | 1 |  |  |  |  | <img src="zorro_artico/zorro_artico_101_square.png" style="width: 300px; height: auto; border: 2px solid #ccc;"> |
 
 # Pendiente de revisar
--  https://animalia.bio/es/lists/parrots
--  https://animalia.bio/es/reptiles
--  https://seo.org/guia-de-aves/
+
+- <https://animalia.bio/es/lists/parrots>
+- <https://animalia.bio/es/reptiles>
+- <https://seo.org/guia-de-aves/>
 - [Pedia de peces](https://www.fishipedia.es/#)
 - [wiki de peces](https://www.peceswiki.com/)
 - [Peces de agua dulce](https://laguiadelacuario.es/fichas-pecesaguadulce/)
 
-
-
 # test
+
 [info](https://www.miteco.gob.es/es/biodiversidad/temas/inventarios-nacionales/inventario-especies-terrestres/inventario-nacional-de-biodiversidad/ieet_mamif_atlas_indice_familias.html#artiodactilos)
+
 |Animal|Source|
 |---------|----------|
 |Mamiferos||

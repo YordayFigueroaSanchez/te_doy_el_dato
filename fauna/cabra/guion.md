@@ -36,7 +36,7 @@ Las cabras pueden reproducirse a partir de los ocho meses en las hembras y desde
 
 El celo dura entre 18 y 21 días, y durante este tiempo las cabras muestran signos claros: se inquietan, emiten balidos frecuentes, mueven la cola exageradamente y se montan entre sí. La gestación dura aproximadamente 150 días (unos cinco meses), y generalmente nace una sola cría, aunque en un 20 % de los casos pueden ser dos o tres cabritos.
 
-A los pocos días del nacimiento, los cabritos ya son capaces de caminar junto a su madre. El periodo de lactancia varía según el sistema de producción, pero puede durar desde 90 días en razas criollas hasta más de 300 en razas lecheras especializadas. 
+A los pocos días del nacimiento, los cabritos ya son capaces de caminar junto a su madre. El periodo de lactancia varía según el sistema de producción, pero puede durar desde 90 días en razas criollas hasta más de 300 en razas lecheras especializadas.
 
 ---
 

@@ -3,6 +3,7 @@
 Breve: he creado un virtualenv llamado `.venv_uv` en la raíz del proyecto y he instalado `uv` dentro. Este documento muestra cómo activar, verificar e usar el entorno.
 
 Estado actual
+
 - Virtualenv: `.venv_uv` (creado)
 - Paquete `uv`: instalado en `.venv_uv` (verificado)
 
@@ -14,7 +15,7 @@ Comandos (desde la raíz del repositorio)
 C:/Users/yfigueroa/.local/bin/python3.12.exe -m venv .venv_uv
 ```
 
-2) Actualizar pip e instalar `uv` (ya ejecutado):
+1) Actualizar pip e instalar `uv` (ya ejecutado):
 
 ```powershell
 .venv_uv\Scripts\python.exe -m pip install --upgrade pip

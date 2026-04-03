@@ -1,0 +1,130 @@
+{
+  "audit.md": [
+    {
+      "line": 15,
+      "rule": "line-length",
+      "message": "Line 15 longer than 120 chars (174)"
+    },
+    {
+      "line": 23,
+      "rule": "line-length",
+      "message": "Line 23 longer than 120 chars (193)"
+    },
+    {
+      "line": 24,
+      "rule": "line-length",
+      "message": "Line 24 longer than 120 chars (157)"
+    },
+    {
+      "line": 73,
+      "rule": "line-length",
+      "message": "Line 73 longer than 120 chars (178)"
+    },
+    {
+      "line": 74,
+      "rule": "line-length",
+      "message": "Line 74 longer than 120 chars (172)"
+    },
+    {
+      "line": 1,
+      "rule": "title-h1",
+      "message": "First non-empty line is not an H1 header (# )"
+    }
+  ],
+  "uv-setup.md": [
+    {
+      "line": 3,
+      "rule": "line-length",
+      "message": "Line 3 longer than 120 chars (167)"
+    },
+    {
+      "line": 71,
+      "rule": "line-length",
+      "message": "Line 71 longer than 120 chars (138)"
+    },
+    {
+      "line": 79,
+      "rule": "line-length",
+      "message": "Line 79 longer than 120 chars (165)"
+    },
+    {
+      "line": 1,
+      "rule": "title-h1",
+      "message": "First non-empty line is not an H1 header (# )"
+    }
+  ],
+  "units/guiones/analysis.md": [
+    {
+      "line": 12,
+      "rule": "line-length",
+      "message": "Line 12 longer than 120 chars (167)"
+    },
+    {
+      "line": 13,
+      "rule": "line-length",
+      "message": "Line 13 longer than 120 chars (160)"
+    },
+    {
+      "line": 14,
+      "rule": "line-length",
+      "message": "Line 14 longer than 120 chars (159)"
+    },
+    {
+      "line": 19,
+      "rule": "line-length",
+      "message": "Line 19 longer than 120 chars (137)"
+    },
+    {
+      "line": 22,
+      "rule": "line-length",
+      "message": "Line 22 longer than 120 chars (147)"
+    },
+    {
+      "line": 23,
+      "rule": "line-length",
+      "message": "Line 23 longer than 120 chars (143)"
+    },
+    {
+      "line": 24,
+      "rule": "line-length",
+      "message": "Line 24 longer than 120 chars (126)"
+    }
+  ],
+  "units/guiones/Camaron_mantis/analysis.md": [
+    {
+      "line": 10,
+      "rule": "line-length",
+      "message": "Line 10 longer than 120 chars (138)"
+    },
+    {
+      "line": 11,
+      "rule": "line-length",
+      "message": "Line 11 longer than 120 chars (135)"
+    },
+    {
+      "line": 17,
+      "rule": "line-length",
+      "message": "Line 17 longer than 120 chars (126)"
+    },
+    {
+      "line": 49,
+      "rule": "line-length",
+      "message": "Line 49 longer than 120 chars (393)"
+    },
+    {
+      "line": 61,
+      "rule": "line-length",
+      "message": "Line 61 longer than 120 chars (689)"
+    },
+    {
+      "line": 83,
+      "rule": "line-length",
+      "message": "Line 83 longer than 120 chars (135)"
+    },
+    {
+      "line": 85,
+      "rule": "line-length",
+      "message": "Line 85 longer than 120 chars (125)"
+    }
+  ]
+}

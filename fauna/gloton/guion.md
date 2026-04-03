@@ -32,7 +32,7 @@ Su estrategia de defensa incluye el uso de su potente mordida y su piel gruesa, 
 
 ### Datos Curiosos: Más Sorprendente de lo que Parece
 
-A pesar de su aspecto robusto, es un excelente trepador y nadador, lo que le permite moverse con agilidad en su entorno. Su nombre científico, Gulo gulo, proviene del latín y significa "glotón", haciendo referencia a su gran apetito. Además, este mustélido es muy territorial y puede enfrentarse incluso a osos y lobos para defender su espacio. 
+A pesar de su aspecto robusto, es un excelente trepador y nadador, lo que le permite moverse con agilidad en su entorno. Su nombre científico, Gulo gulo, proviene del latín y significa "glotón", haciendo referencia a su gran apetito. Además, este mustélido es muy territorial y puede enfrentarse incluso a osos y lobos para defender su espacio.
 
 ### Conclusión: El Espíritu del Bosque Boreal
 

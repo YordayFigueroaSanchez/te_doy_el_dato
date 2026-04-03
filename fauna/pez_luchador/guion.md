@@ -41,4 +41,3 @@ A pesar de su fama de solitario y territorial, el Betta splendens también tiene
 ## Cierre
 
 El Betta splendens es un pez fascinante, tanto por su belleza como por su comportamiento único. Su historia, adaptaciones y rituales de apareamiento lo convierten en un verdadero guerrero de aguas tranquilas. Si te ha intrigado este artículo, cuéntanos qué otros temas te gustaría que abordáramos en futuros contenidos. ¡Tu opinión es muy valiosa!
-

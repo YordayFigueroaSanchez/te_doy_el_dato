@@ -1,34 +1,47 @@
 # 20250525
+
 Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Gorrión común, Pájaros carpinteros, Urraca común, los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
 ?Que tema prefieres para el siguiente dato?
 Cisne: elegante, majestuoso, gracil  
 Coyote: astuto, adaptable, travieso  
 Ibis: colorido, sociable, curioso
+
 ## Result
+
 ¿Qué tema prefieres para el siguiente dato?
 Gorrión común: pequeño, ágil, resistente
 Pájaros carpinteros: ruidoso, persistente, habilidoso
 Urraca común: inteligente, curiosa, ruidosa
+
 ## Nombre
+
 Gorrión común-Pájaros carpinteros-Urraca común
 
 # 20250427
+
 Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Indri indri, Sula patiazul y Ganso del nilo, los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
 ?Que tema prefieres para el siguiente dato?
 Cisne: elegante, majestuoso, gracil  
 Coyote: astuto, adaptable, travieso  
 Ibis: colorido, sociable, curioso
+
 ## Result
+
 ¿Cuál de los siguientes animales te parece más interesante o atractivo para el próximo dato de interés?
 Indri indri: saltarín, vocalizador
 Sula patiazul: peculiar, danzarín
 Ganso del Nilo: bullicioso,adaptable
+
 ## Adaptado
+
 ¿Qué tema prefieres para el siguiente dato?
+
 ## Nombre
+
 Indri-Sula-Ganso
 
 # 20250420
+
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Conejo, Faisán y Lechuza , los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
     ?Que tema prefieres para el siguiente dato?
     Cisne: elegante, majestuoso, gracil  
@@ -277,7 +290,7 @@ Indri-Sula-Ganso
         Impala: veloz, elegante, ágil  
 Si necesitas ajustes adicionales, házmelo saber. 😊
     nombre
-        Mantarraya-Cangrejo-Impala 
+        Mantarraya-Cangrejo-Impala
 20241228
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales . Quiero la respuesta con el animal Faisan, luciernagas y murcierlago: y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
     ?Que tema prefieres para el siguiente dato?
@@ -379,7 +392,7 @@ Si necesitas ajustes adicionales, házmelo saber. 😊
         �Qu� tema prefieres para el siguiente dato?  
         Pez globo: curioso, defensivo, fascinante  
         Mariposa: colorida, fr�gil, ef�mera  
-        Pavo dom�stico: sociable, vistoso, territorial   
+        Pavo dom�stico: sociable, vistoso, territorial
 20241030
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales fregata, oropendola y jabali. Quiero la respuesta con el animal : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
     �Que tema prefieres para el siguiente dato?
@@ -390,7 +403,7 @@ Si necesitas ajustes adicionales, házmelo saber. 😊
         �Qu� tema prefieres para el siguiente dato?  
         Fregata: �gil, elegante, majestuosa  
         Orop�ndola: vibrante, melodiosa, ingeniosa  
-        Jabal�: resistente, salvaje, determinado    
+        Jabal�: resistente, salvaje, determinado
 20241023
     Genera una pregunta para una encuesta para consultar por el animal que prefieren, agregue tres adjetivos para cada uno de los siguientes animales Pelicano, lucio y faeton. Quiero la respuesta con el animal : y los tres adjetivos separados por coma. Como ejemplo tengo la siguiente estructura.
     �Que tema prefieres para el siguiente dato?
@@ -401,7 +414,7 @@ Si necesitas ajustes adicionales, házmelo saber. 😊
         �Qu� tema prefieres para el siguiente dato?  
         Pel�cano: robusto, preciso, curioso  
         Lucio: sigiloso, �gil, feroz  
-        Fetonte: elegante, �gil, ex�tico    
+        Fetonte: elegante, �gil, ex�tico
 20241013
     tres adjetivos para cada uno de los siguientes animales Cisne, Coyote y Ibis. Quiero la respuesta con el animal : y los tres adjetivos separados por coma.
     �Que tema prefieres para el siguiente dato?
@@ -443,7 +456,7 @@ Si necesitas ajustes adicionales, házmelo saber. 😊
         Perezoso: lento, somnoliento y solitario
         Tuc�n: colorido, ex�tico y ruidoso  
     resource
-        Foto de SevenStorm JUHASZIMRUS: https://www.pexels.com/es-es/foto/fotografia-en-primer-plano-de-la-iguana-verde-409802/
+        Foto de SevenStorm JUHASZIMRUS: <https://www.pexels.com/es-es/foto/fotografia-en-primer-plano-de-la-iguana-verde-409802/>
 20240824
     �Que tema prefieres para el siguiente dato?
         Flamenco: elegante, colorido, gr�cil.
@@ -458,7 +471,7 @@ Si necesitas ajustes adicionales, házmelo saber. 😊
         Mapache  ingenioso y astuto
     que adjetivos propones para los siguientes animales Hiena manchada, Chimpanc�, Nutria y Mapache
         Aqu� tienes algunos adjetivos que podr�an describir a estos animales:
-        1. **Hiena manchada**: 
+        1. **Hiena manchada**:
         - Resistente
         - Astuta
         - Tenaz
@@ -482,10 +495,10 @@ Si necesitas ajustes adicionales, házmelo saber. 😊
         - Curioso
         - Astuto
         - Adaptable
-    Foto de Antonio Friedemann: https://www.pexels.com/es-es/foto/animal-peligroso-salvaje-depredador-11657348/
-    Foto de Nici Villa vicencio: https://www.pexels.com/es-es/foto/simio-fauna-vida-salvaje-naturaleza-5847542/
-    Foto de Klajdi Cena: https://www.pexels.com/es-es/foto/nutria-posando-para-la-camara-13765828/
-    Foto de patrice schoefolt: https://www.pexels.com/es-es/foto/animal-mono-salvaje-mamifero-3880245/
+    Foto de Antonio Friedemann: <https://www.pexels.com/es-es/foto/animal-peligroso-salvaje-depredador-11657348/>
+    Foto de Nici Villa vicencio: <https://www.pexels.com/es-es/foto/simio-fauna-vida-salvaje-naturaleza-5847542/>
+    Foto de Klajdi Cena: <https://www.pexels.com/es-es/foto/nutria-posando-para-la-camara-13765828/>
+    Foto de patrice schoefolt: <https://www.pexels.com/es-es/foto/animal-mono-salvaje-mamifero-3880245/>
 20240803
     ¿Que tema prefieres para el siguiente dato?
     que adjetivos propones para los siguientes animales marmota, cocodrilo y fosa

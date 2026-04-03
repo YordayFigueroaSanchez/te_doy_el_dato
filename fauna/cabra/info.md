@@ -94,11 +94,11 @@ DESCRIPCIÓN DE LA ESPECIE
 
 La cabra montes es una especie muy antigua, estimándose que en el Plioceno (hace 7 millones de años), los caprínidos de Asia central llegaron a Europa y fue hacia la glaciación Riss cuando aparece la forma ibérica del género Capra ya diferenciada de la ibex del centro de Europa  (González, 1982).
 
-La cabra montes ha sido una especie que se ha cazado desde los albores de los tiempos primitivos, como lo atestiguan las numerosas escenas de caza de cabras que representan pinturas rupestres. En la cueva de Pair-non-Pair (Francia) se ha encontrado el grabado rupestre más antiguo. Durante los períodos fríos del Pleistoceno, las montesas habitaban en los valles y zonas más cálidas, de modo que abundaban en los valles bajos de toda Europa central y meridional. Posteriormente y por la presión humana en su caza, se refugió en las cumbres más altas e inaccesibles, donde quedaron acantonados los últimos ejemplares de esta especie. Durante la Edad Media, los escasos ejemplares que aun existían en sitios muy apartados de la presencia humana, solo eran cazados por nobles y señores feudales, que eran los únicos que tenían este derecho; existiendo leyes durísimas para el que se atreviese a matar una cabra montés, sin que no obstante ello se pudiera evitar su caza, hasta ponerse en peligro la especie, por dos razones fundamentales: una el preciado trofeo que representaba la cuerna de este animal, que siempre ha sido codiciado por los cazadores y otra, el mundo de supersticiones y magia que ha rodeado la especie a la que se le atribuían una serie de propiedades mágicas, así la sangre y los cálculos estomacales (bezoares) se creía constituían remedios infalibles contra muchos males, aun cuando lo más solicitado era el corazón, sobretodo cierta osificación de los cartílagos, de los que se decía tenían poderes curativos (A. Berger y J.Schmid, 1958).     
+La cabra montes ha sido una especie que se ha cazado desde los albores de los tiempos primitivos, como lo atestiguan las numerosas escenas de caza de cabras que representan pinturas rupestres. En la cueva de Pair-non-Pair (Francia) se ha encontrado el grabado rupestre más antiguo. Durante los períodos fríos del Pleistoceno, las montesas habitaban en los valles y zonas más cálidas, de modo que abundaban en los valles bajos de toda Europa central y meridional. Posteriormente y por la presión humana en su caza, se refugió en las cumbres más altas e inaccesibles, donde quedaron acantonados los últimos ejemplares de esta especie. Durante la Edad Media, los escasos ejemplares que aun existían en sitios muy apartados de la presencia humana, solo eran cazados por nobles y señores feudales, que eran los únicos que tenían este derecho; existiendo leyes durísimas para el que se atreviese a matar una cabra montés, sin que no obstante ello se pudiera evitar su caza, hasta ponerse en peligro la especie, por dos razones fundamentales: una el preciado trofeo que representaba la cuerna de este animal, que siempre ha sido codiciado por los cazadores y otra, el mundo de supersticiones y magia que ha rodeado la especie a la que se le atribuían una serie de propiedades mágicas, así la sangre y los cálculos estomacales (bezoares) se creía constituían remedios infalibles contra muchos males, aun cuando lo más solicitado era el corazón, sobretodo cierta osificación de los cartílagos, de los que se decía tenían poderes curativos (A. Berger y J.Schmid, 1958).
 
-La primera medida de protección de la especie en España, fue la creación en 1905, por el rey Alfonso XIII, del Refugio Real de Caza de la Sierra de Gredos, salvando una reducidísima población de animales, siendo especialmente a partir de 1950, cuando se establece un efectivo programa de conservación de las cabra montés a nivel nacional, con la creación de numerosas reservas y un programa de conservación, lo que no obstante no ha impedido la regresión de la especie en algunas zonas como ha ocurrido en los Pirineos. 
+La primera medida de protección de la especie en España, fue la creación en 1905, por el rey Alfonso XIII, del Refugio Real de Caza de la Sierra de Gredos, salvando una reducidísima población de animales, siendo especialmente a partir de 1950, cuando se establece un efectivo programa de conservación de las cabra montés a nivel nacional, con la creación de numerosas reservas y un programa de conservación, lo que no obstante no ha impedido la regresión de la especie en algunas zonas como ha ocurrido en los Pirineos.
 
-En la península ibérica se han descrito (Ángel Cabrera, 1911) cuatro subespecies de cabra montes que se basan en la corpulencia, distribución de las manchas negras del pelaje de los machos y longitud y sección transversal de la cornamenta: 
+En la península ibérica se han descrito (Ángel Cabrera, 1911) cuatro subespecies de cabra montes que se basan en la corpulencia, distribución de las manchas negras del pelaje de los machos y longitud y sección transversal de la cornamenta:
 
 - Capra pyrenaica victoriae (Cabrera, 1911). Que ocupa las serranías centrales, de modo fundamental la Sierra de Gredos, donde se le estima una población próxima a los 10.000 ejemplares.
 
@@ -106,49 +106,47 @@ En la península ibérica se han descrito (Ángel Cabrera, 1911) cuatro subespec
 
 - Capra pyrenaica pyrenaica (Schinz, 1838). Conocida como bucardo. Se localizaba en el Pirineo y probablemente también en la cordillera Cantábrica. Esta especie se extinguió en el año 2000. La última hembra fue encontrada muerta el 6 de enero de 2000, bajo el tronco desplomado de un abeto seco, en el valle de Ordesa (Juan Manuel Seijas, 2000).
 
-- Capra pyrenaica lusitanica (Schlegel, 1872). Se localizaba en el Sur de Galicia y Norte de Portugal, extinta desde 1890. En la Sierra de Gerés se mató el último individuo de que se tiene constancia. 
+- Capra pyrenaica lusitanica (Schlegel, 1872). Se localizaba en el Sur de Galicia y Norte de Portugal, extinta desde 1890. En la Sierra de Gerés se mató el último individuo de que se tiene constancia.
 
 La cabra montés, habita en la península ibérica desde las altas cumbres de Sierra Nevada (Mulhacén 3.482 m.) hasta el nivel del mar en la zona costera que limita las provincias de Granada y Málaga (Cerro Gordo-Maro). Suele separarse en grupos de sexos que pueden superar los 30 individuos: los machos por un lado y las hembras junto con los jóvenes, por otro. En los rebaños de machos no hay cooperación ni jerarquía social, mientras que el grupo de las hembras  parece estar mandado por una adulta experimentada. Los individuos solitarios suelen ser raros, normalmente machos viejos que han perdido su poderío. Estas agrupaciones se desbaratan en tiempo de celo en el que se forman rebaños mixtos.
 
-Aun cuando se trata de una especie esencialmente polígama, de modo que un solo macho es el que fecunda a un grupo de hembras, del que se hace dueño tras enfrentarse a topetazos a sus competidores en unos espectaculares combates, los casos de poliandria en los que una hembra es fecundada por más de un macho no son raros. Durante la época de celo el macho apenas come y centra sus actividades en la apetencia sexual. 
+Aun cuando se trata de una especie esencialmente polígama, de modo que un solo macho es el que fecunda a un grupo de hembras, del que se hace dueño tras enfrentarse a topetazos a sus competidores en unos espectaculares combates, los casos de poliandria en los que una hembra es fecundada por más de un macho no son raros. Durante la época de celo el macho apenas come y centra sus actividades en la apetencia sexual.
 
 Los hábitos de la especie son fundamentalmente diurnos y crepusculares. En verano pasa las horas centrales del día descansando y refugiándose del sol. Tiene el olfato, vista y oído muy desarrollado. Aunque se trata de un animal por lo general muy desconfiado del hombre, en zonas como Gredos o Sierra Nevada, se han habituado a la presencia humana y se aproximan con facilidad a los excursionistas.  
 
-Se mueve con facilidad por las paredes rocosas de increíble verticalidad, gracias a la peculiaridad de sus pezuñas, cuya superficie interna es antideslizante, lo que le evita los resbalones, mientras que las puntas de las pezuñas, que además carecen de pliegue interdigital, son muy duras y agudas, por lo que pueden agarrarse a las rocas. 
+Se mueve con facilidad por las paredes rocosas de increíble verticalidad, gracias a la peculiaridad de sus pezuñas, cuya superficie interna es antideslizante, lo que le evita los resbalones, mientras que las puntas de las pezuñas, que además carecen de pliegue interdigital, son muy duras y agudas, por lo que pueden agarrarse a las rocas.
 
 Aun cuando son sedentarias, en invierno realizan desplazamientos más prolongados en busca de refugio y abrigo, descendiendo hasta zonas más bajas.
 
-DATOS DE LA ESPECIE 
+DATOS DE LA ESPECIE
 
-- Longevidad: Puede alcanzar los 20 años, pero lo normal es que sea de unos 15 años. 
+- Longevidad: Puede alcanzar los 20 años, pero lo normal es que sea de unos 15 años.
 
--Celo: A principios del invierno (noviembre-diciembre) en el que tiene lugar duros combates entre los machos  contendientes. El celo dura unos 50 días. 
+-Celo: A principios del invierno (noviembre-diciembre) en el que tiene lugar duros combates entre los machos  contendientes. El celo dura unos 50 días.
 
-- Gestación: Unos 5 meses. 
+- Gestación: Unos 5 meses.
 
--Época de parto: De abril a mayo. 
+-Época de parto: De abril a mayo.
 
--Parto: La hembra se retira a un lugar aislado y apartado, donde da a luz, permaneciendo en compañía del cabrito durante varios días. Los cabritos a las pocas horas de nacer están en condiciones de levantarse y poder seguir a la madre. 
+-Parto: La hembra se retira a un lugar aislado y apartado, donde da a luz, permaneciendo en compañía del cabrito durante varios días. Los cabritos a las pocas horas de nacer están en condiciones de levantarse y poder seguir a la madre.
 
--Número de crías por camada: Una. A veces dos (un 20 % aprox.). 
+-Número de crías por camada: Una. A veces dos (un 20 % aprox.).
 
-- Duración de la lactancia: Se prolonga hasta que la hembra queda preñada de nuevo (a los 5 ó 6 meses) del alumbramiento, pero a los 7-10 días y el cabrito ya es capaz de ingerir alimento. 
+- Duración de la lactancia: Se prolonga hasta que la hembra queda preñada de nuevo (a los 5 ó 6 meses) del alumbramiento, pero a los 7-10 días y el cabrito ya es capaz de ingerir alimento.
 
-- Madurez sexual: La hembra a los 18 o 24 meses, pudiendo parir todos los, años  hasta los 10 ó 12 años de edad. Los machos son fecundos a los 2 años aunque con difíciles posibilidades de copular. 
+- Madurez sexual: La hembra a los 18 o 24 meses, pudiendo parir todos los, años  hasta los 10 ó 12 años de edad. Los machos son fecundos a los 2 años aunque con difíciles posibilidades de copular.
 
-- Alimentación: Esencialmente fitófaga, come todo tipo de alimentos vegetales y en invierno y época de escasez incluso cortezas y ramas. Muestra gran apetencia por la sal. Normalmente no tienen necesidades de beber agua, bastándole con el de las plantas y el rocío, aun cuando se ha comprobado que tras grandes esfuerzos como huidas, se acercan al agua a abrevar. 
+- Alimentación: Esencialmente fitófaga, come todo tipo de alimentos vegetales y en invierno y época de escasez incluso cortezas y ramas. Muestra gran apetencia por la sal. Normalmente no tienen necesidades de beber agua, bastándole con el de las plantas y el rocío, aun cuando se ha comprobado que tras grandes esfuerzos como huidas, se acercan al agua a abrevar.
 
--Hábitats: Esencialmente rupícolas, defendiéndose bien sobretodo en media y alta montaña. En verano sube a las  partes más altas y en los sitios más escarpados, descendiendo un poco en invierno, aunque sin llegar a los valles. En Sierra Nevada alcanza su máxima altura ibérica superando los 3.500 metros aproximadamente, mientras que en la Sierra de Baza sube en torno a los 2.200 metros. 
+-Hábitats: Esencialmente rupícolas, defendiéndose bien sobretodo en media y alta montaña. En verano sube a las  partes más altas y en los sitios más escarpados, descendiendo un poco en invierno, aunque sin llegar a los valles. En Sierra Nevada alcanza su máxima altura ibérica superando los 3.500 metros aproximadamente, mientras que en la Sierra de Baza sube en torno a los 2.200 metros.
 
--Huellas: Debido al borde blando interno de la pezuña, las huellas aparecen impresas marcadas únicamente el borde externo, lo que la diferencia claramente de los cérvidos que también marcan el borde interno. La medida de la huella del macho es de uno 8 cms de largo por 4-5 cms. de ancho. 
+-Huellas: Debido al borde blando interno de la pezuña, las huellas aparecen impresas marcadas únicamente el borde externo, lo que la diferencia claramente de los cérvidos que también marcan el borde interno. La medida de la huella del macho es de uno 8 cms de largo por 4-5 cms. de ancho.
 
-- Excrementos: Varia ligeramente de aspecto y textura, en función de la dieta, aun cuando siempre aparecen agrupados al detener su marcha el animal para defecar, siendo cilíndricos y miden aproximadamente 1 cm. de ancho y 1,5 –1,8 de largo. Debe de tenerse presente que estos montones de excrementos a los pocos días, u horas de ser depositados pueden esparcirse por las pisadas del propio animal u otras especies, así como por la propia acción de los factores meteorológicos. 
+- Excrementos: Varia ligeramente de aspecto y textura, en función de la dieta, aun cuando siempre aparecen agrupados al detener su marcha el animal para defecar, siendo cilíndricos y miden aproximadamente 1 cm. de ancho y 1,5 –1,8 de largo. Debe de tenerse presente que estos montones de excrementos a los pocos días, u horas de ser depositados pueden esparcirse por las pisadas del propio animal u otras especies, así como por la propia acción de los factores meteorológicos.
 
-- Otros rastros: Al carecer la cabra montes de incisivos no corta los tallos y ramas con los dientes, sino que los desgarran por el esfuerzo que produce el bocado del animal sobre la planta, la que adquiere una peculiar forma deshilachada en su corte. 
+- Otros rastros: Al carecer la cabra montes de incisivos no corta los tallos y ramas con los dientes, sino que los desgarran por el esfuerzo que produce el bocado del animal sobre la planta, la que adquiere una peculiar forma deshilachada en su corte.
 
 - Dimorfismo sexual: Además de diferenciarse por la cornamenta y tamaño (mayor el macho), este último luce también unaostensible barba en forma de perilla, la que falta en las hembras. La hembra puede confundirse con machos jóvenes.
-
-
 
 [Cabra](https://animalia.bio/es/goat?property=82)
 La cabra (Capra aegagrus hircus) es un mamífero artiodáctilo de la subfamilia Caprinae que fue domesticado alrededor del octavo milenio a. C., sobre todo por su carne y leche. Al macho de la cabra se le llama cabrón (si bien en algunos países hispanohablantes esta palabra se considera grosera), así como también cabro, chivo, macho cabrío, irasco o chivato, y a las crías se las llama cabrito, chivito o baifo. Al conjunto de estos animales, criados por el hombre, se le conoce como ganado caprino o ganado cabrío.
@@ -191,8 +189,6 @@ La época para engendrar es desde septiembre a octubre y noviembre; en algunos c
 Mientras las cabras estén preñadas, se las debe cuidar con el mayor esmero y solicitud, procurando que no las falte agua de continuo y dándoles por alimento del mejor, días antes y después de parir. El parto es laborioso y por lo tanto necesitan que se las ayude para facilitarlo. El cabrito debe mamar de un mes a seis semanas y a medida que se le vaya acostumbrando a tomar otro alimento, como hierba tierna o heno del mejor, se le va quitando la leche poco a poco, hasta que bien acostumbrado a comer, se le quita de una vez.
 
 A los cabritos se les suele castrar a los seis o siete meses; por ejemplo, los que nacen en septiembre se les puede castrar en marzo, los de diciembre en abril o mayo, y los de marzo a finales de septiembre.
-
-
 
 [Cabra Doméstica](https://ecuador.inaturalist.org/taxa/123070-Capra-hircus)
 Generalidades

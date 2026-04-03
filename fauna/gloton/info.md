@@ -8,7 +8,7 @@ Se puede encontrar principalmente en las partes remotas de los bosques boreales,
 En febrero de 2013, el Servicio de Pesca y Vida Silvestre de los Estados Unidos propuso dar protecciones al glotón, en gran parte debido a que el cambio climático está desarticulando su hábitat invernal en la parte central de las Montañas Rocosas.[2]
 
 Características
-El glotón es de cuerpo robusto y pelaje largo y denso, cuyo aspecto recuerda al del oso. Es también el segundo más grande de los mustélidos (el primero de los terrestres), llegando a pesar entre 12 y 18 kg los machos[3]​ (alcanzando a veces los 20 kg)[4]​ y entre 8 y 12 kg las hembras.
+El glotón es de cuerpo robusto y pelaje largo y denso, cuyo aspecto recuerda al del oso. Es también el segundo más grande de los mustélidos (el primero de los terrestres), llegando a pesar entre 12 y 18 kg los machos[3]​ [alcanzando a veces los 20 kg](4)​ y entre 8 y 12 kg las hembras.
 
 Distribución y hábitat
 El glotón vive en las inmensas extensiones de la taiga y de la tundra euroasiática y norteamericana. En Europa todavía subsiste en la península escandinava, en el norte de Finlandia, con 150 ejemplares, y en el norte de Suecia y Noruega, que comparten una población de unos 380 glotones. Aunque sus poblaciones más grandes se encuentran en el norte de Rusia. Es un animal relativamente escaso, que en ciertas regiones llega a contarse entre las especies en peligro, sobre todo en la parte europea de su zona de distribución.
@@ -92,8 +92,6 @@ Los glotones son supervivientes que pueden sobrevivir en climas inhóspitos.
 
 Habitat: Se prefieren los bosques boreales, la tundra y las zonas subárticas con duras condiciones invernales.
 Adaptabilidad: Su capacidad para adaptarse a condiciones ambientales extremas es una de las razones por las que puede sobrevivir en tantas partes del hemisferio norte, incluso en regiones donde otros depredadores tienen dificultades.
-
-
 
 [Curiosidades sobre los glotones](https://www.muyinteresante.com/naturaleza/1481.html)
 Los glotones utilizan la nieve para construir guaridas y mantener la comida fresca.

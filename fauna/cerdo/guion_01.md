@@ -29,23 +29,23 @@ El cerdo es mucho más que un animal de granja. Su inteligencia ha sido comparad
 ¿Te sorprendió descubrir la increíble vida del cerdo, Sus scrofa domestica? Este animal, tan cercano y a la vez tan fascinante, es solo una muestra de la diversidad y adaptabilidad de la fauna que nos rodea. Si quieres seguir aprendiendo sobre criaturas asombrosas, no te pierdas los próximos episodios de nuestro canal. ¡La naturaleza siempre tiene algo nuevo que enseñarnos!
 
 Citations:
-[1] https://es.wikipedia.org/wiki/Sus_scrofa_domestica
-[2] https://datazone.darwinfoundation.org/es/checklist/?species=5251
-[3] https://americaagro.com/alimentacion-del-cerdo-por-etapas-y-estrategias-de-nutricion/
-[4] https://www.fao.org/4/t0690s/t0690s08.htm
-[5] https://es.wikipedia.org/wiki/Depredadores_prehist%C3%B3ricos
-[6] https://www.youtube.com/watch?v=Q6aF4WRDOZc
-[7] https://direlivkom.ec/2018/01/08/caracteristicas-del-cerdo/
-[8] https://www.3tres3.com/latam/articulos/manejo-en-cebo-caracteristicas-destacables-del-cerdo-de-cebo_10889/
-[9] https://arbolabc.com/animales-para-ninos/mamiferos/cerdo
-[10] https://pangeanimales.com/mamiferos/cerdo/
-[11] https://www.expertoanimal.com/donde-viven-los-cerdos-26547.html
-[12] https://cincaporc.com/la-importancia-de-una-alimentacion-equilibrada-en-el-cerdo/
-[13] https://www.corpmontana.com/m-conecta/porcicultura/reproduccion-de-cerdos-guia-completa-para-su-manejo-correcto
-[14] https://brainly.lat/tarea/30784169
-[15] https://www.ivis.org/sites/default/files/library/suis/179/Suis179_1.pdf
-[16] http://chacraeducativasantalucia.blogspot.com/2023/05/datos-curiosos-sobre-los-cerdos.html
-[17] https://www.msdvetmanual.com/es/todas-las-dem%C3%A1s-mascotas/cerdos-vietnamitas/descripci%C3%B3n-y-caracter%C3%ADsticas-f%C3%ADsicas-de-los-cerdos-vietnamitas
-[18] https://www.ciap.org.ar/Sitio/Archivos/Manual%20de%20produccion%20porcicola.pdf
-[19] https://neveraespanola.com/caracteristicas-y-origen-cerdo-iberico/
-[20] https://www.fmvz.unam.mx/fmvz/cienciavet/revistas/CVvol6/CVv6c6.pdf
+[1] <https://es.wikipedia.org/wiki/Sus_scrofa_domestica>
+[2] <https://datazone.darwinfoundation.org/es/checklist/?species=5251>
+[3] <https://americaagro.com/alimentacion-del-cerdo-por-etapas-y-estrategias-de-nutricion/>
+[4] <https://www.fao.org/4/t0690s/t0690s08.htm>
+[5] <https://es.wikipedia.org/wiki/Depredadores_prehist%C3%B3ricos>
+[6] <https://www.youtube.com/watch?v=Q6aF4WRDOZc>
+[7] <https://direlivkom.ec/2018/01/08/caracteristicas-del-cerdo/>
+[8] <https://www.3tres3.com/latam/articulos/manejo-en-cebo-caracteristicas-destacables-del-cerdo-de-cebo_10889/>
+[9] <https://arbolabc.com/animales-para-ninos/mamiferos/cerdo>
+[10] <https://pangeanimales.com/mamiferos/cerdo/>
+[11] <https://www.expertoanimal.com/donde-viven-los-cerdos-26547.html>
+[12] <https://cincaporc.com/la-importancia-de-una-alimentacion-equilibrada-en-el-cerdo/>
+[13] <https://www.corpmontana.com/m-conecta/porcicultura/reproduccion-de-cerdos-guia-completa-para-su-manejo-correcto>
+[14] <https://brainly.lat/tarea/30784169>
+[15] <https://www.ivis.org/sites/default/files/library/suis/179/Suis179_1.pdf>
+[16] <http://chacraeducativasantalucia.blogspot.com/2023/05/datos-curiosos-sobre-los-cerdos.html>
+[17] <https://www.msdvetmanual.com/es/todas-las-dem%C3%A1s-mascotas/cerdos-vietnamitas/descripci%C3%B3n-y-caracter%C3%ADsticas-f%C3%ADsicas-de-los-cerdos-vietnamitas>
+[18] <https://www.ciap.org.ar/Sitio/Archivos/Manual%20de%20produccion%20porcicola.pdf>
+[19] <https://neveraespanola.com/caracteristicas-y-origen-cerdo-iberico/>
+[20] <https://www.fmvz.unam.mx/fmvz/cienciavet/revistas/CVvol6/CVv6c6.pdf>

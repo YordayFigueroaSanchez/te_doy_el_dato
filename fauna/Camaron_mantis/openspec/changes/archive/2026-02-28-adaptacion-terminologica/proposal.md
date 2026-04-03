@@ -15,6 +15,7 @@ El artículo actual en `docs/articulo.md` ya adapta los términos principales (S
 <!-- No se introducen nuevas capacidades. -->
 
 ### Modified Capabilities
+
 - `adaptacion-terminologica`: Se amplía la cobertura de términos técnicos adaptados. Se añaden requisitos para *herringbone*, *saddle spring*, *midband*, *Dear Enemy* y la expansión completa de *Latch-Mediated Spring Actuation*, manteniendo el mismo patrón de formato ya establecido.
 
 ## Impact

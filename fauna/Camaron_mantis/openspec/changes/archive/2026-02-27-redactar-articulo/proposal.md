@@ -13,6 +13,7 @@ El proyecto cuenta con una fuente rica y detallada en `sources/info.md` sobre el
 ## Capabilities
 
 ### New Capabilities
+
 - `contenido-articulo`: Redacción del cuerpo principal del artículo, cubriendo todas las secciones temáticas desde introducción hasta conclusión.
 - `adaptacion-terminologica`: Localización y adaptación de términos técnicos en inglés al español, manteniendo rigor científico.
 - `elementos-visuales`: Definición de tablas comparativas, datos destacados y elementos de formato que enriquezcan la lectura.

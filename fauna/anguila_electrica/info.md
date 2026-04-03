@@ -1,4 +1,5 @@
-# https://www.bioenciclopedia.com/anguila-electrica-931.html
+# <https://www.bioenciclopedia.com/anguila-electrica-931.html>
+
 Anguila eléctrica
 La anguila eléctrica (Electrophorus electricus) es un pez de agua dulce capaz de emitir descargas eléctricas precisas para diferentes propósitos, entre los que entran la reproducción, la caza para alimentarse y la electrolocalización. Son peces grandes y pueden producir descargas de más de 800 vatios. Aunque su nombre común nos indica que son anguilas, en realidad no lo son, pues pertenecen al orden Gymnotiformes y las verdaderas anguilas al orden Anguiliformes.
 Si quieres aprender más sobre la anguila eléctrica, como cuál es su hábitat, su alimentación o el modo en que producen sus descargas eléctricas, quédate a leer este interesante artículo de BIOenciclopedia en donde podrás conocer estos aspectos y muchos otros sobre este curioso pez.
@@ -37,7 +38,8 @@ Se estima que la anguila eléctrica puede vivir hasta 15 años en la naturaleza,
 La capacidad de la anguila eléctrica para generar electricidad ha inspirado investigaciones en el campo de la bioingeniería y el desarrollo de tecnologías de almacenamiento de energía, como las baterías basadas en la estructura de sus órganos eléctricos.
 Aunque su nombre común indique que son anguilas, realmente no son anguilas, pues, a diferencia de las verdaderas anguilas, las llamadas anguilas eléctricas pertenecen al orden Gymnotiformes, en lugar del orden Anguiliformes.
 
-# https://www.nationalgeographic.es/animales/unas-anguilas-emiten-descargas-electricas-para-paralizar-a-sus-victimas
+# <https://www.nationalgeographic.es/animales/unas-anguilas-emiten-descargas-electricas-para-paralizar-a-sus-victimas>
+
 Unas anguilas emiten descargas eléctricas para paralizar a sus víctimas
 La llamada anguila eléctrica (Electrophorus electricus) emite descargas eléctricas que provocan la contracción de los músculos de sus víctimas, paralizándolas. Así, puede acercarse y engullirlas de un bocado.
 
@@ -51,14 +53,16 @@ Para averiguar cómo lo hacen, Catania anestesió a un pez cuyo cerebro había s
 
 Al enviar la anguila, sin estar en contacto con el pez, descargas de alto voltaje, los músculos del pez se contrajeron con fuerza, paralizándolo. Sin embargo, antes de poder inmovilizarlo, la anguila tiene que encontrarlo. Posteriores experimentos revelaron que las descargas de bajo voltaje provocan espasmos involuntarios en los peces cercanos. Así, las anguilas pueden «sentir» los movimientos del agua que se producen tras ellos y que les permiten localizar a su víctima.
 
-# https://zooguadalajara.com.mx/animales/detalle/265
+# <https://zooguadalajara.com.mx/animales/detalle/265>
+
 Descripción
 La anguila eléctrica puede emitir descargas eléctricas de hasta 850 voltios a partir de un grupo de células especializadas. Emplea las descargas eléctricas para cazar presas, para defenderse y para comunicarse con otras anguilas.
 La anguila eléctrica mide 2 metros y medio y pesa aproximadamente 20 kg. Su piel es de color verdoso desprovista casi completamente de escamas. La cabeza es aplanada y la boca grande, con una hilera de dientes cónicos en cada mandíbula. Macho y hembra son iguales. A pesar de su nombre común, este pez no es una anguila verdadera, sino un pez miembro de la familia de los gimnótidos.
 Las descargas eléctricas son originadas por órganos eléctricos ubicados en la zona craneal, ubicados en tres pares diferenciados, cada par es empleado con fines distintos. Estos órganos están formados por miles de nicolitos conectados en serie (células en forma de discos que están dispuestas en una secuencia de manera similar a una batería eléctrica. Pueden tener miles de esas células, produciendo cada una 0,15 V).
 Los órganos de Sachs en honor al naturalista Carl Sachs, produce descargas de bajo voltaje (alrededor de 10 V), empleadas para detectar posibles presas y comunicarse con otros gimnótidos; el pez cuenta con numerosos módulos receptores distribuidos de manera irregular sobre la piel para percibir las emisiones de este tipo. Los otros dos pares, llamados órganos de Hut, producen descargas hasta 5 veces más potentes, con las que la anguila atonta a sus potenciales presas. Puede mantener la producción de descargas durante períodos de hasta 1 minuto.
 
-# https://www.fundacionaquae.org/wiki/el-ser-vivo-con-mayor-potencia-electrica/
+# <https://www.fundacionaquae.org/wiki/el-ser-vivo-con-mayor-potencia-electrica/>
+
 El ser vivo con mayor potencia eléctrica
 Hasta la fecha, se creía que tan solo había una especie de anguila eléctrica. Sin embargo, un estudio reciente ha demostrado, midiendo su voltaje, que en verdad son tres especies. Y que una de ellas posee una capacidad de descarga de 860 voltios, convirtiéndose en el ser vivo con mayor potencia eléctrica registrada.
 El naturalista sueco Carlos Linneo describió por primera vez, en 1766, a la anguila eléctrica –Electrophorus electricus– del río Amazonas. Dado su tamaño y a que su morfología era muy particular para poder producir electricidad, se había asumido que existía una sola especie de este pez de río. Sin embargo, en realidad, se trata de tres especies distintas: ‘Electrophorus electricus’, ‘Electrophorus voltai’ y ‘Electrophorus varii’.
@@ -70,7 +74,8 @@ Los resultados de la investigación muestran que cada una habita diferentes regi
 Otro descubrimiento fue que la anguila ‘Electrophorus voltai’ puede producir una descarga eléctrica de hasta 860 voltios, por encima de los 650 voltios registrados anteriormente para la ‘Electrophorus electricus’.
 Santana ha destacada que “la identificación de estas dos nuevas especies de anguila eléctrica pone de relieve cuánto queda por descubrir en el interior de la selva amazónica, uno de los puntos críticos de biodiversidad de la Tierra, así como la importancia de proteger y preservar este entorno amenazado”.
 
-# https://animalia.bio/es/electrophorus-electricus?taxonomy=8219
+# <https://animalia.bio/es/electrophorus-electricus?taxonomy=8219>
+
 Anguila eléctrica
 Electrophorus electricus, Temblón, Temblador, Gimnoto, Pilaké, Poraquê
 La llamada anguila eléctrica (Electrophorus electricus), también llamada temblón, temblador, gimnoto, pilaké o poraquê, es una especie de pez de la familia Gymnotidae. Puede emitir descargas eléctricas de hasta 850 voltios a partir de un grupo de células especializadas. Emplea las descargas eléctricas para cazar presas, para defenderse y para comunicarse. Es la especie tipo del género Electrophorus, el cual está integrado por otras dos especies.
@@ -79,7 +84,8 @@ La similitud con la anguila está dada sobre todo por su cuerpo fusiforme y larg
 Distribución
 Esta especie es nativa del norte de Sudamérica, donde se encuentran en la cuenca del Orinoco y en los ríos que bajan desde el escudo guayanés hacia el océano, con desembocaduras en las Guayanas. Habita en aguas con buena oxigenación, bajas en conductividad, con sustratos rocosos y con presencia de rápidos y cascadas. Su cráneo deprimido puede ser una especialización morfológica, estando adaptado a alimentarse en sustratos rocosos y ofrecer menos resistencia a los fuertes flujos de las corrientes.
 
-# https://animapedia.org/animales-acuaticos/anguila-electrica/
+# <https://animapedia.org/animales-acuaticos/anguila-electrica/>
+
 Anguila eléctrica
 La anguila eléctrica (Electrophorus electricus) es un animal acuático nativo de las aguas de América del Sur (Orinoco y el río Amazonas). Tienen la capacidad de producir una descarga eléctrica de 500 voltios a una distancia aproximada de 76 metros en agua calmada. Su descarga es tan potente que daña a cualquier mamífero pesado, incluso puede provocar su muerte, como narró Alexander von Humboldt, un famoso explorador del siglo XIX, que atestiguó cómo unos caballos recibieron unas descargas tan fuertes por todo el cuerpo que murieron en el acto.
 
