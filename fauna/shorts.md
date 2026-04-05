@@ -2151,6 +2151,42 @@ El ganso del Nilo, un animal con una rica historia, lleno de belleza, carácter 
 
 ⚽ 💔 ¡El mamífero más TRAFICADO del planeta! 🚫🐾
 
+# s_0536_camaron_mantis
+
+El Camarón Mantis: El Boxeador que Golpea con la Fuerza de una Bala
+
+# s_0537_camaron_mantis
+
+El Camarón Mantis: El Boxeador que Golpea con la Fuerza de una Bala
+
+# s_0538_camaron_mantis
+
+El Camarón Mantis: El Boxeador que Golpea con la Fuerza de una Bala
+
+# s_0539_camaron_mantis
+
+El Camarón Mantis: El Boxeador que Golpea con la Fuerza de una Bala
+
+# s_0540_camaron_mantis
+
+El Camarón Mantis: El Boxeador que Golpea con la Fuerza de una Bala
+
+# s_0541_camaron_mantis
+
+El Camarón Mantis: El Boxeador que Golpea con la Fuerza de una Bala
+
+# s_0542_camaron_mantis
+
+El Camarón Mantis: El Boxeador que Golpea con la Fuerza de una Bala
+
+# s_0543_camaron_mantis
+
+El Camarón Mantis: El Boxeador que Golpea con la Fuerza de una Bala
+
+# s_0544_camaron_mantis
+
+El Camarón Mantis: El Boxeador que Golpea con la Fuerza de una Bala
+
 # Emojis
 
 🦧🐵🐒🦍🦧🐶🐕🦮🐕‍🦺🐩🐺🦊🦝🐱🐈🐈‍🦁🐯🐅🐆🐴🐎🦄🦓🦌🐮
