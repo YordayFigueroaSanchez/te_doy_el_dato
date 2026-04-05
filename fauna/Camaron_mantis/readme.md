@@ -81,3 +81,7 @@ Dadas las fuentes proporcionadas, que contiene información sobre un animal, gen
 [substack](https://tedoyeldato.substack.com/p/el-camaron-mantis-el-boxeador-que?r=6httlh)
 
 [youtube](https://youtu.be/rI8d-neVIGs)
+
+## Flujo
+
+Colectar info en notebooklm, generar video con un prompt en notebooklm. Mejorar el video en Clipchamp.
