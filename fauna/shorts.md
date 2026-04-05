@@ -1952,18 +1952,6 @@ El ganso del Nilo, un animal con una rica historia, lleno de belleza, carácter 
 
 💦 ¿Conoces a la foca más temida de la Antártida? 💦
 
-****
-****
-****
-****
-****
-**CONTINUAR DESDE ACA**
-****
-****
-****
-****
-****
-
 # s_0481_gato_short_001.mp4
 
 🐈 ¿Por qué los gatos amasan? 🐈
@@ -1971,6 +1959,18 @@ El ganso del Nilo, un animal con una rica historia, lleno de belleza, carácter 
 # s_0482_gato_short_002.mp4
 
 🐈 El misterio del gato y su ronroneo 🐈
+
+****
+****
+****
+****
+****
+** CONTINUAR DESDE ACA **
+****
+****
+****
+****
+****
 
 # s_0483_pajaro_carpintero.mp4
 
