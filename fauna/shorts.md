@@ -1944,6 +1944,14 @@ El ganso del Nilo, un animal con una rica historia, lleno de belleza, carácter 
 
 🐦‍🐦‍ Miles de alas, un solo movimiento 🐦‍🐦‍
 
+# s_0479_foca_leopardo_short_001.mp4
+
+💦 Foca leopardo: la cazadora del hielo 💦
+
+# s_0480_foca_leopardo_short_002.mp4
+
+💦 ¿Conoces a la foca más temida de la Antártida? 💦
+
 ****
 ****
 ****
@@ -1955,14 +1963,6 @@ El ganso del Nilo, un animal con una rica historia, lleno de belleza, carácter 
 ****
 ****
 ****
-
-# s_0479_foca_leopardo_short_001.mp4
-
-💦 Foca leopardo: la cazadora del hielo 💦
-
-# s_0480_foca_leopardo_short_002.mp4
-
-💦 ¿Conoces a la foca más temida de la Antártida? 💦
 
 # s_0481_gato_short_001.mp4
 
