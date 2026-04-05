@@ -1,0 +1,50 @@
+schema: spec-driven
+
+# OpenSpec Configuration - Proyecto: Artículo Mantis Shrimp (Estomatópodos)
+project_name: "Articulo_Mantis_Shrimp_ES"
+version: "1.2.0"
+
+structure:
+  docs_dir: "docs"
+  specs_dir: "docs/specs"
+  changes_dir: "docs/changes"
+  archive_dir: "docs/archive"
+  source_dir: "sources"
+
+artifacts:
+  proposal:
+    name: "proposal.md"
+    template: |
+      # Propuesta: El Fascinante Mundo de la Mantis de Mar
+      ## Especie: Estomatópodos (Mantis Shrimp)
+      ## Fuente: Basado en `sources/info.md`
+      ## Idioma: Español (Localización de términos técnicos)
+      ## Enfoque: Divulgación científica para público hispanohablante.
+
+  design:
+    name: "scientific_outline.md"
+    template: |
+      # Esquema del Artículo: La Mantis de Mar
+      1. Introducción: ¿Por qué no es ni mantis ni camarón?
+      2. Tipos: Perforadores vs. Trituradores (Smashers vs. Spearers).
+      3. La ingeniería del golpe: Aceleración y cavitación.
+      4. Visión Hexanocular: Los ojos más complejos del reino animal.
+      5. Distribución y Ecología.
+      6. Conclusión.
+
+  tasks:
+    name: "tasks.md"
+    template: |
+      # Checklist de Producción
+      - [ ] Traducir y adaptar conceptos técnicos de `info.md` al español.
+      - [ ] Explicar el fenómeno de la "cavitación" de forma sencilla.
+      - [ ] Asegurar que el nombre científico *Stomatopoda* esté en cursiva.
+      - [ ] Crear una tabla comparativa de fuerza de impacto.
+
+instructions:
+  - "El modelo MUST adaptar los términos 'Smasher' y 'Spearer' a sus equivalentes en español técnico o descriptivo."
+  - "Los nombres científicos MUST escribirse en cursiva."
+  - "El tono SHOULD ser asombroso pero riguroso, ideal para un blog de ciencia en español."
+
+context_files:
+  - "sources/info.md"

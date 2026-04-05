@@ -1,0 +1,11 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "openspec": true,
+        "Copy-Item": true,
+        "Test-Path": true,
+        "New-Item": true,
+        "Out-Null": true,
+        "Move-Item": true,
+        "ForEach-Object": true
+    }
+}

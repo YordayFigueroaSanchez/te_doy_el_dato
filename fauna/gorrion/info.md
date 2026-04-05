@@ -1,4 +1,4 @@
-https://es.wikipedia.org/wiki/Passer_domesticus
+<https://es.wikipedia.org/wiki/Passer_domesticus>
 El gorrión común (Passer domesticus), también llamado pardal[2]​ o chilero,[3]​ es una especie de ave paseriforme de la familia Passeridae. Está adaptado al hábitat urbano hasta el punto de ser el pájaro más frecuente y conocido en esas áreas, aunque en términos absolutos, en Europa, el pinzón es más abundante. Vive como comensal del ser humano. Es originario de Eurasia y el Norte de África, pero actualmente se encuentra distribuido por áreas urbanas en las zonas templadas de casi todo el mundo, pues ha sido introducido por el ser humano en el resto de los continentes excepto en la Antártida.
 
 Puede llegar a vivir trece años en cautiverio, aunque generalmente no llega a los siete años en libertad.[cita requerida]
@@ -20,8 +20,7 @@ Los gorriones forman parejas monógamas en cada estación de reproducción. La t
 
 La hembra desarrolla un parche de piel desnuda para la cría y desempeña el papel principal en la incubación de los huevos. El macho ayuda, pero solo puede cubrir los huevos en lugar de incubarlos realmente. La hembra pasa la noche incubando durante este período, mientras que el macho se posa cerca del nido.
 
-
-https://seo.org/ave/gorrion-comun/
+<https://seo.org/ave/gorrion-comun/>
 Gorrión común
 Passer domesticus
 
@@ -78,8 +77,7 @@ La puesta consta de dos a siete huevos de color blanco o verdoso intensamente mo
 
 La estancia de los pollos en el nido es de 12-16 días. Durante ese periodo son cebados por ambos adultos con la misma dedicación. Los volantones ya se procuran solos el sustento a la semana de abandonar el nido, pero reclamarán alimento a los padres una semana más.
 
-
-https://animalia.bio/es/house-sparrow
+<https://animalia.bio/es/house-sparrow>
 El gorrión común (Passer domesticus), también llamado pardal o chilero, es una especie de ave paseriforme de la familia Passeridae. Está adaptado al hábitat urbano hasta el punto de ser el pájaro más frecuente y conocido en esas áreas, aunque en términos absolutos el pinzón es más abundante. Vive como comensal del ser humano. Es originario de Eurasia y el Norte de África, pero actualmente se encuentra distribuido en zonas urbanas por las zonas templadas de casi todo el mundo, pues ha sido introducido por el ser humano en el resto de los continentes, a excepción de la Antártida.
 
 Puede llegar a vivir trece años en cautiverio, aunque generalmente no llega a los siete años en libertad.
@@ -123,7 +121,7 @@ Los gorriones comunes vuelan una media de 45,5 km/h y realizan unos 15 aleteos p
 En las ciudades, los gorriones comunes suelen buscar comida en los contenedores de basura y se congregan en los exteriores de los restaurantes para alimentarse de restos de comida y migas. Pueden realizar tareas complejas para obtener comida, como abrir puertas automáticas para entrar en los supermercados, aferrarse a las paredes de los hoteles para observar a los veraneantes en sus balcones y arrancar el néctar de las flores kowhai.
 En las zonas templadas, los gorriones comunes tienen la inusual costumbre de arrancar las flores, sobre todo las amarillas, en primavera.
 
-https://www.faunaiberica.org/gorrion-comun
+<https://www.faunaiberica.org/gorrion-comun>
 El gorrión común es un pájaro (ave paseriforme) de unos 15 centímetros de longitud.
 
 La especie tiene un claro dimorfismo sexual. El macho tiene el píleo (parte superior de la cabeza) de color gris, antifaz y babero negros y sienes y nuca de un marrón vivo. La hembra, sin embargo, tiene la cabeza de color más uniforme, en tonos beige, con una ceja de color variable, que a veces es poco perceptible. Ambos sexos tienen la parte inferior de color claro, casi blanco. También en ambos sexos el dorso es de colores marrones, más contrastados en el caso de los machos.
@@ -156,8 +154,7 @@ Curiosidades
 Los padres abandonarán la puesta (huevos o pollos) al primer signo de amenaza. Por esta razón es importante no molestarlos durante la cría, porque puede perderse una puesta completa.
 La población mundial de gorriones ha sufrido un inquietante descenso en las últimas décadas. Se sospecha que una de las posibles causas pueda ser una enfermedad llamada malaria aviar, que afecta únicamente a las aves.
 
-
-https://santandernatural.es/recursos/especies-stv/gorrion-stv/
+<https://santandernatural.es/recursos/especies-stv/gorrion-stv/>
 El conocido y familiar gorrión común es, tal vez, el ave más extendida de todo el planeta y, sin duda, una de las más exitosas. Sin embargo, es un comensal directo del hombre y depende estrechamente de nuestras actividades para sobrevivir, haciendo que hoy en día resulte casi imposible encontrar gorriones en lugares alejados de los asentamientos humanos.
 
 El gorrión común es un pájaro de plumaje dominado por los tonos pardos en el dorso, adornado con marcadas listas negras, y grisáceos en el obispillo, el pecho y el vientre. Los machos en época reproductora presentan el pico negro y el dorso de una tonalidad bastante rojiza, en tanto que el píleo toma un color gris y el babero se hace más extenso y oscuro.
@@ -170,8 +167,7 @@ Las causas de este declive son múltiples, y casi todas relativas a la reproducc
 
 Además, las nuevas modas arquitectónicas cada vez dan más lugar a edificaciones sin ningún tipo de oquedades en las que nidificar.
 
-
-https://www.naturalista.uy/taxa/13858-Passer-domesticus
+<https://www.naturalista.uy/taxa/13858-Passer-domesticus>
 El gorrión común (Passer domesticus), también llamado pardal[2]​ o chilero,[3]​ es una especie de ave paseriforme de la familia Passeridae. Está adaptado al hábitat urbano hasta el punto de ser el pájaro más frecuente y conocido en esas áreas, aunque en términos absolutos, en Europa, el pinzón es más abundante. Vive como comensal del ser humano. Es originario de Eurasia y el Norte de África, pero actualmente se encuentra distribuido por áreas urbanas en las zonas templadas de casi todo el mundo, pues ha sido introducido por el ser humano en el resto de los continentes excepto en la Antártida.
 
 Puede llegar a vivir trece años en cautiverio, aunque generalmente no llega a los siete años en libertad.[cita requerida]
@@ -199,21 +195,20 @@ Los gorriones forman parejas monógamas en cada estación de reproducción. La t
 
 La hembra desarrolla un parche de piel desnuda para la cría y desempeña el papel principal en la incubación de los huevos. El macho ayuda, pero solo puede cubrir los huevos en lugar de incubarlos realmente. La hembra pasa la noche incubando durante este período, mientras que el macho se posa cerca del nido.
 
-https://www.umadivulga.uma.es/museo-virtual/zoologia/vertebrados/aves/gorrion-comun-passer-domesticus/
+<https://www.umadivulga.uma.es/museo-virtual/zoologia/vertebrados/aves/gorrion-comun-passer-domesticus/>
 Los gorriones son aves pequeñas, de cuerpo rechoncho y picos gruesos. El gorrión común es de pequeño tamaño (15 cm de longitud) y es posiblemente uno de los pájaros más conocido y cosmopolita. El macho tiene el dorso pardo barreado de negro, el obispillo es gris y la cola pardo oscuro con bordes marrón claro. Las alas son anchas en su base, anguladas, pardas oscuras y con bordes claros. Los hombros son rojizos, con una franja blanca en las coberteras medianas. La cabeza es grande, con el píleo gris rodeado de una banda rojiza y un pequeño antifaz negro. El pico es corto, grueso y negro El corbatín es negro (aunque está ausente en las hembras), las mejillas y partes inferiores son grises. La hembra es parda, barrenada de negro por arriba y gris pálido por debajo, con lista superciliar clara y pico de color pardo con base amarillenta. El hábitat del gorrión común está siempre muy ligado al ser humano, y es una especie menos abundante en el campo que en ambientes con presencia humana constante. Cría en huecos, grietas o agujeros de edificios. Es un ave oportunista, que se alimenta de semillas, frutos, insectos, larvas, restos de comidas dejados por otros animales y por los humanos. El área de distribución original de la especie incluye la mayor parte del Paleártico, pero ha sido introducido, tanto de forma intencional como accidental, en muchas partes del mundo, siendo el ave silvestre más ampliamente distribuida en el planeta. En España se encuentra ampliamente distribuida por toda la geografía peninsular y ambos archipiélagos. No se considera amenazado en la actualidad.
 
-
-https://sierradebaza.org/fichas-tecnicas/fichas-de-fauna/fichas-aves/aves-g-a-o/gorrion-comun-passer-domesticus
-DESCRIPCIÓN DE LA ESPECIE 
+<https://sierradebaza.org/fichas-tecnicas/fichas-de-fauna/fichas-aves/aves-g-a-o/gorrion-comun-passer-domesticus>
+DESCRIPCIÓN DE LA ESPECIE
 
 El gorrión común es, seguramente, una de las aves más conocidas y que necesite menos presentación. No obstante, el hecho de ser conocida hace que pasen más desapercibidas sus principales características, las que se describen a continuación.
 
-La especie presenta dicromismo sexual, de modo que el macho tiene el  píleo de color gris oscuro y su plumaje dorsal es de color pardo rojizo. La zona ventral es de color claro uniforme. El pico es de color negro, aunque parece variar su tonalidad dependiendo de las diferentes estaciones del año. En vuelo se puede observar una franja de color blanco en las alas. Por el contrario la  hembra tiene el plumaje de colores más apagados, llamando la atención una banda de color blanco  detrás de los ojos. 
+La especie presenta dicromismo sexual, de modo que el macho tiene el  píleo de color gris oscuro y su plumaje dorsal es de color pardo rojizo. La zona ventral es de color claro uniforme. El pico es de color negro, aunque parece variar su tonalidad dependiendo de las diferentes estaciones del año. En vuelo se puede observar una franja de color blanco en las alas. Por el contrario la  hembra tiene el plumaje de colores más apagados, llamando la atención una banda de color blanco  detrás de los ojos.
 Habitan preferentemente las zonas habitadas por el hombre. Ciudades, pueblos, aldeas rurales, cortijos, graneros y zonas ajardinadas frecuentadas por el hombre.
 
 Llegado el mes de abril, comienza el apareamiento y la construcción del nido que suele hacerlo con pequeñas ramas, hierba seca, plumas, restos de pelo e incluso trocitos de lana. Suele instalarlo en huecos de muros viejos, bajo las tejas de los tejados, en el interior de setos y arbustos, así como en huecos de los árboles e incluso en algunos nidos abandonados por otras especies.
 La hembra incubará durante once a treces días unos tres a siete huevos. Una vez nacidos los pollos serán alimentados por ambos adultos, sobre todo a base de insectos, durante, al menos dos semanas, pero los pollos no serán totalmente independientes hasta transcurrido un mes desde el día de su nacimiento. Son frecuentes más de una nidada, incluso en épocas más frías como el otoño y el invierno.
-Los gorriones suelen recorrer en bandos los lugares cercanos al nido en busca de alimento, que se basa fundamentalmente en insectos, semillas, frutos secos, migas de pan y en general alimentos cercanos al suelo. 
+Los gorriones suelen recorrer en bandos los lugares cercanos al nido en busca de alimento, que se basa fundamentalmente en insectos, semillas, frutos secos, migas de pan y en general alimentos cercanos al suelo.
 Su vuelo es rápido, con fuertes aleteos seguidos de bajos planeos para recorrer su territorio. Suelen volar en grupo. Mientras que su canto es muy ruidoso, sobre todo a primera y última horas del día donde se sitúan en bando para dormir o comenzar la jornada. Su voz más habitual es un “chip”  sencillo y posteriormente puede realizar varios sonidos diferentes que componen su canto primaveral.
 Considerado habitualmente como el ave que más abunda, debido que es el pájaro más fácil de ver, al estar prácticamente localizado en las inmediaciones del hombre, de modo que se considera el ave más humanizada, en realidad su número es inferior a otras aves como el pinzón vulgar, pero lo incuestionable es que el gorrión común (Passer domesticus)  es un pájaro muy abundante, o al menos esto nos dicen la generalidad de las publicaciones, que se ocupan de esta especie. Y es que el Gorrión Común se reproduce por toda Europa, faltando tan solo en Islandia y en las montañas septentrionales de Escandinavia. Habiéndose calificado su abundancia como extraordinaria en toda Eurasia.
 
@@ -224,8 +219,7 @@ Pero si la disminución de la población de gorriones es algo incuestionable, lo
 Al margen de cual sea la causa, posiblemente no sea una sola y lo estén todas las comentadas y algunas más, este mes hemos querido llamar la atención sobre este dato y es que el problema con la disminución del número de gorriones preocupa a toda Europa,  donde aparecen especulaciones de que este pájaro pueda ser pronto incluido en la lista de especies amenazadas de extinción.
 El gorrión común es una especie muy común y nidificante en la sierra de Baza. Su distribución no puede considerarse homogénea, ya que al estar ligado a la presencia humana, su presencia es más habitual cerca de pueblos, cortijos y aldeas de la sierra que permanecen habitadas por el hombre. No parece ser una especie que viva a grandes alturas, por lo que su localización en la sierra se limita a los 1.500 metros de altitud, eso si, es posible observar a los gorriones durante todo el año, ya que es una especie sedentaria en la sierra.
 
-
-https://birding-shop.com/resuelve-tus-dudas/que-comen-las-aves/comida-favorita-de-gorriones/
+<https://birding-shop.com/resuelve-tus-dudas/que-comen-las-aves/comida-favorita-de-gorriones/>
 ¿Qué comen generalmente los gorriones?
 Aunque los gorriones tengan el pico de granívoro la verdad que estas aves son omnívoras: Se alimentan de semillas, frutos o de diferentes invertebrados Aún así, su alimentación puede variar según el entorno y la época del año que se encuentren ya que la disponibilidad de alimento cambian.
 
@@ -239,7 +233,7 @@ Los gorriones cada vez se están adaptando más y más en entornos urbanos. Es h
 
 No es lo ideal proporcionar estos alimentos a los gorriones o a otras aves. Estas aves como por ejemplo los gorriones no están adaptadas para procesar y digerir ciertos alimentos como carnes o lácteos por el tipo de grasa y proteína que contienen. Se ha visto también, que otras comidas para nosotros como por ejemplo el pan o la bollería que son alimentos refinados y procesados no les aporta nutrientes a los gorriones.
 
-https://celebrateurbanbirds.org/es/learn/birds/focal-species/house-sparrow-2/
+<https://celebrateurbanbirds.org/es/learn/birds/focal-species/house-sparrow-2/>
 Gorrión Doméstico
 Especies Focales Principales
 Los Gorriones Domésticos se encuentran con facilidad en lugares donde hay edificaciones. Junto a otra especie introducida en América, la Paloma Doméstica, se encuentran dentro de nuestras aves más comunes en pueblos y ciudades. Su presencia constante afuera de nuestros hogares hace que fácilmente ignoremos su presencia. sin embargo, su presencia es señal de la desaparición de especies nativas. Los Gorriones Domésticos, con su capacidad para vivir tan apegados al ser humano, se han beneficiado de nuestro propio éxito.
@@ -252,7 +246,7 @@ Los Gorriones Domésticos saltan en vez de caminar en el suelo. Son aves sociale
 Anidación
 Los nidos los hacen a base de vegetación seca y áspera, que suelen embutir en un hoyo hasta que está casi lleno, después de esa capa, las aves usan materiales más finos, como plumas, hilos y papel que usan para recubrir el interior. A veces, los Gorriones Domésticos construyen nidos uno al lado de otro, por lo que puede que los nidos compartan murallas adyacentes. Tienen la costumbre de reusar sus nidos.
 
-https://www.inaturalist.org/guide_taxa/386013
+<https://www.inaturalist.org/guide_taxa/386013>
 Alimentación 3
 Se alimentan principalmente de insectos y de semillas, aunque también les gusta comer desperdicios producidos por el ser humano, dada su cercanía. En primavera pueden alimentarse de mariposas, y de flores de Crocus, Aconitum y flor de primavera (Primula vulgaris).
 
@@ -294,7 +288,7 @@ Pueden llegar a ser muy agresivos con otras especies.
 Resumen 3
 El gorrión común (Passer domesticus), también llamado pardal, es una especie de ave paseriforme de la familia de los gorriones (Passeridae). Es pequeño, está adaptado al hábitat urbano y acostumbrado a vivir cerca del ser humano, hasta el punto de ser el pájaro más frecuente y conocido. Aunque es originario de Eurasia y el Norte de África, se encuentra distribuido por todo el mundo, pues ha sido introducido por el ser humano en el resto de los continentes, a excepción de la Antártida.
 
-https://www.nativealimentos.com.br/es/sostenibilidad/biodiversidad/animales/aves/gorrion-comun/1201
+<https://www.nativealimentos.com.br/es/sostenibilidad/biodiversidad/animales/aves/gorrion-comun/1201>
 Caracterización: Especie de pequeño tamaño, con cerca de 15 cm de longitud. El macho tiene plumaje de coloración blanca en el lado de la garganta, castaño rojizo inmediatamente detrás de los ojos y un "babador" de color negro uniforme. La hembra presenta coloración parda, sin rasgos distintivos en el plumaje. Tiene tarso y dedos cortos.
 
 Distribución: Nativo de Europa y del norte del África, viene siendo introducido en todos los continentes, excepto en la Antártida.
@@ -309,7 +303,7 @@ Reproducción: Pone 4 huevos en aleros y otras partes de construcciones humanas 
 
 En el área de la UFRA: En los estudios realizados en las áreas de la Usina São Francisco, esta especie de ave presentó una limitada distribución espacial, siendo encontrada sólo en los bosques exóticos. Su registro de hallazgo fue de 4 veces, considerada poco frecuente.
 
-https://clubaventureros.org/el-gorrion-comun-un-ave-amiga/
+<https://clubaventureros.org/el-gorrion-comun-un-ave-amiga/>
 El gorrión común; un ave amiga.
 Aves enero 2, 2024
 Un ave muy especial
@@ -328,7 +322,7 @@ Pues de todo un poco. Les gustan las semillas, las frutas, las verduras y tambi�
 
 Sal al campo y anímate a observar y cuidar a estas aves tan maravillosas.  También puedes hacerles un comedero o una casita para que se sientan más a gusto. Recuerda que el gorrión es nuestro amigo, y que debemos protegerlo y respetarlo.
 
-https://www.argentinat.org/taxa/13858-Passer-domesticus
+<https://www.argentinat.org/taxa/13858-Passer-domesticus>
 El gorrión común (Passer domesticus), también llamado pardal[2]​ o chilero,[3]​ es una especie de ave paseriforme de la familia Passeridae. Está adaptado al hábitat urbano hasta el punto de ser el pájaro más frecuente y conocido en esas áreas, aunque en términos absolutos, en Europa, el pinzón es más abundante. Vive como comensal del ser humano. Es originario de Eurasia y el Norte de África, pero actualmente se encuentra distribuido por áreas urbanas en las zonas templadas de casi todo el mundo, pues ha sido introducido por el ser humano en el resto de los continentes excepto en la Antártida.
 
 Puede llegar a vivir trece años en cautiverio, aunque generalmente no llega a los siete años en libertad.[cita requerida]
@@ -357,7 +351,7 @@ Los gorriones forman parejas monógamas en cada estación de reproducción. La t
 
 La hembra desarrolla un parche de piel desnuda para la cría y desempeña el papel principal en la incubación de los huevos. El macho ayuda, pero solo puede cubrir los huevos en lugar de incubarlos realmente. La hembra pasa la noche incubando durante este período, mientras que el macho se posa cerca del nido.
 
-https://www.expertoanimal.com/que-come-un-gorrion-23896.html
+<https://www.expertoanimal.com/que-come-un-gorrion-23896.html>
 El gorrión común (Passer domesticus) es una ave de color pardo que muestra diversas tonalidades, las cuales varían entre el rojo y el negro. Si has encontrado un gorrión que necesita cuidados, ya sea que esté herido o se haya caído del nido, entonces debes conocer todo lo indispensable para encargarte de él.
 
 Una de las cosas más importante para su salud es la alimentación del gorrión, pues esta influirá directamente en su salud y en su recuperación. ¿Quieres saber qué come un gorrión? Entonces no te puedes perder este artículo, te explicaremos todo lo que necesitas saber sobre la alimentación del gorrión: recién nacido, pichón y adulto.

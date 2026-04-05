@@ -1,4 +1,4 @@
-https://notebooklm.google.com/notebook/b8edb30d-f082-49a2-b815-9a1e445ad579
+<https://notebooklm.google.com/notebook/b8edb30d-f082-49a2-b815-9a1e445ad579>
 
 **EL PANGOLÍN: El Enigmático Guerrero de Escamas que Supera a los Gigantes**
 
@@ -26,8 +26,8 @@ Una de sus peculiaridades más notables es la **ausencia de dentadura o dientes 
 
 Actualmente, **se reconocen ocho especies de pangolines**, distribuidas en dos continentes:
 
-*   **Pangolines Africanos (4 especies):** Viven en el sur y centro del continente, desde Sudán y Senegal hasta Sudáfrica. Habitan sabanas, zonas arboladas, matorrales y regiones semidesérticas.
-*   **Pangolines Asiáticos (4 especies):** Se encuentran en el sudeste de Asia, desde Pakistán en el oeste hasta Borneo en el este, incluyendo países como India, China, Vietnam, Malasia y Filipinas. Habitan principalmente bosques tropicales densos.
+* **Pangolines Africanos (4 especies):** Viven en el sur y centro del continente, desde Sudán y Senegal hasta Sudáfrica. Habitan sabanas, zonas arboladas, matorrales y regiones semidesérticas.
+* **Pangolines Asiáticos (4 especies):** Se encuentran en el sudeste de Asia, desde Pakistán en el oeste hasta Borneo en el este, incluyendo países como India, China, Vietnam, Malasia y Filipinas. Habitan principalmente bosques tropicales densos.
 
 En cuanto a la reproducción, los pangolines generalmente tienen un **ciclo reproductivo anual**. Las especies africanas suelen tener **una sola cría** por gestación, mientras que las asiáticas pueden tener entre una y tres. La gestación puede durar entre 70 y 150 días, dependiendo de la especie. Las crías nacen con escamas blandas que se endurecen rápidamente. La madre pangolín demuestra un notable cuidado parental, **transportando a su cría sobre la base de su cola**.
 
@@ -35,8 +35,8 @@ En cuanto a la reproducción, los pangolines generalmente tienen un **ciclo repr
 
 El pangolín ostenta el lamentable título de ser el **mamífero con mayor tráfico ilegal del mundo**. Se calcula que más de **un millón de pangolines** han sido capturados para el comercio ilegal de especies. El tráfico es impulsado por una alta demanda en Asia, especialmente en China y Vietnam:
 
-1.  **Carne:** Considerada un manjar.
-2.  **Escamas:** Se cree que tienen propiedades en la medicina tradicional asiática para tratar dolencias como el asma, el reumatismo, o para mejorar la circulación sanguínea.
+1. **Carne:** Considerada un manjar.
+2. **Escamas:** Se cree que tienen propiedades en la medicina tradicional asiática para tratar dolencias como el asma, el reumatismo, o para mejorar la circulación sanguínea.
 
 Todas las ocho especies están incluidas en la Lista Roja de la UICN. Cuatro especies asiáticas están clasificadas como **"En Peligro Crítico" (CR)**, y el resto están altamente amenazadas. A pesar de que el **Convenio CITES prohibió totalmente su comercio internacional en 2016**, el tráfico ilegal continúa.
 

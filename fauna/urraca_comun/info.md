@@ -1,4 +1,4 @@
-https://webs.uab.cat/bees/urraca-comun/
+<https://webs.uab.cat/bees/urraca-comun/>
 La urraca común es un ave de tamaño medio, que suele medir unos 40-51cm de longitud y unos 52-60cm de envergadura. Es por eso por lo que su peso suele rondar los 200 gramos.
 
 Su plumaje es bastante característico, ya que es mayoritariamente blanco en el vientre y negro en el dorso, pero pueden presentar ciertas tonalidades azuladas o iridiscentes sobre todo en las alas.
@@ -25,7 +25,7 @@ Esta ave es capaz de adaptarse a una gran cantidad de ecosistemas, es por ello p
 
 Preferentemente los podemos encontrar habitando en zonas agrícolas, en parques urbanos o cerca de las zonas habitadas.
 
-https://zoodelpirineu.com/animales/urraca-comun-una-gamberra-inteligente/
+<https://zoodelpirineu.com/animales/urraca-comun-una-gamberra-inteligente/>
 La urraca habita principalmente en paisajes abiertos con prados, arbustos y grupos de árboles. Se encuentra tanto en las tierras bajas como en las montañas.
 
 Busca proximidad a los humanos, pues su presencia la protege de depredadores y asegura un acceso fácil a alimentos: los restos de comida que tiramos.
@@ -95,8 +95,7 @@ Búhos
 Halcones
 Humanos (la urraca es una especie cinegética)
 
-
-https://seo.org/ave/urraca-comun/
+<https://seo.org/ave/urraca-comun/>
 Urraca común
 Pica pica
 
@@ -147,7 +146,7 @@ La puesta suele comenzar a mediados de abril y se compone de entre cinco y ocho 
 
 La urraca solamente efectúa una puesta al año, aunque puede hacer puestas de reposición si la primera fracasa.
 
-https://www.faunayfloraparquedelprincipe.es/urraca-comun/
+<https://www.faunayfloraparquedelprincipe.es/urraca-comun/>
 La urraca común, también conocida como picaza, picaraza, marica y pega, es una de las aves más comunes en Europa. Mide en torno a 45 cm de longitud con una envergadura alar de 60 cm. Destaca por su cuerpo blanco y negro iridiscente, acabado en una larga cola de color azul o verde metálico, lo que las hace prácticamente inconfundibles con otras aves. Su cabeza y pico presentan la forma característica de la familia a la que pertenece, ojos pequeños y un pico recto y fuerte. Se caracteriza también por su larga cola escalonada y por sus alas cortas y redondeadas, cosa que hace que su silueta sea parecida a la del rabilargo. No presenta dimorfismo sexual, aunque los machos disponen de una mayor corpulencia.
 
 Además, presentan un vuelo ondulante durante el cual baten espasmódicamente las alas.
@@ -200,7 +199,7 @@ Por su comportamiento, se ha comprobado que tiene un gran poder de comunicación
 
 También se aprecia un comportamiento inteligente al almacenar, en sitios que solo ellas conocen, los excedentes de alimento que encuentran, así como objetos brillantes por los que sienten una debilidad especial, como si fueran sus tesoros. A parte de trozos de latas y cristales, se han llegado a encontrar joyas de valor en sus grandes nidos.
 
-https://www.argentinat.org/taxa/891696-Pica-pica
+<https://www.argentinat.org/taxa/891696-Pica-pica>
 Alimentación
 Su pico no presenta ninguna adaptación específica, presentando una forma recta y fuerte que le permite acceder a casi cualquier tipo de comida. Esto es aprovechado por la urraca de excelente forma y presenta una alimentación omnívora. Es frecuente ver urracas próximas a las carreteras, andando a pequeños saltos, en busca de cualquier cosa comestible. Come sobre todo insectos y cereales, aunque también carroña, huevos y polluelos e incluso pequeños mamíferos.
 Comportamiento
@@ -214,8 +213,7 @@ Desde antiguo ha sido un ave amenazada por cazadores y agricultores que veían e
 
 Se sabe que tiene malas relaciones con otras aves como el críalo, ave migratoria de la misma familia que el cuco. Cuando la urraca ha realizado su puesta, el críalo aprovecha la menor oportunidad para depositar sus huevos en el nido de la urraca. De esta forma las urracas incuban y alimentan a los polluelos del críalo también, y estos muchas veces por su nacimiento y desarrollo más precoz acaban con los polluelos de la urraca. Lo mismo puede decirse de sus relaciones con el lirón careto que también puede atacar a la urraca, aprovechando que en la noche se presenta sumamente vulnerable, devorando sus huevos y polluelos. Estos ataques pueden ir dirigidos, además de a procurarse el sustento, a apropiarse del nido para su propia reproducción.
 
-
-https://okdiario.com/mascotas/urracas-como-son-tipos-donde-viven-caracteristicas-4897689
+<https://okdiario.com/mascotas/urracas-como-son-tipos-donde-viven-caracteristicas-4897689>
 Las urracas son unas de las aves que más curiosidad e interés despiertan a nivel global. Aunque muchas personas desconocen este dato, es un animal muy inteligente que habita en África, Asia, Europa y Norteamérica. Tiene una gran capacidad de adaptación, de forma que se puede vivir tanto en ciudades como en campos o bosques. En los últimos años el número de urracas ha crecido de forma notable en todo el mundo.
 ¿Cómo es la urraca?
 
@@ -238,8 +236,7 @@ El periodo de incubación oscila entre los 17 y los 20 días. Durante este tiemp
 
 Estas son las principales características de la urraca. Por último, cabe señalar que es una de las aves más inteligentes que existen y tiene un gran poder de comunicación.
 
-
-https://animapedia.org/animales-aereos/urraca-comun
+<https://animapedia.org/animales-aereos/urraca-comun>
 Urraca común
 Publicado el 5 junio, 2018 - Última modificación: 5 agosto, 2018
 
@@ -248,7 +245,6 @@ Características
 La urraca común es el miembro más fácilmente identificable de la familia de los Córvidos, su coloración en blanco y negro, su larga cola, su gran tamaño y el sonido de su cascabeleo lo hacen obvio. Raramente se ve un solo pájaro, por lo general desfilan en pequeños grupos familiares.
 
 Los machos y las hembras adultos son iguales, son aves grandes, de unos 45-50 cm de longitud y 55 cm de envergadura. A menudo aparecen en pequeños grupos buscando comida ruidosamente. El plumaje parece ser blanco y negro, pero al observarlo más de cerca, los negros tienen un hermoso brillo irisado de verdes, azules y morados. La parte superior; la cabeza, el pecho son de color negro con muy poco brillo, mientras que las alas muestran un brillo azul iridiscente, la larga cola negra también tiene un brillo iridiscente, pero esta vez verde botella. Las fundas bajo la cola son de color negro mate.
-
 
 En reposo el ave muestra un gran parche escapulario blanco justo encima del ala. El vientre, los flancos y la grupa son blancos. Tienen el pico, las piernas y los ojos negros.
 
@@ -280,7 +276,7 @@ Los científicos examinaron a las urracas colocándoles una marca de color en el
 
 Los científicos creen que la autoconciencia en las aves y ciertos mamíferos puede ser un ejemplo de evolución convergente, en la que especies no relacionadas evolucionan características particulares a través de diferentes medios.
 
-https://animalia.bio/index.php/es/eurasian-magpie
+<https://animalia.bio/index.php/es/eurasian-magpie>
 La urraca común (Pica pica), también conocida como picaza, picaraza, marica y pega, es una especie de ave paseriforme de la familia Corvidae que habita en Eurasia. Es una de las aves más comunes en Europa, vuela hasta una altitud no superior a los 1500 msnm.
 
 La urraca común es una de las aves más inteligentes, y se cree que es más inteligente que la gran mayoría de los animales. La extensión del cuerpo estriado de su encéfalo tiene el mismo tamaño relativo que el de los chimpancés, orangutanes y humanos.

@@ -1,7 +1,8 @@
 ## 🐜 Pangolín: ¡La máquina devoradora de 70 millones de hormigas! 🍽️
+
 ![alt text](pangolin_portada_002.png)
 
-Imagina al animal más enigmático de los bosques tropicales de África y Asia: una criatura que parece un cruce entre un armadillo y una alcachofa andante. 
+Imagina al animal más enigmático de los bosques tropicales de África y Asia: una criatura que parece un cruce entre un armadillo y una alcachofa andante.
 
 Es el único mamífero cubierto por una armadura completa. Pero, ¿qué sabes realmente de este ser solitario y nocturno? Acompáñanos para descubrir a este superviviente con ochenta millones de años de historia evolutiva, cuya biología única es tan fascinante como las amenazas que lo han convertido en el mamífero más traficado del planeta. Hoy revelaremos los secretos del pangolín, miembro del orden Pholidota, un animal cuya defensa extraordinaria y papel en la salud global te sorprenderán.
 

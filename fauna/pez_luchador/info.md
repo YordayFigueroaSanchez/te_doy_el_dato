@@ -1,4 +1,5 @@
 # [Betta splendens, pez luchador o combatiente del Siam](https://laguiadelacuario.es/peces-aguadulce/laberintidos/betta-splendens/)
+
 Los Betta splendens (Regan, 1910) pertenecen a la familia Osphronemidae, Laberíntidos, antiguamente denominados Anabántidos y clasificados dentro de la familia Anabantidae.
 
 Los peces betta proceden del Sudeste Asiático, Tailandia, Malasia, Camboya y Myanmar. Habita aguas lentas o incluso estancadas. En la naturaleza la especie no alcanza la talla que en cautividad que suele rondar los 6 cm y una longevidad en torno a los dos años. En sus zonas de origen presenta unas aletas con menor desarrollo y una tonalidad más oscura y parduzca en tonos marrón y verde.
@@ -42,7 +43,9 @@ El nido con los huevos debe tener cierto movimiento para evitar la aparición de
 Si el objetivo de nuestro mantenimiento del combatiente del Siam es su cría deberemos ser escrupulosos y no permitir que se cree la capa aceitosa de origen proteico en la superficie del agua. Los alevines tras la primera semana de vida desarrollan por completo el laberinto, órgano complementario de respiración y comenzarán a tomar aire directamente de la superficie. Tapar el acuario también es importante para reducir las corrientes frías que pudieran trasladarse a la superficie del agua y dañar a los peces.
 
 Según se produce el desarrollo de la prole comenzarán los primeros enfrentamientos entre machos. También pueden producirse entre las hembras pero con menor virulencia. Las hembras pueden ser distinguidas ya a nivel alevín, sin fijarnos en la longitud de las aletas, por la mancha blanca en la zona de la cloaca, la zona donde presenta el ovopositor. Las hembras grávidas también presentarán esta peculiar mancha.
+
 # [pez luchador](https://www.fishipedia.es/pez/betta-splendens)
+
 En la naturaleza, puede encontrarse en zonas poco profundas, como los arrozales. Aunque se trata de una de las especies de peces más populares entre los aficionados a la acuariofília, después del famoso <a href="https://www.fishipedia.es/pez/carassius-auratus">pez dorado</a> , sus poblaciones salvajes se encuentran a día de hoy amenazadas, principalmente debido al deterioro de su hábitat.
 <p style="text-align: left;">Las especies del género <em>Betta</em> son todas consideradas como peces "luchadores". Este género ha sido ampliamente popularizado por <em>Betta splendens</em>, que es hasta el día de hoy una de las especies más conocidas en el mundo de la acuariofília.</p>
 <p style="text-align: left;">En 2019, el género <em>Betta</em> comprendía 73 especies descritas, incluidas varias de ellas durante la década de 2000, evidencia de que aún se esperan nuevos descubrimientos en este grupo. Todas las especies se encuentran en el sudeste asiático, incluyendo las islas de Indonesia.</p>

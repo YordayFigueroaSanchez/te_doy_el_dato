@@ -1,4 +1,5 @@
 ![](ganso_del_nilo_portada_003.png)
+
 # 🦆 El GANSO que en realidad NO es un GANSO 🤯
 
 Imagina un ave que parece un ganso pero no lo es, que fue venerada como sagrada por una de las civilizaciones más grandes de la historia, pero que hoy es vista como una amenaza en muchos lugares. ¿Ya tienes una idea de quién hablamos? Quédate con nosotros para descubrir a esta criatura llena de contrastes. Hoy exploraremos el mundo de un ave cada vez más común pero a menudo incomprendida: el ganso del Nilo. Conocido científicamente como Alopochen aegyptiaca, este animal tiene una historia y unas características que te sorprenderán.
