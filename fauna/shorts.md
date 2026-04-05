@@ -1881,18 +1881,6 @@ La relación entre humanos y conejos es antigua y variada. Han sido cazados por 
 🐰 La VERDAD Detrás de Esas Orejas Largas 🤫👂
 Culturalmente, el conejo aparece en el folclore y la mitología de muchas sociedades, a menudo como símbolo de fertilidad, suerte o astucia, como el famoso Conejo de Pascua. Desde sus adaptaciones únicas hasta su complejo comportamiento social y su importante papel tanto en los ecosistemas como en nuestras vidas, los conejos son verdaderamente criaturas extraordinarias. Esperamos que este viaje por su mundo te haya resultado tan fascinante como a nosotros. La próxima vez que veas un conejo, ya sea en el campo o en un hogar, recuerda la increíble naturaleza que se esconde tras esas largas orejas.
 
-****
-****
-****
-****
-****
-**CONTINUAR DESDE ACA**
-****
-****
-****
-****
-****
-
 # s_0466_ganso_del_nilo.mp4
 
 🦆 El ave SAGRADA que hoy es una AMENAZA 🦆
@@ -1939,6 +1927,18 @@ La comunicación es clave en su mundo. Aunque machos y hembras son casi idéntic
 🦆 La PAREJA más unida 🦆
 Son seres de fuertes lazos sociales, pero centrados en la pareja. La monogamia de por vida y la defensa conjunta del nido y los polluelos es el pilar de su estructura social. Viven en pequeños grupos la mayor parte del año, lo que les ofrece protección, pero durante la cría, la pareja se aísla para defender su territorio. Se saludan y comunican con una serie de movimientos de cabeza y cuello, reforzando sus vínculos.
 El ganso del Nilo, un animal con una rica historia, lleno de belleza, carácter y una sorprendente dualidad que desafía cualquier estereotipo. Desde su estatus sagrado en el pasado hasta su complejo papel como especie invasora en el presente, hay mucho que analizar en el Alopochen aegyptiaca. Esperamos que este viaje por el mundo del ganso del Nilo te haya resultado fascinante. Te invitamos a seguir explorando con nosotros la increíble fauna que puebla nuestro planeta aquí en nuestro canal. ¡No te pierdas nuestras próximas aventuras
+
+****
+****
+****
+****
+****
+**CONTINUAR DESDE ACA**
+****
+****
+****
+****
+****
 
 # s_0475_elefante_short_001.mp4
 
