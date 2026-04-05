@@ -57,3 +57,27 @@ Run OpenSpec in the project directory:
 ```bash
 openspec init 
 ```
+
+## Parrafo inicial
+
+Imagina al guerrero más asombroso de los arrecifes tropicales: una criatura que parece un cruce entre una mantis religiosa y un langostino sacado de una pintura de colores brillantes. Es un depredador único, armado con unos brazos capaces de dar golpes tan rápidos y fuertes como una bala del calibre 22. Pero, ¿qué sabemos realmente de este habitante solitario y sofisticado de los fondos marinos? Acompáñanos a descubrir a este superviviente con 400 millones de años de historia, cuyos "superpoderes" visuales y fuerza bruta te dejarán con la boca abierta.
+
+## Adjetivos
+
+Poderoso, Agresivo, Colorido
+
+## Tags
+
+Camarón Mantis,Mantis Shrimp,Estomatópodos,Stomatopoda,Vida Marina,Animales Asombrosos,Crustáceos,Golpe Relámpago,Fuerza de Bala,Boxeador del Océano,Cavitación,Trituradores,Perforadores,Rajadedos,Visión Superpoder,Ojos más Complejos,Luz Polarizada,Visión Trinocular,Comunicación Secreta,Odontodactylus Scyllarus,Fósiles Vivientes,Monogamia Animal,Ingenieros del Ecosistema,Detección de Cáncer,Bioinspiración,Biología Marina
+
+## Prompt para video 
+
+Dadas las fuentes proporcionadas, que contiene información sobre un animal, genera un artículo descriptivo basado únicamente en la información del archivo. Estructura: Introducción impactante: Comienza con una descripción intrigante o un dato curioso sin mencionar el nombre del animal, generando expectativa en el lector. Anatomía: Explica las características físicas del animal, incluyendo tamaño, forma, coloración y adaptaciones especiales. Hábitat y Distribución: Describe en qué regiones del mundo se encuentra y qué tipo de ecosistemas prefiere. Alimentación: Explica qué come y cómo obtiene su alimento. Reproducción: Detalla su ciclo reproductivo, métodos de crianza y cuidado de las crías. Depredadores y Defensa: Menciona sus principales depredadores y las estrategias que usa para defenderse. Datos Curiosos: Agrega información llamativa o inusual para hacer el contenido más atractivo. Cierre envolvente: Finaliza con una invitación a conocer más sobre la increible fauna que describimos en este canal. Condiciones: Usa exclusivamente la información contenida en el archivo. Mantén un tono educativo y entretenido, ideal para YouTube. Organiza el contenido con subtítulos claros para cada sección. Debes agregar en algunos parrafos el nombre del animal sobre el que se trata. Cuando menciones el nombre cientifico del animal hazlo formando parte de la oracion y no entre (). El articulo debe tener unos 5 minutos de lectura. La session de datos curiosos se debe escribir en forma de parrafos Cuando tengas que usar unidades de medida enfocate que sean en kilometros por hora, metros. Como enfocado en la comunidad de habla hispana.
+
+## Prompt para video en vertical
+
+[odysee](https://odysee.com/@yfsanchez:d/camaron_mantis_video_720p:5)
+
+[substack](https://tedoyeldato.substack.com/p/el-camaron-mantis-el-boxeador-que?r=6httlh)
+
+[youtube](https://youtu.be/rI8d-neVIGs)
