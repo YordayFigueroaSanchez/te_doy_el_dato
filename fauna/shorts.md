@@ -1928,6 +1928,14 @@ La comunicación es clave en su mundo. Aunque machos y hembras son casi idéntic
 Son seres de fuertes lazos sociales, pero centrados en la pareja. La monogamia de por vida y la defensa conjunta del nido y los polluelos es el pilar de su estructura social. Viven en pequeños grupos la mayor parte del año, lo que les ofrece protección, pero durante la cría, la pareja se aísla para defender su territorio. Se saludan y comunican con una serie de movimientos de cabeza y cuello, reforzando sus vínculos.
 El ganso del Nilo, un animal con una rica historia, lleno de belleza, carácter y una sorprendente dualidad que desafía cualquier estereotipo. Desde su estatus sagrado en el pasado hasta su complejo papel como especie invasora en el presente, hay mucho que analizar en el Alopochen aegyptiaca. Esperamos que este viaje por el mundo del ganso del Nilo te haya resultado fascinante. Te invitamos a seguir explorando con nosotros la increíble fauna que puebla nuestro planeta aquí en nuestro canal. ¡No te pierdas nuestras próximas aventuras
 
+# s_0475_elefante_short_001.mp4
+
+🐘 ¿Sabías esto del elefante? 🐘
+
+# s_0476_elefante_short_002.mp4
+
+🐘 El gigante sabio de la sabana 🐘
+
 ****
 ****
 ****
@@ -1939,14 +1947,6 @@ El ganso del Nilo, un animal con una rica historia, lleno de belleza, carácter 
 ****
 ****
 ****
-
-# s_0475_elefante_short_001.mp4
-
-🐘 ¿Sabías esto del elefante? 🐘
-
-# s_0476_elefante_short_002.mp4
-
-🐘 El gigante sabio de la sabana 🐘
 
 # s_0477_estornino_short_001.mp4
 
