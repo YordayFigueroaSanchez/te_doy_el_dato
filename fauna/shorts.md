@@ -1960,18 +1960,6 @@ El ganso del Nilo, un animal con una rica historia, lleno de belleza, carácter 
 
 🐈 El misterio del gato y su ronroneo 🐈
 
-****
-****
-****
-****
-****
-** CONTINUAR DESDE ACA **
-****
-****
-****
-****
-****
-
 # s_0483_pajaro_carpintero.mp4
 
 💪 ¡El arquitecto del bosque que salva a otras especies! 🧱
@@ -1999,6 +1987,18 @@ El ganso del Nilo, un animal con una rica historia, lleno de belleza, carácter 
 # s_0489_pajaro_carpintero.mp4
 
 💪 ¿Qué revela la presencia de un pájaro carpintero en el bosque? 🧱
+
+****
+****
+****
+****
+****
+** CONTINUAR DESDE ACA **
+****
+****
+****
+****
+****
 
 # s_0490_gorrion.mp4
 
