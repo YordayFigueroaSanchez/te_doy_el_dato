@@ -2028,18 +2028,6 @@ El ganso del Nilo, un animal con una rica historia, lleno de belleza, carácter 
 
 👀Redescubriendo a un Extraordinario Superviviente💥
 
-****
-****
-****
-****
-****
-** CONTINUAR DESDE ACA **
-****
-****
-****
-****
-****
-
 # s_0500_urraca_comun.mp4
 
 🐦 ¿Ladrón o genio? La verdad sobre la urraca te sorprenderá 🔊
@@ -2079,6 +2067,18 @@ El ganso del Nilo, un animal con una rica historia, lleno de belleza, carácter 
 # s_0509_urraca_comun.mp4
 
 🐦 ¿Solo un ave ruidosa? La urraca es mucho más de lo que crees 🔊
+
+****
+****
+****
+****
+****
+** CONTINUAR DESDE ACA **
+****
+****
+****
+****
+****
 
 # s_0510_narval
 
