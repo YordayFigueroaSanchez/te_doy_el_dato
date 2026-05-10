@@ -1988,18 +1988,6 @@ El ganso del Nilo, un animal con una rica historia, lleno de belleza, carácter 
 
 💪 ¿Qué revela la presencia de un pájaro carpintero en el bosque? 🧱
 
-****
-****
-****
-****
-****
-** CONTINUAR DESDE ACA **
-****
-****
-****
-****
-****
-
 # s_0490_gorrion.mp4
 
 👀Un Vecino Ignorado: El Gorrión Común💥
@@ -2039,6 +2027,18 @@ El ganso del Nilo, un animal con una rica historia, lleno de belleza, carácter 
 # s_0499_gorrion.mp4
 
 👀Redescubriendo a un Extraordinario Superviviente💥
+
+****
+****
+****
+****
+****
+** CONTINUAR DESDE ACA **
+****
+****
+****
+****
+****
 
 # s_0500_urraca_comun.mp4
 
