@@ -279,5 +279,5 @@
 **Timestamp**: 2026-05-17T00:00:00Z
 **User Input**: "haz commit y push"
 **AI Action**: "Se preparó commit del estado actual de `fauna/shorts.md`, excluyendo `te_doy_el_dato.code-workspace` por ser un archivo local no relacionado."
-**Validation**: "Pendiente en este punto del registro; se valida tras `git push`."
+**Validation**: "Commit `568375a` creado y `git push origin 88-republicar-despues-del-510` ejecutado con éxito."
 **Context**: Stage: Inception — Publicación de cambios solicitada por usuario
