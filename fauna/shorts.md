@@ -2352,18 +2352,6 @@ Urraca Comun: un dato que rompe mitos en su rutina diaria, que te dejara pensand
 
 Salmon: el secreto mejor guardado en climas extremos, y por que importa hoy
 
-****
-****
-****
-****
-****
-** CONTINUAR DESDE ACA **
-****
-****
-****
-****
-****
-
 # s_0511_salmon
 
 Salmon: una habilidad inesperada durante la busqueda de alimento, en su contexto real
@@ -2395,6 +2383,18 @@ Salmon: una escena digna de documental en su habitat natural, sin perder el asom
 # s_0518_salmon
 
 Salmon: la razon de su exito en la naturaleza en su etapa de crecimiento, con una mirada diferente
+
+****
+****
+****
+****
+****
+** CONTINUAR DESDE ACA **
+****
+****
+****
+****
+****
 
 # s_0519_narval
 
