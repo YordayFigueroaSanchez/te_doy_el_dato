@@ -2384,18 +2384,6 @@ Salmon: una escena digna de documental en su habitat natural, sin perder el asom
 
 Salmon: la razon de su exito en la naturaleza en su etapa de crecimiento, con una mirada diferente
 
-****
-****
-****
-****
-****
-** CONTINUAR DESDE ACA **
-****
-****
-****
-****
-****
-
 # s_0519_narval
 
 Narval: un dato que rompe mitos en su rutina diaria, que te dejara pensando
@@ -2439,6 +2427,18 @@ Narval: la razon de su exito en la naturaleza en climas extremos, y por que impo
 # s_0529_narval.mp4
 
 Narval: un dato que rompe mitos durante la busqueda de alimento, en su contexto real #animales
+
+****
+****
+****
+****
+****
+** CONTINUAR DESDE ACA **
+****
+****
+****
+****
+****
 
 # s_0531_pangolin.mp4
 
