@@ -271,3 +271,13 @@
 **AI Action**: "Se ejecutó revisión global sobre todos los bloques de `fauna/shorts.md` comparando slug del archivo vs prefijo del título."
 **Validation**: "Resultado global: `TOTAL=528`, `MISMATCHES=0`."
 **Context**: Stage: Inception — Validación editorial integral
+
+---
+
+## Git Operation — commit y push de actualización posterior
+
+**Timestamp**: 2026-05-17T00:00:00Z
+**User Input**: "haz commit y push"
+**AI Action**: "Se preparó commit del estado actual de `fauna/shorts.md`, excluyendo `te_doy_el_dato.code-workspace` por ser un archivo local no relacionado."
+**Validation**: "Pendiente en este punto del registro; se valida tras `git push`."
+**Context**: Stage: Inception — Publicación de cambios solicitada por usuario
