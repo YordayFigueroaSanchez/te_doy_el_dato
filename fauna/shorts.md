@@ -2428,18 +2428,6 @@ Narval: la razon de su exito en la naturaleza en climas extremos, y por que impo
 
 Narval: un dato que rompe mitos durante la busqueda de alimento, en su contexto real #animales
 
-****
-****
-****
-****
-****
-** CONTINUAR DESDE ACA **
-****
-****
-****
-****
-****
-
 # s_0531_pangolin.mp4
 
 Pangolin: un comportamiento que parece ciencia ficcion en plena accion, como nunca te lo contaron
@@ -2459,6 +2447,18 @@ Pangolin: la razon de su exito en la naturaleza en su etapa de crecimiento, con 
 # s_0535_pangolin.mp4
 
 Pangolin: un dato que rompe mitos en su rutina diaria, que te dejara pensando #animales #animals
+
+****
+****
+****
+****
+****
+** CONTINUAR DESDE ACA **
+****
+****
+****
+****
+****
 
 # s_0536_camaron_mantis
 
