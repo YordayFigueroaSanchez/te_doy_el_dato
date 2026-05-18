@@ -74,3 +74,21 @@
 - Opportunities: standardize metadata (YAML frontmatter), condense long paragraphs for Shorts, extract title options and hashtags, create manifest CSV for batch processing.
 
 **Context**: Stage: Inception — Read & Analyze Scripts
+
+---
+
+## Inception — Solicitud de cambio de branch
+
+**Timestamp**: 2026-05-17T00:00:00Z
+**User Input**: "Usando AI-DLC pasemos al branch origin/88-republicar-despues-del-510"
+**AI Response**: "Se cargaron reglas comunes AI-DLC, se validó estado del workspace y se ejecutó cambio seguro de rama con tracking remoto."
+**Context**: Stage: Inception — Operación Git solicitada por usuario
+
+---
+
+## Git Operation — Branch Switch
+
+**Timestamp**: 2026-05-17T00:00:00Z
+**AI Action**: "Ejecutado `git switch -c 88-republicar-despues-del-510 --track origin/88-republicar-despues-del-510` con éxito."
+**Validation**: "`git status --short --branch` confirma rama actual `88-republicar-despues-del-510` con tracking a `origin/88-republicar-despues-del-510`."
+**Context**: Stage: Inception — Verificación post-cambio
