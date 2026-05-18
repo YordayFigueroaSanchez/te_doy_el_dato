@@ -214,6 +214,258 @@ Buey: la adaptacion que cambia todo en el juego de la supervivencia, sin filtros
 
 Buey: un comportamiento que parece ciencia ficcion en su habitat natural, sin perder el asombro
 
+# s_0055_tballena.mp4
+
+Ballena: una habilidad inesperada en el equilibrio del ecosistema, explicado en segundos #animales
+
+# s_0056_tballena.mp4
+
+Ballena: el lado salvaje que pocos conocen cuando llega el peligro, con datos que valen oro
+
+# s_0057_tballena.mp4
+
+Ballena: una estrategia de supervivencia brutal en plena accion, como nunca te lo contaron #animales
+
+# s_0058_tballena.mp4
+
+Ballena: la adaptacion que cambia todo en el juego de la supervivencia, sin filtros ni exageraciones
+
+# s_0059_tballena.mp4
+
+Ballena: un comportamiento que parece ciencia ficcion en su habitat natural, sin perder el asombro
+
+# s_0060_tballena.mp4
+
+Ballena: el detalle que lo hace unico en su etapa de crecimiento, con una mirada diferente #animales
+
+# s_0061_tballena.mp4
+
+Ballena: una escena digna de documental en su rutina diaria, que te dejara pensando #animales
+
+# s_0062_tballena.mp4
+
+Ballena: la razon de su exito en la naturaleza en climas extremos, y por que importa hoy #animales
+
+# s_0063_tballena.mp4
+
+Ballena: un dato que rompe mitos durante la busqueda de alimento, en su contexto real #animales
+
+# s_0064_tballena.mp4
+
+Ballena: el truco que usa para dominar su entorno frente a sus depredadores, en formato corto y d...
+
+# s_0065_tballena.mp4
+
+Ballena: la clave de su resistencia en el equilibrio del ecosistema, explicado en segundos #animales
+
+# s_0066_tballena.mp4
+
+Ballena: el secreto mejor guardado cuando llega el peligro, con datos que valen oro #animales
+
+# s_0067_tballena.mp4
+
+Ballena: una habilidad inesperada en plena accion, como nunca te lo contaron #animales #animals
+
+# s_0068_alce_short_001.mp4
+
+Alce: el secreto mejor guardado en climas extremos, y por que importa hoy #animales #animals #fauna
+
+# s_0069_alce_short_002.mp4
+
+Alce: una habilidad inesperada durante la busqueda de alimento, en su contexto real #animales
+
+# s_0070_alce_short_003.mp4
+
+Alce: el lado salvaje que pocos conocen frente a sus depredadores, en formato corto y directo
+
+# s_0071_alce_short_004.mp4
+
+Alce: una estrategia de supervivencia brutal en el equilibrio del ecosistema, explicado en segundos
+
+# s_0072_alce_short_005.mp4
+
+Alce: la adaptacion que cambia todo cuando llega el peligro, con datos que valen oro #animales
+
+# s_0073_alce_short_006.mp4
+
+Alce: un comportamiento que parece ciencia ficcion en plena accion, como nunca te lo contaron
+
+# s_0074_alce_short_007.mp4
+
+Alce: el detalle que lo hace unico en el juego de la supervivencia, sin filtros ni exageraciones
+
+# s_0075_alce_short_008.mp4
+
+Alce: una escena digna de documental en su habitat natural, sin perder el asombro #animales #animals
+
+# s_0076_alce_short_009.mp4
+
+Alce: la razon de su exito en la naturaleza en su etapa de crecimiento, con una mirada diferente
+
+# s_0077_alce_short_010.mp4
+
+Alce: un dato que rompe mitos en su rutina diaria, que te dejara pensando #animales #animals #fauna
+
+# s_0078_abejas_short_001.mp4
+
+Abejas: el secreto mejor guardado frente a sus depredadores, en formato corto y directo #animales
+
+# s_0079_abejas_short_002.mp4
+
+Abejas: una habilidad inesperada en el equilibrio del ecosistema, explicado en segundos #animales
+
+# s_0080_abejas_short_003.mp4
+
+Abejas: el lado salvaje que pocos conocen cuando llega el peligro, con datos que valen oro #animales
+
+# s_0081_aguila_real_short_002.mp4
+
+Aguila Real: el secreto mejor guardado en climas extremos, y por que importa hoy #animales #animals
+
+# s_0090_nutria.mp4
+
+Nutria: el secreto mejor guardado en climas extremos, y por que importa hoy #animales #animals
+
+# s_0091_nutria.mp4
+
+Nutria: una habilidad inesperada durante la busqueda de alimento, en su contexto real #animales
+
+# s_0092_nutria.mp4
+
+Nutria: el lado salvaje que pocos conocen frente a sus depredadores, en formato corto y directo
+
+# s_0093_nutria.mp4
+
+Nutria: una estrategia de supervivencia brutal en el equilibrio del ecosistema, explicado en segu...
+
+# s_0094_nutria.mp4
+
+Nutria: la adaptacion que cambia todo cuando llega el peligro, con datos que valen oro #animales
+
+# s_0095_nutria.mp4
+
+Nutria: un comportamiento que parece ciencia ficcion en plena accion, como nunca te lo contaron
+
+# s_0096_nutria.mp4
+
+Nutria: el detalle que lo hace unico en el juego de la supervivencia, sin filtros ni exageraciones
+
+# s_0097_nutria.mp4
+
+Nutria: una escena digna de documental en su habitat natural, sin perder el asombro #animales
+
+# s_0098_nutria.mp4
+
+Nutria: la razon de su exito en la naturaleza en su etapa de crecimiento, con una mirada diferente
+
+# s_0100_grulla.mp4
+
+Grulla: el secreto mejor guardado en climas extremos, y por que importa hoy #animales #animals
+
+# s_0101_grulla.mp4
+
+Grulla: una habilidad inesperada durante la busqueda de alimento, en su contexto real #animales
+
+# s_0102_grulla.mp4
+
+Grulla: el lado salvaje que pocos conocen frente a sus depredadores, en formato corto y directo
+
+# s_0103_grulla.mp4
+
+Grulla: una estrategia de supervivencia brutal en el equilibrio del ecosistema, explicado en segu...
+
+# s_0104_grulla.mp4
+
+Grulla: la adaptacion que cambia todo cuando llega el peligro, con datos que valen oro #animales
+
+# s_0105_grulla.mp4
+
+Grulla: un comportamiento que parece ciencia ficcion en plena accion, como nunca te lo contaron
+
+# s_0106_grulla.mp4
+
+Grulla: el detalle que lo hace unico en el juego de la supervivencia, sin filtros ni exageraciones
+
+# s_0107_grulla.mp4
+
+Grulla: una escena digna de documental en su habitat natural, sin perder el asombro #animales
+
+# s_0108_grulla.mp4
+
+Grulla: la razon de su exito en la naturaleza en su etapa de crecimiento, con una mirada diferente
+
+# s_0109_grulla.mp4
+
+Grulla: un dato que rompe mitos en su rutina diaria, que te dejara pensando #animales #animals
+
+# s_0110_bisonte_americano.mp4
+
+Bisonte Americano: el secreto mejor guardado en climas extremos, y por que importa hoy #animales
+
+# s_0111_bisonte_americano.mp4
+
+Bisonte Americano: una habilidad inesperada durante la busqueda de alimento, en su contexto real
+
+# s_0112_buey_almizclero.mp4
+
+Buey Almizclero: un comportamiento que parece ciencia ficcion en su habitat natural, sin perder e...
+
+# s_0113_buey_almizclero.mp4
+
+Buey Almizclero: el detalle que lo hace unico en su etapa de crecimiento, con una mirada diferente
+
+# s_0114_buitre_leonado_short_001.mp4
+
+Buitre Leonado: el secreto mejor guardado en climas extremos, y por que importa hoy #animales
+
+# s_0115_cebra_short_001.mp4
+
+Cebra: el secreto mejor guardado en climas extremos, y por que importa hoy #animales #animals #fauna
+
+# s_0116_ciervo_short_001.mp4
+
+Ciervo: el secreto mejor guardado en climas extremos, y por que importa hoy #animales #animals
+
+# s_0117_ciervo_short_002.mp4
+
+Ciervo: una habilidad inesperada durante la busqueda de alimento, en su contexto real #animales
+
+# s_0118_colibri_short_mejora_001.mp4
+
+Colibri: el secreto mejor guardado en climas extremos, y por que importa hoy #animales #animals
+
+# s_0119_colibri_short_mejora_002.mp4
+
+Colibri: una habilidad inesperada durante la busqueda de alimento, en su contexto real #animales
+
+# s_0120_colibri_short_mejora_003.mp4
+
+Colibri: el lado salvaje que pocos conocen frente a sus depredadores, en formato corto y directo
+
+# s_0121_colibri_short_mejora_004.mp4
+
+Colibri: una estrategia de supervivencia brutal en el equilibrio del ecosistema, explicado en seg...
+
+# s_0122_colibri_short_mejora_005.mp4
+
+Colibri: la adaptacion que cambia todo cuando llega el peligro, con datos que valen oro #animales
+
+# s_0123_colibri_short_mejora_006.mp4
+
+Colibri: un comportamiento que parece ciencia ficcion en plena accion, como nunca te lo contaron
+
+# s_0124_colibri_short_mejora_007.mp4
+
+Colibri: el detalle que lo hace unico en el juego de la supervivencia, sin filtros ni exageraciones
+
+# s_0125_pez_leon_short_001.mp4
+
+Pez Leon: el secreto mejor guardado en climas extremos, y por que importa hoy #animales #animals
+
+# s_0126_pez_leon_short_002.mp4
+
+Pez Leon: una habilidad inesperada durante la busqueda de alimento, en su contexto real #animales
+
 # s_0127_iguana.mp4
 
 Iguana: el secreto mejor guardado en climas extremos, y por que importa hoy #animals #faunasalvaje
@@ -808,6 +1060,34 @@ s_258_fregata_magnificens.mp4
 🦃Papel crucial en ecosistema marino🦃#naturaleza #especies #animales #animals #fragata #fauna #frega
 La fragata magnífica desempeña un papel crucial en el ecosistema marino al regular las poblaciones de peces, crustáceos y calamares. Además, su comportamiento de cleptoparasitismo afecta la dinámica alimentaria de otras especies marinas, mostrando la interdependencia en los hábitats oceánicos.
 La fragata magnífica es un ejemplo de cómo la adaptación y la especialización permiten a las especies prosperar en ambientes desafiantes. Su presencia en los cielos tropicales y su fascinante comportamiento continúan inspirando a quienes tienen la fortuna de observarlas.
+
+# s_0252_fregata_magnificens.mp4
+
+Fregata Magnificens: el secreto mejor guardado en climas extremos, y por que importa hoy #animales
+
+# s_0253_fregata_magnificens.mp4
+
+Fregata Magnificens: una habilidad inesperada durante la busqueda de alimento, en su contexto real
+
+# s_0254_fregata_magnificens.mp4
+
+Fregata Magnificens: el lado salvaje que pocos conocen frente a sus depredadores, en formato cort...
+
+# s_0255_fregata_magnificens.mp4
+
+Fregata Magnificens: una estrategia de supervivencia brutal en el equilibrio del ecosistema, expl...
+
+# s_0256_fregata_magnificens.mp4
+
+Fregata Magnificens: la adaptacion que cambia todo cuando llega el peligro, con datos que valen oro
+
+# s_0257_fregata_magnificens.mp4
+
+Fregata Magnificens: un comportamiento que parece ciencia ficcion en plena accion, como nunca te...
+
+# s_0258_fregata_magnificens.mp4
+
+Fregata Magnificens: el detalle que lo hace unico en el juego de la supervivencia, sin filtros ni...
 
 # s_0259_mariposa.mp4
 
@@ -2080,41 +2360,41 @@ Urraca Comun: un dato que rompe mitos en su rutina diaria, que te dejara pensand
 ****
 ****
 
-# s_0510_narval
+# s_0510_salmon
 
-Narval: el secreto mejor guardado en climas extremos, y por que importa hoy
+Salmon: el secreto mejor guardado en climas extremos, y por que importa hoy
 
-# s_0511_narval
+# s_0511_salmon
 
-Narval: una habilidad inesperada durante la busqueda de alimento, en su contexto real
+Salmon: una habilidad inesperada durante la busqueda de alimento, en su contexto real
 
-# s_0512_narval
+# s_0512_salmon
 
-Narval: el lado salvaje que pocos conocen frente a sus depredadores, en formato corto y directo
+Salmon: el lado salvaje que pocos conocen frente a sus depredadores, en formato corto y directo
 
-# s_0513_narval
+# s_0513_salmon
 
-Narval: una estrategia de supervivencia brutal en el equilibrio del ecosistema, explicado en segu...
+Salmon: una estrategia de supervivencia brutal en el equilibrio del ecosistema, explicado en segu...
 
-# s_0514_narval
+# s_0514_salmon
 
-Narval: la adaptacion que cambia todo cuando llega el peligro, con datos que valen oro
+Salmon: la adaptacion que cambia todo cuando llega el peligro, con datos que valen oro
 
-# s_0515_narval
+# s_0515_salmon
 
-Narval: un comportamiento que parece ciencia ficcion en plena accion, como nunca te lo contaron
+Salmon: un comportamiento que parece ciencia ficcion en plena accion, como nunca te lo contaron
 
-# s_0516_narval
+# s_0516_salmon
 
-Narval: el detalle que lo hace unico en el juego de la supervivencia, sin filtros ni exageraciones
+Salmon: el detalle que lo hace unico en el juego de la supervivencia, sin filtros ni exageraciones
 
-# s_0517_narval
+# s_0517_salmon
 
-Narval: una escena digna de documental en su habitat natural, sin perder el asombro
+Salmon: una escena digna de documental en su habitat natural, sin perder el asombro
 
-# s_0518_narval
+# s_0518_salmon
 
-Narval: la razon de su exito en la naturaleza en su etapa de crecimiento, con una mirada diferente
+Salmon: la razon de su exito en la naturaleza en su etapa de crecimiento, con una mirada diferente
 
 # s_0519_narval
 
@@ -2124,25 +2404,61 @@ Narval: un dato que rompe mitos en su rutina diaria, que te dejara pensando
 
 Narval: el truco que usa para dominar su entorno en climas extremos, y por que importa hoy
 
-# s_0521_pangolin
+# s_0521_narval
 
-Pangolin: el secreto mejor guardado en climas extremos, y por que importa hoy
+Narval: el secreto mejor guardado en climas extremos, y por que importa hoy
 
-# s_0522_pangolin
+# s_0522_narval
 
-Pangolin: una habilidad inesperada durante la busqueda de alimento, en su contexto real
+Narval: una habilidad inesperada durante la busqueda de alimento, en su contexto real
 
-# s_0523_pangolin
+# s_0523_narval
 
-Pangolin: el lado salvaje que pocos conocen frente a sus depredadores, en formato corto y directo
+Narval: el lado salvaje que pocos conocen frente a sus depredadores, en formato corto y directo
 
-# s_0524_pangolin
+# s_0524_narval
 
-Pangolin: una estrategia de supervivencia brutal en el equilibrio del ecosistema, explicado en se...
+Narval: una estrategia de supervivencia brutal en el equilibrio del ecosistema, explicado en se...
 
-# s_0525_pangolin
+# s_0525_narval
 
-Pangolin: la adaptacion que cambia todo cuando llega el peligro, con datos que valen oro
+Narval: la adaptacion que cambia todo cuando llega el peligro, con datos que valen oro
+
+# s_0526_narval.mp4
+
+Narval: el detalle que lo hace unico en su etapa de crecimiento, con una mirada diferente #animales
+
+# s_0527_narval.mp4
+
+Narval: una escena digna de documental en su rutina diaria, que te dejara pensando #animales
+
+# s_0528_narval.mp4
+
+Narval: la razon de su exito en la naturaleza en climas extremos, y por que importa hoy #animales
+
+# s_0529_narval.mp4
+
+Narval: un dato que rompe mitos durante la busqueda de alimento, en su contexto real #animales
+
+# s_0531_pangolin.mp4
+
+Pangolin: un comportamiento que parece ciencia ficcion en plena accion, como nunca te lo contaron
+
+# s_0532_pangolin.mp4
+
+Pangolin: el detalle que lo hace unico en el juego de la supervivencia, sin filtros ni exageraciones
+
+# s_0533_pangolin.mp4
+
+Pangolin: una escena digna de documental en su habitat natural, sin perder el asombro #animales
+
+# s_0534_pangolin.mp4
+
+Pangolin: la razon de su exito en la naturaleza en su etapa de crecimiento, con una mirada diferente
+
+# s_0535_pangolin.mp4
+
+Pangolin: un dato que rompe mitos en su rutina diaria, que te dejara pensando #animales #animals
 
 # s_0536_camaron_mantis
 
@@ -2193,450 +2509,3 @@ Camaron Mantis: la razon de su exito en la naturaleza en su etapa de crecimiento
 <https://es.piliapp.com/symbol/animals/>
 <https://emojidb.org/>
 
-# s_0055_tballena.mp4
-
-Ballena: una habilidad inesperada en el equilibrio del ecosistema, explicado en segundos #animales
-
-# s_0056_tballena.mp4
-
-Ballena: el lado salvaje que pocos conocen cuando llega el peligro, con datos que valen oro
-
-# s_0057_tballena.mp4
-
-Ballena: una estrategia de supervivencia brutal en plena accion, como nunca te lo contaron #animales
-
-# s_0058_tballena.mp4
-
-Ballena: la adaptacion que cambia todo en el juego de la supervivencia, sin filtros ni exageraciones
-
-# s_0059_tballena.mp4
-
-Ballena: un comportamiento que parece ciencia ficcion en su habitat natural, sin perder el asombro
-
-# s_0060_tballena.mp4
-
-Ballena: el detalle que lo hace unico en su etapa de crecimiento, con una mirada diferente #animales
-
-# s_0061_tballena.mp4
-
-Ballena: una escena digna de documental en su rutina diaria, que te dejara pensando #animales
-
-# s_0062_tballena.mp4
-
-Ballena: la razon de su exito en la naturaleza en climas extremos, y por que importa hoy #animales
-
-# s_0063_tballena.mp4
-
-Ballena: un dato que rompe mitos durante la busqueda de alimento, en su contexto real #animales
-
-# s_0064_tballena.mp4
-
-Ballena: el truco que usa para dominar su entorno frente a sus depredadores, en formato corto y d...
-
-# s_0065_tballena.mp4
-
-Ballena: la clave de su resistencia en el equilibrio del ecosistema, explicado en segundos #animales
-
-# s_0066_tballena.mp4
-
-Ballena: el secreto mejor guardado cuando llega el peligro, con datos que valen oro #animales
-
-# s_0067_tballena.mp4
-
-Ballena: una habilidad inesperada en plena accion, como nunca te lo contaron #animales #animals
-
-# s_0068_alce_short_001.mp4
-
-Alce: el secreto mejor guardado en climas extremos, y por que importa hoy #animales #animals #fauna
-
-# s_0069_alce_short_002.mp4
-
-Alce: una habilidad inesperada durante la busqueda de alimento, en su contexto real #animales
-
-# s_0070_alce_short_003.mp4
-
-Alce: el lado salvaje que pocos conocen frente a sus depredadores, en formato corto y directo
-
-# s_0071_alce_short_004.mp4
-
-Alce: una estrategia de supervivencia brutal en el equilibrio del ecosistema, explicado en segundos
-
-# s_0072_alce_short_005.mp4
-
-Alce: la adaptacion que cambia todo cuando llega el peligro, con datos que valen oro #animales
-
-# s_0073_alce_short_006.mp4
-
-Alce: un comportamiento que parece ciencia ficcion en plena accion, como nunca te lo contaron
-
-# s_0074_alce_short_007.mp4
-
-Alce: el detalle que lo hace unico en el juego de la supervivencia, sin filtros ni exageraciones
-
-# s_0075_alce_short_008.mp4
-
-Alce: una escena digna de documental en su habitat natural, sin perder el asombro #animales #animals
-
-# s_0076_alce_short_009.mp4
-
-Alce: la razon de su exito en la naturaleza en su etapa de crecimiento, con una mirada diferente
-
-# s_0077_alce_short_010.mp4
-
-Alce: un dato que rompe mitos en su rutina diaria, que te dejara pensando #animales #animals #fauna
-
-# s_0078_abejas_short_001.mp4
-
-Abejas: el secreto mejor guardado frente a sus depredadores, en formato corto y directo #animales
-
-# s_0079_abejas_short_002.mp4
-
-Abejas: una habilidad inesperada en el equilibrio del ecosistema, explicado en segundos #animales
-
-# s_0080_abejas_short_003.mp4
-
-Abejas: el lado salvaje que pocos conocen cuando llega el peligro, con datos que valen oro #animales
-
-# s_0081_aguila_real_short_002.mp4
-
-Aguila Real: el secreto mejor guardado en climas extremos, y por que importa hoy #animales #animals
-
-# s_0090_nutria.mp4
-
-Nutria: el secreto mejor guardado en climas extremos, y por que importa hoy #animales #animals
-
-# s_0091_nutria.mp4
-
-Nutria: una habilidad inesperada durante la busqueda de alimento, en su contexto real #animales
-
-# s_0092_nutria.mp4
-
-Nutria: el lado salvaje que pocos conocen frente a sus depredadores, en formato corto y directo
-
-# s_0093_nutria.mp4
-
-Nutria: una estrategia de supervivencia brutal en el equilibrio del ecosistema, explicado en segu...
-
-# s_0094_nutria.mp4
-
-Nutria: la adaptacion que cambia todo cuando llega el peligro, con datos que valen oro #animales
-
-# s_0095_nutria.mp4
-
-Nutria: un comportamiento que parece ciencia ficcion en plena accion, como nunca te lo contaron
-
-# s_0096_nutria.mp4
-
-Nutria: el detalle que lo hace unico en el juego de la supervivencia, sin filtros ni exageraciones
-
-# s_0097_nutria.mp4
-
-Nutria: una escena digna de documental en su habitat natural, sin perder el asombro #animales
-
-# s_0098_nutria.mp4
-
-Nutria: la razon de su exito en la naturaleza en su etapa de crecimiento, con una mirada diferente
-
-# s_0100_grulla.mp4
-
-Grulla: el secreto mejor guardado en climas extremos, y por que importa hoy #animales #animals
-
-# s_0101_grulla.mp4
-
-Grulla: una habilidad inesperada durante la busqueda de alimento, en su contexto real #animales
-
-# s_0102_grulla.mp4
-
-Grulla: el lado salvaje que pocos conocen frente a sus depredadores, en formato corto y directo
-
-# s_0103_grulla.mp4
-
-Grulla: una estrategia de supervivencia brutal en el equilibrio del ecosistema, explicado en segu...
-
-# s_0104_grulla.mp4
-
-Grulla: la adaptacion que cambia todo cuando llega el peligro, con datos que valen oro #animales
-
-# s_0105_grulla.mp4
-
-Grulla: un comportamiento que parece ciencia ficcion en plena accion, como nunca te lo contaron
-
-# s_0106_grulla.mp4
-
-Grulla: el detalle que lo hace unico en el juego de la supervivencia, sin filtros ni exageraciones
-
-# s_0107_grulla.mp4
-
-Grulla: una escena digna de documental en su habitat natural, sin perder el asombro #animales
-
-# s_0108_grulla.mp4
-
-Grulla: la razon de su exito en la naturaleza en su etapa de crecimiento, con una mirada diferente
-
-# s_0109_grulla.mp4
-
-Grulla: un dato que rompe mitos en su rutina diaria, que te dejara pensando #animales #animals
-
-# s_0110_bisonte_americano.mp4
-
-Bisonte Americano: el secreto mejor guardado en climas extremos, y por que importa hoy #animales
-
-# s_0111_bisonte_americano.mp4
-
-Bisonte Americano: una habilidad inesperada durante la busqueda de alimento, en su contexto real
-
-# s_0112_buey_almizclero.mp4
-
-Buey Almizclero: un comportamiento que parece ciencia ficcion en su habitat natural, sin perder e...
-
-# s_0113_buey_almizclero.mp4
-
-Buey Almizclero: el detalle que lo hace unico en su etapa de crecimiento, con una mirada diferente
-
-# s_0114_buitre_leonado_short_001.mp4
-
-Buitre Leonado: el secreto mejor guardado en climas extremos, y por que importa hoy #animales
-
-# s_0115_cebra_short_001.mp4
-
-Cebra: el secreto mejor guardado en climas extremos, y por que importa hoy #animales #animals #fauna
-
-# s_0116_ciervo_short_001.mp4
-
-Ciervo: el secreto mejor guardado en climas extremos, y por que importa hoy #animales #animals
-
-# s_0117_ciervo_short_002.mp4
-
-Ciervo: una habilidad inesperada durante la busqueda de alimento, en su contexto real #animales
-
-# s_0118_colibri_short_mejora_001.mp4
-
-Colibri: el secreto mejor guardado en climas extremos, y por que importa hoy #animales #animals
-
-# s_0119_colibri_short_mejora_002.mp4
-
-Colibri: una habilidad inesperada durante la busqueda de alimento, en su contexto real #animales
-
-# s_0120_colibri_short_mejora_003.mp4
-
-Colibri: el lado salvaje que pocos conocen frente a sus depredadores, en formato corto y directo
-
-# s_0121_colibri_short_mejora_004.mp4
-
-Colibri: una estrategia de supervivencia brutal en el equilibrio del ecosistema, explicado en seg...
-
-# s_0122_colibri_short_mejora_005.mp4
-
-Colibri: la adaptacion que cambia todo cuando llega el peligro, con datos que valen oro #animales
-
-# s_0123_colibri_short_mejora_006.mp4
-
-Colibri: un comportamiento que parece ciencia ficcion en plena accion, como nunca te lo contaron
-
-# s_0124_colibri_short_mejora_007.mp4
-
-Colibri: el detalle que lo hace unico en el juego de la supervivencia, sin filtros ni exageraciones
-
-# s_0125_pez_leon_short_001.mp4
-
-Pez Leon: el secreto mejor guardado en climas extremos, y por que importa hoy #animales #animals
-
-# s_0126_pez_leon_short_002.mp4
-
-Pez Leon: una habilidad inesperada durante la busqueda de alimento, en su contexto real #animales
-
-# s_0252_fregata_magnificens.mp4
-
-Fregata Magnificens: el secreto mejor guardado en climas extremos, y por que importa hoy #animales
-
-# s_0253_fregata_magnificens.mp4
-
-Fregata Magnificens: una habilidad inesperada durante la busqueda de alimento, en su contexto real
-
-# s_0254_fregata_magnificens.mp4
-
-Fregata Magnificens: el lado salvaje que pocos conocen frente a sus depredadores, en formato cort...
-
-# s_0255_fregata_magnificens.mp4
-
-Fregata Magnificens: una estrategia de supervivencia brutal en el equilibrio del ecosistema, expl...
-
-# s_0256_fregata_magnificens.mp4
-
-Fregata Magnificens: la adaptacion que cambia todo cuando llega el peligro, con datos que valen oro
-
-# s_0257_fregata_magnificens.mp4
-
-Fregata Magnificens: un comportamiento que parece ciencia ficcion en plena accion, como nunca te...
-
-# s_0258_fregata_magnificens.mp4
-
-Fregata Magnificens: el detalle que lo hace unico en el juego de la supervivencia, sin filtros ni...
-
-# s_0392_gorila_de_montana_short_001.mp4
-
-Gorila De Montana: el lado salvaje que pocos conocen frente a sus depredadores, en formato corto...
-
-# s_0393_gorila_de_montana_short_002.mp4
-
-Gorila De Montana: una estrategia de supervivencia brutal en el equilibrio del ecosistema, explic...
-
-# s_0394_guacamayo_short_001.mp4
-
-Guacamayo: el lado salvaje que pocos conocen frente a sus depredadores, en formato corto y directo
-
-# s_0395_guacamayo_short_002.mp4
-
-Guacamayo: una estrategia de supervivencia brutal en el equilibrio del ecosistema, explicado en s...
-
-# s_0396_guepardo_short_001.mp4
-
-Guepardo: el lado salvaje que pocos conocen frente a sus depredadores, en formato corto y directo
-
-# s_0397_guepardo_short_002.mp4
-
-Guepardo: una estrategia de supervivencia brutal en el equilibrio del ecosistema, explicado en se...
-
-# s_0398_hipopotamo_short_001.mp4
-
-Hipopotamo: el lado salvaje que pocos conocen frente a sus depredadores, en formato corto y directo
-
-# s_0399_hipopotamo_short_002.mp4
-
-Hipopotamo: una estrategia de supervivencia brutal en el equilibrio del ecosistema, explicado en...
-
-# s_0510_salmon.mp4
-
-Salmon: el secreto mejor guardado en climas extremos, y por que importa hoy #animales #animals
-
-# s_0511_salmon.mp4
-
-Salmon: una habilidad inesperada durante la busqueda de alimento, en su contexto real #animales
-
-# s_0512_salmon.mp4
-
-Salmon: el lado salvaje que pocos conocen frente a sus depredadores, en formato corto y directo
-
-# s_0513_salmon.mp4
-
-Salmon: una estrategia de supervivencia brutal en el equilibrio del ecosistema, explicado en segu...
-
-# s_0514_salmon.mp4
-
-Salmon: la adaptacion que cambia todo cuando llega el peligro, con datos que valen oro #animales
-
-# s_0515_salmon.mp4
-
-Salmon: un comportamiento que parece ciencia ficcion en plena accion, como nunca te lo contaron
-
-# s_0516_salmon.mp4
-
-Salmon: el detalle que lo hace unico en el juego de la supervivencia, sin filtros ni exageraciones
-
-# s_0517_salmon.mp4
-
-Salmon: una escena digna de documental en su habitat natural, sin perder el asombro #animales
-
-# s_0518_salmon.mp4
-
-Salmon: la razon de su exito en la naturaleza en su etapa de crecimiento, con una mirada diferente
-
-# s_0519_narval.mp4
-
-Narval: la clave de su resistencia durante la busqueda de alimento, en su contexto real #animales
-
-# s_0520_narval.mp4
-
-Narval: el secreto mejor guardado frente a sus depredadores, en formato corto y directo #animales
-
-# s_0521_narval.mp4
-
-Narval: una habilidad inesperada en el equilibrio del ecosistema, explicado en segundos #animales
-
-# s_0522_narval.mp4
-
-Narval: el lado salvaje que pocos conocen cuando llega el peligro, con datos que valen oro #animales
-
-# s_0523_narval.mp4
-
-Narval: una estrategia de supervivencia brutal en plena accion, como nunca te lo contaron #animales
-
-# s_0524_narval.mp4
-
-Narval: la adaptacion que cambia todo en el juego de la supervivencia, sin filtros ni exageraciones
-
-# s_0525_narval.mp4
-
-Narval: un comportamiento que parece ciencia ficcion en su habitat natural, sin perder el asombro
-
-# s_0526_narval.mp4
-
-Narval: el detalle que lo hace unico en su etapa de crecimiento, con una mirada diferente #animales
-
-# s_0527_narval.mp4
-
-Narval: una escena digna de documental en su rutina diaria, que te dejara pensando #animales
-
-# s_0528_narval.mp4
-
-Narval: la razon de su exito en la naturaleza en climas extremos, y por que importa hoy #animales
-
-# s_0529_narval.mp4
-
-Narval: un dato que rompe mitos durante la busqueda de alimento, en su contexto real #animales
-
-# s_0531_pangolin.mp4
-
-Pangolin: un comportamiento que parece ciencia ficcion en plena accion, como nunca te lo contaron
-
-# s_0532_pangolin.mp4
-
-Pangolin: el detalle que lo hace unico en el juego de la supervivencia, sin filtros ni exageraciones
-
-# s_0533_pangolin.mp4
-
-Pangolin: una escena digna de documental en su habitat natural, sin perder el asombro #animales
-
-# s_0534_pangolin.mp4
-
-Pangolin: la razon de su exito en la naturaleza en su etapa de crecimiento, con una mirada diferente
-
-# s_0535_pangolin.mp4
-
-Pangolin: un dato que rompe mitos en su rutina diaria, que te dejara pensando #animales #animals
-
-# s_0536_camaron_mantis.mp4
-
-Camaron Mantis: un dato que rompe mitos en su rutina diaria, que te dejara pensando #animales
-
-# s_0537_camaron_mantis.mp4
-
-Camaron Mantis: el truco que usa para dominar su entorno en climas extremos, y por que importa hoy
-
-# s_0538_camaron_mantis.mp4
-
-Camaron Mantis: la clave de su resistencia durante la busqueda de alimento, en su contexto real
-
-# s_0539_camaron_mantis.mp4
-
-Camaron Mantis: el secreto mejor guardado frente a sus depredadores, en formato corto y directo
-
-# s_0540_camaron_mantis.mp4
-
-Camaron Mantis: una habilidad inesperada en el equilibrio del ecosistema, explicado en segundos
-
-# s_0541_camaron_mantis.mp4
-
-Camaron Mantis: el lado salvaje que pocos conocen cuando llega el peligro, con datos que valen oro
-
-# s_0542_camaron_mantis.mp4
-
-Camaron Mantis: una estrategia de supervivencia brutal en plena accion, como nunca te lo contaron
-
-# s_0543_camaron_mantis.mp4
-
-Camaron Mantis: la adaptacion que cambia todo en el juego de la supervivencia, sin filtros ni exa...
-
-# s_0544_camaron_mantis.mp4
-
-Camaron Mantis: un comportamiento que parece ciencia ficcion en su habitat natural, sin perder el...

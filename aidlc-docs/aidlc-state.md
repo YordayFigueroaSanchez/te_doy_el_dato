@@ -2,7 +2,7 @@
 
 - **Current Date**: 2026-05-17
 - **Phase**: INCEPTION
-- **Current Stage**: Límite de 100 caracteres por línea completa de título (completed)
+- **Current Stage**: Validación integral semántica de títulos (completed)
 
 ## Plan Steps
 
@@ -25,3 +25,10 @@
 - [x] Regenerar títulos creativos por archivo basados en nombre de video
 - [x] Limitar títulos a 100 caracteres máximo (antes de `#`)
 - [x] Limitar a 100 caracteres incluyendo tags
+- [x] Revisar orden secuencial de archivos en inventario
+- [x] Corregir orden secuencial y duplicados de IDs en inventario
+- [x] Validar cobertura de archivos del directorio `_shorts` en `fauna/shorts.md`
+- [x] Corregir desajustes de nomenclatura y dejar cobertura 1:1
+- [x] Revisar relación entre títulos y nombre de archivo
+- [x] Corregir títulos desalineados con el nombre de archivo
+- [x] Ejecutar revisión integral de coherencia semántica en los 528 bloques

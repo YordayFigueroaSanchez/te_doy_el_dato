@@ -201,3 +201,73 @@
 **AI Action**: "Se verificó y normalizó la regla sobre la línea completa de título (texto + hashtags) con tope de 100 caracteres."
 **Validation**: "`TITLE_LINES=561`, `MAX_LEN=100`, `OVER_100_COUNT=0`."
 **Context**: Stage: Inception — Ajuste de criterio de longitud total
+
+---
+
+## Inventario de shorts — revisión de orden de archivos
+
+**Timestamp**: 2026-05-17T00:00:00Z
+**User Input**: "Revisa si los nombre de los archivos estan en orden"
+**AI Action**: "Se validó secuencia numérica de encabezados `# s_XXXX...` en `fauna/shorts.md` con detección de quiebres, duplicados y faltantes."
+**Validation**: "Orden numérico no continuo: 1 quiebre (de `s_0544` a `s_0055`), 33 IDs duplicados y 16 IDs faltantes."
+**Context**: Stage: Inception — Control de integridad de inventario
+
+---
+
+## Inventario de shorts — corrección de orden aplicada
+
+**Timestamp**: 2026-05-17T00:00:00Z
+**User Input**: "si"
+**AI Action**: "Se reordenaron los bloques de videos por ID `s_XXXX` en `fauna/shorts.md` y se conservó una única aparición por ID."
+**Validation**: "`TOTAL_HEADERS=528`, `IS_NUMERIC_ORDER_OK=True`, `DUP_COUNT=0`, `MISSING_COUNT=16`."
+**Context**: Stage: Inception — Normalización de secuencia de archivos
+
+---
+
+## Inventario de shorts — cobertura contra directorio _shorts
+
+**Timestamp**: 2026-05-17T00:00:00Z
+**User Input**: "Todos los ficheros de _shorts estan en el #file:shorts.md"
+**AI Action**: "Se compararon nombres de archivos `.mp4` declarados en `fauna/shorts.md` contra `d:/TeDoyElDato/fauna/_shorts`."
+**Validation**: "No coincide al 100%: `DIR_COUNT=528`, `MD_COUNT=528`, `MISSING_IN_MD=14`, `EXTRA_IN_MD=14`."
+**Context**: Stage: Inception — Verificación de consistencia de inventario
+
+---
+
+## Inventario de shorts — corrección de mapeo nomenclatura
+
+**Timestamp**: 2026-05-17T00:00:00Z
+**User Input**: "si"
+**AI Action**: "Se corrigieron 14 encabezados en `fauna/shorts.md` para alinear nombres con el directorio `_shorts` (bloque `s_0510..s_0525`)."
+**Validation**: "Validación final: `DIR_COUNT=528`, `MD_COUNT=528`, `MISSING_IN_MD=0`, `EXTRA_IN_MD=0`."
+**Context**: Stage: Inception — Alineación final de inventario
+
+---
+
+## Inventario de shorts — revisión título vs nombre de archivo
+
+**Timestamp**: 2026-05-17T00:00:00Z
+**User Input**: "Revisa si los titulos estan relacionados con el nombre del archivo"
+**AI Action**: "Se ejecutó una validación heurística sobre 528 bloques (`# s_XXXX_*`) comparando slug del archivo con la línea de título asociada."
+**Validation**: "Resultado: 14 casos reales desalineados (`s_0510..s_0518` y `s_0521..s_0525`) y 13 falsos positivos por slug histórico `tballena` que sí muestran título de ballena."
+**Context**: Stage: Inception — Control editorial de consistencia semántica
+
+---
+
+## Inventario de shorts — corrección de títulos desalineados
+
+**Timestamp**: 2026-05-17T00:00:00Z
+**User Input**: "si"
+**AI Action**: "Se ajustaron 14 títulos en `fauna/shorts.md` para alinear el animal del título con el slug del archivo (`salmon` y `narval`)."
+**Validation**: "Chequeo dirigido sobre IDs `0510..0518` y `0521..0525`: `MISMATCH_COUNT=0`."
+**Context**: Stage: Inception — Corrección editorial de consistencia semántica
+
+---
+
+## Inventario de shorts — revisión completa de coherencia semántica
+
+**Timestamp**: 2026-05-17T00:00:00Z
+**User Input**: "2"
+**AI Action**: "Se ejecutó revisión global sobre todos los bloques de `fauna/shorts.md` comparando slug del archivo vs prefijo del título."
+**Validation**: "Resultado global: `TOTAL=528`, `MISMATCHES=0`."
+**Context**: Stage: Inception — Validación editorial integral
