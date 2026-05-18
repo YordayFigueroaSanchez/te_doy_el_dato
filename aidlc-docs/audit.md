@@ -92,3 +92,112 @@
 **AI Action**: "Ejecutado `git switch -c 88-republicar-despues-del-510 --track origin/88-republicar-despues-del-510` con éxito."
 **Validation**: "`git status --short --branch` confirma rama actual `88-republicar-despues-del-510` con tracking a `origin/88-republicar-despues-del-510`."
 **Context**: Stage: Inception — Verificación post-cambio
+
+---
+
+## Git Identity & SSH por repositorio
+
+**Timestamp**: 2026-05-17T00:00:00Z
+**User Input**: "puedo usar un usario dirente en este repositorio"
+**AI Response**: "Se validó configuración local y se confirmó que puede usarse un usuario distinto por repositorio mediante `git config --local` y llave SSH dedicada."
+**Context**: Stage: Inception — Configuración Git por repositorio
+
+---
+
+## Configuración local aplicada y push exitoso
+
+**Timestamp**: 2026-05-17T00:00:00Z
+**User Input**: "1.tedoyeldato, 2.shortsounds4u@gmail.com, 3. si esta agregado"
+**AI Action**: "Configurado `user.name=tedoyeldato`, `user.email=shortsounds4u@gmail.com` y `core.sshCommand` local con llave `~/.ssh/id_ed25519_te_doy_el_dato`."
+**Validation**: "Autenticación SSH validada como `tedoyeldato` y push realizado a `origin/88-republicar-despues-del-510` exitosamente."
+**Context**: Stage: Inception — Operación Git/SSH completada
+
+---
+
+## Inventario de shorts — comparación de fuentes
+
+**Timestamp**: 2026-05-17T00:00:00Z
+**User Input**: "quiero que los compares con los archivos en el directorio que se agrega"
+**AI Action**: "Se comparó el inventario de `fauna/shorts.md` contra archivos `.mp4` en `d:/TeDoyElDato/fauna/_shorts` por nombre exacto."
+**Validation**: "`shorts.md`: 416 entradas únicas. Directorio: 528 archivos únicos. Diferencias: 28 en `shorts.md` no presentes en directorio y 140 en directorio no presentes en `shorts.md`."
+**Context**: Stage: Inception — Validación de inventario de contenidos
+
+---
+
+## Inventario de shorts — opción 1 aplicada
+
+**Timestamp**: 2026-05-17T00:00:00Z
+**User Input**: "1"
+**AI Action**: "Se normalizaron encabezados en `fauna/shorts.md` para coincidir con archivos reales: `pelicano_genero` -> `pelicano` y `abeja` -> `abejas`."
+**Validation**: "Comparación posterior: `MISSING_IN_DIR=0` y `EXTRA_IN_DIR=112`."
+**Context**: Stage: Inception — Normalización de inventario (nomenclatura)
+
+---
+
+## Inventario de shorts — opción 2 aplicada
+
+**Timestamp**: 2026-05-17T00:00:00Z
+**User Input**: "si opcion 2"
+**AI Action**: "Se anexaron 112 entradas faltantes al final de `fauna/shorts.md` con formato estándar (`# archivo` + título placeholder)."
+**Validation**: "Conciliación final: `MD_UNIQUE=528`, `DIR_UNIQUE=528`, `MISSING_IN_DIR=0`, `EXTRA_IN_DIR=0`."
+**Context**: Stage: Inception — Consolidación completa del inventario
+
+---
+
+## Inventario de shorts — autocompletado de títulos base
+
+**Timestamp**: 2026-05-17T00:00:00Z
+**User Input**: "si"
+**AI Action**: "Se reemplazaron 112 placeholders (`Título pendiente #animales #animals #fauna`) por títulos base derivados del nombre del archivo en `fauna/shorts.md`."
+**Validation**: "`PENDING_COUNT=0` tras la ejecución. Se detectaron encabezados manuales sin sufijo `.mp4` en algunas secciones preexistentes, preservados sin cambios."
+**Context**: Stage: Inception — Enriquecimiento del inventario
+
+---
+
+## Inventario de shorts — unicidad de títulos
+
+**Timestamp**: 2026-05-17T00:00:00Z
+**User Input**: "Que cada titulo sea diferente"
+**AI Action**: "Se aplicó normalización de títulos repetidos en `fauna/shorts.md`, agregando sufijos `| Variante N` en repeticiones para garantizar unicidad global por bloque."
+**Validation**: "Resultado de verificación: `TOTAL_TITLES=561` y `DUP_GROUPS=0`."
+**Context**: Stage: Inception — Ajuste editorial de inventario
+
+---
+
+## Inventario de shorts — unicidad antes de hashtag
+
+**Timestamp**: 2026-05-17T00:00:00Z
+**User Input**: "lo de variante no me funciona, el titulo es lo que esta antes del tag (#) y quiero que cada titulo tiene que ser diferente"
+**AI Action**: "Se eliminó el sufijo `| Variante N` y se rehizo la unicidad estricta sobre la parte del título anterior al primer `#`, manteniendo hashtags."
+**Validation**: "Verificación final: `PREFIX_DUP_GROUPS=0` en `fauna/shorts.md`."
+**Context**: Stage: Inception — Corrección de criterio de unicidad
+
+---
+
+## Inventario de shorts — títulos creativos por archivo
+
+**Timestamp**: 2026-05-17T00:00:00Z
+**User Input**: "se creativo y crea un titulo diferente para cada video, basado en el nombre del archivo."
+**AI Action**: "Se regeneraron 561 títulos en `fauna/shorts.md` con plantillas creativas derivadas del nombre del archivo (animal), preservando hashtags existentes."
+**Validation**: "Validación de unicidad previa al hashtag: `PREFIX_TOTAL=561`, `PREFIX_DUP_GROUPS=0`."
+**Context**: Stage: Inception — Generación editorial creativa
+
+---
+
+## Inventario de shorts — límite de longitud por título
+
+**Timestamp**: 2026-05-17T00:00:00Z
+**User Input**: "ningun titulo puede tener mas de 100 caracteres"
+**AI Action**: "Se ejecutó normalización para imponer máximo de 100 caracteres en el título (texto previo al `#`) manteniendo hashtags y unicidad."
+**Validation**: "Resultado: `PREFIX_MAX_LEN=100`, `PREFIX_OVER_100=0`, `PREFIX_DUP_GROUPS=0`."
+**Context**: Stage: Inception — Restricción editorial de formato
+
+---
+
+## Inventario de shorts — límite total incluyendo tags
+
+**Timestamp**: 2026-05-17T00:00:00Z
+**User Input**: "el limite de los 100 caracteres es con los tags"
+**AI Action**: "Se verificó y normalizó la regla sobre la línea completa de título (texto + hashtags) con tope de 100 caracteres."
+**Validation**: "`TITLE_LINES=561`, `MAX_LEN=100`, `OVER_100_COUNT=0`."
+**Context**: Stage: Inception — Ajuste de criterio de longitud total
