@@ -106,6 +106,18 @@ Delfin: el lado salvaje que pocos conocen cuando llega el peligro, con datos que
 
 Delfin: una estrategia de supervivencia brutal en plena accion, como nunca te lo contaron #animales
 
+****
+****
+****
+****
+****
+** CONTINUAR DESDE ACA **
+****
+****
+****
+****
+****
+
 # s_0028_hiena_manchada_short_001.mp4
 
 Hiena Manchada: el secreto mejor guardado en climas extremos, y por que importa hoy #animales
@@ -2447,18 +2459,6 @@ Pangolin: la razon de su exito en la naturaleza en su etapa de crecimiento, con 
 # s_0535_pangolin.mp4
 
 Pangolin: un dato que rompe mitos en su rutina diaria, que te dejara pensando #animales #animals
-
-****
-****
-****
-****
-****
-** CONTINUAR DESDE ACA **
-****
-****
-****
-****
-****
 
 # s_0536_camaron_mantis
 
