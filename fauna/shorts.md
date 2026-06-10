@@ -106,18 +106,6 @@ Delfin: el lado salvaje que pocos conocen cuando llega el peligro, con datos que
 
 Delfin: una estrategia de supervivencia brutal en plena accion, como nunca te lo contaron #animales
 
-****
-****
-****
-****
-****
-** CONTINUAR DESDE ACA **
-****
-****
-****
-****
-****
-
 # s_0028_hiena_manchada_short_001.mp4
 
 Hiena Manchada: el secreto mejor guardado en climas extremos, y por que importa hoy #animales
@@ -225,6 +213,18 @@ Buey: la adaptacion que cambia todo en el juego de la supervivencia, sin filtros
 # s_0054_buey.mp4
 
 Buey: un comportamiento que parece ciencia ficcion en su habitat natural, sin perder el asombro
+
+****
+****
+****
+****
+****
+** CONTINUAR DESDE ACA **
+****
+****
+****
+****
+****
 
 # s_0055_tballena.mp4
 
