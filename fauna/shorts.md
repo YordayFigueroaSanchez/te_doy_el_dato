@@ -106,18 +106,6 @@ Delfin: el lado salvaje que pocos conocen cuando llega el peligro, con datos que
 
 Delfin: una estrategia de supervivencia brutal en plena accion, como nunca te lo contaron #animales
 
-****
-****
-****
-****
-****
-** CONTINUAR DESDE ACA **
-****
-****
-****
-****
-****
-
 # s_0028_hiena_manchada_short_001.mp4
 
 Hiena Manchada: el secreto mejor guardado en climas extremos, y por que importa hoy #animales
@@ -153,6 +141,18 @@ Hiena Manchada: una escena digna de documental en su habitat natural, sin perder
 # s_0036_hiena_manchada_short_009.mp4
 
 Hiena Manchada: la razon de su exito en la naturaleza en su etapa de crecimiento, con una mirada...
+
+****
+****
+****
+****
+****
+** CONTINUAR DESDE ACA **
+****
+****
+****
+****
+****
 
 # s_0037_buey.mp4
 
