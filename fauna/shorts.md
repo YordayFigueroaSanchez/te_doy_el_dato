@@ -142,18 +142,6 @@ Hiena Manchada: una escena digna de documental en su habitat natural, sin perder
 
 Hiena Manchada: la razon de su exito en la naturaleza en su etapa de crecimiento, con una mirada...
 
-****
-****
-****
-****
-****
-** CONTINUAR DESDE ACA **
-****
-****
-****
-****
-****
-
 # s_0037_buey.mp4
 
 Buey: el secreto mejor guardado en climas extremos, y por que importa hoy #naturaleza #curiosidades
@@ -225,6 +213,18 @@ Buey: la adaptacion que cambia todo en el juego de la supervivencia, sin filtros
 # s_0054_buey.mp4
 
 Buey: un comportamiento que parece ciencia ficcion en su habitat natural, sin perder el asombro
+
+****
+****
+****
+****
+****
+** CONTINUAR DESDE ACA **
+****
+****
+****
+****
+****
 
 # s_0055_tballena.mp4
 
