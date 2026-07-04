@@ -266,18 +266,6 @@ Ballena: el secreto mejor guardado cuando llega el peligro, con datos que valen 
 
 Ballena: una habilidad inesperada en plena accion, como nunca te lo contaron #animales #animals
 
-****
-****
-****
-****
-****
-** CONTINUAR DESDE ACA **
-****
-****
-****
-****
-****
-
 # s_0068_alce_short_001.mp4
 
 Alce: el secreto mejor guardado en climas extremos, y por que importa hoy #animales #animals #fauna
@@ -317,6 +305,18 @@ Alce: la razon de su exito en la naturaleza en su etapa de crecimiento, con una 
 # s_0077_alce_short_010.mp4
 
 Alce: un dato que rompe mitos en su rutina diaria, que te dejara pensando #animales #animals #fauna
+
+****
+****
+****
+****
+****
+** CONTINUAR DESDE ACA **
+****
+****
+****
+****
+****
 
 # s_0078_abejas_short_001.mp4
 
