@@ -358,18 +358,6 @@ Nutria: una escena digna de documental en su habitat natural, sin perder el asom
 
 Nutria: la razon de su exito en la naturaleza en su etapa de crecimiento, con una mirada diferente
 
-****
-****
-****
-****
-****
-** CONTINUAR DESDE ACA **
-****
-****
-****
-****
-****
-
 # s_0100_grulla.mp4
 
 Grulla: el secreto mejor guardado en climas extremos, y por que importa hoy #animales #animals
@@ -409,6 +397,18 @@ Grulla: la razon de su exito en la naturaleza en su etapa de crecimiento, con un
 # s_0109_grulla.mp4
 
 Grulla: un dato que rompe mitos en su rutina diaria, que te dejara pensando #animales #animals
+
+****
+****
+****
+****
+****
+** CONTINUAR DESDE ACA **
+****
+****
+****
+****
+****
 
 # s_0110_bisonte_americano.mp4
 
