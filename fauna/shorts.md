@@ -322,18 +322,6 @@ Abejas: el lado salvaje que pocos conocen cuando llega el peligro, con datos que
 
 Aguila Real: el secreto mejor guardado en climas extremos, y por que importa hoy #animales #animals
 
-****
-****
-****
-****
-****
-** CONTINUAR DESDE ACA **
-****
-****
-****
-****
-****
-
 # s_0090_nutria.mp4
 
 Nutria: el secreto mejor guardado en climas extremos, y por que importa hoy #animales #animals
@@ -369,6 +357,18 @@ Nutria: una escena digna de documental en su habitat natural, sin perder el asom
 # s_0098_nutria.mp4
 
 Nutria: la razon de su exito en la naturaleza en su etapa de crecimiento, con una mirada diferente
+
+****
+****
+****
+****
+****
+** CONTINUAR DESDE ACA **
+****
+****
+****
+****
+****
 
 # s_0100_grulla.mp4
 
