@@ -214,18 +214,6 @@ Buey: la adaptacion que cambia todo en el juego de la supervivencia, sin filtros
 
 Buey: un comportamiento que parece ciencia ficcion en su habitat natural, sin perder el asombro
 
-****
-****
-****
-****
-****
-** CONTINUAR DESDE ACA **
-****
-****
-****
-****
-****
-
 # s_0055_tballena.mp4
 
 Ballena: una habilidad inesperada en el equilibrio del ecosistema, explicado en segundos #animales
@@ -277,6 +265,18 @@ Ballena: el secreto mejor guardado cuando llega el peligro, con datos que valen 
 # s_0067_tballena.mp4
 
 Ballena: una habilidad inesperada en plena accion, como nunca te lo contaron #animales #animals
+
+****
+****
+****
+****
+****
+** CONTINUAR DESDE ACA **
+****
+****
+****
+****
+****
 
 # s_0068_alce_short_001.mp4
 
