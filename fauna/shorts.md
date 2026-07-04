@@ -306,18 +306,6 @@ Alce: la razon de su exito en la naturaleza en su etapa de crecimiento, con una 
 
 Alce: un dato que rompe mitos en su rutina diaria, que te dejara pensando #animales #animals #fauna
 
-****
-****
-****
-****
-****
-** CONTINUAR DESDE ACA **
-****
-****
-****
-****
-****
-
 # s_0078_abejas_short_001.mp4
 
 Abejas: el secreto mejor guardado frente a sus depredadores, en formato corto y directo #animales
@@ -329,6 +317,18 @@ Abejas: una habilidad inesperada en el equilibrio del ecosistema, explicado en s
 # s_0080_abejas_short_003.mp4
 
 Abejas: el lado salvaje que pocos conocen cuando llega el peligro, con datos que valen oro #animales
+
+****
+****
+****
+****
+****
+** CONTINUAR DESDE ACA **
+****
+****
+****
+****
+****
 
 # s_0081_aguila_real_short_002.mp4
 
