@@ -430,18 +430,6 @@ Ciervo: el secreto mejor guardado en climas extremos, y por que importa hoy #ani
 
 Ciervo: una habilidad inesperada durante la busqueda de alimento, en su contexto real #animales
 
-****
-****
-****
-****
-****
-** CONTINUAR DESDE ACA **
-****
-****
-****
-****
-****
-
 # s_0118_colibri_short_mejora_001.mp4
 
 Colibri: el secreto mejor guardado en climas extremos, y por que importa hoy #animales #animals
@@ -469,6 +457,18 @@ Colibri: un comportamiento que parece ciencia ficcion en plena accion, como nunc
 # s_0124_colibri_short_mejora_007.mp4
 
 Colibri: el detalle que lo hace unico en el juego de la supervivencia, sin filtros ni exageraciones
+
+****
+****
+****
+****
+****
+** CONTINUAR DESDE ACA **
+****
+****
+****
+****
+****
 
 # s_0125_pez_leon_short_001.mp4
 
