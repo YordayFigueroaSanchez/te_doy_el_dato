@@ -406,6 +406,14 @@ Bisonte Americano: el secreto mejor guardado en climas extremos, y por que impor
 
 Bisonte Americano: una habilidad inesperada durante la busqueda de alimento, en su contexto real
 
+# s_0112_buey_almizclero.mp4
+
+Buey Almizclero: un comportamiento que parece ciencia ficcion en su habitat natural, sin perder e...
+
+# s_0113_buey_almizclero.mp4
+
+Buey Almizclero: el detalle que lo hace unico en su etapa de crecimiento, con una mirada diferente
+
 ****
 ****
 ****
@@ -417,14 +425,6 @@ Bisonte Americano: una habilidad inesperada durante la busqueda de alimento, en 
 ****
 ****
 ****
-
-# s_0112_buey_almizclero.mp4
-
-Buey Almizclero: un comportamiento que parece ciencia ficcion en su habitat natural, sin perder e...
-
-# s_0113_buey_almizclero.mp4
-
-Buey Almizclero: el detalle que lo hace unico en su etapa de crecimiento, con una mirada diferente
 
 # s_0114_buitre_leonado_short_001.mp4
 
