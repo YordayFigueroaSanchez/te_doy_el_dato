@@ -422,6 +422,14 @@ Buitre Leonado: el secreto mejor guardado en climas extremos, y por que importa 
 
 Cebra: el secreto mejor guardado en climas extremos, y por que importa hoy #animales #animals #fauna
 
+# s_0116_ciervo_short_001.mp4
+
+Ciervo: el secreto mejor guardado en climas extremos, y por que importa hoy #animales #animals
+
+# s_0117_ciervo_short_002.mp4
+
+Ciervo: una habilidad inesperada durante la busqueda de alimento, en su contexto real #animales
+
 ****
 ****
 ****
@@ -433,14 +441,6 @@ Cebra: el secreto mejor guardado en climas extremos, y por que importa hoy #anim
 ****
 ****
 ****
-
-# s_0116_ciervo_short_001.mp4
-
-Ciervo: el secreto mejor guardado en climas extremos, y por que importa hoy #animales #animals
-
-# s_0117_ciervo_short_002.mp4
-
-Ciervo: una habilidad inesperada durante la busqueda de alimento, en su contexto real #animales
 
 # s_0118_colibri_short_mejora_001.mp4
 
