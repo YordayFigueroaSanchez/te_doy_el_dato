@@ -214,18 +214,6 @@ Buey: la adaptacion que cambia todo en el juego de la supervivencia, sin filtros
 
 Buey: un comportamiento que parece ciencia ficcion en su habitat natural, sin perder el asombro
 
-****
-****
-****
-****
-****
-** CONTINUAR DESDE ACA **
-****
-****
-****
-****
-****
-
 # s_0055_tballena.mp4
 
 Ballena: una habilidad inesperada en el equilibrio del ecosistema, explicado en segundos #animales
@@ -469,6 +457,18 @@ Colibri: un comportamiento que parece ciencia ficcion en plena accion, como nunc
 # s_0124_colibri_short_mejora_007.mp4
 
 Colibri: el detalle que lo hace unico en el juego de la supervivencia, sin filtros ni exageraciones
+
+****
+****
+****
+****
+****
+** CONTINUAR DESDE ACA **
+****
+****
+****
+****
+****
 
 # s_0125_pez_leon_short_001.mp4
 
