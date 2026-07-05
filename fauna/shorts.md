@@ -398,6 +398,14 @@ Grulla: la razon de su exito en la naturaleza en su etapa de crecimiento, con un
 
 Grulla: un dato que rompe mitos en su rutina diaria, que te dejara pensando #animales #animals
 
+# s_0110_bisonte_americano.mp4
+
+Bisonte Americano: el secreto mejor guardado en climas extremos, y por que importa hoy #animales
+
+# s_0111_bisonte_americano.mp4
+
+Bisonte Americano: una habilidad inesperada durante la busqueda de alimento, en su contexto real
+
 ****
 ****
 ****
@@ -409,14 +417,6 @@ Grulla: un dato que rompe mitos en su rutina diaria, que te dejara pensando #ani
 ****
 ****
 ****
-
-# s_0110_bisonte_americano.mp4
-
-Bisonte Americano: el secreto mejor guardado en climas extremos, y por que importa hoy #animales
-
-# s_0111_bisonte_americano.mp4
-
-Bisonte Americano: una habilidad inesperada durante la busqueda de alimento, en su contexto real
 
 # s_0112_buey_almizclero.mp4
 
