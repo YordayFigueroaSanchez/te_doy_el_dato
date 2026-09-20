@@ -460,6 +460,14 @@ Colibri: un comportamiento que parece ciencia ficcion en plena accion, como nunc
 
 Colibri: el detalle que lo hace unico en el juego de la supervivencia, sin filtros ni exageraciones
 
+## s_0125_pez_leon_short_001.mp4
+
+Pez Leon: el secreto mejor guardado en climas extremos, y por que importa hoy #animales #animals
+
+## s_0126_pez_leon_short_002.mp4
+
+Pez Leon: una habilidad inesperada durante la busqueda de alimento, en su contexto real #animales
+
 ****
 ****
 ****
@@ -471,14 +479,6 @@ Colibri: el detalle que lo hace unico en el juego de la supervivencia, sin filtr
 ****
 ****
 ****
-
-## s_0125_pez_leon_short_001.mp4
-
-Pez Leon: el secreto mejor guardado en climas extremos, y por que importa hoy #animales #animals
-
-## s_0126_pez_leon_short_002.mp4
-
-Pez Leon: una habilidad inesperada durante la busqueda de alimento, en su contexto real #animales
 
 ## s_0127_iguana.mp4
 
