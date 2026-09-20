@@ -468,6 +468,60 @@ Pez Leon: el secreto mejor guardado en climas extremos, y por que importa hoy #a
 
 Pez Leon: una habilidad inesperada durante la busqueda de alimento, en su contexto real #animales
 
+## s_0127_iguana.mp4
+
+Iguana: el secreto mejor guardado en climas extremos, y por que importa hoy #animals #faunasalvaje
+
+Las iguanas son reptiles fascinantes que han capturado la atención de las personas durante siglos debido a su aspecto exótico y su comportamiento único. Son nativas de las regiones tropicales que se extienden desde el sur de México, pasando por Centroamérica, hasta llegar a Sudamérica y las islas del Caribe. Estos reptiles pertenecen al género Iguana y fueron descritos por primera vez en 1768 por el naturalista austríaco Josephus Nicolaus Laurenti. Desde entonces, han sido estudiadas por científicos y admiradas por amantes de los animales en todo el mundo.
+
+## s_0128_iguana.mp4
+
+Iguana: una habilidad inesperada durante la busqueda de alimento, en su contexto real #animals
+
+El nombre «iguana» tiene raíces profundas en las culturas nativas de las regiones donde habitan. Proviene de la lengua taína, una lengua indígena del Caribe, donde estos reptiles eran conocidos como "iwana". Esta palabra ancestral refleja la importancia cultural y ecológica que las iguanas han tenido en la vida de las comunidades indígenas. La especie más reconocida dentro de este género es la Iguana iguana, comúnmente conocida como la iguana verde. A pesar de su nombre, estas iguanas pueden variar en color, desde el verde brillante hasta tonos más apagados de gris o marrón, lo que les ayuda a camuflarse en su entorno.
+
+## s_0129_iguana.mp4
+
+Iguana: el lado salvaje que pocos conocen frente a sus depredadores, en formato corto y directo
+
+Físicamente, las iguanas tienen una apariencia imponente. Son reptiles grandes que pueden alcanzar los 2 metros de longitud, aunque gran parte de esa medida corresponde a su cola, que es una de sus principales herramientas de defensa. La cabeza es relativamente pequeña en comparación con su cuerpo robusto, y está adornada con una serie de escamas que les dan un aspecto prehistórico. A lo largo de su espalda, desde la cabeza hasta la cola, se extiende una cresta de espinas, lo que les otorga una apariencia aún más intimidante. Sus patas son fuertes, con dedos largos y garras afiladas, lo que les permite trepar fácilmente por los árboles, un entorno natural donde pasan la mayor parte de su tiempo.
+
+## s_0130_iguana.mp4
+
+Iguana: una estrategia de supervivencia brutal en el equilibrio del ecosistema, explicado en segu...
+
+En cuanto a su dieta, aunque las iguanas puedan parecer animales agresivos debido a su apariencia, son mayormente herbívoras. Se alimentan de una amplia variedad de vegetación, incluyendo hojas, flores y frutas. Este tipo de dieta les proporciona los nutrientes que necesitan para sobrevivir en la naturaleza. Sin embargo, las iguanas jóvenes pueden ser más omnívoras, complementando su alimentación con pequeños insectos y otros invertebrados. Es interesante notar que, aunque puedan acceder a una gran cantidad de alimentos en su entorno, las iguanas son selectivas y prefieren plantas que les aporten una nutrición óptima.
+
+## s_0131_iguana.mp4
+
+Iguana: la adaptacion que cambia todo cuando llega el peligro, con datos que valen oro #animals
+
+El hábitat de las iguanas es tan diverso como los ecosistemas tropicales en los que viven. Prefieren los ambientes cálidos y húmedos, como las selvas tropicales, donde pueden encontrar refugio entre la densa vegetación y fuentes de agua como ríos y lagos. Estos reptiles son animales diurnos, lo que significa que son más activos durante el día, cuando pueden aprovechar la luz solar para regular su temperatura corporal. Aunque son principalmente arborícolas, lo que significa que pasan gran parte de su vida en los árboles, también pueden adaptarse a áreas más abiertas y, en algunos casos, a entornos urbanos, siempre y cuando haya suficientes áreas verdes y fuentes de calor disponibles.
+
+## s_0132_iguana.mp4
+
+Iguana: un comportamiento que parece ciencia ficcion en plena accion, como nunca te lo contaron
+
+Aunque regularmente son solitarias, en época de reproducción se juntan en grupos de 5 a 8 individuos. Se reproducen una vez al año y las hembras, que pueden aparearse hasta con 3 machos, ponen hasta 30 huevos que depositan en túneles de hasta 50 cm de hondo y varios metros de largo. Los machos, que suelen aparearse con 5 o más hembras, menean la cabeza y extienden y retraen la papada al cortejar a las hembras.
+
+## s_0133_iguana.mp4
+
+Iguana: el detalle que lo hace unico en el juego de la supervivencia, sin filtros ni exageraciones
+
+Un aspecto interesante de las iguanas es su capacidad para nadar y sumergirse en el agua. Estos reptiles, aunque pasan la mayor parte del tiempo en los árboles, son excelentes nadadores y pueden permanecer bajo el agua durante varios minutos. Este comportamiento les ayuda a escapar de depredadores o simplemente a refrescarse en los días calurosos. Además, su cola no solo les sirve para nadar, sino también como un poderoso instrumento de defensa. Cuando se sienten amenazadas, las iguanas pueden usar su cola como un látigo, golpeando con fuerza al agresor para alejarlo.
+
+## s_0134_iguana.mp4
+
+Iguana: una escena digna de documental en su habitat natural, sin perder el asombro #animals
+
+En los ecosistemas donde habitan, las iguanas juegan un papel crucial. Al alimentarse de plantas, ayudan a controlar el crecimiento de la vegetación, lo que a su vez favorece la regeneración del bosque. Además, al ser presas de depredadores como aves rapaces, grandes mamíferos y serpientes, forman parte esencial de la cadena alimenticia. Su presencia es un indicador de la salud del ecosistema, ya que requieren de un ambiente equilibrado para sobrevivir.
+
+## s_0135_iguana.mp4
+
+Iguana: la razon de su exito en la naturaleza en su etapa de crecimiento, con una mirada diferente
+
+Desafortunadamente, algunas especies de iguanas se enfrentan a amenazas significativas debido a la destrucción de su hábitat, el tráfico ilegal para el comercio de mascotas y la caza. La deforestación y el crecimiento de las ciudades han reducido su espacio vital, y en algunas regiones, las iguanas son capturadas y vendidas en mercados ilegales. Para proteger a estas especies, es fundamental fomentar la conservación de sus hábitats y crear conciencia sobre las implicaciones de tener iguanas como mascotas exóticas.
+
 ****
 ****
 ****
@@ -479,51 +533,6 @@ Pez Leon: una habilidad inesperada durante la busqueda de alimento, en su contex
 ****
 ****
 ****
-
-## s_0127_iguana.mp4
-
-Iguana: el secreto mejor guardado en climas extremos, y por que importa hoy #animals #faunasalvaje
-    Las iguanas son reptiles fascinantes que han capturado la atención de las personas durante siglos debido a su aspecto exótico y su comportamiento único. Son nativas de las regiones tropicales que se extienden desde el sur de México, pasando por Centroamérica, hasta llegar a Sudamérica y las islas del Caribe. Estos reptiles pertenecen al género Iguana y fueron descritos por primera vez en 1768 por el naturalista austríaco Josephus Nicolaus Laurenti. Desde entonces, han sido estudiadas por científicos y admiradas por amantes de los animales en todo el mundo.
-
-## s_0128_iguana.mp4
-
-Iguana: una habilidad inesperada durante la busqueda de alimento, en su contexto real #animals
-    El nombre «iguana» tiene raíces profundas en las culturas nativas de las regiones donde habitan. Proviene de la lengua taína, una lengua indígena del Caribe, donde estos reptiles eran conocidos como "iwana". Esta palabra ancestral refleja la importancia cultural y ecológica que las iguanas han tenido en la vida de las comunidades indígenas. La especie más reconocida dentro de este género es la Iguana iguana, comúnmente conocida como la iguana verde. A pesar de su nombre, estas iguanas pueden variar en color, desde el verde brillante hasta tonos más apagados de gris o marrón, lo que les ayuda a camuflarse en su entorno.
-
-## s_0129_iguana.mp4
-
-Iguana: el lado salvaje que pocos conocen frente a sus depredadores, en formato corto y directo
-    Físicamente, las iguanas tienen una apariencia imponente. Son reptiles grandes que pueden alcanzar los 2 metros de longitud, aunque gran parte de esa medida corresponde a su cola, que es una de sus principales herramientas de defensa. La cabeza es relativamente pequeña en comparación con su cuerpo robusto, y está adornada con una serie de escamas que les dan un aspecto prehistórico. A lo largo de su espalda, desde la cabeza hasta la cola, se extiende una cresta de espinas, lo que les otorga una apariencia aún más intimidante. Sus patas son fuertes, con dedos largos y garras afiladas, lo que les permite trepar fácilmente por los árboles, un entorno natural donde pasan la mayor parte de su tiempo.
-
-## s_0130_iguana.mp4
-
-Iguana: una estrategia de supervivencia brutal en el equilibrio del ecosistema, explicado en segu...
-    En cuanto a su dieta, aunque las iguanas puedan parecer animales agresivos debido a su apariencia, son mayormente herbívoras. Se alimentan de una amplia variedad de vegetación, incluyendo hojas, flores y frutas. Este tipo de dieta les proporciona los nutrientes que necesitan para sobrevivir en la naturaleza. Sin embargo, las iguanas jóvenes pueden ser más omnívoras, complementando su alimentación con pequeños insectos y otros invertebrados. Es interesante notar que, aunque puedan acceder a una gran cantidad de alimentos en su entorno, las iguanas son selectivas y prefieren plantas que les aporten una nutrición óptima.
-
-## s_0131_iguana.mp4
-
-Iguana: la adaptacion que cambia todo cuando llega el peligro, con datos que valen oro #animals
-    El hábitat de las iguanas es tan diverso como los ecosistemas tropicales en los que viven. Prefieren los ambientes cálidos y húmedos, como las selvas tropicales, donde pueden encontrar refugio entre la densa vegetación y fuentes de agua como ríos y lagos. Estos reptiles son animales diurnos, lo que significa que son más activos durante el día, cuando pueden aprovechar la luz solar para regular su temperatura corporal. Aunque son principalmente arborícolas, lo que significa que pasan gran parte de su vida en los árboles, también pueden adaptarse a áreas más abiertas y, en algunos casos, a entornos urbanos, siempre y cuando haya suficientes áreas verdes y fuentes de calor disponibles.
-
-## s_0132_iguana.mp4
-
-Iguana: un comportamiento que parece ciencia ficcion en plena accion, como nunca te lo contaron
-    Aunque regularmente son solitarias, en época de reproducción se juntan en grupos de 5 a 8 individuos. Se reproducen una vez al año y las hembras, que pueden aparearse hasta con 3 machos, ponen hasta 30 huevos que depositan en túneles de hasta 50 cm de hondo y varios metros de largo. Los machos, que suelen aparearse con 5 o más hembras, menean la cabeza y extienden y retraen la papada al cortejar a las hembras.
-
-## s_0133_iguana.mp4
-
-Iguana: el detalle que lo hace unico en el juego de la supervivencia, sin filtros ni exageraciones
-    Un aspecto interesante de las iguanas es su capacidad para nadar y sumergirse en el agua. Estos reptiles, aunque pasan la mayor parte del tiempo en los árboles, son excelentes nadadores y pueden permanecer bajo el agua durante varios minutos. Este comportamiento les ayuda a escapar de depredadores o simplemente a refrescarse en los días calurosos. Además, su cola no solo les sirve para nadar, sino también como un poderoso instrumento de defensa. Cuando se sienten amenazadas, las iguanas pueden usar su cola como un látigo, golpeando con fuerza al agresor para alejarlo.
-
-## s_0134_iguana.mp4
-
-Iguana: una escena digna de documental en su habitat natural, sin perder el asombro #animals
-    En los ecosistemas donde habitan, las iguanas juegan un papel crucial. Al alimentarse de plantas, ayudan a controlar el crecimiento de la vegetación, lo que a su vez favorece la regeneración del bosque. Además, al ser presas de depredadores como aves rapaces, grandes mamíferos y serpientes, forman parte esencial de la cadena alimenticia. Su presencia es un indicador de la salud del ecosistema, ya que requieren de un ambiente equilibrado para sobrevivir.
-
-## s_0135_iguana.mp4
-
-Iguana: la razon de su exito en la naturaleza en su etapa de crecimiento, con una mirada diferente
-    Desafortunadamente, algunas especies de iguanas se enfrentan a amenazas significativas debido a la destrucción de su hábitat, el tráfico ilegal para el comercio de mascotas y la caza. La deforestación y el crecimiento de las ciudades han reducido su espacio vital, y en algunas regiones, las iguanas son capturadas y vendidas en mercados ilegales. Para proteger a estas especies, es fundamental fomentar la conservación de sus hábitats y crear conciencia sobre las implicaciones de tener iguanas como mascotas exóticas.
 
 ## s_0136_arana_viuda_negra.mp4
 
