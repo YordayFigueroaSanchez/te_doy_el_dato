@@ -614,18 +614,6 @@ Avestruz: un dato que rompe mitos en su rutina diaria, que te dejara pensando #a
 
 Avestruz: el truco que usa para dominar su entorno en climas extremos, y por que importa hoy
 
-****
-****
-****
-****
-****
-** CONTINUAR DESDE ACA **
-****
-****
-****
-****
-****
-
 ## s_0159_tucan_toco.mp4
 
 Tucan Toco: el secreto mejor guardado en climas extremos, y por que importa hoy #animals #animales
@@ -675,6 +663,18 @@ Tucan Toco: la razon de su exito en la naturaleza en su etapa de crecimiento, co
 
 Tucan Toco: un dato que rompe mitos en su rutina diaria, que te dejara pensando #animals #animales
     Una curiosidad interesante sobre los tucanes es su peculiar manera de dormir. A diferencia de muchas otras aves, el tucán toco dobla su largo pico hacia atrás y lo coloca sobre su espalda, mientras que también dobla su cola hacia delante, quedando prácticamente envuelto en sus propias plumas. Este comportamiento lo protege del frío y de posibles depredadores, hacióndolo menos visible mientras descansa.
+
+****
+****
+****
+****
+****
+** CONTINUAR DESDE ACA **
+****
+****
+****
+****
+****
 
 ## s_0169_ballena.mp4
 
