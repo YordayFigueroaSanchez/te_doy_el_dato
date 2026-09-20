@@ -771,18 +771,6 @@ Casuario: un dato que rompe mitos en su rutina diaria, que te dejara pensando #n
 Casuario: el truco que usa para dominar su entorno en climas extremos, y por que importa hoy
     El casuario es una especie fascinante que combina belleza y peligro. Sus características físicas impresionantes, su dieta variada y su papel crucial en el ecosistema lo convierten en un animal único. A pesar de las amenazas que enfrenta, el casuario sigue siendo un símbolo de la rica biodiversidad de las selvas tropicales de Oceanía.
 
-****
-****
-****
-****
-****
-** CONTINUAR DESDE ACA **
-****
-****
-****
-****
-****
-
 ## s_0193_ajolote.mp4
 
 Ajolote: el secreto mejor guardado en climas extremos, y por que importa hoy #especies #animales
@@ -823,6 +811,18 @@ Ajolote: un comportamiento que parece ciencia ficcion en plena accion, como nunc
 Ajolote: el detalle que lo hace unico en el juego de la supervivencia, sin filtros ni exageraciones
     Existen iniciativas en marcha para proteger al axolote y restaurar su hábitat. La educación y la sensibilización son claves para fomentar la conservación y asegurarse de que las futuras generaciones puedan apreciar este anfibio único. Además, apoyar proyectos de ecoturismo en Xochimilco puede contribuir a la conservación de su hábitat natural.
     El axolote mexicano es un anfibio extraordinario que merece nuestra atención y protección. Sus características únicas, dieta carnívora, fascinante reproducción y vulnerabilidad ante depredadores subrayan la importancia de conservar esta especie en peligro crítico. Al trabajar juntos, podemos ayudar a asegurar que el axolote continúe siendo parte de la biodiversidad de nuestro planeta y siga fascinando a las generaciones futuras.
+
+****
+****
+****
+****
+****
+** CONTINUAR DESDE ACA **
+****
+****
+****
+****
+****
 
 ## s_0200_tucan_toco.mp4
 
