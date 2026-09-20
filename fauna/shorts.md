@@ -716,18 +716,6 @@ Ballena: la clave de su resistencia durante la busqueda de alimento, en su conte
 
 Ballena: el secreto mejor guardado frente a sus depredadores, en formato corto y directo
 
-****
-****
-****
-****
-****
-** CONTINUAR DESDE ACA **
-****
-****
-****
-****
-****
-
 ## s_0182_casuario.mp4
 
 Casuario: el secreto mejor guardado en climas extremos, y por que importa hoy #naturaleza #especies
@@ -782,6 +770,18 @@ Casuario: un dato que rompe mitos en su rutina diaria, que te dejara pensando #n
 
 Casuario: el truco que usa para dominar su entorno en climas extremos, y por que importa hoy
     El casuario es una especie fascinante que combina belleza y peligro. Sus características físicas impresionantes, su dieta variada y su papel crucial en el ecosistema lo convierten en un animal único. A pesar de las amenazas que enfrenta, el casuario sigue siendo un símbolo de la rica biodiversidad de las selvas tropicales de Oceanía.
+
+****
+****
+****
+****
+****
+** CONTINUAR DESDE ACA **
+****
+****
+****
+****
+****
 
 ## s_0193_ajolote.mp4
 
