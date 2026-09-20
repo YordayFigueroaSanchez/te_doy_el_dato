@@ -664,18 +664,6 @@ Tucan Toco: la razon de su exito en la naturaleza en su etapa de crecimiento, co
 Tucan Toco: un dato que rompe mitos en su rutina diaria, que te dejara pensando #animals #animales
     Una curiosidad interesante sobre los tucanes es su peculiar manera de dormir. A diferencia de muchas otras aves, el tucán toco dobla su largo pico hacia atrás y lo coloca sobre su espalda, mientras que también dobla su cola hacia delante, quedando prácticamente envuelto en sus propias plumas. Este comportamiento lo protege del frío y de posibles depredadores, hacióndolo menos visible mientras descansa.
 
-****
-****
-****
-****
-****
-** CONTINUAR DESDE ACA **
-****
-****
-****
-****
-****
-
 ## s_0169_ballena.mp4
 
 Ballena: el secreto mejor guardado en climas extremos, y por que importa hoy #faunasalvaje #nature
@@ -727,6 +715,18 @@ Ballena: la clave de su resistencia durante la busqueda de alimento, en su conte
 ## s_0181_ballena.mp4
 
 Ballena: el secreto mejor guardado frente a sus depredadores, en formato corto y directo
+
+****
+****
+****
+****
+****
+** CONTINUAR DESDE ACA **
+****
+****
+****
+****
+****
 
 ## s_0182_casuario.mp4
 
