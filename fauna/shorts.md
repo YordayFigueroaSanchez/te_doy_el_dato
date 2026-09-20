@@ -570,18 +570,6 @@ Arana Viuda Negra: el truco que usa para dominar su entorno en climas extremos, 
 
 Arana Viuda Negra: la clave de su resistencia durante la busqueda de alimento, en su contexto real
 
-****
-****
-****
-****
-****
-** CONTINUAR DESDE ACA **
-****
-****
-****
-****
-****
-
 ## s_0148_avestruz.mp4
 
 Avestruz: el secreto mejor guardado en climas extremos, y por que importa hoy #animals #animales
@@ -625,6 +613,18 @@ Avestruz: un dato que rompe mitos en su rutina diaria, que te dejara pensando #a
 ## s_0158_avestruz.mp4
 
 Avestruz: el truco que usa para dominar su entorno en climas extremos, y por que importa hoy
+
+****
+****
+****
+****
+****
+** CONTINUAR DESDE ACA **
+****
+****
+****
+****
+****
 
 ## s_0159_tucan_toco.mp4
 
