@@ -522,18 +522,6 @@ Iguana: la razon de su exito en la naturaleza en su etapa de crecimiento, con un
 
 Desafortunadamente, algunas especies de iguanas se enfrentan a amenazas significativas debido a la destrucción de su hábitat, el tráfico ilegal para el comercio de mascotas y la caza. La deforestación y el crecimiento de las ciudades han reducido su espacio vital, y en algunas regiones, las iguanas son capturadas y vendidas en mercados ilegales. Para proteger a estas especies, es fundamental fomentar la conservación de sus hábitats y crear conciencia sobre las implicaciones de tener iguanas como mascotas exóticas.
 
-****
-****
-****
-****
-****
-** CONTINUAR DESDE ACA **
-****
-****
-****
-****
-****
-
 ## s_0136_arana_viuda_negra.mp4
 
 Arana Viuda Negra: el secreto mejor guardado en climas extremos, y por que importa hoy #animals
@@ -581,6 +569,18 @@ Arana Viuda Negra: el truco que usa para dominar su entorno en climas extremos, 
 ## s_0147_arana_viuda_negra.mp4
 
 Arana Viuda Negra: la clave de su resistencia durante la busqueda de alimento, en su contexto real
+
+****
+****
+****
+****
+****
+** CONTINUAR DESDE ACA **
+****
+****
+****
+****
+****
 
 ## s_0148_avestruz.mp4
 
